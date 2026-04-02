@@ -1,0 +1,608 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SUE — Morning Brief</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Inter:wght@300;400;500;600&family=Space+Mono&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #0c0c0c;
+  --surface: #141414;
+  --surface2: #1c1c1c;
+  --border: #262626;
+  --accent: #f5e642;
+  --text: #f0ece4;
+  --muted: #5a5a5a;
+  --muted2: #888;
+  --red: #e05252;
+  --green: #52c97a;
+  --blue: #52a9e0;
+  --orange: #e09252;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+html { scroll-behavior: smooth; }
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+/* TOP NAV */
+nav {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: rgba(12,12,12,0.92);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border);
+  padding: 0 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 52px;
+}
+.nav-brand {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+.nav-meta {
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  color: var(--muted);
+  letter-spacing: 1px;
+}
+.nav-sections {
+  display: flex;
+  gap: 24px;
+}
+.nav-sections a {
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--muted);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+.nav-sections a:hover { color: var(--text); }
+
+/* LAYOUT */
+.page { max-width: 1120px; margin: 0 auto; padding: 40px 32px 80px; }
+
+/* MASTHEAD */
+.masthead {
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 28px;
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+.masthead-left h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 4rem;
+  font-weight: 900;
+  letter-spacing: -2px;
+  line-height: 1;
+  color: var(--text);
+}
+.masthead-left h1 em {
+  font-style: normal;
+  color: var(--accent);
+}
+.masthead-tagline {
+  font-size: 12px;
+  color: var(--muted2);
+  margin-top: 10px;
+  letter-spacing: 0.5px;
+}
+.masthead-right { text-align: right; }
+.masthead-date {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.1rem;
+  color: var(--muted2);
+  font-style: italic;
+}
+.masthead-edition {
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 2px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-top: 6px;
+}
+
+/* SECTION LABELS */
+.section-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.section-label::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: var(--border);
+}
+
+/* LEAD STORY */
+.lead-story {
+  display: grid;
+  grid-template-columns: 1fr 1px 380px;
+  gap: 32px;
+  margin-bottom: 48px;
+  padding-bottom: 48px;
+  border-bottom: 1px solid var(--border);
+}
+.lead-divider { background: var(--border); }
+.lead-main {}
+.lead-category {
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 12px;
+}
+.lead-headline {
+  font-family: 'Playfair Display', serif;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.5px;
+  margin-bottom: 14px;
+  color: var(--text);
+}
+.lead-headline a { color: inherit; text-decoration: none; }
+.lead-headline a:hover { color: var(--accent); }
+.lead-desc {
+  font-size: 15px;
+  color: var(--muted2);
+  line-height: 1.7;
+  margin-bottom: 16px;
+}
+.lead-source {
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  color: var(--muted);
+  letter-spacing: 1px;
+}
+.lead-aside { display: flex; flex-direction: column; gap: 20px; }
+
+/* STORY CARD — SMALL */
+.story-small {
+  padding: 18px 0;
+  border-bottom: 1px solid var(--border);
+  cursor: pointer;
+}
+.story-small:last-child { border-bottom: none; }
+.story-small .cat {
+  font-family: 'Space Mono', monospace;
+  font-size: 9px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 6px;
+}
+.story-small .hl {
+  font-family: 'Playfair Display', serif;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.3;
+  color: var(--text);
+  margin-bottom: 6px;
+}
+.story-small .hl a { color: inherit; text-decoration: none; }
+.story-small .hl a:hover { color: var(--accent); }
+.story-small .desc {
+  font-size: 12px;
+  color: var(--muted2);
+  line-height: 1.5;
+}
+.story-small .src {
+  font-family: 'Space Mono', monospace;
+  font-size: 9px;
+  color: var(--muted);
+  margin-top: 8px;
+}
+
+/* GRID — 3 COLUMNS */
+.story-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1px;
+  background: var(--border);
+  margin-bottom: 48px;
+}
+.story-grid-item {
+  background: var(--bg);
+  padding: 24px;
+}
+.story-grid-item:hover { background: var(--surface); }
+.story-grid-item .cat {
+  font-family: 'Space Mono', monospace;
+  font-size: 9px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+.story-grid-item .hl {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.05rem;
+  font-weight: 700;
+  line-height: 1.3;
+  margin-bottom: 10px;
+  color: var(--text);
+}
+.story-grid-item .hl a { color: inherit; text-decoration: none; }
+.story-grid-item .hl a:hover { color: var(--accent); }
+.story-grid-item .desc { font-size: 12px; color: var(--muted2); line-height: 1.5; }
+.story-grid-item .src {
+  font-family: 'Space Mono', monospace;
+  font-size: 9px;
+  color: var(--muted);
+  margin-top: 10px;
+}
+
+/* TICKER / MARKETS ROW */
+.markets-row {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 1px;
+  background: var(--border);
+  border: 1px solid var(--border);
+  margin-bottom: 48px;
+  border-radius: 4px;
+  overflow: hidden;
+}
+.market-item {
+  background: var(--surface);
+  padding: 16px 18px;
+}
+.market-item .label {
+  font-family: 'Space Mono', monospace;
+  font-size: 9px;
+  letter-spacing: 2px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 6px;
+}
+.market-item .val {
+  font-family: 'Space Mono', monospace;
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--text);
+}
+.market-item .val.up { color: var(--green); }
+.market-item .val.down { color: var(--red); }
+
+/* PODCAST CARD */
+.podcast-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent);
+  padding: 24px 28px;
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  margin-bottom: 48px;
+  border-radius: 4px;
+}
+.podcast-icon { font-size: 2.5rem; }
+.podcast-info .label {
+  font-family: 'Space Mono', monospace;
+  font-size: 9px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 6px;
+}
+.podcast-info .title {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+.podcast-info .desc { font-size: 13px; color: var(--muted2); }
+
+/* SPORT SECTION */
+.sports-row {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1px;
+  background: var(--border);
+  margin-bottom: 48px;
+}
+
+/* CATEGORY COLORS */
+.cat-ai { color: var(--accent); }
+.cat-world { color: var(--blue); }
+.cat-markets { color: var(--green); }
+.cat-sports { color: var(--orange); }
+.cat-news { color: var(--muted2); }
+
+/* FOOTER */
+footer {
+  border-top: 1px solid var(--border);
+  padding-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+footer .left {
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  color: var(--muted);
+  letter-spacing: 1px;
+}
+footer .right {
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  color: var(--muted);
+}
+
+/* LOADING */
+.loading-state {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 200px;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 3px;
+  color: var(--muted);
+  text-transform: uppercase;
+}
+
+/* SCROLLBAR */
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: var(--bg); }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+
+@media (max-width: 900px) {
+  .lead-story { grid-template-columns: 1fr; }
+  .lead-divider { display: none; }
+  .story-grid { grid-template-columns: 1fr; }
+  .markets-row { grid-template-columns: repeat(3, 1fr); }
+  .sports-row { grid-template-columns: 1fr; }
+  .masthead { flex-direction: column; align-items: flex-start; gap: 12px; }
+  .masthead-left h1 { font-size: 2.8rem; }
+  nav { padding: 0 16px; }
+  .page { padding: 24px 16px 60px; }
+  .nav-sections { display: none; }
+}
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="nav-brand">☕ Sue · Morning Brief</div>
+  <div class="nav-sections">
+    <a href="#tech">Tech & AI</a>
+    <a href="#world">World</a>
+    <a href="#markets">Markets</a>
+    <a href="#sports">Sports</a>
+  </div>
+  <div class="nav-meta" id="navMeta">Loading...</div>
+</nav>
+
+<div class="page">
+  <div class="masthead">
+    <div class="masthead-left">
+      <h1>Morning <em>Brief</em></h1>
+      <div class="masthead-tagline">The stories that matter · Curated from 40K+ sources · 5-minute read</div>
+    </div>
+    <div class="masthead-right">
+      <div class="masthead-date" id="briefDate">—</div>
+      <div class="masthead-edition" id="briefEdition">Loading...</div>
+    </div>
+  </div>
+
+  <!-- LEAD + ASIDE -->
+  <div id="leadSection">
+    <div class="loading-state">Fetching stories...</div>
+  </div>
+
+  <!-- TECH & AI -->
+  <div id="techSection"></div>
+
+  <!-- MARKETS ROW -->
+  <div id="marketsSection"></div>
+
+  <!-- WORLD -->
+  <div id="worldSection"></div>
+
+  <!-- PODCAST -->
+  <div id="podcastSection"></div>
+
+  <!-- SPORTS -->
+  <div id="sportsSection"></div>
+
+  <footer>
+    <div class="left" id="footerUpdate">Last updated: —</div>
+    <div class="right">Next brief: Tomorrow 6:30 AM PST</div>
+  </footer>
+</div>
+
+<script>
+const BASE = window.location.href.includes('github.io') ? '/sue-dashboard' : '';
+
+async function loadData() {
+  try {
+    const r = await fetch(BASE + '/data/latest.json');
+    const d = await r.json();
+    render(d);
+  } catch(e) {
+    // Fallback to sample data for demo
+    render(getSampleData());
+  }
+}
+
+function getCatColor(cat) {
+  if (!cat) return 'cat-news';
+  const c = cat.toLowerCase();
+  if (c.includes('tech') || c.includes('ai')) return 'cat-ai';
+  if (c.includes('world')) return 'cat-world';
+  if (c.includes('market') || c.includes('finance')) return 'cat-markets';
+  if (c.includes('sport')) return 'cat-sports';
+  return 'cat-news';
+}
+
+function render(d) {
+  const date = new Date(d.date || Date.now());
+  const dateStr = date.toLocaleDateString('en-US', { weekday:'long', month:'long', day:'numeric', year:'numeric' });
+  const edition = `Edition ${d.edition || '#1'} · ${d.totalStories || 0} stories`;
+
+  document.getElementById('briefDate').textContent = dateStr;
+  document.getElementById('briefEdition').textContent = edition;
+  document.getElementById('navMeta').textContent = dateStr.toUpperCase();
+  document.getElementById('footerUpdate').textContent = 'Last updated: ' + date.toLocaleTimeString('en-US', { hour:'2-digit', minute:'2-digit' });
+
+  const all = d.stories || [];
+  const tech = all.filter(s => s.category?.toLowerCase().includes('tech') || s.category?.toLowerCase().includes('ai'));
+  const world = all.filter(s => s.category?.toLowerCase().includes('world'));
+  const markets = all.filter(s => s.category?.toLowerCase().includes('market'));
+  const sports = all.filter(s => s.category?.toLowerCase().includes('sport'));
+  const top = all.filter(s => !tech.includes(s) && !world.includes(s) && !markets.includes(s) && !sports.includes(s));
+  const lead = tech[0] || top[0] || all[0];
+  const aside = [...(top.slice(0,3)), ...(tech.slice(1,2))].slice(0,3);
+
+  // LEAD
+  if (lead) {
+    document.getElementById('leadSection').innerHTML = `
+      <div class="section-label">Top Story</div>
+      <div class="lead-story">
+        <div class="lead-main">
+          <div class="lead-category ${getCatColor(lead.category)}">${lead.category || 'NEWS'}</div>
+          <div class="lead-headline"><a href="${lead.url || '#'}" target="_blank" rel="noopener">${lead.title}</a></div>
+          <div class="lead-desc">${lead.description}</div>
+          <div class="lead-source">${lead.source} · ${lead.timeAgo || ''}</div>
+        </div>
+        <div class="lead-divider"></div>
+        <div class="lead-aside">
+          ${aside.map(s => `
+            <div class="story-small">
+              <div class="cat ${getCatColor(s.category)}">${s.category || 'NEWS'}</div>
+              <div class="hl"><a href="${s.url || '#'}" target="_blank" rel="noopener">${s.title}</a></div>
+              <div class="desc">${s.description.substring(0,120)}...</div>
+              <div class="src">${s.source}</div>
+            </div>
+          `).join('')}
+        </div>
+      </div>
+    `;
+  }
+
+  // TECH & AI
+  if (tech.length > 1) {
+    document.getElementById('techSection').innerHTML = `
+      <div id="tech" class="section-label">Tech & AI</div>
+      <div class="story-grid" style="margin-bottom:48px">
+        ${tech.slice(1).map(s => `
+          <div class="story-grid-item">
+            <div class="cat cat-ai">${s.category || 'TECH & AI'}</div>
+            <div class="hl"><a href="${s.url || '#'}" target="_blank" rel="noopener">${s.title}</a></div>
+            <div class="desc">${s.description.substring(0,140)}...</div>
+            <div class="src">${s.source}</div>
+          </div>
+        `).join('')}
+      </div>
+    `;
+  }
+
+  // MARKETS
+  if (markets.length) {
+    document.getElementById('marketsSection').innerHTML = `
+      <div id="markets" class="section-label">Markets</div>
+      <div class="markets-row">
+        ${markets.slice(0,5).map(s => `
+          <div class="market-item">
+            <div class="label cat-markets">${(s.source || 'MARKETS').toUpperCase()}</div>
+            <div style="font-size:12px;color:var(--text);line-height:1.4;margin-top:4px">${s.title.substring(0,80)}...</div>
+          </div>
+        `).join('')}
+      </div>
+    `;
+  }
+
+  // WORLD
+  if (world.length) {
+    document.getElementById('worldSection').innerHTML = `
+      <div id="world" class="section-label">World</div>
+      <div class="story-grid" style="margin-bottom:48px">
+        ${world.slice(0,3).map(s => `
+          <div class="story-grid-item">
+            <div class="cat cat-world">${s.category || 'WORLD'}</div>
+            <div class="hl"><a href="${s.url || '#'}" target="_blank" rel="noopener">${s.title}</a></div>
+            <div class="desc">${s.description.substring(0,140)}...</div>
+            <div class="src">${s.source}</div>
+          </div>
+        `).join('')}
+      </div>
+    `;
+  }
+
+  // PODCAST
+  if (d.podcast) {
+    document.getElementById('podcastSection').innerHTML = `
+      <div class="podcast-card">
+        <div class="podcast-icon">🎧</div>
+        <div class="podcast-info">
+          <div class="label">Podcast Pick</div>
+          <div class="title">${d.podcast.show}</div>
+          <div class="desc">${d.podcast.description || 'Recommended listening for today.'}</div>
+        </div>
+      </div>
+    `;
+  }
+
+  // SPORTS
+  if (sports.length) {
+    document.getElementById('sportsSection').innerHTML = `
+      <div id="sports" class="section-label">Sports</div>
+      <div class="sports-row" style="margin-bottom:48px">
+        ${sports.slice(0,4).map(s => `
+          <div class="story-grid-item">
+            <div class="cat cat-sports">${s.category || 'SPORTS'}</div>
+            <div class="hl"><a href="${s.url || '#'}" target="_blank" rel="noopener">${s.title}</a></div>
+            <div class="desc">${s.description.substring(0,130)}...</div>
+            <div class="src">${s.source}</div>
+          </div>
+        `).join('')}
+      </div>
+    `;
+  }
+}
+
+function getSampleData() {
+  return {
+    date: new Date().toISOString(),
+    edition: '#1',
+    totalStories: 5,
+    podcast: { show: 'All-In Podcast', description: 'Episode 174 — Tariffs, AI regulation, and the next big startup wave.' },
+    stories: [
+      { title: 'OpenAI releases GPT-5 with unprecedented reasoning capabilities', description: 'OpenAI has unveiled its most powerful model yet, claiming it surpasses human-level performance on a range of professional benchmarks including the bar exam, medical licensing, and advanced coding tasks.', category: '🤖 TECH & AI', source: 'The Verge', url: '#' },
+      { title: 'Anthropic raises $2.5B at $18B valuation amid AI arms race', description: 'The Claude-maker secured fresh capital as competition in the foundation model space intensifies, with Google and Amazon as key investors.', category: '🤖 TECH & AI', source: 'Reuters', url: '#' },
+      { title: 'Apple\'s WWDC 2026 to feature on-device AI that rivals cloud models', description: 'Sources familiar with the matter say Apple will demonstrate local LLM capabilities that run entirely on-chip, raising the bar for privacy-first AI.', category: '🤖 TECH & AI', source: 'Bloomberg', url: '#' },
+      { title: 'Fed holds rates steady, signals two cuts in 2026', description: 'The Federal Reserve maintained its benchmark rate at current levels while projecting a gradual easing cycle beginning mid-year if inflation continues its downward trend.', category: '📈 MARKETS', source: 'AP News', url: '#' },
+      { title: 'Wizards draft pick shines in NBA summer league opener', description: 'Washington\'s top selection posted 24 points and 9 assists in his debut, drawing comparisons to early-career John Wall from scouts in attendance.', category: '🏀 SPORTS', source: 'ESPN', url: '#' },
+    ]
+  };
+}
+
+loadData();
+</script>
+</body>
+</html>
