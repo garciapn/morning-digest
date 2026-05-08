@@ -1,0 +1,35 @@
+name: Daily news update
+
+on:
+  schedule:
+    # 13:30 UTC = 6:30 AM PDT / 5:30 AM PST
+    - cron: '30 13 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch news
+        run: python3 scripts/fetch_news.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name 'morning-digest-bot'
+          git config user.email 'morning-digest-bot@users.noreply.github.com'
+          if git diff --quiet -- data/latest.json; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git add data/latest.json
+          git commit -m "Daily sync $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push

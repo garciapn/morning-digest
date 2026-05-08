@@ -1,179 +1,251 @@
 {
-  "date": "2026-04-02T05:26:52.317Z",
-  "edition": "#91",
-  "totalStories": 21,
+  "date": "2026-05-08T19:15:05.472661+00:00",
+  "edition": "#94",
+  "totalStories": 30,
   "podcast": {
-    "show": "Vergecast",
-    "description": "Your daily recommended listen."
+    "show": "The Daily",
+    "description": "The New York Times' daily news podcast — today's top story in 20 minutes."
   },
   "stories": [
     {
-      "title": "ChatGPT parent OpenAI raises $122 billion in record funding round, valuation hits $852 billion",
-      "description": "OpenAI expects enterprise sales to increase to 50% of its revenue this year, supported by Amazon's $50 billion investment. The company generates $2 billion monthly, recently added advertising to ChatG",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/companies/news/chatgpt-parent-openai-raises-122-billion-in-record-funding-round-valuation-hits-852-billion-11775014375379.html",
+      "title": "Google Broke reCAPTCHA for De-Googled Android Users",
+      "description": "Article URL: https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users Comments URL: https://news.ycombinator.com/item?id=48067119 Points: 9 # Comments: 0",
+      "source": "Hacker News",
+      "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
       "category": "🤖 TECH & AI",
-      "timeAgo": "Mar 31"
+      "timeAgo": "just now"
     },
     {
-      "title": "Justice Alito: \"Just out of curiosity, do you think we should ask Claude to decide this case?\"",
-      "description": "I suspect many lawyers use AI, but now they will be even more hesitant to admit it.",
-      "source": "Reason",
-      "url": "https://reason.com/volokh/2026/04/01/justice-alito-just-out-of-curiosity-do-you-think-we-should-ask-claude-to-decide-this-case/",
+      "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
+      "description": "CloudFlare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "Mar 31"
+      "timeAgo": "just now"
     },
     {
-      "title": "Norvix AI Review: Verified Trading Tool or Scam? Claims vs Reality",
-      "description": "Norvix AI emerges as a freshly created crypto trading system designed to simplify and upgrade the overall trading experience for individuals interested in cryptocurrency markets. The platform suggests",
-      "source": "Whatjapanthinks.com",
-      "url": "https://whatjapanthinks.com/norvix-ai-review/",
+      "title": "Porsche shutters e-bike, battery, software subsidiaries as part of company overhaul",
+      "description": "More than 500 people will be affected by the closures.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/08/porsche-shutters-e-bike-battery-software-subsidiaries-as-part-of-company-overhaul/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "Mar 31"
+      "timeAgo": "just now"
     },
     {
-      "title": "Ex-Oracle employee to former colleagues impacted by latest layoff: 'A painful chapter, but it is not the end of your story'",
-      "description": "A former Oracle engineer offers a personal message to colleagues impacted by recent layoffs, emphasizing that their value and skills remain intact despite employment changes. He expresses confidence i",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/ex-oracle-employee-to-former-colleagues-impacted-by-latest-layoff-a-painful-chapter-but-it-is-not-the-end-of-your-story/articleshow/129941903.cms",
+      "title": "AI Is Breaking Two Vulnerability Cultures",
+      "description": "Article URL: https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures Comments URL: https://news.ycombinator.com/item?id=48066524 Points: 36 # Comments: 2",
+      "source": "Hacker News",
+      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
       "category": "🤖 TECH & AI",
-      "timeAgo": "Mar 31"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Oracle layoffs 2026: US IT firm sent brutal 6 am emails, 12,000 jobs in India hit; another round likely soon",
-      "description": "Oracle layoffs 2026: US-IT firm Oracle has laid off thousands of employees and sent brutal 6 am emails on Tuesday, which stated that their jobs have been terminated. In India, 12,000 jobs have been af",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/oracle-layoffs-2026-us-it-firm-sent-brutal-6-am-emails-12000-jobs-in-india-hit-another-round-likely-soon/articleshow/129942207.cms",
+      "title": "Mother Ventures is looking at moms as the ‘economic engine’",
+      "description": "The VC firm, which focuses on mothers as consumers, raised a $10 million debut fund.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/08/mother-ventures-is-looking-at-moms-as-the-economic-engine/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "Mar 31"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "'Innocence hasn't disappeared': Saurabh Shukla opens up on lack of kids' films",
-      "description": "Actor-filmmaker Saurabh Shukla has weighed in on the debate around the lack of films for children in today's cinema, asserting that it has not disappeared but rather evolved with changing times and so",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/innocence-hasnt-disappeared-saurabh-shukla-opens-up-on-lack-of-kids-films/articleshow/129942274.cms",
+      "title": "Uber partner Avride is under investigation for self-driving crashes",
+      "description": "The National Highway Traffic Safety Administration has opened an investigation into Avride after identifying more than a dozen crashes and one minor injury.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/08/uber-partner-avride-is-under-investigation-for-self-driving-crashes/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "Mar 31"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Trump says US will 'leave' Iran in two or three weeks whether 'we have a deal or not' - BBC",
-      "description": "Iran's president says Tehran has the \"necessary will\" to end the war as long as certain conditions are met.",
+      "title": "Sir John Curtice: Election results show politics in the UK has fragmented",
+      "description": "Reform are the winners so far, with more results still to be declared.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/live/c36r5p1l7w3t",
+      "url": "https://www.bbc.com/news/articles/ce8p4yn448vo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "Mar 31"
+      "timeAgo": "just now"
     },
     {
-      "title": "2026 McDonald's All American Games: Live Updates - On3",
-      "description": "It’s time for the 2026 McDonald’s All American games. Desert Diamond Arena in Glendale, Ariz. will host 24 of the top girls and boys high school basketball prospects on Tuesday evening for the latest ",
-      "source": "On3.com",
-      "url": "https://www.on3.com/rivals/news/2026-mcdonalds-all-american-games-live-updates/",
+      "title": "Polanski says two-party politics 'dead' after election gains for Greens",
+      "description": "The Greens secured their first-ever elected mayors and took control of councils, including Norwich.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4g08e97523o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "Mar 31"
+      "timeAgo": "just now"
     },
     {
-      "title": "Stock Market Today: Nasdaq Leads Rally Built on Hope the Iran War May End Soon - WSJ",
-      "description": "Indexes surge to biggest one-day gain since May",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026",
+      "title": "Henry Zeffman: Election results leave Starmer vulnerable",
+      "description": "Henry Zeffman: Election results leave Starmer vulnerable",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/clyp1qgxke7o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "Mar 31"
+      "timeAgo": "4h ago"
     },
     {
-      "title": "Megan Thee Stallion Hospitalized in New York After Exiting ‘Moulin Rouge’ Performance Mid-Show - The Hollywood Reporter",
-      "description": "“During Tuesday night’s production, Megan started feeling very ill and was promptly transported to a local hospital, where her symptoms are currently being evaluated,” her rep tells The Hollywood Repo",
-      "source": "Hollywood Reporter",
-      "url": "http://www.hollywoodreporter.com/music/music-news/megan-thee-stallion-moulin-rouge-hospitalized-performance-1236553338/",
+      "title": "Reform election gains show shift in British politics, says Farage",
+      "description": "Labour and the Conservatives suffer losses at the expense of Reform across England.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0r255xlr59o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "Mar 31"
+      "timeAgo": "4h ago"
     },
     {
-      "title": "Gas hits $4 a gallon for first time since 2022, and costs may keep rising - The Washington Post",
-      "description": "A Kuwaiti tanker was struck Tuesday in Dubai’s waters, the latest attack on energy assets that spiked oil prices and roiled markets.",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/business/2026/03/31/gas-prices-four-dollars/",
+      "title": "Canvas is back online, but questions — and final exam disruptions — linger",
+      "description": "Some schools are warning users not to log back into Canvas yet, after a ransomware group claimed credit for a data breach. Half of North America's higher education institutions use the platform.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/08/nx-s1-5815956/canvas-data-breach-school-finals",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "Mar 31"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Woman seriously injured by cluster warhead in Bnei Brak area",
-      "description": "A cluster warhead missile was fired from Iran toward the Tel Aviv metropolitan area, hitting multiple sites in Bnei Brak and Ramat Gan. MDA reported an approximately 11-year-old girl seriously injured",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/424920",
+      "title": "Colombia's rogue hippos could find refuge in India",
+      "description": "In Colombia, a plan to cull Pablo Escobar's invasive hippos is challenged by an Indian billionaire's offer to relocate dozens of the animals to India's wildlife reserve instead.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/08/nx-s1-5814169/cocaine-hippos-colombia-india",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Trump says Russia and Ukraine to observe three-day ceasefire",
+      "description": "It comes as the two countries accused each other of violating separate ceasefires to cover the celebrations of the Soviet Union's victory over Nazi Germany.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "Mar 31"
+      "timeAgo": "just now"
     },
     {
-      "title": "India Doubles Jet Fuel for a Couple of Hours, Then Reverses",
-      "description": "India rolled back a huge hike in jet-fuel prices for local flights within hours of pushing them to a record, bringing fresh turbulence to an industry that’s been rocked by the war in the Middle East.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/india-doubles-jet-fuel-for-a-couple-of-hours-then-reverses",
+      "title": "Protests in the Canary Islands as virus-stricken ship heads for port",
+      "description": "Protesters in Tenerife are voicing opposition to the imminent arrival of a cruise ship hit by hantavirus outbreak",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/protests-in-the-canary-islands-as-virus-stricken-ship-heads-for-port?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "Mar 31"
+      "timeAgo": "just now"
     },
     {
-      "title": "Asia Pacific Maritime 2026: Strong Greek presence at the International Shipbuilding and Marine Equipment Exhibition",
-      "description": "Enterprise Greece organized the largest national participation to date, featuring 15 Greek companies actively engaged in the maritime sector, at the 19th Asia Pacific Maritime (APM) 2026, held on Marc",
-      "source": "Naftemporiki.gr",
-      "url": "https://www.naftemporiki.gr/english/2092718/asia-pacific-maritime-2026-strong-greek-presence-at-the-international-shipbuilding-and-marine-equipment-exhibition/",
+      "title": "Libya’s largest oil refinery halts operations during fighting",
+      "description": "Zawiya refinery shut down in 'precautionary measure' as emergency declared following explosions and gunfire nearby.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/8/libyas-largest-oil-refinery-halts-operations-during-fighting?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "Mar 31"
+      "timeAgo": "just now"
     },
     {
-      "title": "Want to renew healthy eating habits? Greek monks have a spring playbook",
-      "description": "Across Greece and in Orthodox communities around the world, a centuries-old Lenten fast offers a modern lesson in diet and discipline",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/Health/wireStory/renew-healthy-eating-habits-greek-monks-spring-playbook-131603252",
+      "title": "Four convicted in US related to killing of Haitian President Jovenel Moise",
+      "description": "Prosecutors charge Florida served as central hub in 2021 assassination of Moise, which set off ongoing political crisis.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/8/four-convicted-in-us-related-to-killing-of-haitian-president-jovenel-moise?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Trump announces three-day ceasefire in Russia-Ukraine war",
+      "description": "Truce will also include swap of 1,000 prisoners of war from each country, US president says.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Greece examines mystery naval drone found in Ionian Sea",
+      "description": "Greek media say the drone, which reportedly had explosives, could be either Ukrainian or linked to the Russia-Ukraine war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx217expnvvo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Intel’s stock could achieve a never-before-seen feat as Apple enthusiasm builds",
+      "description": "Intel is in the midst of transforming its business, with shares up 17% on Friday following a fresh sign of a future Apple manufacturing partnership.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/intels-stock-could-achieve-a-never-before-seen-feat-as-apple-enthusiasm-builds-edd94237?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "Mar 31"
+      "timeAgo": "just now"
     },
     {
-      "title": "These catalysts could bump bitcoin as Trump hands three-week target to end Iran war",
-      "description": "Asian stocks surged 4% and S&P 500 futures jumped after Trump said the conflict could conclude without a deal with Tehran, while Morgan Stanley's newly approved bitcoin ETF at 14 basis points opens a ",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/04/01/these-catalysts-could-bump-bitcoin-as-trump-hands-three-week-target-to-end-iran-war",
+      "title": "Michael Burry says the market today feels like 'the last months of the 1999-2000 bubble'",
+      "description": "\"Stocks are not up or down because of jobs or consumer sentiment,\" Burry wrote. \"Feeling like the last months of the 1999-2000 bubble.\"",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/08/michael-burry-says-the-market-today-feels-like-the-last-months-of-the-1999-2000-bubble.html",
       "category": "📈 MARKETS",
-      "timeAgo": "Mar 31"
+      "timeAgo": "just now"
     },
     {
-      "title": "What is Function Calling in OpenAI API and How to Use It?",
-      "description": "Unlock the power of OpenAI's function calling! Learn how to integrate AI with external systems, automate tasks, and build smarter applications. Step-by-step guide included.",
-      "source": "C-sharpcorner.com",
-      "url": "https://www.c-sharpcorner.com/article/what-is-function-calling-in-openai-api-and-how-to-use-it/",
+      "title": "Rocket Lab surges 30% to fresh highs on revenue beat, record-setting launch deal",
+      "description": "Enthusiasm for space stocks has skyrocketed ahead of SpaceX's anticipated IPO.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/08/rocket-lab-rklb-q1-earnings-2026.html",
       "category": "📈 MARKETS",
-      "timeAgo": "Mar 31"
+      "timeAgo": "just now"
     },
     {
-      "title": "Chang Ung, North Korean ex-IOC member who brokered Olympic joint marches with South, dies",
-      "description": "Chang Ung, a former North Korean member of the International Olympic Committee who once led sports exchanges with rival South Korea including joint marches of their athletes at the Olympics, has died ",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/International/wireStory/chang-ung-north-korean-ioc-member-brokered-olympic-131602704",
-      "category": "🏀 SPORTS",
-      "timeAgo": "Mar 31"
+      "title": "How nearly half of women are cheating themselves out of free money",
+      "description": "This is almost a guaranteed way to end up with too little money in retirement.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-nearly-half-of-women-cheat-themselves-out-of-free-money-c9afaf67?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
     },
     {
-      "title": "Amsterdam celebrates 25 years since the world's first same-sex weddings",
-      "description": "Amsterdam is marking 25 years since the world's first gay marriages were celebrated in the Netherlands",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/International/wireStory/amsterdam-celebrates-25-years-worlds-same-sex-weddings-131603067",
-      "category": "🏀 SPORTS",
-      "timeAgo": "Mar 31"
+      "title": "How Planet Fitness lost its way in the increasingly competitive gym market",
+      "description": "Planet Fitness acknowledged marketing missteps and showed slower growth in the crucial first few months of the year.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-planet-fitness-lost-its-way-in-the-increasingly-competitive-gym-market-328465cc?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
     },
     {
-      "title": "Jamie Dimon says JPMorgan could do prediction markets — with big guardrails",
-      "description": "Prediction markets like Kalshi and Polymarket — where traders wager on real-world events — are booming.",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/jamie-dimon-jpmorgan-enter-prediction-markets-big-guardrails-gambling-2026-4",
-      "category": "🏀 SPORTS",
-      "timeAgo": "Mar 31"
+      "title": "U.S. payrolls jump more than expected, but the report had several red flags for the economy",
+      "description": "Nonfarm payrolls were expected to increase by 55,000 in April, according to the Dow Jones consensus.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/08/jobs-report-april-2026.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
     },
     {
-      "title": "Want to renew healthy eating habits? Greek monks have a spring playbook",
-      "description": "Across Greece and in Orthodox communities around the world, a centuries-old Lenten fast offers a modern lesson in diet and discipline",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/Health/wireStory/renew-healthy-eating-habits-greek-monks-spring-playbook-131603252",
+      "title": "WWE Backlash 2026 predictions, picks for each match scheduled for Saturday in Tampa",
+      "description": "The first big event after WrestleMania 42 is set with five matches expected to go down",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/wwe/news/wwe-backlash-2026-predictions-card-matches-expert-picks/",
       "category": "🏀 SPORTS",
-      "timeAgo": "Mar 31"
+      "timeAgo": "just now"
+    },
+    {
+      "title": "UFC 328: Why the bad blood between Khamzat Chimaev and Sean Strickland is real -- and personal",
+      "description": "Chimaev and Strickland are itching to get their hands on each other this weekend, to the point where Chimaev is waiting in the hotel lobby for him",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/ufc/news/ufc-328-khamzat-chimaev-sean-strickland-bad-blood-feud/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "NBA playoff schedule, odds, predictions for 76ers vs. Knicks, Timberwolves vs. Spurs",
+      "description": "Friday's schedule brings a pair of Game 3s -- can the Sixers and Wolves bounce back at home?",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/nba/news/nba-games-today-knicks-76ers-odds-may-8/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "NFL to release regular-season schedule Thursday",
+      "description": "The NFL will release its complete regular-season schedule Thursday. The announcement made Friday is in line with the past couple of years, when the schedule has been released during the second week of May.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/48713901/nfl-release-regular-season-schedule-thursday",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Sources: Seahawks interest 'soft' from buyers",
+      "description": "The Seahawks haven't generated as much buyer interest as NFL officials originally expected, sources told ESPN.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/48712023/seattle-seahawks-sale-buyers-less-interested-nfl-expected",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "UFC Freedom 250 press conference start time: Watch live stream with Ilia Topuria, Alex Pereira and more",
+      "description": "Every fighter competing at the White House, including Justin Gaethje and Sean O'Malley, will be in attendance on Friday",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/ufc/news/ufc-freedom-250-press-conference-start-time-watch-live-stream-ilia-topuria-alex-pereira/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "4h ago"
     }
   ]
 }
