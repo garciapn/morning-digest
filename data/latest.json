@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-10T14:36:52.537620+00:00",
-  "edition": "#96",
+  "date": "2026-05-11T16:16:16.200022+00:00",
+  "edition": "#97",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "The hottest place for startups to strike a deal? The F1 paddock",
-      "description": "F1 Grands Prix have emerged as a new place to see and be seen if you are a founder or investor.",
+      "title": "‘Too early’ to talk IPO, Redwood Materials’ incoming CFO says",
+      "description": "The battery-recycling and energy-storage company has hired former Tesla finance chief Deepak Ahuja, reuniting him with former Tesla CTO JB Straubel.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/",
+      "url": "https://techcrunch.com/2026/05/11/too-early-to-talk-ipo-for-redwood-materials-incoming-cfo-says/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "9 Mothers (YC P26) Is Hiring",
-      "description": "Article URL: https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q Comments URL: https://news.ycombinator.com/item?id=48083251 Points: 0 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "What's a Mathematician to Do?",
-      "description": "Article URL: https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do Comments URL: https://news.ycombinator.com/item?id=48083007 Points: 31 # Comments: 11",
-      "source": "Hacker News",
-      "url": "https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Space Cadet Pinball on Linux",
-      "description": "Article URL: https://brennan.io/2026/05/09/pinball-and-escrow/ Comments URL: https://news.ycombinator.com/item?id=48082968 Points: 138 # Comments: 40",
-      "source": "Hacker News",
-      "url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Do you take after your dad’s RNA?",
-      "description": "Evidence is growing that sperm carries marks of a father’s life experiences, influencing traits in offspring.",
+      "title": "Pirates are already playing Forza Horizon 6 days before its launch",
+      "description": "Crackers take advantage of unencrypted files that briefly appeared on Steam.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/05/do-you-take-after-your-dads-rna/",
+      "url": "https://arstechnica.com/gaming/2026/05/pirates-are-already-playing-forza-horizon-6-days-before-its-launch/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "3h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Huge landslide created a 500-meter-high tsunami in a major tourist area",
-      "description": "Fortunately, it happened early in the morning, so nobody was around.",
+      "title": "F1 set for another engine tweak in 2027, and what's this about V8s?",
+      "description": "Rather than dig in, the sport is being proactive about fixing the problem.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/05/how-a-melting-glacier-led-to-a-500-meter-high-tsunami/",
+      "url": "https://arstechnica.com/cars/2026/05/f1-set-for-another-engine-tweak-in-2027-and-whats-this-about-v8s/",
       "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Show HN: Free tool to see how much AI bots are costing your site",
+      "description": "Article URL: https://botcost.dev Comments URL: https://news.ycombinator.com/item?id=48096045 Points: 12 # Comments: 9",
+      "source": "Hacker News",
+      "url": "https://botcost.dev",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "NYT’s Wordle to become a TV game show",
+      "description": "The popular mobile puzzle game will become a TV game show next year.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/11/nyts-wordle-to-become-a-tv-game-show/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "What's Wrong with AI?",
+      "description": "Article URL: https://kurtis.weblog.lol/2026/05/whats-wrong-with-ai Comments URL: https://news.ycombinator.com/item?id=48095337 Points: 7 # Comments: 1",
+      "source": "Hacker News",
+      "url": "https://kurtis.weblog.lol/2026/05/whats-wrong-with-ai",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Analysis: Has Starmer done enough to save his premiership?",
+      "description": "Was the prime minister's speech enough to avert a challenge to his leadership less than two years after he won a landslide general election victory?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3r2pr95yq0o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "British passengers from cruise ship isolating in hospital",
+      "description": "The passengers landed in the UK on Sunday and none have reported symptoms, but they will will be monitored in hospital for 72 hours.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4g83vddnz0o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Washington correspondents'  dinner shooting suspect pleads not guilty",
+      "description": "Cole Tomas Allen, 31, was charged with attempting to assassinate US President Donald Trump.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4g48ewgz8mo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "'Atlanta Journal-Constitution' chief steps down as bold goals yield to tough realities",
+      "description": "The owners of the Atlanta Journal-Constitution invested $150 million to reinvent the paper. The changes have been significant. Three years in, the payoff has been modest.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/11/nx-s1-5818208/ajc-andrew-morse-leaving",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Trump rejects Iran's ceasefire proposal response. And, Congress to tackle ICE funding",
+      "description": "Trump rejected Iran's response to a U.S. peace proposal, calling it \"totally unacceptable.\" And, Congressional Republicans are trying to push for three years of funding for immigration enforcement.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/11/g-s1-121375/up-first-newsletter-trump-iran-congress-ice-cbp-hantavirus",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "Oregon's most unexpected gubernatorial candidate? A pencil with a point",
+      "description": "Oregon's public schools rank last in fourth-grade reading, according to an analysis of national testing. As a wake-up call for elected leaders, Pencil is running for governor as a write-in candidate.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/11/nx-s1-5781255/oregon-reading-education-governor-pencil",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "5h ago"
+    },
+    {
+      "title": "Iran denies proposal sent to US contains ‘excessive demands’",
+      "description": "Iran says Tehran’s response to the latest US proposal to end the war was “not excessive.\"",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/iran-denies-proposal-sent-to-us-contains-excessive-demands?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Who could challenge Keir Starmer for the UK PM’s job? Meet the candidates",
+      "description": "The British prime minister has promised change as he battles to fend off leadership challenge.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/11/who-could-challenge-keir-starmer-for-the-uk-pms-job-meet-the-candidates?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Israeli killings in Lebanon rise: Is even the pretence of a ceasefire over?",
+      "description": "Israel and Hezbollah have increased their attacks on each other, despite official ceasefire.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/11/israeli-killings-in-lebanon-rise-is-even-the-pretence-of-a-ceasefire-over?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Iran war effect: Why is Modi asking Indians to avoid foreign trips, gold?",
+      "description": "PM urges Indians to work from home and avoid foreign trips during the global energy crisis due to the Iran war.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/11/iran-war-effect-why-is-modi-asking-indians-to-avoid-foreign-trips-gold?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Whales could be harmed by diverted ships avoiding Middle East, scientists warn",
+      "description": "Ships have rerouted around the Cape of Good Hope since 2023 to avoid conflicts in the Middle East.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cz02dkkd9j9o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "US and French nationals test positive for hantavirus after leaving ship",
+      "description": "The American national has arrived in Nebraska, while a French woman is isolating in Paris.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "3h ago"
     },
     {
-      "title": "First passengers fly home from virus-hit cruise ship",
-      "description": "Spanish passengers are the first to leave the MV Hondius, after an outbreak saw three people die and several infected.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Army parachutes onto remote island to help Briton with suspected hantavirus",
-      "description": "The specialist team parachuted onto Tristan da Cunha, a remote British overseas territory, to treat them.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgzv77ldpdo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "'We need to move quickly,' says Labour MP seeking to challenge PM",
-      "description": "Catherine West says she is ready to challenge Keir Starmer but minister Bridget Phillipson backs the PM and warns against infighting.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c362573l4gdo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Tories are still biggest party on the right, claims Cleverly",
-      "description": "Leading Tory brands Reform a \"cult of personality\" but Reform deputy leader says its electoral success has shaken up politics.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c7v9778r9q9o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Willy Wonka would love this laboratory that checks the quality of chocolate",
-      "description": "The chocolate biz is raising the bar with a lab to assess cacao beans from around the world. (Talk about a sweet gig!) Consumers and farmers stand to benefit from the \"Standard of Excellence\" program.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/05/10/g-s1-120911/chocolate-certified-cacao-standards-evaluate-coffee-wine",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Keir Starmer's party lost big in U.K. local elections. Here's what comes next.",
-      "description": "U.K. Prime Minister Keir Starmer's Labour party suffered major losses in local elections held across Britain last week. So far, Starmer has rejected calls for his resignation.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/05/10/nx-s1-5817491/uk-elections-keir-starmer-resign-reform-green",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Iran sends response to US proposals to end war",
-      "description": "No details have been released of Iran's response - or the US proposals - designed to bring the war to an end.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
-      "description": "The Russian leader sees potential for Ukraine negotiations, but condemns the West's backing for President Zelensky.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Football on ruins: Gaza’s orphans find refuge on the pitch",
-      "description": "A Gaza teenager orphaned by an Israeli attack finds refuge in football amid the decimation of Palestinian sports.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/5/10/football-on-ruins-gazas-orphans-find-refuge-on-the-pitch?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Stories of those killed in a single day of Israeli strikes on Lebanon",
-      "description": "Israeli strikes have killed at least 39 people in a single day of attacks across Lebanon during a so-called ‘ceasefire.’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/stories-of-those-killed-in-a-single-day-of-israeli-strikes-on-lebanon?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Jorge Martin wins his first Aprilia Grand Prix at French MotoGP",
-      "description": "Ex-MotoGP world champion now only a single point behind Aprilia teammate Marco Bezzecchi in the riders' standings.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/10/jorge-martin-wins-his-first-aprilia-grand-prix-at-french-motogp?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "‘Ukraine has momentum in war with Russia’",
-      "description": "‘Ukraine has momentum in war with Russia’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/ukraine-has-momentum-in-war-with?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Big Tech’s AI spending is depriving investors of juicy payouts",
-      "description": "Goldman Sachs expects S&P 500 share buybacks to grow only 3% this year, as a shaky economic backdrop and AI cost pressures force spending reconsiderations.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/big-techs-ai-spending-is-depriving-investors-of-juicy-payouts-39d17305?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "My mother regrets paying Social Security. She says she should have invested her contributions. I disagree. Who’s right?",
-      "description": "“There’s no way my dad and my mom paid enough into Medicare to cover my dad’s six months in long-term critical care.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/americans-are-not-great-at-managing-money-social-security-and-medicare-saved-my-father-from-financial-ruin-am-i-wrong-878bd7a2?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "With Netflix new ad-free standard plan at $20, streaming's tipping point into old TV is getting closer",
-      "description": "The economics of streaming are nearing the point where cheaper plans with ads make as much if not more money for services like Netflix.",
+      "title": "JPMorgan Chase-led bank group reins in credit line to troubled KKR private credit fund as losses mount",
+      "description": "The KKR fund, often referred to by its ticker, FSK, has become one of the most visible fault lines in the private credit story.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/10/netflix-20-dollar-streaming-plan-price.html",
+      "url": "https://www.cnbc.com/2026/05/11/kkr-private-credit-fund-fsk-jpmorgan-chase-credit.html",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Meet the YouTube whisperers, a booming class of advisors behind MrBeast and other million-dollar channels",
-      "description": "A burgeoning group of YouTube strategists are charging big money to YouTubers who want to expand their popularity.",
+      "title": "Trump invites Elon Musk, Tim Cook, Larry Fink and other CEOs to join China trip for Xi summit",
+      "description": "Trump invited Tesla's Elon Musk, Apple's Tim Cook and Blackrock's Larry Fink to join his China trip for talks with Xi Jinping on trade, AI and geopolitics.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/10/youtube-advisors-mrbeast-top-creators-platform-viewership.html",
+      "url": "https://www.cnbc.com/2026/05/11/trump-ceos-elon-musk-tim-cook-larry-fink-xi-china-summit.html",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "‘The S&P 500 seems to be doing particularly well’: I’m 66. Is this a good time to invest $100,000 in the stock market?",
-      "description": "“I own my home and I have no debt.”",
+      "title": "Michael Burry is not a believer: 'For any stocks going parabolic reduce positions almost entirely'",
+      "description": "Michael Burry said investors should \"reject greed\" as enthusiasm around artificial intelligence and momentum-driven trades pushes valuations sharply higher.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/11/michael-burry-is-not-a-believer-for-any-stocks-going-parabolic-reduce-positions-almost-entirely.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "AI is ‘absolutely useless’ at forecasting inflation. This proven model is 12 times more accurate.",
+      "description": "A “low-tech” tool from the Cleveland Fed consistently outperforms generative AI, which has struggled to provide reliable forecasts.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-s-p-500-seems-to-be-doing-particularly-well-im-66-is-this-a-good-time-to-invest-100-000-in-the-stock-market-46fb8ff8?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/ai-is-absolutely-useless-at-forecasting-inflation-this-proven-model-is-12-times-more-accurate-d176f411?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Stocks are walking a tightrope to fresh record highs — as a handful of names do most of the heavy lifting",
-      "description": "Investors are caught on a tightrope — watching a very narrow band of tech stocks lift the stock market to fresh record highs, while looking down below for signs of trouble.",
+      "title": "Nearly half of women are cheating themselves out of free money",
+      "description": "This is almost a guaranteed way to end up with too little money in retirement.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/stocks-are-walking-a-tightrope-to-fresh-record-highs-as-a-handful-of-names-do-most-of-the-heavy-lifting-fe5a166a?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/how-nearly-half-of-women-cheat-themselves-out-of-free-money-c9afaf67?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Spurs vs. Timberwolves odds, prediction, time: 2026 NBA playoff picks, Game 4 best bets from proven model",
-      "description": "SportsLine's model reveals its San Antonio Spurs vs. Minnesota Timberwolves Game 4 picks for Sunday",
+      "title": "Intel’s stock extends its hot streak. This is the latest source of optimism.",
+      "description": "The company is reportedly working with South Korea’s SK Hynix on new chip-packaging technology.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/intels-stock-extends-its-hot-streak-this-is-the-latest-source-of-optimism-41bb2b23?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "2026 NBA playoff bracket: Schedule, matchups as Knicks sweep 76ers to advance to semifinals",
+      "description": "The Knicks advanced on Sunday, while the Timberwolves evened up their series against the Spurs",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nba/news/spurs-timberwolves-odds-prediction-time-2026-nba-playoff-picks-game-4-best-bets/",
+      "url": "https://www.cbssports.com/nba/news/2026-nba-playoff-bracket-matchups-schedule/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Ajay Mitchell looks like a future star, so how did the Thunder lock him into a three-year, near-minimum deal?",
-      "description": "OKC's strategy of paying young non-superstars has once again paid off -- and almost certainly will next time too",
+      "title": "Deonte Banks a bust? Why the Giants declined fifth-year option of cornerback and what happens next",
+      "description": "New York made the right call to decline Banks' option",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nba/news/ajay-mitchell-thunder-contract-future-star/",
+      "url": "https://www.cbssports.com/nfl/news/why-giants-declined-fifth-year-option-cornerback-deonte-banks/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "NBA player prop picks, odds: Model reveals three best 2026 NBA Playoffs prop bets for Sunday, May 10",
-      "description": "SportsLine's model has revealed top NBA props picks and NBA predictions for the NBA Playoffs on Sunday",
+      "title": "2026 NFL schedule leaks and rumors: Here's a running list of every known game ahead of full May 14 release",
+      "description": "The Sunday night game for Week 1 was announced and more leaks will be coming",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nba/news/nba-player-prop-picks-odds-model-reveals-three-best-2026-nba-playoffs-prop-bets-for-sunday-may-10/",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-schedule-leaks-rumors/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "USWNT's Emma Hayes hails Zohran Mamdani's Gotham FC ticket initiative, continues prep for Women's World Cup",
-      "description": "Hayes, a lifelong London resident, has spent the last month in the U.S. attending multiple NWSL matches and meeting with key stakeholders across American soccer",
+      "title": "Use DraftKings promo code for $100 in bonus bets by targeting Thunder-Lakers, Pistons-Cavaliers, MLB Monday",
+      "description": "DraftKings offers $100 in bonus bets instantly after your first $5 wager for NBA and MLB betting on Monday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/uswnts-emma-hayes-zohran-mamdanis-gotham-fc-ticket-initiative-uswnt-world-cup/",
+      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-100-bonus-bets-thunder-lakers-pistons-cavaliers-mlb-monday/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
