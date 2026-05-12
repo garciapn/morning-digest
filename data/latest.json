@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-11T16:16:16.200022+00:00",
-  "edition": "#97",
+  "date": "2026-05-12T16:07:18.255891+00:00",
+  "edition": "#98",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,228 +8,228 @@
   },
   "stories": [
     {
-      "title": "‘Too early’ to talk IPO, Redwood Materials’ incoming CFO says",
-      "description": "The battery-recycling and energy-storage company has hired former Tesla finance chief Deepak Ahuja, reuniting him with former Tesla CTO JB Straubel.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/11/too-early-to-talk-ipo-for-redwood-materials-incoming-cfo-says/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Pirates are already playing Forza Horizon 6 days before its launch",
-      "description": "Crackers take advantage of unencrypted files that briefly appeared on Steam.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/05/pirates-are-already-playing-forza-horizon-6-days-before-its-launch/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "F1 set for another engine tweak in 2027, and what's this about V8s?",
-      "description": "Rather than dig in, the sport is being proactive about fixing the problem.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/05/f1-set-for-another-engine-tweak-in-2027-and-whats-this-about-v8s/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Show HN: Free tool to see how much AI bots are costing your site",
-      "description": "Article URL: https://botcost.dev Comments URL: https://news.ycombinator.com/item?id=48096045 Points: 12 # Comments: 9",
+      "title": "eBay Rejects GameStop's $56B Takeover as Not Credible",
+      "description": "Article URL: https://www.bloomberg.com/news/articles/2026-05-12/ebay-rejects-gamestop-s-56-billion-takeover-as-not-credible Comments URL: https://news.ycombinator.com/item?id=48110021 Points: 4 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://botcost.dev",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/ebay-rejects-gamestop-s-56-billion-takeover-as-not-credible",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "NYT’s Wordle to become a TV game show",
-      "description": "The popular mobile puzzle game will become a TV game show next year.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/11/nyts-wordle-to-become-a-tv-game-show/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "What's Wrong with AI?",
-      "description": "Article URL: https://kurtis.weblog.lol/2026/05/whats-wrong-with-ai Comments URL: https://news.ycombinator.com/item?id=48095337 Points: 7 # Comments: 1",
+      "title": "Operation: Epic Furious",
+      "description": "Article URL: https://www.epicfurious.com/ Comments URL: https://news.ycombinator.com/item?id=48109519 Points: 4 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://kurtis.weblog.lol/2026/05/whats-wrong-with-ai",
+      "url": "https://www.epicfurious.com/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Exaforce raises $125M Series B to build AI for catching and stopping cyberattacks as they happen",
+      "description": "The round valued the three-year-old startup at $725 million.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Bambu Lab is abusing the open source social contract",
+      "description": "Article URL: https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/ Comments URL: https://news.ycombinator.com/item?id=48109224 Points: 269 # Comments: 99",
+      "source": "Hacker News",
+      "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Analysis: Has Starmer done enough to save his premiership?",
-      "description": "Was the prime minister's speech enough to avert a challenge to his leadership less than two years after he won a landslide general election victory?",
+      "title": "Waymo issues recall to deal with a flooding problem",
+      "description": "Waymo has issued a software recall that makes its robotaxis more cautious around flooded areas. A \"final remedy\" is in the works.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/12/waymo-issues-recall-to-deal-with-a-flooding-problem/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Instructure strikes deal with hackers who breached it twice",
+      "description": "The maker of the Canvas school software said it \"reached an agreement\" with the hackers, but provided no guarantees that the hackers would not release the data or keep their word.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/12/instructure-strikes-deal-with-hackers-who-breached-it-twice/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "At a glance: Starmer grapples with leadership crisis",
+      "description": "The prime minister is fighting to stay on in No 10 as heavy election losses trigger a Labour revolt.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3r2pr95yq0o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c8jv1mzzkjgo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "British passengers from cruise ship isolating in hospital",
-      "description": "The passengers landed in the UK on Sunday and none have reported symptoms, but they will will be monitored in hospital for 72 hours.",
+      "title": "Watch: Reporters shout questions at ministers leaving No 10",
+      "description": "Several ministers were met with a barrage of questions about the PM's future after leaving a cabinet meeting.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4g83vddnz0o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/videos/cn8p175l7v2o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Washington correspondents'  dinner shooting suspect pleads not guilty",
-      "description": "Cole Tomas Allen, 31, was charged with attempting to assassinate US President Donald Trump.",
+      "title": "Henry Zeffman: Keir Starmer fights back for now",
+      "description": "The prime minister told the Cabinet a leadership contest had not been triggered, and that he wouldn't be resigning.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4g48ewgz8mo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/clypl327620o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "'Atlanta Journal-Constitution' chief steps down as bold goals yield to tough realities",
-      "description": "The owners of the Atlanta Journal-Constitution invested $150 million to reinvent the paper. The changes have been significant. Three years in, the payoff has been modest.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/05/11/nx-s1-5818208/ajc-andrew-morse-leaving",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Trump rejects Iran's ceasefire proposal response. And, Congress to tackle ICE funding",
-      "description": "Trump rejected Iran's response to a U.S. peace proposal, calling it \"totally unacceptable.\" And, Congressional Republicans are trying to push for three years of funding for immigration enforcement.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/05/11/g-s1-121375/up-first-newsletter-trump-iran-congress-ice-cbp-hantavirus",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "Oregon's most unexpected gubernatorial candidate? A pencil with a point",
-      "description": "Oregon's public schools rank last in fourth-grade reading, according to an analysis of national testing. As a wake-up call for elected leaders, Pencil is running for governor as a write-in candidate.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/05/11/nx-s1-5781255/oregon-reading-education-governor-pencil",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "5h ago"
-    },
-    {
-      "title": "Iran denies proposal sent to US contains ‘excessive demands’",
-      "description": "Iran says Tehran’s response to the latest US proposal to end the war was “not excessive.\"",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/iran-denies-proposal-sent-to-us-contains-excessive-demands?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Who could challenge Keir Starmer for the UK PM’s job? Meet the candidates",
-      "description": "The British prime minister has promised change as he battles to fend off leadership challenge.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/11/who-could-challenge-keir-starmer-for-the-uk-pms-job-meet-the-candidates?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Israeli killings in Lebanon rise: Is even the pretence of a ceasefire over?",
-      "description": "Israel and Hezbollah have increased their attacks on each other, despite official ceasefire.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/11/israeli-killings-in-lebanon-rise-is-even-the-pretence-of-a-ceasefire-over?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Iran war effect: Why is Modi asking Indians to avoid foreign trips, gold?",
-      "description": "PM urges Indians to work from home and avoid foreign trips during the global energy crisis due to the Iran war.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/11/iran-war-effect-why-is-modi-asking-indians-to-avoid-foreign-trips-gold?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Whales could be harmed by diverted ships avoiding Middle East, scientists warn",
-      "description": "Ships have rerouted around the Cape of Good Hope since 2023 to avoid conflicts in the Middle East.",
+      "title": "Jess Phillips's resignation letter in full",
+      "description": "The prominent Labour MP has resigned as safeguarding minister over Sir Keir Starmer's leadership.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cz02dkkd9j9o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "US and French nationals test positive for hantavirus after leaving ship",
-      "description": "The American national has arrived in Nebraska, while a French woman is isolating in Paris.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
+      "url": "https://www.bbc.com/news/articles/cglpz89265jo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "JPMorgan Chase-led bank group reins in credit line to troubled KKR private credit fund as losses mount",
-      "description": "The KKR fund, often referred to by its ticker, FSK, has become one of the most visible fault lines in the private credit story.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/11/kkr-private-credit-fund-fsk-jpmorgan-chase-credit.html",
-      "category": "📈 MARKETS",
+      "title": "She spent a year using AI to do almost everything. Here's what she learned",
+      "description": "Tech writer Joanna Stern used AI to read medical results, respond to texts and serve as her therapist. She says her emotional connection to it was unsettling . Her new book is I Am Not a Robot.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/12/nx-s1-5816163/she-spent-a-year-using-ai-to-do-almost-everything-heres-what-she-learned",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Inflation jumps to its highest level since 2023. Here are 3 things costing a lot more",
+      "description": "Rising gasoline prices pushed inflation to its highest level in almost three years in April. Consumer prices were up 3.8% from a year ago.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/12/nx-s1-5818279/inflation-cpi-gas-prices-housing-fuel-iran-war",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "Israel killing at least one child a week in occupied West Bank, UN says",
+      "description": "Israeli military and settlers have killed at least one Palestinian child a week on average in the occupied West Bank.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/israel-killing-at-least-one-child-a-week-in-occupied-west-bank-un-says?traffic_source=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Trump invites Elon Musk, Tim Cook, Larry Fink and other CEOs to join China trip for Xi summit",
-      "description": "Trump invited Tesla's Elon Musk, Apple's Tim Cook and Blackrock's Larry Fink to join his China trip for talks with Xi Jinping on trade, AI and geopolitics.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/11/trump-ceos-elon-musk-tim-cook-larry-fink-xi-china-summit.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "title": "How one Palestinian teen’s life changed forever after Israeli gunfire",
+      "description": "Amir Othman was 16 when Israeli soldiers shot him on a hill near Nablus in the occupied West Bank.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/how-one-palestinian-teens-life-changed-forever-after-israeli-gunfire?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Michael Burry is not a believer: 'For any stocks going parabolic reduce positions almost entirely'",
-      "description": "Michael Burry said investors should \"reject greed\" as enthusiasm around artificial intelligence and momentum-driven trades pushes valuations sharply higher.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/11/michael-burry-is-not-a-believer-for-any-stocks-going-parabolic-reduce-positions-almost-entirely.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "title": "Uganda's president sworn in for record seventh term",
+      "description": "Yoweri Museveni, 81, won disputed elections in January to extend his 40-year rule.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cqxp23272j3o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
     },
     {
-      "title": "AI is ‘absolutely useless’ at forecasting inflation. This proven model is 12 times more accurate.",
-      "description": "A “low-tech” tool from the Cleveland Fed consistently outperforms generative AI, which has struggled to provide reliable forecasts.",
+      "title": "Lamine Yamal’s Palestine flag wave hailed by fans, activists and athletes",
+      "description": "Palestinians in Gaza, football fans from around the world and activists laud Barca and Spain footballer.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/5/12/lamine-yamals-palestine-flag-wave-hailed-by-fans-activists-and-athletes?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "The Flotilla Diaries: Inside the 2025 mission to break the Gaza siege",
+      "description": "Determined to break the siege on Gaza, two filmmakers share firsthand accounts on board the Global Sumud Flotilla.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/witness/2026/5/12/the-flotilla-diaries-inside-the-2025-mission-to-break-the-gaza-siege?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "US inflation jumps to 3.8% as energy costs surge from Iran war",
+      "description": "The key measure of US inflation rises its highest level since May 2023 as consumers feel the impact of the Iran war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "These 10 ‘HALO’ stocks protect your portfolio from the AI bubble",
+      "description": "These high capital-intensity, asset-heavy companies offer a proven hedge against tech-market volatility.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/ai-is-absolutely-useless-at-forecasting-inflation-this-proven-model-is-12-times-more-accurate-d176f411?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/these-10-halo-stocks-protect-your-portfolio-from-the-ai-bubble-7774336b?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Nearly half of women are cheating themselves out of free money",
-      "description": "This is almost a guaranteed way to end up with too little money in retirement.",
+      "title": "High inflation is pushing yields to 5% on Treasury bonds",
+      "description": "Investors were ditching U.S. government debt early Tuesday as higher energy prices from the Iran war pinch Americans’ pocketbooks and push up the cost of living.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-nearly-half-of-women-cheat-themselves-out-of-free-money-c9afaf67?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/high-inflation-is-pushing-yields-to-5-on-treasury-bonds-679d5a81?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Intel’s stock extends its hot streak. This is the latest source of optimism.",
-      "description": "The company is reportedly working with South Korea’s SK Hynix on new chip-packaging technology.",
+      "title": "EBay unbans Ryan Cohen as it rejects GameStop’s takeover attempt",
+      "description": "The e-commerce company had permanently banned Cohen’s eBay account, which included GameStock merch and other items listed for as much as $14,000.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/intels-stock-extends-its-hot-streak-this-is-the-latest-source-of-optimism-41bb2b23?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/ebay-unbans-ryan-cohen-as-it-rejects-gamestops-takeover-attempt-2d100e2b?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "2026 NBA playoff bracket: Schedule, matchups as Knicks sweep 76ers to advance to semifinals",
-      "description": "The Knicks advanced on Sunday, while the Timberwolves evened up their series against the Spurs",
+      "title": "The summer box office is off to a hot start as weekend ticket sales top $160 million",
+      "description": "The summer box office is off to a sizzling start, thanks in part to strong week-after-week performance from returning titles.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/12/summer-box-office-weekend-ticket-sales.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Social Security’s COLA could rise in 2027, boosted by Iran war impact and inflation",
+      "description": "Surging gasoline and energy prices, as well as the cost of groceries, have pushed the forecast for the cost-of-living adjustment higher.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/social-securitys-cola-could-rise-in-2027-boosted-by-war-impact-and-inflation-b5db35a6?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Here's the inflation breakdown for April 2026 — in one chart",
+      "description": "The Iran war has pushed up gasoline, groceries and other prices for consumers.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/12/inflation-breakdown-for-april-2026-cpi-chart.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Steve Sarkisian criticizes College Football Playoff selection committee as 24-team model gains traction",
+      "description": "Despite a groundswell of recent support, the Texas coach thinks doubling the CFP field would be a 'knee-jerk reaction'",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nba/news/2026-nba-playoff-bracket-matchups-schedule/",
+      "url": "https://www.cbssports.com/college-football/news/steve-sarkisian-criticizes-college-football-playoff-selection-committee-24-team-model/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Deonte Banks a bust? Why the Giants declined fifth-year option of cornerback and what happens next",
-      "description": "New York made the right call to decline Banks' option",
+      "title": "Inside the Big 12's bet on private equity to close revenue gap, compete in the NIL era",
+      "description": "Big 12 commissioner Brett Yormark turned to private capital in a deal that could reshape how conferences make money",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/why-giants-declined-fifth-year-option-cornerback-deonte-banks/",
+      "url": "https://www.cbssports.com/college-football/news/big-12-private-equity-nil-revenue/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "2026 NFL schedule leaks and rumors: Here's a running list of every known game ahead of full May 14 release",
-      "description": "The Sunday night game for Week 1 was announced and more leaks will be coming",
+      "title": "René Cárdenas, MLB's first Spanish-language broadcaster, dies at 96",
+      "description": "Cárdenas called games for the Dodgers, Astros and Rangers across a decades-long career",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-schedule-leaks-rumors/",
+      "url": "https://www.cbssports.com/mlb/news/rene-cardena-mlb-first-spanish-language-broadcaster-dies/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Use DraftKings promo code for $100 in bonus bets by targeting Thunder-Lakers, Pistons-Cavaliers, MLB Monday",
-      "description": "DraftKings offers $100 in bonus bets instantly after your first $5 wager for NBA and MLB betting on Monday",
+      "title": "NBA player prop picks, odds: Three best 2026 NBA Playoffs prop bets for Tuesday, May 12",
+      "description": "SportsLine's model and team of experts have revealed top NBA props picks and NBA predictions for the NBA Playoffs on Tuesday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-100-bonus-bets-thunder-lakers-pistons-cavaliers-mlb-monday/",
+      "url": "https://www.cbssports.com/nba/news/nba-player-prop-picks-odds-three-best-2026-nba-playoffs-prop-bets-tuesday-may-12/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     }
   ]
 }
