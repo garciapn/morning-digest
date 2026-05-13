@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-12T16:07:18.255891+00:00",
-  "edition": "#98",
+  "date": "2026-05-13T16:04:11.054332+00:00",
+  "edition": "#99",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "eBay Rejects GameStop's $56B Takeover as Not Credible",
-      "description": "Article URL: https://www.bloomberg.com/news/articles/2026-05-12/ebay-rejects-gamestop-s-56-billion-takeover-as-not-credible Comments URL: https://news.ycombinator.com/item?id=48110021 Points: 4 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-12/ebay-rejects-gamestop-s-56-billion-takeover-as-not-credible",
+      "title": "Anthropic courts a new kind of customer: small business owners",
+      "description": "Anthropic is looking to broaden its customer base from larger enterprise customers to smaller and mid-sized businesses.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Operation: Epic Furious",
-      "description": "Article URL: https://www.epicfurious.com/ Comments URL: https://news.ycombinator.com/item?id=48109519 Points: 4 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://www.epicfurious.com/",
+      "title": "Ransomware hackers claim breach at Foxconn, a major electronics manufacturer for Apple, Google, and Nvidia",
+      "description": "A ransomware group has claimed responsibility for hacking the electronics manufacturing giant Foxconn, and is attempting to extort the company.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/13/ransomware-hackers-claim-breach-at-foxconn-a-major-electronics-manufacturer-for-apple-google-and-nvidia/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Exaforce raises $125M Series B to build AI for catching and stopping cyberattacks as they happen",
-      "description": "The round valued the three-year-old startup at $725 million.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/",
+      "title": "Kickstarter Is Forced to Ban Adult Content by Payment Processors",
+      "description": "Article URL: https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648 Comments URL: https://news.ycombinator.com/item?id=48123198 Points: 77 # Comments…",
+      "source": "Hacker News",
+      "url": "https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Bambu Lab is abusing the open source social contract",
-      "description": "Article URL: https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/ Comments URL: https://news.ycombinator.com/item?id=48109224 Points: 269 # Comments: 99",
+      "title": "50K Tahoe residents need power as utility eyes redirecting lines to data centers",
+      "description": "Article URL: https://fortune.com/2026/05/12/lake-tahoe-data-center-49000-residents-power-source/ Comments URL: https://news.ycombinator.com/item?id=48123090 Points: 26 # Comments: 2",
       "source": "Hacker News",
-      "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+      "url": "https://fortune.com/2026/05/12/lake-tahoe-data-center-49000-residents-power-source/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Waymo issues recall to deal with a flooding problem",
-      "description": "Waymo has issued a software recall that makes its robotaxis more cautious around flooded areas. A \"final remedy\" is in the works.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/12/waymo-issues-recall-to-deal-with-a-flooding-problem/",
+      "title": "Open Source Resistance: keep OSS alive on company time",
+      "description": "Article URL: https://ossresistance.com/ Comments URL: https://news.ycombinator.com/item?id=48123015 Points: 9 # Comments: 2",
+      "source": "Hacker News",
+      "url": "https://ossresistance.com/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Instructure strikes deal with hackers who breached it twice",
-      "description": "The maker of the Canvas school software said it \"reached an agreement\" with the hackers, but provided no guarantees that the hackers would not release the data or keep their word.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/12/instructure-strikes-deal-with-hackers-who-breached-it-twice/",
+      "title": "The limits of Rust, or why you should probably not follow Amazon and Cloudflare",
+      "description": "Article URL: https://kerkour.com/the-limits-of-rust Comments URL: https://news.ycombinator.com/item?id=48122954 Points: 25 # Comments: 6",
+      "source": "Hacker News",
+      "url": "https://kerkour.com/the-limits-of-rust",
       "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Bodies of three young women pulled from sea off Brighton",
+      "description": "Brighton beach is closed after police launch inquiry into what they describe as a \"tragic incident\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0e29n94ze4o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "From tourist tax to digital ID: BBC correspondents on the key bills in the King's Speech",
+      "description": "BBC correspondents look at some of the new bills Sir Keir Starmer's government wants to pass.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1j2nr8kgk3o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Trump arrives in China for high-stakes meeting with Xi Jinping",
+      "description": "The leaders of the global superpowers are expected to discuss the war in Iran, tariffs, AI and Taiwan during the two-day visit.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "At a glance: Starmer grapples with leadership crisis",
-      "description": "The prime minister is fighting to stay on in No 10 as heavy election losses trigger a Labour revolt.",
+      "title": "Standards watchdog launches probe into £5m Farage gift",
+      "description": "The probe will examine whether the Reform UK leader should have declared the gift when he became an MP.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8jv1mzzkjgo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Watch: Reporters shout questions at ministers leaving No 10",
-      "description": "Several ministers were met with a barrage of questions about the PM's future after leaving a cabinet meeting.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cn8p175l7v2o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Henry Zeffman: Keir Starmer fights back for now",
-      "description": "The prime minister told the Cabinet a leadership contest had not been triggered, and that he wouldn't be resigning.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clypl327620o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c0l26g01703o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Jess Phillips's resignation letter in full",
-      "description": "The prominent Labour MP has resigned as safeguarding minister over Sir Keir Starmer's leadership.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cglpz89265jo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "She spent a year using AI to do almost everything. Here's what she learned",
-      "description": "Tech writer Joanna Stern used AI to read medical results, respond to texts and serve as her therapist. She says her emotional connection to it was unsettling . Her new book is I Am Not a Robot.",
+      "title": "Alex Murdaugh will get a new murder trial. Here's a timeline of his case",
+      "description": "Alex Murdaugh — the disgraced former lawyer serving a life term for the murders of his wife and son — will get a new trial in South Carolina, the state Supreme Court said on Wednesday.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/05/12/nx-s1-5816163/she-spent-a-year-using-ai-to-do-almost-everything-heres-what-she-learned",
+      "url": "https://www.npr.org/2026/05/13/nx-s1-5719271/alex-murdaugh-murder-timeline-trial",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Inflation jumps to its highest level since 2023. Here are 3 things costing a lot more",
-      "description": "Rising gasoline prices pushed inflation to its highest level in almost three years in April. Consumer prices were up 3.8% from a year ago.",
+      "title": "Gunfire breaks out in Philippine Senate as police try to arrest senator",
+      "description": "Witnesses say a burst of gunfire has rung out in the Philippine Senate where authorities have tried to arrest a senator who is wanted by the ICC.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/05/12/nx-s1-5818279/inflation-cpi-gas-prices-housing-fuel-iran-war",
+      "url": "https://www.npr.org/2026/05/13/g-s1-121827/gunfire-breaks-out-in-philippine-senate-as-police-try-to-arrest-senator",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Israel killing at least one child a week in occupied West Bank, UN says",
-      "description": "Israeli military and settlers have killed at least one Palestinian child a week on average in the occupied West Bank.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/israel-killing-at-least-one-child-a-week-in-occupied-west-bank-un-says?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "How one Palestinian teen’s life changed forever after Israeli gunfire",
-      "description": "Amir Othman was 16 when Israeli soldiers shot him on a hill near Nablus in the occupied West Bank.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/how-one-palestinian-teens-life-changed-forever-after-israeli-gunfire?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Uganda's president sworn in for record seventh term",
-      "description": "Yoweri Museveni, 81, won disputed elections in January to extend his 40-year rule.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cqxp23272j3o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Lamine Yamal’s Palestine flag wave hailed by fans, activists and athletes",
-      "description": "Palestinians in Gaza, football fans from around the world and activists laud Barca and Spain footballer.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/12/lamine-yamals-palestine-flag-wave-hailed-by-fans-activists-and-athletes?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "The Flotilla Diaries: Inside the 2025 mission to break the Gaza siege",
-      "description": "Determined to break the siege on Gaza, two filmmakers share firsthand accounts on board the Global Sumud Flotilla.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/witness/2026/5/12/the-flotilla-diaries-inside-the-2025-mission-to-break-the-gaza-siege?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "US inflation jumps to 3.8% as energy costs surge from Iran war",
-      "description": "The key measure of US inflation rises its highest level since May 2023 as consumers feel the impact of the Iran war.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
       "timeAgo": "2h ago"
     },
     {
-      "title": "These 10 ‘HALO’ stocks protect your portfolio from the AI bubble",
-      "description": "These high capital-intensity, asset-heavy companies offer a proven hedge against tech-market volatility.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/these-10-halo-stocks-protect-your-portfolio-from-the-ai-bubble-7774336b?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
+      "title": "Court overturns Alex Murdaugh's murder convictions and orders new trial",
+      "description": "The court has ordered a new trial over the June 2021 killings of Paul and Maggie Murdaugh.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cedpvnq7wn1o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "High inflation is pushing yields to 5% on Treasury bonds",
-      "description": "Investors were ditching U.S. government debt early Tuesday as higher energy prices from the Iran war pinch Americans’ pocketbooks and push up the cost of living.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/high-inflation-is-pushing-yields-to-5-on-treasury-bonds-679d5a81?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
+      "title": "LIVE: Manchester City vs Crystal Palace – Premier League",
+      "description": "Follow our live build-up with full team news coverage ahead of our text commentary stream.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/5/13/live-manchester-city-vs-crystal-palace-premier-league-football?traffic_source=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "EBay unbans Ryan Cohen as it rejects GameStop’s takeover attempt",
-      "description": "The e-commerce company had permanently banned Cohen’s eBay account, which included GameStock merch and other items listed for as much as $14,000.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/ebay-unbans-ryan-cohen-as-it-rejects-gamestops-takeover-attempt-2d100e2b?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
+      "title": "France confines over 1,700 passengers on cruise ship over gastroenteritis",
+      "description": "The British ship docked in the southwestern French city of Bordeaux reports 49 suspected cases.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/13/cruise-ship-passengers-barred-from-disembraking-amid-illness-outbreak?traffic_source=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "The summer box office is off to a hot start as weekend ticket sales top $160 million",
-      "description": "The summer box office is off to a sizzling start, thanks in part to strong week-after-week performance from returning titles.",
+      "title": "Trump arrives in China for two-day summit with Xi",
+      "description": "US President Donald Trump has landed in Beijing to meet China’s President Xi Jinping.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/trump-arrives-in-china-for-two-day-summit-with-xi?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "12 killed by a series of Israeli strikes on cars in Lebanon",
+      "description": "A series of Israeli strikes on vehicles in Lebanon killed at least 12 people, including a woman and her two children.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/12-killed-by-a-series-of-israeli-strikes-on-cars-in-lebanon?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Woman isolating on British island in South Pacific after hantavirus contact",
+      "description": "The woman who was on a virus-hit ship shows \"no signs of illness\", the government of Pitcairn Islands, a British Overseas Territory, says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx21p7k70reo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Jamie Dimon warns JPMorgan may rethink new London office if 'very smart' Starmer is ousted as UK PM",
+      "description": "Starmer's leadership is under pressure, sparking concern in the bond market.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/12/summer-box-office-weekend-ticket-sales.html",
+      "url": "https://www.cnbc.com/2026/05/13/jamie-dimon-says-jp-morgan-may-rethink-london-office-if-starmer-ousted.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Social Security’s COLA could rise in 2027, boosted by Iran war impact and inflation",
-      "description": "Surging gasoline and energy prices, as well as the cost of groceries, have pushed the forecast for the cost-of-living adjustment higher.",
+      "title": "Nvidia’s Jensen Huang got the last Air Force One seat to China. Why it’s so crucial for the chipmaker.",
+      "description": "Traders are interpreting the late addition of Nvidia’s CEO to the Air Force One passenger list as a signal that good news about export licenses may be in the offing",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/social-securitys-cola-could-rise-in-2027-boosted-by-war-impact-and-inflation-b5db35a6?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/nvidias-jensen-huang-got-the-last-air-force-one-seat-to-china-why-its-so-crucial-for-the-chipmaker-7f220dbc?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Here's the inflation breakdown for April 2026 — in one chart",
-      "description": "The Iran war has pushed up gasoline, groceries and other prices for consumers.",
+      "title": "‘I have zero envy’: I’m 75, enjoy working and live below my means. Why are more people not like me?",
+      "description": "“I did two basic things right: I married the right person and chose a trade I can practice until I die.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-have-zero-envy-im-75-enjoy-working-and-live-below-my-means-why-are-more-people-not-like-me-1b68f8eb?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Why 3.8% inflation actually feels like an 8% hit to your retirement savings",
+      "description": "Official CPI masks double-digit spikes in healthcare, insurance and energy. Meanwhile, your outdated strategy quietly drains your portfolio.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-3-8-inflation-actually-feels-like-an-8-hit-to-your-retirement-savings-9e0ba615?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Is AI power really the new oil? Soon it will trade just like a commodity.",
+      "description": "CME Group plans to launch futures that would let investors bet on the price of computing power.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/is-ai-power-really-the-new-oil-soon-it-will-trade-like-just-like-a-commodity-42ce65cb?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Altman details Musk's OpenAI fallout, says nonprofit was 'left for dead'",
+      "description": "Musk has accused Altman and another OpenAI co-founder of trying to \"steal a charity\"",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/12/inflation-breakdown-for-april-2026-cpi-chart.html",
+      "url": "https://www.cnbc.com/2026/05/13/altman-musk-trial-testimony-takeaways.html",
       "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Steve Sarkisian criticizes College Football Playoff selection committee as 24-team model gains traction",
-      "description": "Despite a groundswell of recent support, the Texas coach thinks doubling the CFP field would be a 'knee-jerk reaction'",
+      "title": "2026 NFL schedule: Miles traveled for all 32 teams, with 49ers set for historically grueling season",
+      "description": "Here are the miles each of the 32 NFL teams are scheduled to travel in 2026",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/steve-sarkisian-criticizes-college-football-playoff-selection-committee-24-team-model/",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-schedule-miles-traveled/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Inside the Big 12's bet on private equity to close revenue gap, compete in the NIL era",
-      "description": "Big 12 commissioner Brett Yormark turned to private capital in a deal that could reshape how conferences make money",
+      "title": "CBS Sports 138: Ohio State edges out Texas for No. 1 in post-spring college football rankings",
+      "description": "Ranking every FBS team ahead of the 2026 college football season with spring practice now in the rearview mirror",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/big-12-private-equity-nil-revenue/",
+      "url": "https://www.cbssports.com/college-football/news/college-football-rankings-cbs-sports-136-post-spring-ohio-state-texas/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "René Cárdenas, MLB's first Spanish-language broadcaster, dies at 96",
-      "description": "Cárdenas called games for the Dodgers, Astros and Rangers across a decades-long career",
+      "title": "Rory McIlroy ready to make up for lost time as condensed major schedule offers runway to capitalize",
+      "description": "McIlroy eyes his third title in his last six major championship starts this week outside of Philadelphia",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/mlb/news/rene-cardena-mlb-first-spanish-language-broadcaster-dies/",
+      "url": "https://www.cbssports.com/golf/news/rory-mcilroy-pga-championship-masters-golf-major-schedule/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "NBA player prop picks, odds: Three best 2026 NBA Playoffs prop bets for Tuesday, May 12",
-      "description": "SportsLine's model and team of experts have revealed top NBA props picks and NBA predictions for the NBA Playoffs on Tuesday",
+      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Pistons-Cavaliers, MLB, NHL betting Wednesday",
+      "description": "Use the latest BetMGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for NBA, MLB and NHL betting on Wednesday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nba/news/nba-player-prop-picks-odds-three-best-2026-nba-playoffs-prop-bets-tuesday-may-12/",
+      "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-in-bonus-bets-pistons-cavaliers-mlb-nhl-betting-wednesday/",
       "category": "🏀 SPORTS",
       "timeAgo": "1h ago"
     }
