@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-13T16:04:11.054332+00:00",
-  "edition": "#99",
+  "date": "2026-05-14T15:42:03.760125+00:00",
+  "edition": "#100",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,228 +8,228 @@
   },
   "stories": [
     {
-      "title": "Anthropic courts a new kind of customer: small business owners",
-      "description": "Anthropic is looking to broaden its customer base from larger enterprise customers to smaller and mid-sized businesses.",
+      "title": "Khosla Ventures is betting $10M on Ian Crosby, whose last startup, Bench, imploded",
+      "description": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
+      "url": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Ransomware hackers claim breach at Foxconn, a major electronics manufacturer for Apple, Google, and Nvidia",
-      "description": "A ransomware group has claimed responsibility for hacking the electronics manufacturing giant Foxconn, and is attempting to extort the company.",
+      "title": "Anthropic forms $200M partnership with the Gates Foundation",
+      "description": "Article URL: https://www.anthropic.com/news/gates-foundation-partnership Comments URL: https://news.ycombinator.com/item?id=48136662 Points: 8 # Comments: 0",
+      "source": "Hacker News",
+      "url": "https://www.anthropic.com/news/gates-foundation-partnership",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "How to turn off Instagram’s new Instants feature and retract photos you accidentally shared",
+      "description": "While the Meta-owned social network billed Instants as a new format to share real-life moments as they’re happening, many users are looking for a way to turn off the feature, especially those who have ended up accidenta…",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/13/ransomware-hackers-claim-breach-at-foxconn-a-major-electronics-manufacturer-for-apple-google-and-nvidia/",
+      "url": "https://techcrunch.com/2026/05/14/how-to-turn-of-instagrams-new-instants-feature-and-retract-photos-you-accidentally-shared/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Kickstarter Is Forced to Ban Adult Content by Payment Processors",
-      "description": "Article URL: https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648 Comments URL: https://news.ycombinator.com/item?id=48123198 Points: 77 # Comments…",
+      "title": "MIT: 20% drop in incoming graduate students",
+      "description": "Article URL: https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline Comments URL: https://news.ycombinator.com/item?id=48136262 Points: 136 # Comments:…",
       "source": "Hacker News",
-      "url": "https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648",
+      "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "50K Tahoe residents need power as utility eyes redirecting lines to data centers",
-      "description": "Article URL: https://fortune.com/2026/05/12/lake-tahoe-data-center-49000-residents-power-source/ Comments URL: https://news.ycombinator.com/item?id=48123090 Points: 26 # Comments: 2",
+      "title": "Claude AI recovers an 11 yrs old BTC wallet holding 400k USD",
+      "description": "Article URL: https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-o…",
       "source": "Hacker News",
-      "url": "https://fortune.com/2026/05/12/lake-tahoe-data-center-49000-residents-power-source/",
+      "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Open Source Resistance: keep OSS alive on company time",
-      "description": "Article URL: https://ossresistance.com/ Comments URL: https://news.ycombinator.com/item?id=48123015 Points: 9 # Comments: 2",
+      "title": "Meta's New Reality: Record High Profits. Record Low Morale",
+      "description": "Article URL: https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/ Comments URL: https://news.ycombinator.com/item?id=48135782 Points: 88 # Comments: 81",
       "source": "Hacker News",
-      "url": "https://ossresistance.com/",
+      "url": "https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "The limits of Rust, or why you should probably not follow Amazon and Cloudflare",
-      "description": "Article URL: https://kerkour.com/the-limits-of-rust Comments URL: https://news.ycombinator.com/item?id=48122954 Points: 25 # Comments: 6",
-      "source": "Hacker News",
-      "url": "https://kerkour.com/the-limits-of-rust",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Bodies of three young women pulled from sea off Brighton",
-      "description": "Brighton beach is closed after police launch inquiry into what they describe as a \"tragic incident\".",
+      "title": "At a glance: Starmer fights to stay on as prime minister",
+      "description": "The prime minister is fighting to stay on in No 10 as heavy election losses trigger a Labour revolt.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0e29n94ze4o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c8jv1mzzkjgo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "From tourist tax to digital ID: BBC correspondents on the key bills in the King's Speech",
-      "description": "BBC correspondents look at some of the new bills Sir Keir Starmer's government wants to pass.",
+      "title": "UK economy sees surprising growth - these six charts explain what is going on",
+      "description": "The BBC's Faisal Islam explains why the economy is showing more resilience than many expected, despite the war in Iran.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1j2nr8kgk3o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Trump arrives in China for high-stakes meeting with Xi Jinping",
-      "description": "The leaders of the global superpowers are expected to discuss the war in Iran, tariffs, AI and Taiwan during the two-day visit.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/clyprjddgj3o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Standards watchdog launches probe into £5m Farage gift",
-      "description": "The probe will examine whether the Reform UK leader should have declared the gift when he became an MP.",
+      "title": "The potential challengers to Keir Starmer",
+      "description": "Andy Burnham, Angela Rayner and Wes Streeting are all potential candidates for the top job.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0l26g01703o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c3e2n7xn14xo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "Alex Murdaugh will get a new murder trial. Here's a timeline of his case",
-      "description": "Alex Murdaugh — the disgraced former lawyer serving a life term for the murders of his wife and son — will get a new trial in South Carolina, the state Supreme Court said on Wednesday.",
+      "title": "'Where we need vision, we have a vacuum' - read Streeting's resignation letter in full",
+      "description": "Health Secretary Wes Streeting has announced his resignation from government.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce8p7p83vdzo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "A Philippine senator wanted by the International Criminal Court flees from Senate",
+      "description": "A police investigation is underway in the Philippines, with suspicions that the incident was staged to help Sen. Ronald dela Rosa escape.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/05/13/nx-s1-5719271/alex-murdaugh-murder-timeline-trial",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Gunfire breaks out in Philippine Senate as police try to arrest senator",
-      "description": "Witnesses say a burst of gunfire has rung out in the Philippine Senate where authorities have tried to arrest a senator who is wanted by the ICC.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/05/13/g-s1-121827/gunfire-breaks-out-in-philippine-senate-as-police-try-to-arrest-senator",
+      "url": "https://www.npr.org/2026/05/14/g-s1-122021/philippines-senator-escape-wanted-icc",
       "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Court overturns Alex Murdaugh's murder convictions and orders new trial",
-      "description": "The court has ordered a new trial over the June 2021 killings of Paul and Maggie Murdaugh.",
+      "title": "An LA-area mayor acted as an agent for China. Experts say it's part of a pattern",
+      "description": "Eileen Wang, now the former mayor of the City of Arcadia, agreed to plead guilty to one felony charge that she acted as an illegal foreign agent of China.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/14/nx-s1-5819933/china-trump-trip-la-agent-mayor-arcardia",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "‘The world is sounding an alarm’: Why big tech is the new colonist",
+      "description": "Power is no longer exercised through military force alone, but via technology, finance and control over information.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/5/14/the-world-is-sounding-an-alarm-why-big-tech-is-the-new-colonist?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "What to expect from the 48-team format at the World Cup 2026",
+      "description": "Al Jazeera examines key talking points related to the introduction of an expanded 48-nation tournament.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/5/14/fifa-world-cup-2026-what-to-expect-from-the-48-team-format?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Israeli minister blasts Barcelona’s Lamine Yamal for Palestinian flag wave",
+      "description": "Spanish international Lamine Yamal criticised for waving Palestinian flag during bus parade celebrating La Liga title.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/5/14/israeli-minister-blasts-barcelonas-lamine-yamal-for-palestinian-flag-wave?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Trump, Xi discuss Strait of Hormuz as Chinese vessels transit key waterway",
+      "description": "White House says the two leaders agree that the strait 'must remain open to support the free flow of energy'.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/14/trump-xi-discuss-strait-of-hormuz-as-chinese-vessels-transit-key-waterway?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Warning of record global temperatures as chance of very strong El Niño grows",
+      "description": "As El Niño develops this year, scientists are increasingly confident it could be one of the strongest on record with global consequences, as Simon King explains.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cedpvnq7wn1o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "LIVE: Manchester City vs Crystal Palace – Premier League",
-      "description": "Follow our live build-up with full team news coverage ahead of our text commentary stream.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/5/13/live-manchester-city-vs-crystal-palace-premier-league-football?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "France confines over 1,700 passengers on cruise ship over gastroenteritis",
-      "description": "The British ship docked in the southwestern French city of Bordeaux reports 49 suspected cases.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/13/cruise-ship-passengers-barred-from-disembraking-amid-illness-outbreak?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Trump arrives in China for two-day summit with Xi",
-      "description": "US President Donald Trump has landed in Beijing to meet China’s President Xi Jinping.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/trump-arrives-in-china-for-two-day-summit-with-xi?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "12 killed by a series of Israeli strikes on cars in Lebanon",
-      "description": "A series of Israeli strikes on vehicles in Lebanon killed at least 12 people, including a woman and her two children.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/12-killed-by-a-series-of-israeli-strikes-on-cars-in-lebanon?traffic_source=rss",
+      "url": "https://www.bbc.com/weather/articles/cvgzn11v421o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Woman isolating on British island in South Pacific after hantavirus contact",
-      "description": "The woman who was on a virus-hit ship shows \"no signs of illness\", the government of Pitcairn Islands, a British Overseas Territory, says.",
+      "title": "'Floating armoury' ship reportedly seized by Iran",
+      "description": "A vessel said to be a “floating armoury” in the Gulf of Oman has been seized by Iranian military personnel, according to reports.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx21p7k70reo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Jamie Dimon warns JPMorgan may rethink new London office if 'very smart' Starmer is ousted as UK PM",
-      "description": "Starmer's leadership is under pressure, sparking concern in the bond market.",
+      "title": "Trump’s best China trade deal is the one he doesn’t make",
+      "description": "Three decades of failed engagement with Beijing show why U.S. should walk away from the bargaining table.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/trumps-best-china-trade-deal-is-the-one-he-doesnt-make-b54fe07f?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "‘Several days have passed’: The restaurant failed to process my 20% tip. Is it cheating the staff?",
+      "description": "“When I use a credit card, tips are usually added immediately.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/several-days-have-passed-the-restaurant-failed-to-process-my-20-tip-is-it-cheating-the-staff-e4338e82?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Xi tells Musk, Tim Cook and other CEOs on Trump's trip: China will 'open wider'",
+      "description": "Tesla and Space X boss Elon Musk, Nvidia's CEO Jensen Huang and Apple CEO Tim Cook were part of Trump's delegation.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/13/jamie-dimon-says-jp-morgan-may-rethink-london-office-if-starmer-ousted.html",
+      "url": "https://www.cnbc.com/2026/05/14/xi-china-open-us-business-ai-chips.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Nvidia’s Jensen Huang got the last Air Force One seat to China. Why it’s so crucial for the chipmaker.",
-      "description": "Traders are interpreting the late addition of Nvidia’s CEO to the Air Force One passenger list as a signal that good news about export licenses may be in the offing",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nvidias-jensen-huang-got-the-last-air-force-one-seat-to-china-why-its-so-crucial-for-the-chipmaker-7f220dbc?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "‘I have zero envy’: I’m 75, enjoy working and live below my means. Why are more people not like me?",
-      "description": "“I did two basic things right: I married the right person and chose a trade I can practice until I die.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-have-zero-envy-im-75-enjoy-working-and-live-below-my-means-why-are-more-people-not-like-me-1b68f8eb?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Why 3.8% inflation actually feels like an 8% hit to your retirement savings",
-      "description": "Official CPI masks double-digit spikes in healthcare, insurance and energy. Meanwhile, your outdated strategy quietly drains your portfolio.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-3-8-inflation-actually-feels-like-an-8-hit-to-your-retirement-savings-9e0ba615?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Is AI power really the new oil? Soon it will trade just like a commodity.",
-      "description": "CME Group plans to launch futures that would let investors bet on the price of computing power.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/is-ai-power-really-the-new-oil-soon-it-will-trade-like-just-like-a-commodity-42ce65cb?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Altman details Musk's OpenAI fallout, says nonprofit was 'left for dead'",
-      "description": "Musk has accused Altman and another OpenAI co-founder of trying to \"steal a charity\"",
+      "title": "Xi warns Trump: Mishandling Taiwan will put U.S.-China relationship in 'great jeopardy'",
+      "description": "President Donald Trump met Chinese President Xi Jinping in Beijing on Thursday morning for the start of a high-stakes summit that runs through Friday.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/13/altman-musk-trial-testimony-takeaways.html",
+      "url": "https://www.cnbc.com/2026/05/14/trump-xi-beijing-summit-trade-taiwan-ai-iran-rare-earths-tariffs.html",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "2026 NFL schedule: Miles traveled for all 32 teams, with 49ers set for historically grueling season",
-      "description": "Here are the miles each of the 32 NFL teams are scheduled to travel in 2026",
+      "title": "Stocks in this sector of the S&P 500 are getting more attractive — here’s why",
+      "description": "We appear to be looking at an excellent entry point for long-term investors.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/stocks-in-this-sector-of-the-s-p-500-are-getting-more-attractive-heres-why-db53e1a8?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "U.S. retail sales rise again, but higher gas prices and inflation play a big role",
+      "description": "Sales at retailers rose in April for the third month in a row in a seemingly good sign for the economy, but the increase was inflated by drivers spending more on gas due to higher prices.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/u-s-retail-sales-increase-again-but-higher-gas-prices-and-inflation-played-a-big-role-167ae1c3?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "The Hell We Did profile: 2026 Preakness Stakes odds, post position, history and more to know",
+      "description": "Get caught up with The Hell We Did's past performances, jockey, trainer and full analysis heading into the second leg of the Triple Crown",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-schedule-miles-traveled/",
+      "url": "https://www.cbssports.com/betting/news/the-hell-we-did-profile-2026-preakness-stakes-odds-post-position-history-and-more-to-know/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "CBS Sports 138: Ohio State edges out Texas for No. 1 in post-spring college football rankings",
-      "description": "Ranking every FBS team ahead of the 2026 college football season with spring practice now in the rearview mirror",
+      "title": "Incredibolt profile: 2026 Preakness Stakes odds, post position, history and more to know",
+      "description": "Get caught up with Incredibolt's past performances, jockey, trainer and full analysis heading into the second leg of the Triple Crown",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/college-football-rankings-cbs-sports-136-post-spring-ohio-state-texas/",
+      "url": "https://www.cbssports.com/betting/news/incredibolt-profile-2026-preakness-stakes-odds-post-position-history-and-more-to-know/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Rory McIlroy ready to make up for lost time as condensed major schedule offers runway to capitalize",
-      "description": "McIlroy eyes his third title in his last six major championship starts this week outside of Philadelphia",
+      "title": "Iron Honor profile: 2026 Preakness Stakes odds, post position, history and more to know",
+      "description": "Get caught up with Iron Honor's past performances, jockey, trainer and full analysis heading into the second leg of the Triple Crown",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/golf/news/rory-mcilroy-pga-championship-masters-golf-major-schedule/",
+      "url": "https://www.cbssports.com/betting/news/iron-honor-profile-2026-preakness-stakes-odds-post-position-history-and-more-to-know/",
       "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Pistons-Cavaliers, MLB, NHL betting Wednesday",
-      "description": "Use the latest BetMGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for NBA, MLB and NHL betting on Wednesday",
+      "title": "2026 PGA Championship TV schedule: Complete viewing guide with streaming coverage, where to watch live",
+      "description": "Where to watch every memorable moment of the 2026 PGA Championship on TV or streaming live",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-in-bonus-bets-pistons-cavaliers-mlb-nhl-betting-wednesday/",
+      "url": "https://www.cbssports.com/golf/news/pga-championship-2026-tv-schedule-coverage-streaming/",
       "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     }
   ]
 }
