@@ -1,233 +1,249 @@
 {
-  "date": "2026-05-14T15:42:03.760125+00:00",
-  "edition": "#100",
-  "totalStories": 28,
+  "date": "2026-05-15T15:37:31.808364+00:00",
+  "edition": "#101",
+  "totalStories": 30,
   "podcast": {
     "show": "The Daily",
     "description": "The New York Times' daily news podcast — today's top story in 20 minutes."
   },
   "stories": [
     {
-      "title": "Khosla Ventures is betting $10M on Ian Crosby, whose last startup, Bench, imploded",
-      "description": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups.",
+      "title": "Rocket Report: Russia claims success with new ICBM; spaceplane déjà vu in Europe",
+      "description": "SpaceX's upgraded Starship is set to launch on its first test flight as soon as Tuesday, May 19.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/05/rocket-report-russia-claims-success-with-new-icbm-spaceplane-deja-vu-in-europe/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Check Your Fucking Sources, People",
+      "description": "Article URL: https://brodzinski.com/2026/05/check-fcking-sources.html Comments URL: https://news.ycombinator.com/item?id=48148797 Points: 35 # Comments: 27",
+      "source": "Hacker News",
+      "url": "https://brodzinski.com/2026/05/check-fcking-sources.html",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "ASCII by Jason Scott",
+      "description": "Article URL: https://ascii.textfiles.com/ Comments URL: https://news.ycombinator.com/item?id=48148726 Points: 33 # Comments: 3",
+      "source": "Hacker News",
+      "url": "https://ascii.textfiles.com/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Routine vaccines may cut dementia risk—experts have startling hypothesis on how",
+      "description": "Vaccines may be training a part of our immune system long thought to be untrainable.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/05/routine-vaccines-may-cut-dementia-risk-experts-have-startling-hypothesis-on-how/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI.",
+      "description": "AI video generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Anthropic forms $200M partnership with the Gates Foundation",
-      "description": "Article URL: https://www.anthropic.com/news/gates-foundation-partnership Comments URL: https://news.ycombinator.com/item?id=48136662 Points: 8 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://www.anthropic.com/news/gates-foundation-partnership",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "How to turn off Instagram’s new Instants feature and retract photos you accidentally shared",
-      "description": "While the Meta-owned social network billed Instants as a new format to share real-life moments as they’re happening, many users are looking for a way to turn off the feature, especially those who have ended up accidenta…",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/14/how-to-turn-of-instagrams-new-instants-feature-and-retract-photos-you-accidentally-shared/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "MIT: 20% drop in incoming graduate students",
-      "description": "Article URL: https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline Comments URL: https://news.ycombinator.com/item?id=48136262 Points: 136 # Comments:…",
-      "source": "Hacker News",
-      "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Claude AI recovers an 11 yrs old BTC wallet holding 400k USD",
-      "description": "Article URL: https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-o…",
-      "source": "Hacker News",
-      "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Meta's New Reality: Record High Profits. Record Low Morale",
-      "description": "Article URL: https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/ Comments URL: https://news.ycombinator.com/item?id=48135782 Points: 88 # Comments: 81",
-      "source": "Hacker News",
-      "url": "https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/",
+      "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "At a glance: Starmer fights to stay on as prime minister",
-      "description": "The prime minister is fighting to stay on in No 10 as heavy election losses trigger a Labour revolt.",
+      "title": "Pennsylvanians use town hall meeting to rail against data center boom",
+      "description": "“This is a public trust and transparency issue.”",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/05/pennsylvanians-use-town-hall-meeting-to-rail-against-data-center-boom/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Teenager's family 'heartbroken' by meningitis death",
+      "description": "The family of sixth form pupil Lewis Waters post a tribute following his death.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8jv1mzzkjgo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cy42jn311y1o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "What does Makerfield make of by-election and can Burnham win?",
+      "description": "Andy Burnham says he will look to stand in the constituency, after Labour MP Josh Simons announces his resignation.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cyv26e7yd89o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Trump says he 'made no commitment either way' to Xi on Taiwan",
+      "description": "Trump said Xi Jinping had asked directly if the US would defend Taiwan, and he had responded, \"I don't talk about that\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "UK economy sees surprising growth - these six charts explain what is going on",
-      "description": "The BBC's Faisal Islam explains why the economy is showing more resilience than many expected, despite the war in Iran.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyprjddgj3o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "The potential challengers to Keir Starmer",
-      "description": "Andy Burnham, Angela Rayner and Wes Streeting are all potential candidates for the top job.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3e2n7xn14xo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "'Where we need vision, we have a vacuum' - read Streeting's resignation letter in full",
-      "description": "Health Secretary Wes Streeting has announced his resignation from government.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce8p7p83vdzo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "A Philippine senator wanted by the International Criminal Court flees from Senate",
-      "description": "A police investigation is underway in the Philippines, with suspicions that the incident was staged to help Sen. Ronald dela Rosa escape.",
+      "title": "Can the NFL's Rooney Rule survive the DEI backlash?",
+      "description": "Florida's attorney general says the NFL's Rooney Rule, which requires teams to interview minority candidates for top jobs, is discriminatory. Trump's EEOC has challenged such policies elsewhere.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/05/14/g-s1-122021/philippines-senator-escape-wanted-icc",
+      "url": "https://www.npr.org/2026/05/15/nx-s1-5823441/rooney-rule-dei-diverse-slates-discrimination",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "An LA-area mayor acted as an agent for China. Experts say it's part of a pattern",
-      "description": "Eileen Wang, now the former mayor of the City of Arcadia, agreed to plead guilty to one felony charge that she acted as an illegal foreign agent of China.",
+      "title": "SCOTUS upholds abortion pill telehealth access. And, Trump returns from China visit",
+      "description": "The Supreme Court kept access to the abortion pill mifepristone available via telehealth. And, Trump says he made multiple trade deals during his state visit to China.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/05/14/nx-s1-5819933/china-trump-trip-la-agent-mayor-arcardia",
+      "url": "https://www.npr.org/2026/05/15/g-s1-122218/up-first-newsletter-mifepristone-trump-china-keir-starmer-new-york-salmon-river-students",
       "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "‘The world is sounding an alarm’: Why big tech is the new colonist",
-      "description": "Power is no longer exercised through military force alone, but via technology, finance and control over information.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/5/14/the-world-is-sounding-an-alarm-why-big-tech-is-the-new-colonist?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "What to expect from the 48-team format at the World Cup 2026",
-      "description": "Al Jazeera examines key talking points related to the introduction of an expanded 48-nation tournament.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/14/fifa-world-cup-2026-what-to-expect-from-the-48-team-format?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Israeli minister blasts Barcelona’s Lamine Yamal for Palestinian flag wave",
-      "description": "Spanish international Lamine Yamal criticised for waving Palestinian flag during bus parade celebrating La Liga title.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/14/israeli-minister-blasts-barcelonas-lamine-yamal-for-palestinian-flag-wave?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Trump, Xi discuss Strait of Hormuz as Chinese vessels transit key waterway",
-      "description": "White House says the two leaders agree that the strait 'must remain open to support the free flow of energy'.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/14/trump-xi-discuss-strait-of-hormuz-as-chinese-vessels-transit-key-waterway?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Warning of record global temperatures as chance of very strong El Niño grows",
-      "description": "As El Niño develops this year, scientists are increasingly confident it could be one of the strongest on record with global consequences, as Simon King explains.",
+      "title": "Five Italians die during cave scuba dive in Maldives",
+      "description": "Four of the Italians were part of a team from the University of Genoa.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/weather/articles/cvgzn11v421o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "7h ago"
+    },
+    {
+      "title": "Trump and Xi conclude 'very successful' talks but no deals confirmed",
+      "description": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Trump says he discussed Taiwan arms sale with China’s Xi Jinping",
+      "description": "US President Donald Trump said he discussed US arms sales to Taiwan with Chinese leader Xi Jinping.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/trump-says-he-discussed-taiwan-arms-sale-with-chinas-xi-jinping?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "FA Cup final: Man City’s season a success ‘regardless of trophies’",
+      "description": "Manchester City face Chelsea in the FA Cup final looking to add to their League Cup success and with eye on EPL title.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/5/15/fa-cup-final-man-citys-season-a-success-regardless-of-trophies?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Cannes Film Festival 2026: a different carpet roll-out",
+      "description": "How big events shape the uprising and how the uprising shapes the big events.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/cannes-film-festival-2026-a-different-carpet-roll-out?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "‘Half of British Muslims are under 25’: Report shows shifting demographics",
+      "description": "Most Muslims are young and many have a degree, but some are disadvantaged in housing while lone-parent families rise.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/15/young-and-educated-report-reveals-shifting-demographics-among-uk-muslims?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "AI vigilante trap snares alleged paedophile ex-teacher in France",
+      "description": "The 66-year-old handed himself in after an influencer used AI to pose as a 14-year-old girl and broadcast their conversation online.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1m2xg7x0m3o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "'Floating armoury' ship reportedly seized by Iran",
-      "description": "A vessel said to be a “floating armoury” in the Gulf of Oman has been seized by Iranian military personnel, according to reports.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Trump’s best China trade deal is the one he doesn’t make",
-      "description": "Three decades of failed engagement with Beijing show why U.S. should walk away from the bargaining table.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/trumps-best-china-trade-deal-is-the-one-he-doesnt-make-b54fe07f?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "‘Several days have passed’: The restaurant failed to process my 20% tip. Is it cheating the staff?",
-      "description": "“When I use a credit card, tips are usually added immediately.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/several-days-have-passed-the-restaurant-failed-to-process-my-20-tip-is-it-cheating-the-staff-e4338e82?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Xi tells Musk, Tim Cook and other CEOs on Trump's trip: China will 'open wider'",
-      "description": "Tesla and Space X boss Elon Musk, Nvidia's CEO Jensen Huang and Apple CEO Tim Cook were part of Trump's delegation.",
+      "title": "Stephen Miran exits the Fed. How he set the stage for Kevin Warsh.",
+      "description": "The outgoing Fed governor shares big ideas with the incoming chair.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/14/xi-china-open-us-business-ai-chips.html",
+      "url": "https://www.cnbc.com/2026/05/15/stephen-miran-exits-the-fed-how-he-set-the-stage-for-kevin-warsh.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Xi warns Trump: Mishandling Taiwan will put U.S.-China relationship in 'great jeopardy'",
-      "description": "President Donald Trump met Chinese President Xi Jinping in Beijing on Thursday morning for the start of a high-stakes summit that runs through Friday.",
+      "title": "Space stocks fall as SpaceX’s ambitious IPO draws near",
+      "description": "Whether the blockbuster IPO is good news or bad news for much smaller space stocks remains to be seen.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/space-stocks-fall-as-spacexs-ambitious-ipo-draws-near-3ed1d050?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "How China and U.S. eased the Middle East oil shock and kept prices from spiking even higher",
+      "description": "China and the U.S., the world's two largest economies, wield great influence over the oil market and are using it to help plug the supply gap.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/14/trump-xi-beijing-summit-trade-taiwan-ai-iran-rare-earths-tariffs.html",
+      "url": "https://www.cnbc.com/2026/05/15/china-us-oil-iran-war-strait-hormuz-trump-xi.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Stocks in this sector of the S&P 500 are getting more attractive — here’s why",
-      "description": "We appear to be looking at an excellent entry point for long-term investors.",
+      "title": "30-year Treasury yield tops 5.1%, highest in nearly a year",
+      "description": "Treasurys spiked on Friday as inflation signals continue to muddy interest rate expectations under the new Federal Reserve chair Kevin Warsh.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/15/treasury-yields-surge-as-inflation-data-points-to-tricky-rates-path.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "5 tests Kevin Warsh will face as Fed chair",
+      "description": "Wall Street and Washington will be watching to see how he reacts to political pressure and whether he can get the central bank on board with the major changes he favors.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/stocks-in-this-sector-of-the-s-p-500-are-getting-more-attractive-heres-why-db53e1a8?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/5-tests-kevin-warsh-will-face-on-the-first-day-as-fed-chair-f5bc4a7e?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "U.S. retail sales rise again, but higher gas prices and inflation play a big role",
-      "description": "Sales at retailers rose in April for the third month in a row in a seemingly good sign for the economy, but the increase was inflated by drivers spending more on gas due to higher prices.",
+      "title": "You may be making a big mistake with your Roth conversion, this expert says",
+      "description": "If you have a high IRA or 401(k) balance, you should consider doing this instead.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/u-s-retail-sales-increase-again-but-higher-gas-prices-and-inflation-played-a-big-role-167ae1c3?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/you-may-be-making-a-big-mistake-with-your-roth-conversion-this-expert-says-27fe810c?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "The Hell We Did profile: 2026 Preakness Stakes odds, post position, history and more to know",
-      "description": "Get caught up with The Hell We Did's past performances, jockey, trainer and full analysis heading into the second leg of the Triple Crown",
+      "title": "2026 Preakness Stakes horses, odds, predictions, post draw: Expert who has called 11 winners makes picks",
+      "description": "Jody Demling, who has called 11 Preakness winners, reveals his 2026 Preakness Stakes picks for Saturday, May 16 at Laurel Park with Golden Tempo not in the field",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/the-hell-we-did-profile-2026-preakness-stakes-odds-post-position-history-and-more-to-know/",
+      "url": "https://www.cbssports.com/general/news/2026-preakness-stakes-horses-odds-predictions-post-draw-expert-who-has-called-11-winners-makes-picks/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Incredibolt profile: 2026 Preakness Stakes odds, post position, history and more to know",
-      "description": "Get caught up with Incredibolt's past performances, jockey, trainer and full analysis heading into the second leg of the Triple Crown",
+      "title": "Redrafting the 2025 NBA Draft: Dylan Harper goes No. 2 to the Spurs, second-round pick enters the lottery",
+      "description": "Spurs rookie Dylan Harper has been one of the stars of the 2026 NBA Playoffs. In a 2025 redraft, the top five picks stay the same, but there are plenty of changes throughout the lottery",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/incredibolt-profile-2026-preakness-stakes-odds-post-position-history-and-more-to-know/",
+      "url": "https://www.cbssports.com/nba/news/2025-nba-draft-lottery-redraft-dylan-harper/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Iron Honor profile: 2026 Preakness Stakes odds, post position, history and more to know",
-      "description": "Get caught up with Iron Honor's past performances, jockey, trainer and full analysis heading into the second leg of the Triple Crown",
+      "title": "Mark Matthews commitment: Latest intel as new contender emerges to land No. 1 OT in 2027",
+      "description": "Matthews, the No. 3 player overall in the 2027 class, is set to announce his commitment on Friday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/iron-honor-profile-2026-preakness-stakes-odds-post-position-history-and-more-to-know/",
+      "url": "https://www.cbssports.com/college-football/news/mark-matthews-commitment-latest-intel-miami-texas-am-recruiting/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "2026 PGA Championship TV schedule: Complete viewing guide with streaming coverage, where to watch live",
-      "description": "Where to watch every memorable moment of the 2026 PGA Championship on TV or streaming live",
+      "title": "Top revenge games on 2026 NFL schedule: Patriots look to get even for Super Bowl loss to Seahawks",
+      "description": "New England gets its chance to exact revenge right away",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/golf/news/pga-championship-2026-tv-schedule-coverage-streaming/",
+      "url": "https://www.cbssports.com/nfl/news/top-revenge-games-on-2026-nfl-schedule/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Looking ahead to the rest of the 2026 PGA Champion...",
+      "description": "How impressive was Scheffler? We break down what the first round means for the rest of the PGA Championship.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/golf/story/_/id/48772349/looking-ahead-rest-2026-pga-championship-aronimink",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Turner: No fines from Rivers; Giannis always late",
+      "description": "Bucks center Myles Turner said on his podcast that former coach Doc Rivers \"didn't fine anybody ever\" and that Giannis Antetokounmpo would \"show up whenever he wants.\"",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/48777174/myles-turner-addresses-lack-discipline-doc-rivers",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
