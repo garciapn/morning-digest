@@ -1,249 +1,233 @@
 {
-  "date": "2026-05-15T15:37:31.808364+00:00",
-  "edition": "#101",
-  "totalStories": 30,
+  "date": "2026-05-16T14:40:45.278485+00:00",
+  "edition": "#102",
+  "totalStories": 28,
   "podcast": {
     "show": "The Daily",
     "description": "The New York Times' daily news podcast — today's top story in 20 minutes."
   },
   "stories": [
     {
-      "title": "Rocket Report: Russia claims success with new ICBM; spaceplane déjà vu in Europe",
-      "description": "SpaceX's upgraded Starship is set to launch on its first test flight as soon as Tuesday, May 19.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/05/rocket-report-russia-claims-success-with-new-icbm-spaceplane-deja-vu-in-europe/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Check Your Fucking Sources, People",
-      "description": "Article URL: https://brodzinski.com/2026/05/check-fcking-sources.html Comments URL: https://news.ycombinator.com/item?id=48148797 Points: 35 # Comments: 27",
-      "source": "Hacker News",
-      "url": "https://brodzinski.com/2026/05/check-fcking-sources.html",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "ASCII by Jason Scott",
-      "description": "Article URL: https://ascii.textfiles.com/ Comments URL: https://news.ycombinator.com/item?id=48148726 Points: 33 # Comments: 3",
-      "source": "Hacker News",
-      "url": "https://ascii.textfiles.com/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Routine vaccines may cut dementia risk—experts have startling hypothesis on how",
-      "description": "Vaccines may be training a part of our immune system long thought to be untrainable.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/05/routine-vaccines-may-cut-dementia-risk-experts-have-startling-hypothesis-on-how/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI.",
-      "description": "AI video generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
+      "title": "Users turn to jailbreaking their older Kindles as Amazon ends support",
+      "description": "It may be possible to jailbreak an older, end-of-support Kindle and continue adding books to it. But doing so carries risks.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
+      "url": "https://techcrunch.com/2026/05/16/users-turn-to-jailbreaking-their-older-kindles-as-amazon-ends-support/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "I spent my whole career building passive income. Here's what I got wrong",
+      "description": "Article URL: https://dariusforoux.com/i-spent-my-whole-career-building-passive-income-heres-what-i-got-wrong/ Comments URL: https://news.ycombinator.com/item?id=48160313 Points: 4 # Comments: 1",
+      "source": "Hacker News",
+      "url": "https://dariusforoux.com/i-spent-my-whole-career-building-passive-income-heres-what-i-got-wrong/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Accelerate",
+      "description": "Article URL: https://github.com/AccelerateHS/accelerate Comments URL: https://news.ycombinator.com/item?id=48160211 Points: 8 # Comments: 1",
+      "source": "Hacker News",
+      "url": "https://github.com/AccelerateHS/accelerate",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "My Favorite Bugs: Invalid Surrogate Pairs",
+      "description": "Article URL: https://george.mand.is/2026/05/my-favorite-bugs-invalid-surrogate-pairs/ Comments URL: https://news.ycombinator.com/item?id=48159790 Points: 7 # Comments: 0",
+      "source": "Hacker News",
+      "url": "https://george.mand.is/2026/05/my-favorite-bugs-invalid-surrogate-pairs/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Pennsylvanians use town hall meeting to rail against data center boom",
-      "description": "“This is a public trust and transparency issue.”",
+      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+      "description": "Article URL: https://nvlabs.github.io/Sana/WM/ Comments URL: https://news.ycombinator.com/item?id=48159445 Points: 67 # Comments: 25",
+      "source": "Hacker News",
+      "url": "https://nvlabs.github.io/Sana/WM/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "The US is betting on AI to catch insider trading in prediction markets",
+      "description": "The Commodity Futures Trading Commission wants us to know it's taking this very seriously.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/05/pennsylvanians-use-town-hall-meeting-to-rail-against-data-center-boom/",
+      "url": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "Teenager's family 'heartbroken' by meningitis death",
-      "description": "The family of sixth form pupil Lewis Waters post a tribute following his death.",
+      "title": "Tens of thousands descend on London for rival protests",
+      "description": "A heavy police operation is in place for the Unite the Kingdom march, organised by Tommy Robinson, and a separate pro-Palestinian protest.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy42jn311y1o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c3d2ryyz0jzo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "What does Makerfield make of by-election and can Burnham win?",
-      "description": "Andy Burnham says he will look to stand in the constituency, after Labour MP Josh Simons announces his resignation.",
+      "title": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves",
+      "description": "Staff Sgt Mohamed Mahdhee died while diving in the search-and-rescue operation, the Maldives government tells the BBC.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cyv26e7yd89o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Trump says he 'made no commitment either way' to Xi on Taiwan",
-      "description": "Trump said Xi Jinping had asked directly if the US would defend Taiwan, and he had responded, \"I don't talk about that\".",
+      "title": "Senior IS leader killed in joint operation, US and Nigeria say",
+      "description": "President Donald Trump said the operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Can the NFL's Rooney Rule survive the DEI backlash?",
-      "description": "Florida's attorney general says the NFL's Rooney Rule, which requires teams to interview minority candidates for top jobs, is discriminatory. Trump's EEOC has challenged such policies elsewhere.",
+      "title": "The race to replace Starmer is on - but he still faces a momentous choice",
+      "description": "Labour is consumed by drama, but the PM still faces big decisions - and what could be his final choice.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx213m1d82lo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "This Republican voted to convict Trump. Now he's up for reelection. Can he survive?",
+      "description": "Louisiana Sen. Bill Cassidy was one of seven Republican senators who voted to convict President Trump. Now he's running for reelection in a race that will test Trump's hold on the GOP.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/05/15/nx-s1-5823441/rooney-rule-dei-diverse-slates-discrimination",
+      "url": "https://www.npr.org/2026/05/16/g-s1-122486/louisiana-senate-cassidy-trump",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "SCOTUS upholds abortion pill telehealth access. And, Trump returns from China visit",
-      "description": "The Supreme Court kept access to the abortion pill mifepristone available via telehealth. And, Trump says he made multiple trade deals during his state visit to China.",
+      "title": "Elephants eat their crops. Farmers strike back. It's a war that's only getting worse",
+      "description": "In Sri Lanka, the islanders revere elephants. But for farmers, there's rising tension that's leading to more fatal encounters — for both humans and hungry pachyderms.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/05/15/g-s1-122218/up-first-newsletter-mifepristone-trump-china-keir-starmer-new-york-salmon-river-students",
+      "url": "https://www.npr.org/2026/05/16/g-s1-121654/elephants-farmers-crops-sri-lanka",
       "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Five Italians die during cave scuba dive in Maldives",
-      "description": "Four of the Italians were part of a team from the University of Genoa.",
+      "title": "Tens of thousands march in London in far-right and pro-Palestine protests",
+      "description": "British capital sees heightened security as right wing rally takes place at the same time as Nakba Day march.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/16/tens-of-thousands-march-in-london-in-far-right-and-pro-palestine-protests?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Toddlers among more than 50 schoolchildren kidnapped in Nigeria",
+      "description": "No group has yet claimed responsibility for the attacks, which have devastated Mussa town in Borno state.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "7h ago"
-    },
-    {
-      "title": "Trump and Xi conclude 'very successful' talks but no deals confirmed",
-      "description": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Trump says he discussed Taiwan arms sale with China’s Xi Jinping",
-      "description": "US President Donald Trump said he discussed US arms sales to Taiwan with Chinese leader Xi Jinping.",
+      "title": "Zimbabwe’s diaspora reshapes real estate and farming investment trends",
+      "description": "Zimbabwean digital influencers appear to influence diaspora investment decisions through social media.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/trump-says-he-discussed-taiwan-arms-sale-with-chinas-xi-jinping?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "FA Cup final: Man City’s season a success ‘regardless of trophies’",
-      "description": "Manchester City face Chelsea in the FA Cup final looking to add to their League Cup success and with eye on EPL title.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/15/fa-cup-final-man-citys-season-a-success-regardless-of-trophies?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Cannes Film Festival 2026: a different carpet roll-out",
-      "description": "How big events shape the uprising and how the uprising shapes the big events.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/cannes-film-festival-2026-a-different-carpet-roll-out?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "‘Half of British Muslims are under 25’: Report shows shifting demographics",
-      "description": "Most Muslims are young and many have a degree, but some are disadvantaged in housing while lone-parent families rise.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/15/young-and-educated-report-reveals-shifting-demographics-among-uk-muslims?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "AI vigilante trap snares alleged paedophile ex-teacher in France",
-      "description": "The 66-year-old handed himself in after an influencer used AI to pose as a 14-year-old girl and broadcast their conversation online.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1m2xg7x0m3o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.aljazeera.com/features/2026/5/16/zimbabwes-diaspora-reshapes-real-estate-and-farming-investment-trends?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Stephen Miran exits the Fed. How he set the stage for Kevin Warsh.",
-      "description": "The outgoing Fed governor shares big ideas with the incoming chair.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/15/stephen-miran-exits-the-fed-how-he-set-the-stage-for-kevin-warsh.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "title": "Mexico teachers threaten World Cup disruption over pay",
+      "description": "Mexico’s teachers are threatening to disrupt next month’s 2026 FIFA World Cup if their demands for higher pay.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/mexico-teachers-threaten-world-cup-disruption-over-pay?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Space stocks fall as SpaceX’s ambitious IPO draws near",
-      "description": "Whether the blockbuster IPO is good news or bad news for much smaller space stocks remains to be seen.",
+      "title": "Moment of deadly train crash in Bangkok",
+      "description": "At least eight people have been killed after a freight train crashed into a public bus in Thailand.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/moment-of-deadly-train-crash-in-bangkok?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "US planning to charge ex-Cuban leader Raúl Castro",
+      "description": "Charges could come as soon as next week in a case reportedly focused on Cuba's downing of two planes in 1996.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1w2gnd9xp2o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "13h ago"
+    },
+    {
+      "title": "Roast my house, Reddit! Desperate home sellers are asking strangers for help getting offers.",
+      "description": "As homes linger on the market, sellers are inviting feedback on why buyers aren’t biting — even if it’s laced with insults.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/space-stocks-fall-as-spacexs-ambitious-ipo-draws-near-3ed1d050?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/roast-my-house-reddit-desperate-home-sellers-are-asking-strangers-for-help-getting-offers-8658787f?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "How China and U.S. eased the Middle East oil shock and kept prices from spiking even higher",
-      "description": "China and the U.S., the world's two largest economies, wield great influence over the oil market and are using it to help plug the supply gap.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/15/china-us-oil-iran-war-strait-hormuz-trump-xi.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "30-year Treasury yield tops 5.1%, highest in nearly a year",
-      "description": "Treasurys spiked on Friday as inflation signals continue to muddy interest rate expectations under the new Federal Reserve chair Kevin Warsh.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/15/treasury-yields-surge-as-inflation-data-points-to-tricky-rates-path.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "5 tests Kevin Warsh will face as Fed chair",
-      "description": "Wall Street and Washington will be watching to see how he reacts to political pressure and whether he can get the central bank on board with the major changes he favors.",
+      "title": "Most people make this retirement mistake. You might still have time to fix it.",
+      "description": "Are you prepared for the retirement you might get?",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/5-tests-kevin-warsh-will-face-on-the-first-day-as-fed-chair-f5bc4a7e?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/most-people-make-this-retirement-mistake-you-might-still-have-time-to-fix-it-17aba25d?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "You may be making a big mistake with your Roth conversion, this expert says",
-      "description": "If you have a high IRA or 401(k) balance, you should consider doing this instead.",
+      "title": "My wife and I retired with 22 times our income. Why don’t more people do what we did?",
+      "description": "“The vast majority of people I’ve known are intimidated by money’s power, imbue it with almost magical qualities.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/you-may-be-making-a-big-mistake-with-your-roth-conversion-this-expert-says-27fe810c?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/my-retirement-fund-is-like-an-ai-version-of-me-it-keeps-working-when-im-not-able-to-6d053f9d?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "‘I’m already feeling anxious’: My ex-husband offered to give me a $30,000 lump sum for child support. Is there a catch?",
+      "description": "“He has not paid the last two months, and it is not court-ordered.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-already-feeling-anxious-my-ex-husband-offered-to-give-me-a-30-000-lump-sum-for-child-support-is-there-a-catch-b1a20e20?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Kevin Warsh comes into the Fed facing a big 'family fight' over cutting interest rates",
+      "description": "With inflation spiking and Treasury yields surging, Warsh is likely to confront a Federal Open Market Committee in no mood to ease.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/16/kevin-warsh-comes-into-the-fed-facing-a-big-family-fight-over-cutting-interest-rates.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "UAE says its decision to leave OPEC was a strategic economic move, not a political one",
+      "description": "The United Arab Emirates, which joined OPEC in 1967, announced last month it was leaving the oil producer group on May 1.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/16/uae-decision-to-leave-opec-was-not-a-political-move.html",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "2026 Preakness Stakes horses, odds, predictions, post draw: Expert who has called 11 winners makes picks",
-      "description": "Jody Demling, who has called 11 Preakness winners, reveals his 2026 Preakness Stakes picks for Saturday, May 16 at Laurel Park with Golden Tempo not in the field",
+      "title": "How to watch 2026 PGA Championship live: Round 3 TV coverage, channel and streaming guide for Saturday",
+      "description": "Watch every single shot from the biggest names in golf during the third round of the PGA Championship 2026",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/general/news/2026-preakness-stakes-horses-odds-predictions-post-draw-expert-who-has-called-11-winners-makes-picks/",
+      "url": "https://www.cbssports.com/golf/news/pga-championship-live-2026-how-to-watch-round-3/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Redrafting the 2025 NBA Draft: Dylan Harper goes No. 2 to the Spurs, second-round pick enters the lottery",
-      "description": "Spurs rookie Dylan Harper has been one of the stars of the 2026 NBA Playoffs. In a 2025 redraft, the top five picks stay the same, but there are plenty of changes throughout the lottery",
+      "title": "Ronda Rousey vs. Gina Carano: Fight card, date, complete guide as MVP makes debut in MMA",
+      "description": "Saturday also features plenty of MMA stars back in action, like Francis Ngannou and Nate Diaz",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nba/news/2025-nba-draft-lottery-redraft-dylan-harper/",
+      "url": "https://www.cbssports.com/mma/news/ronda-rousey-vs-gina-carano-fight-card-date-odds-location/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Mark Matthews commitment: Latest intel as new contender emerges to land No. 1 OT in 2027",
-      "description": "Matthews, the No. 3 player overall in the 2027 class, is set to announce his commitment on Friday",
+      "title": "Broken Hearts: Celtic snatch Scottish league title on final day after VAR overturns call in final minutes",
+      "description": "Hearts spent 226 days in first place before Celtic snatched it in the final 11 minutes of the final day of the season",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/mark-matthews-commitment-latest-intel-miami-texas-am-recruiting/",
+      "url": "https://www.cbssports.com/soccer/news/broken-hearts-celtic-snatch-scottish-league-title-on-final-day-after-var-overturns-call-in-final-minutes/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Top revenge games on 2026 NFL schedule: Patriots look to get even for Super Bowl loss to Seahawks",
-      "description": "New England gets its chance to exact revenge right away",
+      "title": "'Blessing in disguise': Anthony Richardson shows renewed appreciation for Colts despite trade request",
+      "description": "The former first-round pick is making the most of his time in Indianapolis following a tumultuous start to this NFL career",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/top-revenge-games-on-2026-nfl-schedule/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Looking ahead to the rest of the 2026 PGA Champion...",
-      "description": "How impressive was Scheffler? We break down what the first round means for the rest of the PGA Championship.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/golf/story/_/id/48772349/looking-ahead-rest-2026-pga-championship-aronimink",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Turner: No fines from Rivers; Giannis always late",
-      "description": "Bucks center Myles Turner said on his podcast that former coach Doc Rivers \"didn't fine anybody ever\" and that Giannis Antetokounmpo would \"show up whenever he wants.\"",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/48777174/myles-turner-addresses-lack-discipline-doc-rivers",
+      "url": "https://www.cbssports.com/nfl/news/anthony-richardson-trade-request-colts-future/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
