@@ -1,171 +1,195 @@
 {
-  "date": "2026-05-16T14:40:45.278485+00:00",
-  "edition": "#102",
-  "totalStories": 28,
+  "date": "2026-05-17T14:44:12.379525+00:00",
+  "edition": "#103",
+  "totalStories": 30,
   "podcast": {
     "show": "The Daily",
     "description": "The New York Times' daily news podcast — today's top story in 20 minutes."
   },
   "stories": [
     {
-      "title": "Users turn to jailbreaking their older Kindles as Amazon ends support",
-      "description": "It may be possible to jailbreak an older, end-of-support Kindle and continue adding books to it. But doing so carries risks.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/16/users-turn-to-jailbreaking-their-older-kindles-as-amazon-ends-support/",
+      "title": "The ultimate female fantasy – A feminist critique of Beauty and the Beast",
+      "description": "Article URL: https://storica.club/blog/beast-was-the-best-part/ Comments URL: https://news.ycombinator.com/item?id=48169255 Points: 7 # Comments: 0",
+      "source": "Hacker News",
+      "url": "https://storica.club/blog/beast-was-the-best-part/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "I spent my whole career building passive income. Here's what I got wrong",
-      "description": "Article URL: https://dariusforoux.com/i-spent-my-whole-career-building-passive-income-heres-what-i-got-wrong/ Comments URL: https://news.ycombinator.com/item?id=48160313 Points: 4 # Comments: 1",
+      "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
+      "description": "Article URL: https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html Comments URL: https://news.ycombinator.com/item?id=48168856 Points: 67 # Comments: 29",
       "source": "Hacker News",
-      "url": "https://dariusforoux.com/i-spent-my-whole-career-building-passive-income-heres-what-i-got-wrong/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Accelerate",
-      "description": "Article URL: https://github.com/AccelerateHS/accelerate Comments URL: https://news.ycombinator.com/item?id=48160211 Points: 8 # Comments: 1",
-      "source": "Hacker News",
-      "url": "https://github.com/AccelerateHS/accelerate",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "My Favorite Bugs: Invalid Surrogate Pairs",
-      "description": "Article URL: https://george.mand.is/2026/05/my-favorite-bugs-invalid-surrogate-pairs/ Comments URL: https://news.ycombinator.com/item?id=48159790 Points: 7 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://george.mand.is/2026/05/my-favorite-bugs-invalid-surrogate-pairs/",
+      "url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
-      "description": "Article URL: https://nvlabs.github.io/Sana/WM/ Comments URL: https://news.ycombinator.com/item?id=48159445 Points: 67 # Comments: 25",
+      "title": "WHO Declares Ebola Outbreak a Global Health Emergency",
+      "description": "Article URL: https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html Comments URL: https://news.ycombinator.com/item?id=48168708 Points: 75 # Comments: 18",
       "source": "Hacker News",
-      "url": "https://nvlabs.github.io/Sana/WM/",
+      "url": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
       "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "The US is betting on AI to catch insider trading in prediction markets",
-      "description": "The Commodity Futures Trading Commission wants us to know it's taking this very seriously.",
+      "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+      "description": "Article URL: https://github.com/tech4bot/rk3562deb Comments URL: https://news.ycombinator.com/item?id=48168668 Points: 4 # Comments: 1",
+      "source": "Hacker News",
+      "url": "https://github.com/tech4bot/rk3562deb",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "A revolutionary cancer treatment could transform autoimmune disease",
+      "description": "Researchers are testing CAR T cell therapy as a way to reset the immune system.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
+      "url": "https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/",
       "category": "🤖 TECH & AI",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Tens of thousands descend on London for rival protests",
-      "description": "A heavy police operation is in place for the Unite the Kingdom march, organised by Tommy Robinson, and a separate pro-Palestinian protest.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3d2ryyz0jzo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
+      "title": "Oddity is masterfully tense horror from the director of Hokum",
+      "description": "Hokum recently hit theaters, and it's already outperforming box office expectations. If this Kubrick-referencing haunted hotel flick starring Adam Scott was your introduction to director Damian McCarthy, do yourself a f…",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum",
+      "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves",
-      "description": "Staff Sgt Mohamed Mahdhee died while diving in the search-and-rescue operation, the Maldives government tells the BBC.",
+      "title": "Personal decision for Starmer on whether to fight leadership contest, minister says",
+      "description": "Culture Secretary Lisa Nandy tells the BBC that the prime minister has \"shown before that he's up for a fight\" and she \"wouldn't write [him] off\".",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/clypg60k25ro?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "Senior IS leader killed in joint operation, US and Nigeria say",
-      "description": "President Donald Trump said the operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki.",
+      "title": "Forty-three arrests after £4.5m police operation to keep rival London protests apart",
+      "description": "Serious clashes between Unite the Kingdom and pro-Palestinian protesters were avoided on Saturday.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "The race to replace Starmer is on - but he still faces a momentous choice",
-      "description": "Labour is consumed by drama, but the PM still faces big decisions - and what could be his final choice.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx213m1d82lo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/ckgpznn202po?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "4h ago"
     },
     {
-      "title": "This Republican voted to convict Trump. Now he's up for reelection. Can he survive?",
-      "description": "Louisiana Sen. Bill Cassidy was one of seven Republican senators who voted to convict President Trump. Now he's running for reelection in a race that will test Trump's hold on the GOP.",
+      "title": "One clinic tracks the heavy toll Trump's immigration crackdown takes on mental health",
+      "description": "Zocalo Health, a clinic in Los Angeles, screens all its patients for depression, anxiety and suicidal thoughts. It documented a marked increase in those conditions since ICE enforcement actions began.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/05/16/g-s1-122486/louisiana-senate-cassidy-trump",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Elephants eat their crops. Farmers strike back. It's a war that's only getting worse",
-      "description": "In Sri Lanka, the islanders revere elephants. But for farmers, there's rising tension that's leading to more fatal encounters — for both humans and hungry pachyderms.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/05/16/g-s1-121654/elephants-farmers-crops-sri-lanka",
+      "url": "https://www.npr.org/2026/05/17/nx-s1-5779576/immigration-ice-cbp-mental-health-children",
       "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Tens of thousands march in London in far-right and pro-Palestine protests",
-      "description": "British capital sees heightened security as right wing rally takes place at the same time as Nakba Day march.",
+      "title": "The foreign fighters who helped topple Assad — and why China worries about them",
+      "description": "Thousands of Uyghurs became key fighters against Syria's Assad regime. For the first time, they agreed to be interviewed. NPR spent weeks with some of them to understand why they fled China for Syria.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/17/g-s1-113270/uyghurs-china-syria-war-fighters-rebels-bashar-al-assad",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "5h ago"
+    },
+    {
+      "title": "How a CEO and Trump donor is weaponizing tariffs against his rivals",
+      "description": "Cambria CEO Marty Davis has successfully asked the U.S. government to put tariffs on quartz. His business competitors are crying foul.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/17/nx-s1-5726366/ceo-trump-donor-quartz-kitchen-countertop-tariffs",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "5h ago"
+    },
+    {
+      "title": "New burn bans and Trump's battle with immigration and DEI are impacting forest fires",
+      "description": "Firefighters say setting fires on purpose is one of the best ways to protect against massive wildfires later. But the Trump administration is banning or stalling preventative burning across the U.S.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/17/nx-s1-5777660/forest-service-wildfire-safety-prevention-trump-administration",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "5h ago"
+    },
+    {
+      "title": "Is Christian Zionism in the US on a decline?",
+      "description": "Support for Israel among young American conservatives is weakening. That might not bode well for Christian Zionism.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/16/tens-of-thousands-march-in-london-in-far-right-and-pro-palestine-protests?traffic_source=rss",
+      "url": "https://www.aljazeera.com/features/2026/5/17/is-christian-zionism-in-the-us-on-a-decline?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Toddlers among more than 50 schoolchildren kidnapped in Nigeria",
-      "description": "No group has yet claimed responsibility for the attacks, which have devastated Mussa town in Borno state.",
+      "title": "Fabio Di Giannantonio wins shortened Catalan MotoGP after Marquez crash",
+      "description": "Race marred by two red flags and multiple crashes, including a serious incident involving Alex Marquez and Pedro Acosta.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/5/17/fabio-di-giannantonio-wins-shortened-catalan-motogp-after-marquez-crash?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
+      "description": "Ukraine's president says the strikes are a \"justified\" response to deadly Russian attacks on Ukrainian cities.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Zimbabwe’s diaspora reshapes real estate and farming investment trends",
-      "description": "Zimbabwean digital influencers appear to influence diaspora investment decisions through social media.",
+      "title": "Drone strike sparks fire on perimeter of UAE’s Barakah nuclear power plant",
+      "description": "Authorities say radiation levels remain normal, operations not affected.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/5/16/zimbabwes-diaspora-reshapes-real-estate-and-farming-investment-trends?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/5/17/drone-strike-sparks-fire-at-uaes-barakah-nuclear-power-plant?traffic_source=rss",
       "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Son of Palestinian President Mahmoud Abbas elected to top Fatah body",
+      "description": "Businessman Yasser Abbas, 64, secured a place on the central committee despite spending most of his time in Canada.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/17/son-of-palestinian-president-mahmoud-abbas-elected-to-top-fatah-body?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Man drives car into pedestrians in Italy, injuring eight",
+      "description": "Eight people were injured, four seriously, before passers-by gave chase and stopped the man.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Nvidia is getting some help as it props up S&P 500 earnings growth",
+      "description": "Micron is expected to be the second-largest contributor to the index’s overall earnings growth — behind Nvidia, whose impact will likely diminish.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidia-is-getting-some-help-as-it-props-up-s-p-500-earnings-growth-1f3a8a52?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "AI-related layoffs a boost for stocks? Not necessarily",
+      "description": "The data underscores an uncomfortable reality.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/17/ai-related-layoffs-a-boost-for-stocks-not-necessarily.html",
+      "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Mexico teachers threaten World Cup disruption over pay",
-      "description": "Mexico’s teachers are threatening to disrupt next month’s 2026 FIFA World Cup if their demands for higher pay.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/mexico-teachers-threaten-world-cup-disruption-over-pay?traffic_source=rss",
-      "category": "🌍 WORLD",
+      "title": "‘Several days have passed’: The restaurant failed to process my 20% tip. Is it cheating the staff?",
+      "description": "“When I use a credit card, tips are usually added immediately.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/several-days-have-passed-the-restaurant-failed-to-process-my-20-tip-is-it-cheating-the-staff-e4338e82?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Moment of deadly train crash in Bangkok",
-      "description": "At least eight people have been killed after a freight train crashed into a public bus in Thailand.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/moment-of-deadly-train-crash-in-bangkok?traffic_source=rss",
-      "category": "🌍 WORLD",
+      "title": "These hidden forces are driving the runaway stock-market rally",
+      "description": "Bullish options traders and heavy buying of leveraged ETFs are playing a role in the historic swing higher for stocks. They’re also being tested.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/these-hidden-forces-are-driving-the-runaway-stock-market-rally-95000ab1?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "G7 finance ministers to meet amid warning of economic consequences of prolonged Strait of Hormuz closure",
+      "description": "G7 finance ministers are due to meet in Paris on Monday and Tuesday as long-term borrowing costs surge.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/17/opening-strait-of-hormuz-is-of-utmost-importance-eurogroup-head.html",
+      "category": "📈 MARKETS",
       "timeAgo": "2h ago"
-    },
-    {
-      "title": "US planning to charge ex-Cuban leader Raúl Castro",
-      "description": "Charges could come as soon as next week in a case reportedly focused on Cuba's downing of two planes in 1996.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1w2gnd9xp2o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "13h ago"
-    },
-    {
-      "title": "Roast my house, Reddit! Desperate home sellers are asking strangers for help getting offers.",
-      "description": "As homes linger on the market, sellers are inviting feedback on why buyers aren’t biting — even if it’s laced with insults.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/roast-my-house-reddit-desperate-home-sellers-are-asking-strangers-for-help-getting-offers-8658787f?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Most people make this retirement mistake. You might still have time to fix it.",
-      "description": "Are you prepared for the retirement you might get?",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/most-people-make-this-retirement-mistake-you-might-still-have-time-to-fix-it-17aba25d?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
     },
     {
       "title": "My wife and I retired with 22 times our income. Why don’t more people do what we did?",
@@ -173,61 +197,53 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/my-retirement-fund-is-like-an-ai-version-of-me-it-keeps-working-when-im-not-able-to-6d053f9d?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "College football's 10 most complete rosters: Georgia, Ohio State boast elite depth ahead of 2026 season",
+      "description": "Winning a national title takes elite talent and quality depth, and these 10 teams all have the pieces to compete at college football's top level",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/college-football-complete-rosters-georgia-ohio-state/",
+      "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "‘I’m already feeling anxious’: My ex-husband offered to give me a $30,000 lump sum for child support. Is there a catch?",
-      "description": "“He has not paid the last two months, and it is not court-ordered.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-already-feeling-anxious-my-ex-husband-offered-to-give-me-a-30-000-lump-sum-for-child-support-is-there-a-catch-b1a20e20?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
+      "title": "Arsenal vs. Burnley prediction, odds, expert best bets for English Premier League on Monday, May 18",
+      "description": "SportsLine soccer expert Martin Green shares his best bets for Monday's EPL match between Arsenal and Burnley",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/betting/news/arsenal-vs-burnley-prediction-odds-expert-best-bets-for-english-premier-league-on-monday-may-18/",
+      "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Kevin Warsh comes into the Fed facing a big 'family fight' over cutting interest rates",
-      "description": "With inflation spiking and Treasury yields surging, Warsh is likely to confront a Federal Open Market Committee in no mood to ease.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/16/kevin-warsh-comes-into-the-fed-facing-a-big-family-fight-over-cutting-interest-rates.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "UAE says its decision to leave OPEC was a strategic economic move, not a political one",
-      "description": "The United Arab Emirates, which joined OPEC in 1967, announced last month it was leaving the oil producer group on May 1.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/16/uae-decision-to-leave-opec-was-not-a-political-move.html",
-      "category": "📈 MARKETS",
+      "title": "2026 PGA Championship prize money, purse: Payouts for each golfer from record $20.5 million pool",
+      "description": "A $3.7 million payday awaits whoever lifts the Wanamaker Trophy on Sunday just outside Philadelphia",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/golf/news/pga-championship-2026-prize-money-purse-payouts-winnings/",
+      "category": "🏀 SPORTS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "How to watch 2026 PGA Championship live: Round 3 TV coverage, channel and streaming guide for Saturday",
-      "description": "Watch every single shot from the biggest names in golf during the third round of the PGA Championship 2026",
+      "title": "SportsLine Newsletter May 17, 2026",
+      "description": "Sunday Betting Guide: How to bet PGA Championship Sunday, plus picks for Cavs-Pistons Game 7 and NASCAR's All-Star Race",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/golf/news/pga-championship-live-2026-how-to-watch-round-3/",
+      "url": "https://www.cbssports.com/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Sources: SGA wins MVP for second straight year",
+      "description": "Thunder star Shai Gilgeous-Alexander has won his second consecutive NBA Most Valuable Player award, becoming the 14th player in league history to win back-to-back MVPs, sources told ESPN's Shams Charania.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/48795765/sources-thunder-shai-gilgeous-alexander-repeats-nba-mvp",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Ronda Rousey vs. Gina Carano: Fight card, date, complete guide as MVP makes debut in MMA",
-      "description": "Saturday also features plenty of MMA stars back in action, like Francis Ngannou and Nate Diaz",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/mma/news/ronda-rousey-vs-gina-carano-fight-card-date-odds-location/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Broken Hearts: Celtic snatch Scottish league title on final day after VAR overturns call in final minutes",
-      "description": "Hearts spent 226 days in first place before Celtic snatched it in the final 11 minutes of the final day of the season",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/broken-hearts-celtic-snatch-scottish-league-title-on-final-day-after-var-overturns-call-in-final-minutes/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "'Blessing in disguise': Anthony Richardson shows renewed appreciation for Colts despite trade request",
-      "description": "The former first-round pick is making the most of his time in Indianapolis following a tumultuous start to this NFL career",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/anthony-richardson-trade-request-colts-future/",
+      "title": "Rousey submits Carano by armbar in 17 seconds",
+      "description": "Ronda Rousey's first MMA fight in 10 years lasted only 17 seconds, as the former UFC champion quickly submitted Gina Carano via armbar to win their main event bout.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mma/story/_/id/48793049/ronda-rousey-submits-gina-carano-armbar-17-seconds",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
