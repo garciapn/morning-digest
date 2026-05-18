@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-17T14:44:12.379525+00:00",
-  "edition": "#103",
+  "date": "2026-05-18T16:39:29.166684+00:00",
+  "edition": "#104",
   "totalStories": 30,
   "podcast": {
     "show": "The Daily",
@@ -8,242 +8,242 @@
   },
   "stories": [
     {
-      "title": "The ultimate female fantasy – A feminist critique of Beauty and the Beast",
-      "description": "Article URL: https://storica.club/blog/beast-was-the-best-part/ Comments URL: https://news.ycombinator.com/item?id=48169255 Points: 7 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://storica.club/blog/beast-was-the-best-part/",
+      "title": "NYC Health and Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people",
+      "description": "The New York public healthcare system said hackers stole personal and medical data, and scans of biometrics — including fingerprints — in one of the largest recorded breaches of 2026.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
-      "description": "Article URL: https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html Comments URL: https://news.ycombinator.com/item?id=48168856 Points: 67 # Comments: 29",
+      "title": "A Rust-Python thing I am working on. Apache 2 licence",
+      "description": "Article URL: https://github.com/KevinKenya/nairobi-connector-open-source Comments URL: https://news.ycombinator.com/item?id=48181645 Points: 6 # Comments: 1",
       "source": "Hacker News",
-      "url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
+      "url": "https://github.com/KevinKenya/nairobi-connector-open-source",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "WHO Declares Ebola Outbreak a Global Health Emergency",
-      "description": "Article URL: https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html Comments URL: https://news.ycombinator.com/item?id=48168708 Points: 75 # Comments: 18",
-      "source": "Hacker News",
-      "url": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
-      "description": "Article URL: https://github.com/tech4bot/rk3562deb Comments URL: https://news.ycombinator.com/item?id=48168668 Points: 4 # Comments: 1",
-      "source": "Hacker News",
-      "url": "https://github.com/tech4bot/rk3562deb",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "A revolutionary cancer treatment could transform autoimmune disease",
-      "description": "Researchers are testing CAR T cell therapy as a way to reset the immune system.",
+      "title": "Five years later, Windows 11 brings back much-missed taskbar options (and more)",
+      "description": "Microsoft is also testing a smaller taskbar and more customizable Start menu.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Oddity is masterfully tense horror from the director of Hokum",
-      "description": "Hokum recently hit theaters, and it's already outperforming box office expectations. If this Kubrick-referencing haunted hotel flick starring Adam Scott was your introduction to director Damian McCarthy, do yourself a f…",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum",
+      "url": "https://arstechnica.com/gadgets/2026/05/five-years-later-windows-11-brings-back-much-missed-taskbar-options-and-more/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Personal decision for Starmer on whether to fight leadership contest, minister says",
-      "description": "Culture Secretary Lisa Nandy tells the BBC that the prime minister has \"shown before that he's up for a fight\" and she \"wouldn't write [him] off\".",
+      "title": "Kin Health raises $9M to build an AI notetaker for patients",
+      "description": "The app is similar to a meeting notetaker: you can record doctor visits, and it will return an AI summary of the meeting, with the next steps, all of which you share with family and friends if you want to.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+      "description": "Article URL: https://archestra.ai/blog/only-responsible-ai Comments URL: https://news.ycombinator.com/item?id=48181125 Points: 107 # Comments: 35",
+      "source": "Hacker News",
+      "url": "https://archestra.ai/blog/only-responsible-ai",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "What “Amazon Supply Chain Services” Tells Us About What Amazon Is",
+      "description": "Article URL: https://gadallon.substack.com/p/the-third-time-amazon-did-this-what Comments URL: https://news.ycombinator.com/item?id=48180881 Points: 17 # Comments: 10",
+      "source": "Hacker News",
+      "url": "https://gadallon.substack.com/p/the-third-time-amazon-did-this-what",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Married at First Sight UK brides tell BBC they were raped by on-screen husbands",
+      "description": "Channel 4 was aware of one of the rape claims before broadcast, but the woman involved still featured in the show.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clypg60k25ro?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cp8pz1k4r2lo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "PM insists he will not walk away as Burnham promises to change Labour",
+      "description": "The prime minister has faced calls from his own MPs to step down and outline a timetable for his departure.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx21en4807wo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Bodies of missing Italian divers found in Maldives",
+      "description": "The bodies of all five Italian divers who died in the Maldives last week have now been found, officials tell the BBC.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c332mngz25vo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Prince William selling 20% of duchy property for housing and nature projects",
+      "description": "The Duchy of Cornwall is to sell part of its 128,000 acre estate and re-invest in more housing.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce8pg8ryjkzo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Forty-three arrests after £4.5m police operation to keep rival London protests apart",
-      "description": "Serious clashes between Unite the Kingdom and pro-Palestinian protesters were avoided on Saturday.",
+      "title": "The Supreme Court avoids taking up a fight over Voting Rights Act enforcement for now",
+      "description": "After recently weakening the Voting Rights Act, the Supreme Court avoided for now taking up a legal question that may severely limit enforcement of the law's remaining protections for minority voters.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/18/nx-s1-5616665/supreme-court-voting-rights-act-private-right",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Trump drops IRS lawsuit, paving the way for a settlement",
+      "description": "The president sued the IRS and the Treasury Department in January, demanding $10 billion over the leak of his tax returns years ago.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/18/g-s1-119783/trump-irs-lawsuit-settlement",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Kentucky primaries 2026: Poll times, key races and what to watch",
+      "description": "Two Kentucky Republican races are drawing national attention: the Senate primary and the 4th District contest,",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/18/kentucky-primaries-2026-poll-times-key-races-and-what-to-watch?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "At least 100 deaths reported in Ebola outbreak in DR Congo as six Americans exposed",
+      "description": "One of the six Americans is experiencing symptoms, according to media reports. One province in Congo reports 390 cases.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ckgpznn202po?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "One clinic tracks the heavy toll Trump's immigration crackdown takes on mental health",
-      "description": "Zocalo Health, a clinic in Los Angeles, screens all its patients for depression, anxiety and suicidal thoughts. It documented a marked increase in those conditions since ICE enforcement actions began.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/05/17/nx-s1-5779576/immigration-ice-cbp-mental-health-children",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "The foreign fighters who helped topple Assad — and why China worries about them",
-      "description": "Thousands of Uyghurs became key fighters against Syria's Assad regime. For the first time, they agreed to be interviewed. NPR spent weeks with some of them to understand why they fled China for Syria.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/05/17/g-s1-113270/uyghurs-china-syria-war-fighters-rebels-bashar-al-assad",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "5h ago"
-    },
-    {
-      "title": "How a CEO and Trump donor is weaponizing tariffs against his rivals",
-      "description": "Cambria CEO Marty Davis has successfully asked the U.S. government to put tariffs on quartz. His business competitors are crying foul.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/05/17/nx-s1-5726366/ceo-trump-donor-quartz-kitchen-countertop-tariffs",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "5h ago"
-    },
-    {
-      "title": "New burn bans and Trump's battle with immigration and DEI are impacting forest fires",
-      "description": "Firefighters say setting fires on purpose is one of the best ways to protect against massive wildfires later. But the Trump administration is banning or stalling preventative burning across the U.S.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/05/17/nx-s1-5777660/forest-service-wildfire-safety-prevention-trump-administration",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "5h ago"
-    },
-    {
-      "title": "Is Christian Zionism in the US on a decline?",
-      "description": "Support for Israel among young American conservatives is weakening. That might not bode well for Christian Zionism.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/5/17/is-christian-zionism-in-the-us-on-a-decline?traffic_source=rss",
+      "url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Fabio Di Giannantonio wins shortened Catalan MotoGP after Marquez crash",
-      "description": "Race marred by two red flags and multiple crashes, including a serious incident involving Alex Marquez and Pedro Acosta.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/17/fabio-di-giannantonio-wins-shortened-catalan-motogp-after-marquez-crash?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
-      "description": "Ukraine's president says the strikes are a \"justified\" response to deadly Russian attacks on Ukrainian cities.",
+      "title": "Death toll from Israeli strikes on Lebanon passes 3,000, officials say",
+      "description": "It marks a grim milestone in the conflict between Israel and the Lebanese armed group Hezbollah since March, despite a nominal ceasefire.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Drone strike sparks fire on perimeter of UAE’s Barakah nuclear power plant",
-      "description": "Authorities say radiation levels remain normal, operations not affected.",
+      "title": "Pakistan’s mediation faces limits as Iran-US tensions deepen",
+      "description": "Tehran and Washington exchange proposals via Pakistan as military escalation increasingly shadows diplomatic efforts.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/17/drone-strike-sparks-fire-at-uaes-barakah-nuclear-power-plant?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/5/18/pakistans-mediation-faces-limits-as-iran-us-tensions-deepen?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Son of Palestinian President Mahmoud Abbas elected to top Fatah body",
-      "description": "Businessman Yasser Abbas, 64, secured a place on the central committee despite spending most of his time in Canada.",
+      "title": "LIVE: Arsenal vs Burnley – Premier League",
+      "description": "Follow our live build-up, with full team news coverage, ahead of our text commentary stream.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/17/son-of-palestinian-president-mahmoud-abbas-elected-to-top-fatah-body?traffic_source=rss",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/5/18/live-arsenal-vs-burnley-premier-league?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Man drives car into pedestrians in Italy, injuring eight",
-      "description": "Eight people were injured, four seriously, before passers-by gave chase and stopped the man.",
+      "title": "Judge rules gun and writings are admissible in Luigi Mangione's New York murder trial",
+      "description": "Other items found with Mangione at a Pennsylvania McDonald's will not be allowed to be presented in court, the judge ruled.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cx21g6qz45xo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Nvidia is getting some help as it props up S&P 500 earnings growth",
-      "description": "Micron is expected to be the second-largest contributor to the index’s overall earnings growth — behind Nvidia, whose impact will likely diminish.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nvidia-is-getting-some-help-as-it-props-up-s-p-500-earnings-growth-1f3a8a52?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "AI-related layoffs a boost for stocks? Not necessarily",
-      "description": "The data underscores an uncomfortable reality.",
+      "title": "Meta layoffs starting this week stress harsh AI reality inside Zuckerberg’s company",
+      "description": "Meta is starting layoffs this week, with 8,000 jobs expected to be cut, as employees brace for a new era of AI.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/17/ai-related-layoffs-a-boost-for-stocks-not-necessarily.html",
+      "url": "https://www.cnbc.com/2026/05/18/metas-layoffs-starting-this-week-underscore-zuckerbergs-ai-reality-.html",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "‘Several days have passed’: The restaurant failed to process my 20% tip. Is it cheating the staff?",
-      "description": "“When I use a credit card, tips are usually added immediately.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/several-days-have-passed-the-restaurant-failed-to-process-my-20-tip-is-it-cheating-the-staff-e4338e82?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "These hidden forces are driving the runaway stock-market rally",
-      "description": "Bullish options traders and heavy buying of leveraged ETFs are playing a role in the historic swing higher for stocks. They’re also being tested.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/these-hidden-forces-are-driving-the-runaway-stock-market-rally-95000ab1?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "G7 finance ministers to meet amid warning of economic consequences of prolonged Strait of Hormuz closure",
-      "description": "G7 finance ministers are due to meet in Paris on Monday and Tuesday as long-term borrowing costs surge.",
+      "title": "Warren Buffett teased to CNBC a ‘tiny purchase’ in March. Berkshire filing may have revealed it",
+      "description": "When asked in March whether Berkshire was still putting money to work, Buffett said the conglomerate had made \"one tiny purchase.\"",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/17/opening-strait-of-hormuz-is-of-utmost-importance-eurogroup-head.html",
+      "url": "https://www.cnbc.com/2026/05/18/warren-buffett-teased-to-cnbc-a-tiny-purchase-in-march-berkshire-filing-may-have-revealed-it.html",
       "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "My wife and I retired with 22 times our income. Why don’t more people do what we did?",
-      "description": "“The vast majority of people I’ve known are intimidated by money’s power, imbue it with almost magical qualities.”",
+      "title": "I inherited a house. My CPA says I should sell within a year to avoid capital gains. Is he right?",
+      "description": "“We plan to sell it to another family member for the appraised value.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-retirement-fund-is-like-an-ai-version-of-me-it-keeps-working-when-im-not-able-to-6d053f9d?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/i-inherited-a-house-my-cpa-says-i-should-sell-within-a-year-to-avoid-capital-gains-is-he-right-d0909486?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "College football's 10 most complete rosters: Georgia, Ohio State boast elite depth ahead of 2026 season",
-      "description": "Winning a national title takes elite talent and quality depth, and these 10 teams all have the pieces to compete at college football's top level",
+      "title": "5 money moves that made this 32-year-old dad a millionaire in just 9 years",
+      "description": "A low starting salary, global pandemic, unaffordable housing market, graduate school and two kids didn’t stop Blake Edwards and his wife from becoming millionaires by their early 30s.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/5-money-moves-that-made-this-32-year-old-dad-a-millionaire-in-just-9-years-3725c0ed?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Ford takes its first big step toward being an energy business",
+      "description": "Ford just inked a deal with a French electric-utility company.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/ford-takes-its-first-big-step-toward-being-an-energy-business-b1d72bc2?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "The oil market is reaching a ‘tipping point’ that could create problems for stocks, according to this Wall Street legend",
+      "description": "Evercore’s Roger Altman said in a CNBC interview on Monday that a sharp rise in crude could destabilize markets before it may trigger “the second big inflation shock of this decade after COVID,” especially if oil prices…",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-oil-market-is-reaching-a-tipping-point-that-could-create-problems-for-stocks-according-to-this-wall-street-legend-8e7f9d62?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Canadiens vs. Sabres odds, prediction, time: 2026 NHL playoff picks, Game 7 best bets from proven model",
+      "description": "SportsLine's model reveals its Montreal Canadiens vs. Buffalo Sabres picks for their 2026 Stanley Cup playoff second-round Game 7 matchup",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/college-football-complete-rosters-georgia-ohio-state/",
+      "url": "https://www.cbssports.com/nhl/news/canadiens-sabres-odds-line-prediction-start-time-2026-nhl-playoff-picks-game-7-best-bets/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Arsenal vs. Burnley prediction, odds, expert best bets for English Premier League on Monday, May 18",
-      "description": "SportsLine soccer expert Martin Green shares his best bets for Monday's EPL match between Arsenal and Burnley",
+      "title": "Oregon sues Oklahoma DB Dakoda Fields over transfer's unpaid NIL contract buyout",
+      "description": "Fields transferred to Oklahoma this offseason after two years with Oregon",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/arsenal-vs-burnley-prediction-odds-expert-best-bets-for-english-premier-league-on-monday-may-18/",
+      "url": "https://www.cbssports.com/college-football/news/oregon-lawsuit-dakoda-fields-oklahoma-nil-contract-buyout/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "2026 PGA Championship prize money, purse: Payouts for each golfer from record $20.5 million pool",
-      "description": "A $3.7 million payday awaits whoever lifts the Wanamaker Trophy on Sunday just outside Philadelphia",
+      "title": "Spurs vs. Thunder odds, prediction: 2026 NBA Western Conference finals picks, Game 1 best bets by proven model",
+      "description": "SportsLine's model reveals its San Antonio Spurs vs. Oklahoma City Thunder Game 1 picks for Monday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/golf/news/pga-championship-2026-prize-money-purse-payouts-winnings/",
+      "url": "https://www.cbssports.com/nba/news/spurs-thunder-odds-prediction-time-2026-nba-western-conference-finals-picks-game-1-best-bets/",
       "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "SportsLine Newsletter May 17, 2026",
-      "description": "Sunday Betting Guide: How to bet PGA Championship Sunday, plus picks for Cavs-Pistons Game 7 and NASCAR's All-Star Race",
+      "title": "Five stories that could impact World Cup: Lamine Yamal to miss start of the tournament?",
+      "description": "Injuries and suspensions will deeply impact the upcoming decisions of coaches ahead of the World Cup",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/",
+      "url": "https://www.cbssports.com/soccer/news/world-cup-lamine-yamal-to-miss-start-of-the-tournament-usmnt-injuries-chris-richards-ousmane-dembele/",
       "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Sources: SGA wins MVP for second straight year",
-      "description": "Thunder star Shai Gilgeous-Alexander has won his second consecutive NBA Most Valuable Player award, becoming the 14th player in league history to win back-to-back MVPs, sources told ESPN's Shams Charania.",
+      "title": "Pelicans hiring Mosley as head coach, sources say",
+      "description": "The Pelicans are hiring Jamahl Mosley on a five-year contract as their new head coach, sources told ESPN. He spent the past five seasons in Orlando, going 189-221.",
       "source": "ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/48795765/sources-thunder-shai-gilgeous-alexander-repeats-nba-mvp",
+      "url": "https://www.espn.com/nba/story/_/id/48806473/sources-pelicans-hiring-jamahl-mosley-head-coach",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Rousey submits Carano by armbar in 17 seconds",
-      "description": "Ronda Rousey's first MMA fight in 10 years lasted only 17 seconds, as the former UFC champion quickly submitted Gina Carano via armbar to win their main event bout.",
+      "title": "Rory fires back at fan after 'USA' shout from gall...",
+      "description": "Rory McIlroy's frustrating final round at the PGA Championship on Sunday boiled over with an angry exchange with a fan after a \"U-S-A!\" shout from the gallery at Aronimink Golf Club.",
       "source": "ESPN",
-      "url": "https://www.espn.com/mma/story/_/id/48793049/ronda-rousey-submits-gina-carano-armbar-17-seconds",
+      "url": "https://www.espn.com/golf/story/_/id/48801616/rory-mcilroy-heated-exchange-fan-pga-championship-usa-shout-gallery",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
