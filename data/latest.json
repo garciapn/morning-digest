@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-19T16:38:09.871593+00:00",
-  "edition": "#105",
+  "date": "2026-05-20T16:35:27.102513+00:00",
+  "edition": "#106",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "RuView – See through walls with WiFi",
-      "description": "Article URL: https://github.com/ruvnet/RuView Comments URL: https://news.ycombinator.com/item?id=48195387 Points: 3 # Comments: 1",
+      "title": "Google I/O 2026 had nothing to say and said it badly ahead of Apple's WWDC",
+      "description": "Article URL: https://appleinsider.com/articles/26/05/20/google-io-2026-had-nothing-to-say-and-said-it-badly-ahead-of-apples-wwdc Comments URL: https://news.ycombinator.com/item?id=48209822 Points: 12 # Comments: 1",
       "source": "Hacker News",
-      "url": "https://github.com/ruvnet/RuView",
+      "url": "https://appleinsider.com/articles/26/05/20/google-io-2026-had-nothing-to-say-and-said-it-badly-ahead-of-apples-wwdc",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "AI is too expensive",
-      "description": "Article URL: https://www.wheresyoured.at/ai-is-too-expensive/ Comments URL: https://news.ycombinator.com/item?id=48195100 Points: 44 # Comments: 25",
+      "title": "SBCL: The Assembly Code Breadboard (2014)",
+      "description": "Article URL: https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/ Comments URL: https://news.ycombinator.com/item?id=48209558 Points: 18 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://www.wheresyoured.at/ai-is-too-expensive/",
+      "url": "https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Show HN: Superlog (YC P26) – Observability that installs itself and fixes bugs",
-      "description": "Hey HN, we’re Nico and Arseniy, co-founders of Superlog ( https://superlog.sh ). We're building a self-installing, self healing observability tool meant not to be opened. It has a wizard that daily sets up proper loggin…",
-      "source": "Hacker News",
-      "url": "https://superlog.sh/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "I've built a virtual museum with nearly every operating system you can think of",
-      "description": "Article URL: https://virtualosmuseum.org/ Comments URL: https://news.ycombinator.com/item?id=48195009 Points: 54 # Comments: 9",
-      "source": "Hacker News",
-      "url": "https://virtualosmuseum.org/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team",
-      "description": "Pre-training is responsible for the large-scale training runs that give Claude its core knowledge and capabilities, according to the company. It's also one of the most expensive, compute-intensive phases of building a f…",
+      "title": "Customers say Trump Mobile is leaking their personal information",
+      "description": "Trump Mobile is leaking customers’ email and home addresses, but has not responded to people alerting the company of the data exposure, according to two YouTubers who said they verified that their leaked data is authent…",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+      "url": "https://techcrunch.com/2026/05/20/customers-say-trump-mobile-is-leaking-their-personal-information/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "The minimalist Light Phone teams up with Andrew Yang’s Noble Mobile, which pays you to stop doomscrolling",
-      "description": "\"The Light Phone is designed to be used as little as possible,\" founder Joe Hollier told TechCrunch.",
+      "title": "Formal Verification Gates for AI Coding Loops",
+      "description": "Article URL: https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/ Comments URL: https://news.ycombinator.com/item?id=48209323 Points: 11 # Comments: 1",
+      "source": "Hacker News",
+      "url": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Intuit to lay off over 3,000 employees to refocus on AI",
+      "description": "In a memo to employees, CEO Sasan Goodarzi said the layoffs are meant to reduce complexity, simplify the company's corporate structure, and deliver better AI products.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/19/the-minimalist-light-phone-teams-up-with-andrew-yangs-noble-mobile-which-pays-you-to-stop-doomscrolling/",
+      "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Married at First Sight UK rape allegations 'extremely serious', says PM's spokesperson",
-      "description": "A BBC Panorama investigation revealed allegations that two women had been raped during filming.",
+      "title": "Stable Audio 3",
+      "description": "Article URL: https://arxiv.org/abs/2605.17991 Comments URL: https://news.ycombinator.com/item?id=48209105 Points: 18 # Comments: 0",
+      "source": "Hacker News",
+      "url": "https://arxiv.org/abs/2605.17991",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Women who died in sea off Brighton were sisters",
+      "description": "Paying tribute, their father says \"no words can truly describe the pain of losing three daughters\".",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c62xv7n4xwdo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c62dn5r4elqo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Surrey Police investigating child sex abuse allegations after Epstein files release",
-      "description": "The force said no arrests have been made in relation to the offences dating back to the 1980s and 1990s.",
+      "title": "Supermarkets hit back over pressure to cap price of milk, bread and eggs",
+      "description": "A minister confirms talks have taken place but says there will be no mandatory cap on essential food prices.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0k2d2pl6x0o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "BBC confirms new Strictly Come Dancing hosts",
-      "description": "The trio replace Tess Daly and Claudia Winkleman, who left the BBC dance competition last year.",
+      "title": "Russian jets 'dangerously' intercept RAF spy plane over Black Sea",
+      "description": "The unarmed Rivet Joint surveillance aircraft was conducting a \"routine international flight\" during the incidents, the Ministry of Defence says.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgep5ez80rzo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cq8p40e2zx1o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "HS2 could cost up to £102.7bn and trains will be slower than first planned",
-      "description": "The new cost range and train speed are being announced as a \"reset\" of the delayed, over-budget and vastly scaled-back project is carried out.",
+      "title": "Fuel duty freeze extended until the end of the year",
+      "description": "Fuel duty was initially cut by 5p in March 2022, under the Conservative government.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c794xw7p2dqo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c3021md6jq6o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "Minnesota becomes first state to ban prediction markets",
-      "description": "While dozens of states have taken legal action against the controversial industry, Minnesota is the first state to pass a law making it a felony for companies like Kalshi and Polymarket to operate.",
+      "title": "A rare Ebola strain is spreading with no vaccine. Here's what you need to know",
+      "description": "This outbreak is being called \"the perfect storm.\" How did it start, what are the characteristics of the strain that's causing it and how much of a threat is it to global health?",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
+      "url": "https://www.npr.org/2026/05/20/nx-s1-5826910/ebola-outbreak-africa-risks",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "States sue over new student loan limits on certain nursing and healthcare degrees",
-      "description": "New York, Arizona, North Carolina, Kentucky and Nevada are among the states challenging a rule that limits federal student loans for graduate degrees in nursing, physical therapy and more.",
+      "title": "Barney Frank, former congressman and gay-rights pioneer, dies at 86",
+      "description": "The former congressman was politically engaged until the end. As GBH reports, Even in hospice, Frank was actively working to spread the message of his forthcoming book, \"The Hard Path to Unity: Why We Must Reform the Le…",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/05/19/nx-s1-5826688/lawsuit-student-loans-nursing-healthcare-graduate-degree",
+      "url": "https://www.npr.org/2026/05/20/g-s1-123012/barney-frank",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Pakistan sentences man to death for killing TikTok star Sana Yousaf",
-      "description": "The verdict against Umar Hayat who killed a teenage influencer in her home 'is for the entire society', her father says.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/19/death-sentence-handed-to-man-for-killing-tiktok-star-sana-yousaf?traffic_source=rss",
+      "title": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
+      "description": "France and Italy are among the countries that have criticised a video showing Itamar Ben-Gvir taunting dozens of activists detained at an Israeli port.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Security guards face probe after last week’s Philippine Senate shooting",
-      "description": "Authorities say the shooting was not an 'attack on the Senate' and identified the person who fired the first shot.",
+      "title": "At least eight killed in Israel’s air attacks on southern Lebanon",
+      "description": "Israeli attacks on Lebanon continue despite the 'ceasefire' that was recently extended until the beginning of July.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/19/security-guards-face-probe-after-last-weeks-philippine-senate-shooting?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/5/20/at-least-eight-killed-in-israels-air-attacks-on-southern-lebanon?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Qatar says US-Iran negotiations need ‘more time’",
-      "description": "Qatar’s foreign ministry says more time is needed for US-Iran negotiations.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/qatar-says-us-iran-negotiations-need-more?traffic_source=rss",
+      "title": "Murder or accident? Mystery of Mango tycoon's hiking death after son's arrest",
+      "description": "Isak Andic's son Jonathan denies involvement in the fatal fall of his father, who founded one of Europe's biggest clothing empires.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy2g09yvgmo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "At least one killed, 21 wounded in car bomb explosion in Syria’s Damascus",
-      "description": "Blast occurs near Defence Ministry building in Bab Sharqi district of the capital.",
+      "title": "Oscar-winning director calls Trump, Netanyahu and Putin ‘monsters’",
+      "description": "Oscar-winning Spanish director Pedro Almodovar called Donald Trump, Benjamin Netanyahu and Vladimir Putin ‘monsters’.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/19/at-least-one-killed-21-wounded-in-car-bomb-explosion-in-syrias-damascus?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/oscar-winning-director-calls-trump-netanyahu-and-putin?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "The battle of perception: From Israel’s Fauda to Hezbollah’s FPV footage",
+      "description": "New approaches to war propaganda are reshaping the conflict between Israel, Hezbollah, and Iran.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/5/20/the-battle-of-perception-from-israels-fauda-to-hezbollahs-fpv-footage?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Son of Mango boss arrested over father's fatal fall from cliff",
-      "description": "Isak, 71, died in December 2024 after falling from a ravine while walking in the Montserrat mountains near Barcelona.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0m2pg1z4x8o?at_medium=RSS&at_campaign=rss",
+      "title": "What is the Power of Siberia 2 pipeline that Russia, China are planning?",
+      "description": "Analysts say Russia wants to replace lost gas revenue while China seeks to diversify and secure its energy supplies.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/5/20/what-is-the-power-of-siberia-2-pipeline-that-russia-china-are-planning?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns",
-      "description": "Hundreds of cases are suspected in central Africa but experts fear the actual number may be much higher.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Trump says he’ll let Warsh ‘do what he wants to do’ with interest rates. It’s a remark that Fed watchers have been bracing for.",
-      "description": "President Donald Trump on Tuesday shifted his message for the Federal Reserve, suggesting he’ll give some slack to incoming Fed chair Kevin Warsh after putting unprecedented pressure on the U.S. central bank for more th…",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/trump-says-hell-let-warsh-do-what-he-wants-to-do-with-interest-rates-its-a-remark-that-fed-watchers-have-been-bracing-for-2b014504?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "30-year Treasury yield tops 5.19%, highest since before the financial crisis",
-      "description": "Global bond markets remain on edge as traders monitor central bank responses to renewed inflation fears.",
+      "title": "Jan. 6 police officers sue Trump to block $1.8B 'lawfare' fund",
+      "description": "The Department of Justice agreed to create the fund to settle a $10 billion lawsuit by President Trump over the leak of his tax records by an IRS employee.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/19/treasurys-yields-inflation-traders-fed-interest-rates.html",
+      "url": "https://www.cnbc.com/2026/05/20/trump-fund-lawsuit-capitol-riot-irs.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Crude oil is going the long way around the world as countries scramble to plug Hormuz supply hole",
-      "description": "The near-standstill at the Strait of Hormuz has forced countries to get much-needed energy products via routes that were relatively quiet only a few months ago.",
+      "title": "Here’s why Target’s turnaround may not be as smooth as the latest results imply",
+      "description": "Target’s turnaround efforts include everything from redesigned shopping carts to a “concierge” service for baby products. But the retailer’s optimism about those plans has run up against skepticism from investors, who s…",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/crude-oil-is-going-the-long-way-around-the-world-as-countries-scramble-to-plug-hormuz-supply-hole-af065aaf?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/targets-turnaround-involves-upscale-baby-gear-and-revamped-shopping-carts-and-its-starting-to-pay-off-eda9ba67?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "5 money moves that made this 32-year-old dad a millionaire in just 9 years",
-      "description": "A low starting salary, global pandemic, unaffordable housing market, graduate school and two kids didn’t stop Blake Edwards and his wife from becoming millionaires by their early 30s.",
+      "title": "U.S. crude oil falls below $100 per barrel after Trump says Iran talks in final stages",
+      "description": "Trump told reporters that the administration was in the \"final stages\" of negotiations with Iran, according to a pool report.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/20/oil-price-today-iran-war-strait-hormuz-trump.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Want to live a more meaningful life? Write your own obituary.",
+      "description": "By summarizing the life you’ve lived so far and the life you want to have from now on, you add meaning and intentionality to your days.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/5-money-moves-that-made-this-32-year-old-dad-a-millionaire-in-just-9-years-3725c0ed?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/writing-your-own-obituary-can-help-you-live-a-better-life-heres-how-to-get-started-d3076941?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Trump says he was 'an hour away' from Iran strike decision before he postponed it",
-      "description": "Asked how long Iran has to come to the table, Trump said it could be two or three days, or perhaps until Sunday or early next week.",
+      "title": "Global oil prices drop below $106 a barrel on hopes that U.S.-Iran war will soon end",
+      "description": "Oil futures were extending their declines on Wednesday following reports that a new round of negotiations between the U.S. and Iran will be held in Pakistan, raising hopes for a resolution to the months-long stalemate i…",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/oil-prices-decline-after-trump-reaffirmed-he-would-end-the-war-in-iran-very-quickly-f5148dd4?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Jeff Bezos says bottom half of earners should pay zero in income taxes",
+      "description": "Amazon Executive Chairman Jeff Bezos on Wednesday called for zero federal income taxes on the bottom half of earners.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/19/trump-iran-war-strike-postponed.html",
+      "url": "https://www.cnbc.com/2026/05/20/jeff-bezos-income-taxes.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Trump says it's not a 'war.' Insurers with money on the line say it is",
-      "description": "Businesses in the Middle East bought insurance that protects against terrorism or sabotage, but far fewer purchased coverage explicitly designed to cover \"war.\"",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/19/trump-says-its-not-a-war-insurers-with-money-on-the-line-say-it-is.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Stanley Cup Playoffs 2026: Picks, predictions for conference finals as just four teams remain standing",
-      "description": "What to watch as the Avalanche, Golden Knights, Hurricanes and Canadiens remain alive for the Stanley Cup",
+      "title": "Spurs vs. Thunder odds, prediction: 2026 NBA Western Conference finals picks, Game 2 best bets by proven model",
+      "description": "SportsLine's model reveals its Oklahoma City Thunder vs. San Antonio Spurs Game 2 picks for Wednesday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nhl/news/stanley-cup-playoffs-2026-picks-predictions-conference-finals/",
+      "url": "https://www.cbssports.com/nba/news/spurs-thunder-odds-prediction-spread-2026-nba-western-conference-finals-picks-game-2-best-bets/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "NBA predictions: Will Pistons make big move for Giannis, Kawhi or Durant after disastrous Game 7 loss?",
-      "description": "The Pistons got demolished on their home floor in Game 7 in the second round of the playoffs and now head into the summer with several major questions to answer. Here's how they stack up in the race for big-name stars a…",
+      "title": "Footy Fix: Arsenal lifted a Premier League trophy Tuesday, will Aston Villa follow with Europa League glory?",
+      "description": "Elsewhere on the Golazo Starting XI newsletter, don't miss midweek NWSL action",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/nba-predictions-will-pistons-make-big-move-for-giannis-kawhi-or-durant-after-disastrous-game-7-loss/",
+      "url": "https://www.cbssports.com/soccer/news/footy-fix-arsenal-lifted-a-premier-league-trophy-tuesday-will-aston-villa-follow-with-europa-league-glory/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Antonio Conte set to leave Napoli at the end of the season: Is he in contention to return as Italy manager?",
-      "description": "The Italian head coach will leave the Azzurri after the last match of the Serie A season",
+      "title": "2027 NFL mock draft: Early first-round predictions for college football's top stars -- with a twist",
+      "description": "Projecting next year's first round based on the positional order of the 2026 NFL Draft",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/antonio-conte-set-to-leave-napoli-at-the-end-of-the-season-is-he-in-contention-to-return-as-italy-manager/",
+      "url": "https://www.cbssports.com/college-football/news/2027-nfl-mock-draft-first-round-2026-positional-order/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Carlos Alcaraz injury: Spanish superstar withdraws from Wimbledon 2026 due to wrist injury",
-      "description": "Alacaraz announced his wrist injury will keep him out not only for the French Open but through Wimbledon as well",
+      "title": "Bill Belichick says Tom Brady was right to leave Patriots in 2020",
+      "description": "The former Patriots coach acknowledged that New England was on the decline when Brady left in 2020",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/tennis/news/carlos-alcaraz-injury-wimbledon-wrist/",
+      "url": "https://www.cbssports.com/nfl/news/bill-belichick-tom-brady-patriots-2020/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
