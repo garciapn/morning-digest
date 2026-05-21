@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-20T16:35:27.102513+00:00",
-  "edition": "#106",
+  "date": "2026-05-21T16:25:03.553615+00:00",
+  "edition": "#107",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Google I/O 2026 had nothing to say and said it badly ahead of Apple's WWDC",
-      "description": "Article URL: https://appleinsider.com/articles/26/05/20/google-io-2026-had-nothing-to-say-and-said-it-badly-ahead-of-apples-wwdc Comments URL: https://news.ycombinator.com/item?id=48209822 Points: 12 # Comments: 1",
+      "title": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
+      "description": "Hey HN, We're Gus and Carlos from Runtime ( https://runtm.com ). We're building infra that lets your whole team (including non-engineers) ship with Claude Code, Codex, and other agents without engineering having to hand…",
       "source": "Hacker News",
-      "url": "https://appleinsider.com/articles/26/05/20/google-io-2026-had-nothing-to-say-and-said-it-badly-ahead-of-apples-wwdc",
+      "url": "https://www.runtm.com/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "SBCL: The Assembly Code Breadboard (2014)",
-      "description": "Article URL: https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/ Comments URL: https://news.ycombinator.com/item?id=48209558 Points: 18 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Customers say Trump Mobile is leaking their personal information",
-      "description": "Trump Mobile is leaking customers’ email and home addresses, but has not responded to people alerting the company of the data exposure, according to two YouTubers who said they verified that their leaked data is authent…",
+      "title": "This young startup is taking on a fragrance industry that hasn’t changed in a almost half century",
+      "description": "Fragrance tech company Patina announced Thursday a $2 million raise from investors, including Betaworks and True Ventures.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/20/customers-say-trump-mobile-is-leaking-their-personal-information/",
+      "url": "https://techcrunch.com/2026/05/21/a-new-fragrance-company-raises-2-million-to-find-new-scent-molecules/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Formal Verification Gates for AI Coding Loops",
-      "description": "Article URL: https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/ Comments URL: https://news.ycombinator.com/item?id=48209323 Points: 11 # Comments: 1",
-      "source": "Hacker News",
-      "url": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Intuit to lay off over 3,000 employees to refocus on AI",
-      "description": "In a memo to employees, CEO Sasan Goodarzi said the layoffs are meant to reduce complexity, simplify the company's corporate structure, and deliver better AI products.",
+      "title": "Spotify takes on Google’s NotebookLM with its new app",
+      "description": "Spotify is releasing the new desktop app as a research preview in more than 20 markets",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+      "url": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Stable Audio 3",
-      "description": "Article URL: https://arxiv.org/abs/2605.17991 Comments URL: https://news.ycombinator.com/item?id=48209105 Points: 18 # Comments: 0",
+      "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
+      "description": "Spotify will let you generate daily or weekly briefs based on your prompts",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
+      "description": "Spotify is releasing new audiobook plans later this year",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "We Reverse-Engineered Docker Sandbox's Undocumented MicroVM API",
+      "description": "Article URL: https://rivet.dev/blog/2026-02-04-we-reverse-engineered-docker-sandbox-undocumented-microvm-api/ Comments URL: https://news.ycombinator.com/item?id=48223693 Points: 12 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://arxiv.org/abs/2605.17991",
+      "url": "https://rivet.dev/blog/2026-02-04-we-reverse-engineered-docker-sandbox-undocumented-microvm-api/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Women who died in sea off Brighton were sisters",
-      "description": "Paying tribute, their father says \"no words can truly describe the pain of losing three daughters\".",
+      "title": "NHS trust sacks staff over accessing Nottingham attacks victims' records",
+      "description": "Nottingham University Hospitals NHS Trust says investigations are ongoing.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c62dn5r4elqo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cgrpdkevvnko?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Supermarkets hit back over pressure to cap price of milk, bread and eggs",
-      "description": "A minister confirms talks have taken place but says there will be no mandatory cap on essential food prices.",
+      "title": "Cheaper theme park tickets and children's meals as VAT to be cut for some attractions this summer",
+      "description": "Chancellor Rachel Reeves made a series of announcements aimed at relieving cost-of-living pressures.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cd7pzr88de1o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Russian jets 'dangerously' intercept RAF spy plane over Black Sea",
-      "description": "The unarmed Rivet Joint surveillance aircraft was conducting a \"routine international flight\" during the incidents, the Ministry of Defence says.",
+      "title": "UK migration drops to 171,000 - almost half 2024's figure",
+      "description": "The prime minister says his government is delivering on its promise to restore control to the borders.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cq8p40e2zx1o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/clyp1ekd584o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Fuel duty freeze extended until the end of the year",
-      "description": "Fuel duty was initially cut by 5p in March 2022, under the Conservative government.",
+      "title": "Late Queen was 'very keen' for Andrew to be given trade envoy role",
+      "description": "Newly released documents show that Queen Elizabeth had a \"wish\" for her son Andrew Mountbatten-Windsor to take on a \"prominent role\".",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3021md6jq6o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cm2pjg397l2o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "A rare Ebola strain is spreading with no vaccine. Here's what you need to know",
-      "description": "This outbreak is being called \"the perfect storm.\" How did it start, what are the characteristics of the strain that's causing it and how much of a threat is it to global health?",
+      "title": "After the sirens: Lebanon's first responders swing between duty and grief",
+      "description": "Nearly 3,000 people have been killed and nearly 1 million have been displaced the war in southern Lebanon began in March. Nearly 400 have been killed since a ceasefire began in April.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/05/20/nx-s1-5826910/ebola-outbreak-africa-risks",
+      "url": "https://www.npr.org/sections/the-picture-show/2026/05/21/nx-s1-5821157/lebanons-first-responders-balance-duty-and-grief",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Barney Frank, former congressman and gay-rights pioneer, dies at 86",
-      "description": "The former congressman was politically engaged until the end. As GBH reports, Even in hospice, Frank was actively working to spread the message of his forthcoming book, \"The Hard Path to Unity: Why We Must Reform the Le…",
+      "title": "A trillion dollar question: Will SpaceX's Starship launch go well?",
+      "description": "Ahead of a much anticipated IPO, SpaceX is carrying out a critical test of its giant, stainless steel rocket. Investors will be watching closely.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/05/20/g-s1-123012/barney-frank",
+      "url": "https://www.npr.org/2026/05/21/nx-s1-5823583/spacex-starship-musk-ipo",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
-      "description": "France and Italy are among the countries that have criticised a video showing Itamar Ben-Gvir taunting dozens of activists detained at an Israeli port.",
+      "title": "Charges dismissed against official at school where 6-year-old shot teacher",
+      "description": "The child fired a single shot at a teacher, who had to have surgery after the incident in 2023.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cy82y34y101o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "At least eight killed in Israel’s air attacks on southern Lebanon",
-      "description": "Israeli attacks on Lebanon continue despite the 'ceasefire' that was recently extended until the beginning of July.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/20/at-least-eight-killed-in-israels-air-attacks-on-southern-lebanon?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Murder or accident? Mystery of Mango tycoon's hiking death after son's arrest",
-      "description": "Isak Andic's son Jonathan denies involvement in the fatal fall of his father, who founded one of Europe's biggest clothing empires.",
+      "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+      "description": "The companies were found guilty by a French court over an air disaster which killed 228 people.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwy2g09yvgmo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Oscar-winning director calls Trump, Netanyahu and Putin ‘monsters’",
-      "description": "Oscar-winning Spanish director Pedro Almodovar called Donald Trump, Benjamin Netanyahu and Vladimir Putin ‘monsters’.",
+      "title": "Afghan women’s refugee team returns to world cricket post Taliban exclusion",
+      "description": "Afghanistan women's refugee team will tour United Kingdom in June and be guests at July's World Cup final at Lord's.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/oscar-winning-director-calls-trump-netanyahu-and-putin?traffic_source=rss",
+      "url": "https://www.aljazeera.com/sports/2026/5/21/afghan-womens-refugee-team-returns-to-world-cricket-post-taliban-exclusion?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "The battle of perception: From Israel’s Fauda to Hezbollah’s FPV footage",
-      "description": "New approaches to war propaganda are reshaping the conflict between Israel, Hezbollah, and Iran.",
+      "title": "Russia rehearses ‘use of nuclear forces’ in drills with Belarus",
+      "description": "Russia delivered nuclear warheads to sites in Belarus as part of a three-day military exercise involving both countries.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/5/20/the-battle-of-perception-from-israels-fauda-to-hezbollahs-fpv-footage?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/russia-rehearses-use-of-nuclear-forces-in-drills-with-belarus?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Ecuador’s Disappeared",
+      "description": "Fault Lines investigates forced disappearances conducted by Ecuador’s military while waging a war against drug cartels.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/fault-lines/2026/5/21/ecuadors-disappeared?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Arteta ‘built a fire’ instead of watching Arsenal’s Premier League crowning",
+      "description": "Arsenal will lift the Premier League trophy for the first time since 2004 after Sunday's match at Crystal Palace.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/5/21/arteta-built-a-fire-over-watching-arsenal-crowned-premier-league-winners?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "What is the Power of Siberia 2 pipeline that Russia, China are planning?",
-      "description": "Analysts say Russia wants to replace lost gas revenue while China seeks to diversify and secure its energy supplies.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/5/20/what-is-the-power-of-siberia-2-pipeline-that-russia-china-are-planning?traffic_source=rss",
-      "category": "🌍 WORLD",
+      "title": "Nvidia’s Jensen Huang wants to be king of a brand-new empire",
+      "description": "The chip maker is paving its way into a potential $200 billion market for central processing units.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidias-jensen-huang-wants-to-be-king-of-a-brand-new-empire-7afdbc05?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Canada and India now have generic Wegovy. Here’s why the U.S. doesn’t.",
+      "description": "Over the next year, countries that are home to 40% of the world’s population are set to get access to Ozempic and Wegovy generics that could cost as little as $15 a month.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/canada-and-india-now-have-generic-wegovy-heres-why-the-u-s-doesnt-db18b6b7?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "‘It will not bring you happiness’: I have advice for your single, childless 62-year-old multimillionaire reader",
+      "description": "“Go to Walmart and pay off someone’s layaway account.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/it-will-not-bring-you-happiness-i-have-advice-for-your-single-childless-62-year-old-multimillionaire-reader-1cb6a09f?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "AG Blanche meets with GOP senators on Trump's DOJ  fund; Tillis calls it 'stupid'",
+      "description": "Critics of the \"Anti-Weaponization Fund\" fear it will give money to Trump supporters who attacked police defending the U.S. Capitol on Jan. 6, 2021.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/21/trump-doj-lawfare-fund-congress-blanche.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Mortgage rates jump to more than 6.5% — the highest level since the Iran war started",
+      "description": "Rates hit an eight-month high but are still lower than they were a year ago.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/mortgage-rates-jump-to-more-than-6-5-the-highest-level-since-the-iran-war-started-41728b4e?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Oil prices jump more than 3% after Iran supreme leader says uranium must remain in country",
+      "description": "Iran's position on its enriched uranium will likely complicate peace talks with the U.S.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/21/oil-price-today-iran-war-strait-hormuz-trump.html",
+      "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Jan. 6 police officers sue Trump to block $1.8B 'lawfare' fund",
-      "description": "The Department of Justice agreed to create the fund to settle a $10 billion lawsuit by President Trump over the leak of his tax records by an IRS employee.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/20/trump-fund-lawsuit-capitol-riot-irs.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Here’s why Target’s turnaround may not be as smooth as the latest results imply",
-      "description": "Target’s turnaround efforts include everything from redesigned shopping carts to a “concierge” service for baby products. But the retailer’s optimism about those plans has run up against skepticism from investors, who s…",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/targets-turnaround-involves-upscale-baby-gear-and-revamped-shopping-carts-and-its-starting-to-pay-off-eda9ba67?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "U.S. crude oil falls below $100 per barrel after Trump says Iran talks in final stages",
-      "description": "Trump told reporters that the administration was in the \"final stages\" of negotiations with Iran, according to a pool report.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/20/oil-price-today-iran-war-strait-hormuz-trump.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Want to live a more meaningful life? Write your own obituary.",
-      "description": "By summarizing the life you’ve lived so far and the life you want to have from now on, you add meaning and intentionality to your days.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/writing-your-own-obituary-can-help-you-live-a-better-life-heres-how-to-get-started-d3076941?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Global oil prices drop below $106 a barrel on hopes that U.S.-Iran war will soon end",
-      "description": "Oil futures were extending their declines on Wednesday following reports that a new round of negotiations between the U.S. and Iran will be held in Pakistan, raising hopes for a resolution to the months-long stalemate i…",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/oil-prices-decline-after-trump-reaffirmed-he-would-end-the-war-in-iran-very-quickly-f5148dd4?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Jeff Bezos says bottom half of earners should pay zero in income taxes",
-      "description": "Amazon Executive Chairman Jeff Bezos on Wednesday called for zero federal income taxes on the bottom half of earners.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/20/jeff-bezos-income-taxes.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Spurs vs. Thunder odds, prediction: 2026 NBA Western Conference finals picks, Game 2 best bets by proven model",
-      "description": "SportsLine's model reveals its Oklahoma City Thunder vs. San Antonio Spurs Game 2 picks for Wednesday",
+      "title": "Eagles' Nolan Smith arrested after allegedly driving 135 mph in Georgia",
+      "description": "Smith was arrested in Georgia on reckless driving and speeding charges, raising questions about possible NFL discipline",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nba/news/spurs-thunder-odds-prediction-spread-2026-nba-western-conference-finals-picks-game-2-best-bets/",
+      "url": "https://www.cbssports.com/nfl/news/nolan-smith-arrested-eagles-reckless-driving/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Footy Fix: Arsenal lifted a Premier League trophy Tuesday, will Aston Villa follow with Europa League glory?",
-      "description": "Elsewhere on the Golazo Starting XI newsletter, don't miss midweek NWSL action",
+      "title": "MLB DFS: Top DraftKings, FanDuel daily Fantasy baseball picks include Corbin Carroll on Thursday, May 21",
+      "description": "SportsLine's Mike McClure, a daily Fantasy pro with more than $2 million in winnings, gives optimal MLB DFS lineup advice for Thursday, May 21",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/footy-fix-arsenal-lifted-a-premier-league-trophy-tuesday-will-aston-villa-follow-with-europa-league-glory/",
+      "url": "https://www.cbssports.com/mlb/news/mlb-dfs-top-draftkings-fanduel-daily-fantasy-baseball-picks-corbin-carroll-thursday-may-21/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "2027 NFL mock draft: Early first-round predictions for college football's top stars -- with a twist",
-      "description": "Projecting next year's first round based on the positional order of the 2026 NFL Draft",
+      "title": "Guardians vs. Tigers prediction, odds, time: 2026 MLB picks for Thursday, May 21 from advanced model",
+      "description": "SportsLine's model simulated Cleveland Guardians vs. Detroit Tigers 10,000 times and revealed its MLB picks for Thursday's matchup",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/2027-nfl-mock-draft-first-round-2026-positional-order/",
+      "url": "https://www.cbssports.com/mlb/news/guardians-tigers-prediction-odds-time-2026-mlb-picks-thursday-may-21/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Bill Belichick says Tom Brady was right to leave Patriots in 2020",
-      "description": "The former Patriots coach acknowledged that New England was on the decline when Brady left in 2020",
+      "title": "Joey Chestnut will compete in 2026 Nathan's Hot Dog Eating Contest while under probation for battery charge",
+      "description": "Major League Eating says the 17-time competitive eating champion did not violate its code of conduct",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/bill-belichick-tom-brady-patriots-2020/",
+      "url": "https://www.cbssports.com/general/news/joey-chestnut-nathans-hot-dog-eating-contest-2026-probation/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
