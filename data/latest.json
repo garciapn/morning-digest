@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-21T16:25:03.553615+00:00",
-  "edition": "#107",
+  "date": "2026-05-22T16:02:24.329792+00:00",
+  "edition": "#108",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,228 +8,228 @@
   },
   "stories": [
     {
-      "title": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
-      "description": "Hey HN, We're Gus and Carlos from Runtime ( https://runtm.com ). We're building infra that lets your whole team (including non-engineers) ship with Claude Code, Codex, and other agents without engineering having to hand…",
+      "title": "How to convert between wealth and income tax",
+      "description": "Article URL: https://paulgraham.com/winc.html Comments URL: https://news.ycombinator.com/item?id=48237422 Points: 7 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://www.runtm.com/",
+      "url": "https://paulgraham.com/winc.html",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "This young startup is taking on a fragrance industry that hasn’t changed in a almost half century",
-      "description": "Fragrance tech company Patina announced Thursday a $2 million raise from investors, including Betaworks and True Ventures.",
+      "title": "We tried Google’s AI glasses and they’re almost there",
+      "description": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/21/a-new-fragrance-company-raises-2-million-to-find-new-scent-molecules/",
+      "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Spotify takes on Google’s NotebookLM with its new app",
-      "description": "Spotify is releasing the new desktop app as a research preview in more than 20 markets",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
-      "description": "Spotify will let you generate daily or weekly briefs based on your prompts",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
-      "description": "Spotify is releasing new audiobook plans later this year",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "We Reverse-Engineered Docker Sandbox's Undocumented MicroVM API",
-      "description": "Article URL: https://rivet.dev/blog/2026-02-04-we-reverse-engineered-docker-sandbox-undocumented-microvm-api/ Comments URL: https://news.ycombinator.com/item?id=48223693 Points: 12 # Comments: 0",
+      "title": "Why Japanese companies do so many different things",
+      "description": "Article URL: https://davidoks.blog/p/why-japanese-companies-do-so-many Comments URL: https://news.ycombinator.com/item?id=48237163 Points: 57 # Comments: 9",
       "source": "Hacker News",
-      "url": "https://rivet.dev/blog/2026-02-04-we-reverse-engineered-docker-sandbox-undocumented-microvm-api/",
+      "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "A Forth-inspired language for writing websites",
+      "description": "Article URL: https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites Comments URL: https://news.ycombinator.com/item?id=48236887 Points: 18 # Comments: 3",
+      "source": "Hacker News",
+      "url": "https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "NHS trust sacks staff over accessing Nottingham attacks victims' records",
-      "description": "Nottingham University Hospitals NHS Trust says investigations are ongoing.",
+      "title": "Launch HN: Superset (YC P26) – IDE for the agents era",
+      "description": "Hey HN, we’re Avi, Kiet, and Satya. We’re building Superset ( https://github.com/superset-sh/superset ), an open-source agentic IDE for running coding agents like Claude Code, Codex, OpenCode etc in parallel. Demo: http…",
+      "source": "Hacker News",
+      "url": "https://github.com/superset-sh/superset",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Trump Mobile confirms it exposed customers’ personal data, including phone numbers and home addresses",
+      "description": "President Trump’s branded cell phone maker and cell provider said the exposure was linked to a third-party platform, and was evaluating whether it needs to notify customers.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Teen boys' rape sentences to be reviewed by government",
+      "description": "The three teenagers were not given custodial sentences for their roles in the rape of two girls.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgrpdkevvnko?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cwy2x7wxjego?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Cheaper theme park tickets and children's meals as VAT to be cut for some attractions this summer",
-      "description": "Chancellor Rachel Reeves made a series of announcements aimed at relieving cost-of-living pressures.",
+      "title": "Rubio tries to reassure Nato allies over US troop deployments",
+      "description": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cd7pzr88de1o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "UK migration drops to 171,000 - almost half 2024's figure",
-      "description": "The prime minister says his government is delivering on its promise to restore control to the borders.",
+      "title": "UK scientists developing Ebola vaccine that could be ready for trials in months",
+      "description": "The rare species of Ebola involved - known as Bundibugyo - kills around a third of those infected and has no proven vaccine yet.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyp1ekd584o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cy82gkr7xzlo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Late Queen was 'very keen' for Andrew to be given trade envoy role",
-      "description": "Newly released documents show that Queen Elizabeth had a \"wish\" for her son Andrew Mountbatten-Windsor to take on a \"prominent role\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cm2pjg397l2o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "After the sirens: Lebanon's first responders swing between duty and grief",
-      "description": "Nearly 3,000 people have been killed and nearly 1 million have been displaced the war in southern Lebanon began in March. Nearly 400 have been killed since a ceasefire began in April.",
+      "title": "Shein buys Everlane, which sold millennials the dream of ethical, affordable luxury",
+      "description": "Everlane's finances have faltered in recent years. But will the merger alienate Everlane's existing shoppers — or sway droves of Shein fans to trade up?",
       "source": "NPR",
-      "url": "https://www.npr.org/sections/the-picture-show/2026/05/21/nx-s1-5821157/lebanons-first-responders-balance-duty-and-grief",
+      "url": "https://www.npr.org/2026/05/22/nx-s1-5825872/shein-buys-everlane",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "A trillion dollar question: Will SpaceX's Starship launch go well?",
-      "description": "Ahead of a much anticipated IPO, SpaceX is carrying out a critical test of its giant, stainless steel rocket. Investors will be watching closely.",
+      "title": "Foden, Palmer, Alexander-Arnold to miss World Cup",
+      "description": "Phil Foden, Cole Palmer and Trent Alexander-Arnold have not been included in Thomas Tuchel's 26-man England squad for this summer's World Cup.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/football/articles/c78ke277pmdo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "Drive slower, go electric, don't drive at all? The best options for saving gas",
+      "description": "The national average for a gallon of gasoline is $4.55, as America heads into one of the busiest travel weekends of the year. What can you do to cut your costs?",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/05/21/nx-s1-5823583/spacex-starship-musk-ipo",
+      "url": "https://www.npr.org/2026/05/22/nx-s1-5831223/memorial-day-gas-prices-save-money-iran",
       "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Economic confidence plummets in US amid Iran war, poll shows",
+      "description": "As petrol prices rise, new survey suggests economic confidence in the US is at -45, the worst since 2022.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/22/economic-confidence-plummets-in-us-amid-iran-war-poll-shows?traffic_source=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Charges dismissed against official at school where 6-year-old shot teacher",
-      "description": "The child fired a single shot at a teacher, who had to have surgery after the incident in 2023.",
+      "title": "French Open: Players accuse Slams of ignoring concerns as tensions rise",
+      "description": "The dispute between players and the Grand Slams reaches boiling point in Paris, but boycott restricted to media duties.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/5/22/french-open-players-accuse-slams-of-ignoring-concerns-as-tensions-rise?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "WHO raises Ebola public health risk to ‘very high’ in DR Congo",
+      "description": "Provincial gov't in Ituri province, the epicentre of the outbreak, has banned public gatherings to stop spread of virus.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/22/who-raises-ebola-public-health-risk-to-very-high-in-dr-congo?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Ebola risk raised to 'very high' in DR Congo",
+      "description": "The head of the UN health agency says the risk in the wider region is \"high\", but it remains \"low\" at the global level.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy82y34y101o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cr7p30m1dn1o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
-      "description": "The companies were found guilty by a French court over an air disaster which killed 228 people.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Afghan women’s refugee team returns to world cricket post Taliban exclusion",
-      "description": "Afghanistan women's refugee team will tour United Kingdom in June and be guests at July's World Cup final at Lord's.",
+      "title": "Ukrainian strike on dormitory in Russian-occupied Starobilsk kills four",
+      "description": "A Ukrainian strike collapsed a five-storey college dormitory in the Russian-occupied city of Starobilsk, killing four.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/21/afghan-womens-refugee-team-returns-to-world-cricket-post-taliban-exclusion?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Russia rehearses ‘use of nuclear forces’ in drills with Belarus",
-      "description": "Russia delivered nuclear warheads to sites in Belarus as part of a three-day military exercise involving both countries.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/russia-rehearses-use-of-nuclear-forces-in-drills-with-belarus?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Ecuador’s Disappeared",
-      "description": "Fault Lines investigates forced disappearances conducted by Ecuador’s military while waging a war against drug cartels.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/fault-lines/2026/5/21/ecuadors-disappeared?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Arteta ‘built a fire’ instead of watching Arsenal’s Premier League crowning",
-      "description": "Arsenal will lift the Premier League trophy for the first time since 2004 after Sunday's match at Crystal Palace.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/21/arteta-built-a-fire-over-watching-arsenal-crowned-premier-league-winners?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/ukrainian-strike-on-dormitory-in-russian-occupied-starobilsk-kills-four?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Nvidia’s Jensen Huang wants to be king of a brand-new empire",
-      "description": "The chip maker is paving its way into a potential $200 billion market for central processing units.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nvidias-jensen-huang-wants-to-be-king-of-a-brand-new-empire-7afdbc05?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "title": "Cubans grapple with fuel shortages and blackouts as US steps up pressure",
+      "description": "The BBC speaks to Havana residents after the US charges the country's former leader, Raúl Castro, with murder.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3e2w43lkvzo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "6h ago"
     },
     {
-      "title": "Canada and India now have generic Wegovy. Here’s why the U.S. doesn’t.",
-      "description": "Over the next year, countries that are home to 40% of the world’s population are set to get access to Ozempic and Wegovy generics that could cost as little as $15 a month.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/canada-and-india-now-have-generic-wegovy-heres-why-the-u-s-doesnt-db18b6b7?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "‘It will not bring you happiness’: I have advice for your single, childless 62-year-old multimillionaire reader",
-      "description": "“Go to Walmart and pay off someone’s layaway account.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/it-will-not-bring-you-happiness-i-have-advice-for-your-single-childless-62-year-old-multimillionaire-reader-1cb6a09f?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "AG Blanche meets with GOP senators on Trump's DOJ  fund; Tillis calls it 'stupid'",
-      "description": "Critics of the \"Anti-Weaponization Fund\" fear it will give money to Trump supporters who attacked police defending the U.S. Capitol on Jan. 6, 2021.",
+      "title": "Egg prices are plunging due to oversupply — and producers say margins are taking a hit as costs rise",
+      "description": "Egg prices are plunging from oversupply after avian flu shortages, but producers say persistent feed, fuel and labor costs are squeezing margins.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/21/trump-doj-lawfare-fund-congress-blanche.html",
+      "url": "https://www.cnbc.com/2026/05/22/egg-prices-fall-due-to-oversupply-after-bird-flu-shortages.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Mortgage rates jump to more than 6.5% — the highest level since the Iran war started",
-      "description": "Rates hit an eight-month high but are still lower than they were a year ago.",
+      "title": "‘He didn’t really pay attention’: I told my friend he left millions on the table in retirement. Did I do the right thing?",
+      "description": "“He lived very frugally and maxed out his 401(k)s.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/mortgage-rates-jump-to-more-than-6-5-the-highest-level-since-the-iran-war-started-41728b4e?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/he-didnt-really-pay-attention-i-told-my-friend-he-left-millions-of-dollars-on-the-table-in-retirement-was-i-right-099bf5bb?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Oil prices jump more than 3% after Iran supreme leader says uranium must remain in country",
-      "description": "Iran's position on its enriched uranium will likely complicate peace talks with the U.S.",
+      "title": "Watch: Trump swearing in Kevin Warsh as Fed chair as he seeks interest rate cuts",
+      "description": "Despite President Donald Trump's demands for lower interest rates, markets are betting the Fed will stay on hold through most, if not all, of 2026.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/21/oil-price-today-iran-war-strait-hormuz-trump.html",
+      "url": "https://www.cnbc.com/2026/05/22/trump-kevin-warsh-fed-chair-interest-rates.html",
       "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "I inherited a house. My CPA says I should sell within a year to avoid capital gains. Is he right?",
+      "description": "“We plan to sell it to another family member for the appraised value.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-inherited-a-house-my-cpa-says-i-should-sell-within-a-year-to-avoid-capital-gains-is-he-right-d0909486?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Annuity payouts are the highest they’ve been in years. Thanks, inflation.",
+      "description": "A silver lining to the cloud of high interest rates.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/annuity-payouts-are-the-highest-theyve-been-in-years-thanks-inflation-d4d3f565?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "I’m in my 30s and half my money is in Vanguard’s Information Technology ETF. Is that risky?",
+      "description": "“I was told as a kid to just put money into index funds or individual stocks, leave them alone and never sell.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-in-my-30s-and-half-my-money-is-in-vanguards-information-technology-etf-is-that-risky-1bab4a66?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Kyle Busch dead at 41: Two-time NASCAR Cup Series champion, all-time great battled illness",
+      "description": "Busch's hard-charging style made him one of NASCAR's defining figures for more than two decades",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/nascar/news/kyle-busch-death-nascar/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Free MLB picks, predictions for Friday: Mets-Marlins, Rangers-Angels among expert's best bets",
+      "description": "SportsLine's Adam Thompson provides his best MLB bets for Friday's games",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/betting/news/free-mlb-picks-predictions-for-friday-mets-marlins-rangers-angels-among-experts-best-bets/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "NBA trade rumors: Victor Wembanyama's playoff dominance could help Giannis Antetokounmpo's market",
+      "description": "NBA teams know they need answers for Wemby going forward -- and to beat an Alien, you might need a Freak",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/nba/news/nba-trade-rumors-victor-wembanyama-giannis-antetokounmpo-market/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "NBA player prop picks, odds: Three best 2026 NBA Playoffs prop bets for Thunder vs. Spurs, Game 3",
+      "description": "SportsLine's team of experts have revealed top NBA props picks and NBA predictions for the NBA Playoffs on Friday",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/nba/news/nba-player-prop-picks-odds-three-best-2026-nba-playoffs-prop-bets-for-thunder-vs-spurs-game-3/",
+      "category": "🏀 SPORTS",
       "timeAgo": "1h ago"
-    },
-    {
-      "title": "Eagles' Nolan Smith arrested after allegedly driving 135 mph in Georgia",
-      "description": "Smith was arrested in Georgia on reckless driving and speeding charges, raising questions about possible NFL discipline",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/nolan-smith-arrested-eagles-reckless-driving/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "MLB DFS: Top DraftKings, FanDuel daily Fantasy baseball picks include Corbin Carroll on Thursday, May 21",
-      "description": "SportsLine's Mike McClure, a daily Fantasy pro with more than $2 million in winnings, gives optimal MLB DFS lineup advice for Thursday, May 21",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/mlb/news/mlb-dfs-top-draftkings-fanduel-daily-fantasy-baseball-picks-corbin-carroll-thursday-may-21/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Guardians vs. Tigers prediction, odds, time: 2026 MLB picks for Thursday, May 21 from advanced model",
-      "description": "SportsLine's model simulated Cleveland Guardians vs. Detroit Tigers 10,000 times and revealed its MLB picks for Thursday's matchup",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/mlb/news/guardians-tigers-prediction-odds-time-2026-mlb-picks-thursday-may-21/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Joey Chestnut will compete in 2026 Nathan's Hot Dog Eating Contest while under probation for battery charge",
-      "description": "Major League Eating says the 17-time competitive eating champion did not violate its code of conduct",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/general/news/joey-chestnut-nathans-hot-dog-eating-contest-2026-probation/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
     }
   ]
 }
