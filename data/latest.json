@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-23T14:48:18.841026+00:00",
-  "edition": "#109",
+  "date": "2026-05-24T14:49:34.043176+00:00",
+  "edition": "#110",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,228 +8,228 @@
   },
   "stories": [
     {
-      "title": "On The <dl>",
-      "description": "Article URL: https://benmyers.dev/blog/on-the-dl/ Comments URL: https://news.ycombinator.com/item?id=48247325 Points: 66 # Comments: 18",
+      "title": "The seed oil panic is hurting my cardiac patients",
+      "description": "Article URL: https://www.statnews.com/2026/05/22/seed-oils-healthy-fats-tallow-fact-check-cardiac-health/ Comments URL: https://news.ycombinator.com/item?id=48257532 Points: 17 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://benmyers.dev/blog/on-the-dl/",
+      "url": "https://www.statnews.com/2026/05/22/seed-oils-healthy-fats-tallow-fact-check-cardiac-health/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Microsoft's 6502 BASIC is now Open Source (2025)",
+      "description": "Article URL: https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/ Comments URL: https://news.ycombinator.com/item?id=48257058 Points: 30 # Comments: 2",
+      "source": "Hacker News",
+      "url": "https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Elon Musk has given up on solar power (on Earth)",
-      "description": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
+      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "description": "Article URL: https://esengine.github.io/DeepSeek-Reasonix/ Comments URL: https://news.ycombinator.com/item?id=48256953 Points: 28 # Comments: 16",
+      "source": "Hacker News",
+      "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "The Dreamie alarm clock got me to stop using my phone in bed",
+      "description": "What sets Dreamie apart from all of the other fancy alarm clocks is laughably simple: It can play podcasts.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+      "url": "https://techcrunch.com/2026/05/24/the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "I Miss Terry Pratchett",
-      "description": "Article URL: https://www.mahl.me/blog/the-spell-that-wouldnt-leave/ Comments URL: https://news.ycombinator.com/item?id=48247127 Points: 160 # Comments: 114",
+      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+      "description": "Article URL: https://arxiv.org/abs/2605.06445 Comments URL: https://news.ycombinator.com/item?id=48256912 Points: 11 # Comments: 1",
       "source": "Hacker News",
-      "url": "https://www.mahl.me/blog/the-spell-that-wouldnt-leave/",
+      "url": "https://arxiv.org/abs/2605.06445",
       "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "80386 Microcode Disassembled",
-      "description": "Article URL: https://www.reenigne.org/blog/80386-microcode-disassembled/ Comments URL: https://news.ycombinator.com/item?id=48247004 Points: 91 # Comments: 16",
-      "source": "Hacker News",
-      "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Electrobun 2.0 will be decoupled from Bun due to the rust rewrite",
-      "description": "Article URL: https://twitter.com/i/status/2058064720553222567 Comments URL: https://news.ycombinator.com/item?id=48246917 Points: 48 # Comments: 23",
-      "source": "Hacker News",
-      "url": "https://twitter.com/i/status/2058064720553222567",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Two space shuttle-era spacewalkers enter Astronaut Hall of Fame",
-      "description": "\"Two astronauts whose careers embody excellence, leadership, and service.\"",
+      "title": "Whatever the mirror test tells us, beluga whales pass it",
+      "description": "The white whales join the short, contested list of animals that see themselves.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/05/two-space-shuttle-era-spacewalkers-enter-astronaut-hall-of-fame/",
+      "url": "https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/",
       "category": "🤖 TECH & AI",
       "timeAgo": "3h ago"
     },
     {
-      "title": "French mum and partner held until trial after sons abandoned by road in Portugal",
-      "description": "The couple, who allegedly left the woman's sons on a roadside in southern Portugal, will remain in custody.",
+      "title": "Girl raped by boys spared jail tells BBC judge's decision was like 'rock in my face'",
+      "description": "Responding to the interview, Sir Keir Starmer said it was “an appalling case” and that it was right that the sentences are reviewed.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "At least 90 killed in Chinese coal mine explosion, state media reports",
-      "description": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cjrp98285yvo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "'Shameful' more spent on benefits than jobs for young people, says Milburn",
-      "description": "Reforms are needed of the welfare system to tackle the high numbers of young people not in work or education, says Alan Milburn.",
+      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+      "description": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/crrpx4p1z71o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "A little bit country, a little bit Desi: A Pakistani-American's hybrid music",
-      "description": "On May 31, Yo Sabri make a landmark appearance with the Nashville Symphony for an orchestral rendition of his new album, \"Tennessee Desi,\" which blends Appalachian styles with Muslim devotional music.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/05/23/g-s1-122871/country-music-pakistan-mo-sabri-nashville",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "U.S. passengers flying from Ebola-affected countries rerouted",
-      "description": "The U.S. government is responding to the Ebola outbreak in with travel restrictions. American citizens and permanent residents departing affected countries must fly into one of three U.S. airports.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/05/23/nx-s1-5831963/u-s-passengers-flying-from-ebola-affected-countries-rerouted",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Opinion: Remembering Barney Frank, trailblazing public servant",
-      "description": "Mass. congressman Barney Frank was the first House member to come out as gay and was instrumental in Wall Street reforms after the Great Recession. He died this week at the age of 86.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/05/23/nx-s1-5823640/opinion-remembering-barney-frank-trailblazing-public-servant",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "French Open has ‘positive’ meeting with players over tennis dispute",
-      "description": "Roland Garros director discusses greater revenue sharing with player representatives after boycott-impacted media day.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/23/french-open-has-positive-meeting-with-players-over-tennis-dispute?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Rising global costs threaten Mexico’s production costs and food stability",
-      "description": "Sharp price hikes for food staples are forcing Mexicans to tighten budgets and cut back consumption.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/23/rising-global-costs-threaten-mexicos-production-costs-and-food-stability?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
-      "description": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Turkish and Syrian officials detain 10 individuals with alleged ISIL ties",
-      "description": "Those arrested reportedly took part in what officials described as 'terrorist attacks' in Turkiye.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/23/turkish-and-syrian-officials-detain-10-individuals-with-alleged-isil-ties?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "France bans far-right Israeli minister Ben-Gvir over abuse of activists",
-      "description": "French Foreign Minister Jean-Noel Barrot said France would not tolerate its nationals being threatened or intimidated.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/23/france-bans-far-right-israeli-minister-ben-gvir?traffic_source=rss",
-      "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Rubio meets Modi during India visit with energy high on agenda",
-      "description": "The secretary of state wants to sell US energy to Delhi to make up for shortfalls caused by the Iran war.",
+      "title": "More than 500 children have died in an outbreak that the world is virtually ignoring",
+      "description": "The number of cases — and deaths — in Bangladesh is staggering. As of Sunday, 528 have died, mostly children. How did this measles outbreak begin? And how is the country responding?",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/24/g-s1-123661/measles-outbreak-bangladesh-deadline-vaccine",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Mind-bending photos by anonymous cousins show the pain and dreams of Afghan women",
+      "description": "The young women make photos that look at life — how it is, how they wish it could be — under Taliban rule. The images are on display at the Photoville Festival in Brooklyn, New York.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/24/g-s1-123443/photos-afghanistan-women-taliban",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Religious leaders, lawmakers push for $1 billion to secure houses of worship",
+      "description": "There's an effort on Capitol Hill to increase funding for the Nonprofit Security Grant Program, which awards funding to houses of worship to harden their defenses. In 2024, roughly a third of those who applied actually…",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/24/nx-s1-5815007/religious-leaders-lawmakers-push-for-1-billion-to-secure-houses-of-worship",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Nurse convicted in patient's death is now a national speaker on hospital safety",
+      "description": "RaDonda Vaught was convicted of negligent homicide after dispensing the wrong drug to a patient. She now gives speeches about hospital safety in an era of automation and artificial intelligence.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/24/nx-s1-5822519/radonda-vaught-nurse-convicted-vanderbilt-medical-error",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "Bahrain jails nine defendants for life for ‘cooperating’ with Iran’s IRGC",
+      "description": "Convictions come amid an intensified crackdown by Bahraini authorities on individuals accused of having ties to Tehran.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/24/bahrain-jails-nine-defendants-for-life-for-cooperating-with-irans-irgc?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "France bans Ben-Gvir: Which other Israeli leaders have been penalised?",
+      "description": "France bans the Israeli far-right minister after his 'unspeakable' behaviour against arrested Gaza flotilla activists.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/24/france-bans-ben-gvir-which-other-israeli-leaders-have-been-penalised?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "For third year in a row, Israel blocks Hajj pilgrimage for Gaza Muslims",
+      "description": "As millions of Muslims gather in Mecca, Palestinians in Gaza face a third year of heartbreak as Israel has shut border.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/24/for-third-year-in-a-row-israel-blocks-hajj-pilgrimage-for-gaza-muslims?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Syria cannot heal without a rebuilt health system",
+      "description": "Many Syrian returnees cannot access proper healthcare. Urgent action is required for Syria’s health system to recover.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/5/24/syria-cannot-heal-without-a-rebuilt-health?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Blast targeting train kills at least 20 in Pakistan",
+      "description": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Spirit's collapse, high fuel prices test limits of summer vacation spending",
-      "description": "The unofficial start of the summer travel season on Memorial Day weekend will show just how much travelers want to fly and how much they're willing to pay.",
+      "title": "BBC at the site of China's worst mining disaster in more than a decade",
+      "description": "At least 82 people have been killed after a gas explosion at the Liushenyu mine in China.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "The Middle East war is testing the Gulf's ambitions to become an AI hub",
+      "description": "Attacks on data centers in the Middle East and persistently high energy prices have altered the calculus for operators of the facilities, analysts say.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/23/summer-travel-gas-airfare.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "The bond market just flipped the script on investors — Wall Street is acting like nothing’s wrong",
-      "description": "When credit and stocks disagree, credit is the one telling the truth.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-bond-market-just-flipped-the-script-on-investors-wall-street-is-acting-like-nothings-wrong-f321cc5b?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Annuity payouts are the highest they’ve been in years. Thanks, inflation.",
-      "description": "A silver lining to the cloud of high interest rates.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/annuity-payouts-are-the-highest-theyve-been-in-years-thanks-inflation-d4d3f565?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "These cybersecurity stocks are poised for rapid growth through 2028, and some of them are cheap right now",
-      "description": "Many providers of cybersecurity hardware, software and services are expected to put up tremendous sales numbers as the AI build-out continues.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/these-cybersecurity-stocks-are-poised-for-rapid-growth-through-2028-and-some-of-them-are-cheap-right-now-cf924a36?mod=mw_rss_topstories",
+      "url": "https://www.cnbc.com/2026/05/24/middle-east-war-testing-gulfs-ambitions-to-become-ai-hub.html",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Kevin Warsh’s Fed isn’t cutting interest rates any time soon. But a hike isn’t yet on the table, either.",
-      "description": "The Federal Reserve isn’t going to reduce borrowing costs anytime soon because of resurgent inflation, but a rate hike is also off the table for now as the regime of new Chair Kevin Warsh gets underway.",
+      "title": "Stocks are riding an earnings hot streak — but investors are facing a summer that’s rife with risks",
+      "description": "The U.S. stock market has arrived at the unofficial start to summer with major benchmarks sitting at record highs. But a few factors could make for a bumpy ride in the months ahead.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/kevin-warshs-fed-isnt-cutting-interest-rates-any-time-soon-but-a-hike-isnt-yet-on-the-table-either-aee28c06?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/stocks-are-riding-an-earnings-hot-streak-but-investors-are-facing-a-summer-thats-rife-with-risks-67a700e4?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Lingering mysteries from Berkshire's portfolio update",
-      "description": "The addition of two new names, Delta Air Lines and Macy's, to the portfolio are hard to explain.",
+      "title": "Top Wall Street analysts like these dividend stocks for steady income",
+      "description": "Amid ongoing uncertainty, investors seeking consistent income can consider adding dividend stocks to their portfolios.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/23/lingering-mysteries-from-berkshires-portfolio-update.html",
+      "url": "https://www.cnbc.com/2026/05/24/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Oleksandr Usyk vs. Rico Verhoeven odds, prediction, time: Boxing picks for May 23 fight card by top expert",
-      "description": "SportsLine's Josh Nagel reveals his Oleksandr Usyk vs. Rico Verhoeven best bets for Saturday in Giza, Egypt",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/boxing/news/oleksandr-usyk-rico-verhoeven-odds-prediction-time-boxing-picks-for-may-23-egypt-fight-card/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Knicks vs. Cavaliers odds, prediction: 2026 NBA Eastern Conference Finals picks, Game 3 bets by proven model",
-      "description": "SportsLine's model reveals its Cleveland Cavaliers vs. New York Knicks Game 3 picks for Saturday",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nba/news/knicks-cavaliers-odds-prediction-spread-time-2026-nba-eastern-conference-finals-game-3-picks/",
-      "category": "🏀 SPORTS",
+      "title": "‘We have longevity in the family’: My sister is turning 67. Should she wait until 70 to claim Social Security?",
+      "description": "“Others say she should start at full retirement age.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-have-longevity-in-the-family-my-sister-is-turning-67-should-she-wait-until-70-to-claim-social-security-812087a4?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "SportsLine Newsletter May 23, 2026",
-      "description": "Saturday betting guide: How to pick Game 3 of Cavaliers vs. Knicks and Game 2 of Hurricanes vs. Canadiens",
+      "title": "I’m 67. Our family trust earns $300,000 annually for my kids. How do I ensure they won’t get killed on taxes?",
+      "description": "“My thought is to distribute all of the income to my children each year so that the trust itself pays little to no tax.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-67-our-family-trust-earns-300-000-annually-for-my-kids-how-do-i-ensure-they-wont-get-killed-on-taxes-ee0c35d6?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "‘My husband is leery of my plan’: We are both 60 and have $5 million. Is now a good time to dip into our savings?",
+      "description": "“We have been scrimping for a long time.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-husband-is-leery-of-my-plan-we-are-both-60-and-have-5-million-is-now-a-good-time-to-dip-into-our-savings-4c609266?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "SportsLine Newsletter May 24, 2026",
+      "description": "Sunday Betting Guide: Top predictions for the NBA postseason, Stanley Cup playoffs and the Indianapolis 500",
       "source": "CBS Sports",
       "url": "https://www.cbssports.com/",
       "category": "🏀 SPORTS",
-      "timeAgo": "2h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "2026 Indianapolis 500 odds, predictions, time, date, Indy 500 starting grid: Model gives surprising picks",
-      "description": "SportsLine's model revealed its 2026 Indy 500 predictions and picks for Indianapolis Motor Speedway",
+      "title": "Stanley Cup Playoffs 2026: Bracket, schedule and scores as conference final matchups are set",
+      "description": "The Avalanche and Golden Knights will battle it out for the right to play for the Stanley Cup",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/general/news/2026-indianapolis-500-odds-predictions-time-date-starting-grid-picks/",
+      "url": "https://www.cbssports.com/nhl/news/nhl-playoffs-2026-stanley-cup-schedule-bracket-scores-results/",
       "category": "🏀 SPORTS",
-      "timeAgo": "3h ago"
+      "timeAgo": "just now"
+    },
+    {
+      "title": "NBA player prop picks, odds: Three best 2026 NBA Playoffs prop bets for Thunder vs. Spurs, Game 4",
+      "description": "SportsLine's model and team of experts have revealed top NBA props picks and NBA predictions for the NBA Playoffs on Sunday",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/nba/news/nba-player-prop-picks-odds-three-best-2026-nba-playoffs-prop-bets-for-thunder-vs-spurs-game-4/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Avalanche vs. Golden Knights odds, prediction: 2026 NHL Western Conference Finals Game 3 picks by proven model",
+      "description": "SportsLine's model reveals its Vegas Golden Knights vs. Colorado Avalanche picks for their 2026 NHL playoff matchup on Sunday",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/nhl/news/avalanche-golden-knights-odds-prediction-line-time-2026-nhl-western-conference-finals-game-3-picks/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
     }
   ]
 }
