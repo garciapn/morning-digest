@@ -1,233 +1,249 @@
 {
-  "date": "2026-05-24T14:49:34.043176+00:00",
-  "edition": "#110",
-  "totalStories": 28,
+  "date": "2026-05-25T16:07:35.818235+00:00",
+  "edition": "#111",
+  "totalStories": 30,
   "podcast": {
     "show": "The Daily",
     "description": "The New York Times' daily news podcast — today's top story in 20 minutes."
   },
   "stories": [
     {
-      "title": "The seed oil panic is hurting my cardiac patients",
-      "description": "Article URL: https://www.statnews.com/2026/05/22/seed-oils-healthy-fats-tallow-fact-check-cardiac-health/ Comments URL: https://news.ycombinator.com/item?id=48257532 Points: 17 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://www.statnews.com/2026/05/22/seed-oils-healthy-fats-tallow-fact-check-cardiac-health/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Microsoft's 6502 BASIC is now Open Source (2025)",
-      "description": "Article URL: https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/ Comments URL: https://news.ycombinator.com/item?id=48257058 Points: 30 # Comments: 2",
-      "source": "Hacker News",
-      "url": "https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-      "description": "Article URL: https://esengine.github.io/DeepSeek-Reasonix/ Comments URL: https://news.ycombinator.com/item?id=48256953 Points: 28 # Comments: 16",
-      "source": "Hacker News",
-      "url": "https://esengine.github.io/DeepSeek-Reasonix/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "The Dreamie alarm clock got me to stop using my phone in bed",
-      "description": "What sets Dreamie apart from all of the other fancy alarm clocks is laughably simple: It can play podcasts.",
+      "title": "What ClickUp’s mass layoff tells us about the future of work",
+      "description": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/24/the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed/",
+      "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-      "description": "Article URL: https://arxiv.org/abs/2605.06445 Comments URL: https://news.ycombinator.com/item?id=48256912 Points: 11 # Comments: 1",
+      "title": "Launch HN: Chert (YC P26) – Twilio for iMessage",
+      "description": "Hey HN! We’re Gary and Ian, and we’re building Chert ( https://www.trychert.com/ ), an API for businesses to send, receive, and automate iMessage conversations at scale. Check out our demo: https://www.youtube.com/watch…",
       "source": "Hacker News",
-      "url": "https://arxiv.org/abs/2605.06445",
+      "url": "https://www.trychert.com",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "The pope’s AI encyclical isn’t really about AI",
+      "description": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI",
+      "description": "Earlier this year, Lucra Sports founder and CEO Dylan Robbins did something that no one else has ever done. And he shared several secrets on how he did it.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Whatever the mirror test tells us, beluga whales pass it",
-      "description": "The white whales join the short, contested list of animals that see themselves.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/",
+      "title": "Hive (YC S14) is hiring sr back-end developers (CA/US remote OK)",
+      "description": "Article URL: https://jobs.ashbyhq.com/hive.co/538c47f9-d008-49b7-b0d4-583d9294a481 Comments URL: https://news.ycombinator.com/item?id=48267324 Points: 0 # Comments: 0",
+      "source": "Hacker News",
+      "url": "https://jobs.ashbyhq.com/hive.co/538c47f9-d008-49b7-b0d4-583d9294a481",
       "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
+      "description": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "White House gunman had previous run-ins with Secret Service, court documents show",
+      "description": "The suspect previously obstructed a White House entry lane in June of 2025 and told Secret Service agents he was Jesus Christ.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1l22pg12mpo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Police fire shots in air to disperse angry crowds at DR Congo Ebola treatment centre",
+      "description": "Unrest between crowds trying to reclaim the bodies of suspected Ebola cases and authorities have continued.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0l22pz6nw6o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Deal with US not imminent, Iran says",
+      "description": "The US secretary of state earlier said that an agreement could possibly come on Monday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "The questions raised by the Murrell embezzlement controversy",
+      "description": "Thecase has been hanging over the SNP like a toxic cloud since the police investigation began five years ago.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c74dd82w943o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "Trump says U.S. and Iran nearing a peace deal. And, Pope Leo weighs in on AI's rise",
+      "description": "President Trump says that a deal with Iran to end the war is largely negotiated. And, Pope Leo XIV weighed in today on the rise of AI during his first encyclical.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/25/g-s1-124191/up-first-newsletter-iran-war-trump-ebola-california-chemical-tank-pope-leo-ai",
+      "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Girl raped by boys spared jail tells BBC judge's decision was like 'rock in my face'",
-      "description": "Responding to the interview, Sir Keir Starmer said it was “an appalling case” and that it was right that the sentences are reviewed.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cjrp98285yvo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
-      "description": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "More than 500 children have died in an outbreak that the world is virtually ignoring",
-      "description": "The number of cases — and deaths — in Bangladesh is staggering. As of Sunday, 528 have died, mostly children. How did this measles outbreak begin? And how is the country responding?",
+      "title": "U.S.-Iran peace deal emerging, while war threats still loom",
+      "description": "President Trump and other administration officials are tempering expectations raised of an imminent agreement to end the war in Iran while Iranian officials have signaled there are still disagreements on key issues.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/05/24/g-s1-123661/measles-outbreak-bangladesh-deadline-vaccine",
+      "url": "https://www.npr.org/2026/05/25/nx-s1-5833690/u-s-iran-negotiations-updates",
       "category": "🌎 TOP NEWS",
+      "timeAgo": "5h ago"
+    },
+    {
+      "title": "Pope Leo calls for ‘disarming’ of artificial intelligence",
+      "description": "Pope Leo has warned that some AI-powered weapons systems are becoming ‘practically beyond human control'.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/pope-leo-calls-for-disarming-of-artificial-intelligence?traffic_source=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Mind-bending photos by anonymous cousins show the pain and dreams of Afghan women",
-      "description": "The young women make photos that look at life — how it is, how they wish it could be — under Taliban rule. The images are on display at the Photoville Festival in Brooklyn, New York.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/05/24/g-s1-123443/photos-afghanistan-women-taliban",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Religious leaders, lawmakers push for $1 billion to secure houses of worship",
-      "description": "There's an effort on Capitol Hill to increase funding for the Nonprofit Security Grant Program, which awards funding to houses of worship to harden their defenses. In 2024, roughly a third of those who applied actually…",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/05/24/nx-s1-5815007/religious-leaders-lawmakers-push-for-1-billion-to-secure-houses-of-worship",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Nurse convicted in patient's death is now a national speaker on hospital safety",
-      "description": "RaDonda Vaught was convicted of negligent homicide after dispensing the wrong drug to a patient. She now gives speeches about hospital safety in an era of automation and artificial intelligence.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/05/24/nx-s1-5822519/radonda-vaught-nurse-convicted-vanderbilt-medical-error",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "Bahrain jails nine defendants for life for ‘cooperating’ with Iran’s IRGC",
-      "description": "Convictions come amid an intensified crackdown by Bahraini authorities on individuals accused of having ties to Tehran.",
+      "title": "Trump links Iran negotiations to expansion of Abraham Accords",
+      "description": "US President Donald Trump links Iran negotiations to expansion of Abraham Accords.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/24/bahrain-jails-nine-defendants-for-life-for-cooperating-with-irans-irgc?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/trump-links-iran-negotiations-to-expansion-of-abraham-accords?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "France bans Ben-Gvir: Which other Israeli leaders have been penalised?",
-      "description": "France bans the Israeli far-right minister after his 'unspeakable' behaviour against arrested Gaza flotilla activists.",
+      "title": "Australian Gaza aid flotilla activists allege abuse after Israeli abduction",
+      "description": "Activists allege assaults and torture during Israeli detention after flotilla intercepted in international waters.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/24/france-bans-ben-gvir-which-other-israeli-leaders-have-been-penalised?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/5/25/australian-gaza-aid-flotilla-activists-allege-abuse-after-israeli-abduction?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "For third year in a row, Israel blocks Hajj pilgrimage for Gaza Muslims",
-      "description": "As millions of Muslims gather in Mecca, Palestinians in Gaza face a third year of heartbreak as Israel has shut border.",
+      "title": "WHO chief says suspected Ebola deaths at 220 as epidemic ‘outpacing us’",
+      "description": "Tedros ⁠Adhanom Ghebreyesus says ​a delay in detecting cases means responders were now 'playing catch-up'.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/24/for-third-year-in-a-row-israel-blocks-hajj-pilgrimage-for-gaza-muslims?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/5/25/who-chief-says-suspected-ebola-deaths-at-220-as-epidemic-outpacing-us?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Syria cannot heal without a rebuilt health system",
-      "description": "Many Syrian returnees cannot access proper healthcare. Urgent action is required for Syria’s health system to recover.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/5/24/syria-cannot-heal-without-a-rebuilt-health?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Blast targeting train kills at least 20 in Pakistan",
-      "description": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists.",
+      "title": "Oil prices slide on hopes of US-Iran peace deal",
+      "description": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "BBC at the site of China's worst mining disaster in more than a decade",
-      "description": "At least 82 people have been killed after a gas explosion at the Liushenyu mine in China.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "The Middle East war is testing the Gulf's ambitions to become an AI hub",
-      "description": "Attacks on data centers in the Middle East and persistently high energy prices have altered the calculus for operators of the facilities, analysts say.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/24/middle-east-war-testing-gulfs-ambitions-to-become-ai-hub.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Stocks are riding an earnings hot streak — but investors are facing a summer that’s rife with risks",
-      "description": "The U.S. stock market has arrived at the unofficial start to summer with major benchmarks sitting at record highs. But a few factors could make for a bumpy ride in the months ahead.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/stocks-are-riding-an-earnings-hot-streak-but-investors-are-facing-a-summer-thats-rife-with-risks-67a700e4?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Top Wall Street analysts like these dividend stocks for steady income",
-      "description": "Amid ongoing uncertainty, investors seeking consistent income can consider adding dividend stocks to their portfolios.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/24/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "‘We have longevity in the family’: My sister is turning 67. Should she wait until 70 to claim Social Security?",
-      "description": "“Others say she should start at full retirement age.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-have-longevity-in-the-family-my-sister-is-turning-67-should-she-wait-until-70-to-claim-social-security-812087a4?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "I’m 67. Our family trust earns $300,000 annually for my kids. How do I ensure they won’t get killed on taxes?",
-      "description": "“My thought is to distribute all of the income to my children each year so that the trust itself pays little to no tax.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-67-our-family-trust-earns-300-000-annually-for-my-kids-how-do-i-ensure-they-wont-get-killed-on-taxes-ee0c35d6?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "‘My husband is leery of my plan’: We are both 60 and have $5 million. Is now a good time to dip into our savings?",
-      "description": "“We have been scrimping for a long time.”",
+      "title": "Three killed in Uganda after crashing into elephant",
+      "description": "Four people were also injured in the incident inside Murchison Falls National Park, officials say.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyppgvd3qzo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "Is the stock market open today? Does the post office deliver mail on Memorial Day?",
+      "description": "The holiday weekend will affect the stock and bond market. Here’s what you need to know.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-husband-is-leery-of-my-plan-we-are-both-60-and-have-5-million-is-now-a-good-time-to-dip-into-our-savings-4c609266?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/is-the-stock-market-closed-on-memorial-day-does-the-post-office-deliver-mail-bba7ef11?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "I inherited a house. My CPA says I should sell within a year to avoid capital gains. Is he right?",
+      "description": "“We plan to sell it to another family member for the appraised value.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-inherited-a-house-my-cpa-says-i-should-sell-within-a-year-to-avoid-capital-gains-is-he-right-d0909486?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "These underdogs are a big reason S&P 500 profit growth is the fastest in nearly 5 years",
+      "description": "Ever since Big Tech went all in on artificial intelligence more than three years ago, seven companies have done the heavy lifting for overall S&P 500 earnings growth. But more recently, the other 493 names in the index…",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/these-underdogs-are-a-big-reason-s-p-500-profit-growth-is-the-fastest-in-nearly-5-years-4a43f142?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "I’m selling my $1 million home. Will my agent really charge less than a 6% commission?",
+      "description": "“I haven’t bought or sold property since the National Association of Realtors ruling that decoupled buyer’s and seller’s agent commissions.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-selling-my-1-million-maui-home-will-my-agent-charge-me-less-than-a-6-commission-ed06c0f1?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "When are prediction markets most helpful? Evercore ISI has a formula",
+      "description": "Evercore ISI strategists provide insight for when prediction markets are useful for forecasting.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/25/when-are-prediction-markets-most-helpful-evercore-isi-has-a-formula.html",
       "category": "📈 MARKETS",
       "timeAgo": "4h ago"
     },
     {
-      "title": "SportsLine Newsletter May 24, 2026",
-      "description": "Sunday Betting Guide: Top predictions for the NBA postseason, Stanley Cup playoffs and the Indianapolis 500",
+      "title": "Iran is in the 'process of blinking' over the Strait of Hormuz, Petraeus says",
+      "description": "Ex-CIA director David Petraeus said that an initial successful peace deal with Tehran would see the Strait opened without any conditions.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/25/iran-in-the-process-of-blinking-over-the-strait-ofoh-ex-cia-director.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "9h ago"
+    },
+    {
+      "title": "2026 NBA Eastern Conference Finals odds, predictions: Knicks vs. Cavaliers Game 4 picks by expert on 87-55 run",
+      "description": "SportsLine's Larry Hartstein reveals his New York Knicks vs. Cleveland Cavaliers Game 4 NBA playoff picks for Monday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/",
+      "url": "https://www.cbssports.com/nba/news/2026-nba-eastern-conference-finals-odds-predictions-knicks-cavaliers-game-4-picks/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "What Malachi Moreno's return means for Kentucky: Key starting big man anchors Wildcats' roster overhaul",
+      "description": "The All-SEC Freshman gives Kentucky a big boost heading into a critical season for coach Mark Pope",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-basketball/news/malachi-morenos-returns-kentucky-nba-draft/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "2026 MLB Memorial Day check-in: Handing out MVPs, Cy Youngs and more superlatives as summer begins",
+      "description": "It's no longer early in the 2026 MLB season, and two months into the campaign, these players and teams stand out the most",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/mlb/news/2026-mlb-memorial-day-check-in-mvp-cy-young/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "NBA player prop picks, odds: Three best 2026 NBA Playoffs prop bets for Knicks vs. Cavaliers, Game 4",
+      "description": "SportsLine's model and team of experts have revealed top NBA props picks and NBA predictions for the NBA Playoffs on Monday",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/nba/news/nba-player-prop-picks-odds-three-best-2026-nba-playoffs-prop-bets-for-knicks-vs-cavaliers-game-4/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Spurs shut down OKC in Game 4 to even series",
+      "description": "Victor Wembanyama set the tone from the beginning of Game 4 on Sunday as the Spurs evened the Western Conference finals at 2-2.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/48868264/spurs-shut-thunder-game-4-even-series",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Stanley Cup Playoffs 2026: Bracket, schedule and scores as conference final matchups are set",
-      "description": "The Avalanche and Golden Knights will battle it out for the right to play for the Stanley Cup",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nhl/news/nhl-playoffs-2026-stanley-cup-schedule-bracket-scores-results/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "NBA player prop picks, odds: Three best 2026 NBA Playoffs prop bets for Thunder vs. Spurs, Game 4",
-      "description": "SportsLine's model and team of experts have revealed top NBA props picks and NBA predictions for the NBA Playoffs on Sunday",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nba/news/nba-player-prop-picks-odds-three-best-2026-nba-playoffs-prop-bets-for-thunder-vs-spurs-game-4/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Avalanche vs. Golden Knights odds, prediction: 2026 NHL Western Conference Finals Game 3 picks by proven model",
-      "description": "SportsLine's model reveals its Vegas Golden Knights vs. Colorado Avalanche picks for their 2026 NHL playoff matchup on Sunday",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nhl/news/avalanche-golden-knights-odds-prediction-line-time-2026-nhl-western-conference-finals-game-3-picks/",
+      "title": "Lakers hire 'rocket scientist' as assistant GM",
+      "description": "The Lakers made their first significant move of the offseason by hiring Rohan Ramadas as an assistant GM under president and GM Rob Pelinka, sources told ESPN.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/48845975/sources-lakers-hire-rohan-ramadas-assistant-general-manager",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
