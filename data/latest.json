@@ -1,251 +1,235 @@
 {
-  "date": "2026-05-25T16:07:35.818235+00:00",
-  "edition": "#111",
-  "totalStories": 30,
+  "date": "2026-05-26T16:56:45.599290+00:00",
+  "edition": "#112",
+  "totalStories": 28,
   "podcast": {
     "show": "The Daily",
     "description": "The New York Times' daily news podcast — today's top story in 20 minutes."
   },
   "stories": [
     {
-      "title": "What ClickUp’s mass layoff tells us about the future of work",
-      "description": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+      "title": "Windows' classic 3D Space Cadet pinball is getting a physical re-creation",
+      "description": "But there are some real-world constraints that virtual pinball could easily ignore.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/05/windows-classic-3d-space-cadet-pinball-is-getting-a-physical-re-creation/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Launch HN: Chert (YC P26) – Twilio for iMessage",
-      "description": "Hey HN! We’re Gary and Ian, and we’re building Chert ( https://www.trychert.com/ ), an API for businesses to send, receive, and automate iMessage conversations at scale. Check out our demo: https://www.youtube.com/watch…",
+      "title": "The Cost of Owning a Home",
+      "description": "Article URL: https://ericturner.dev/posts/cost-of-home-ownership/ Comments URL: https://news.ycombinator.com/item?id=48281611 Points: 36 # Comments: 40",
       "source": "Hacker News",
-      "url": "https://www.trychert.com",
+      "url": "https://ericturner.dev/posts/cost-of-home-ownership/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "The pope’s AI encyclical isn’t really about AI",
-      "description": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
+      "title": "This startup is betting India’s gig economy can train the world’s robots",
+      "description": "Human Archive, a startup founded by Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics…",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+      "url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI",
-      "description": "Earlier this year, Lucra Sports founder and CEO Dylan Robbins did something that no one else has ever done. And he shared several secrets on how he did it.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Hive (YC S14) is hiring sr back-end developers (CA/US remote OK)",
-      "description": "Article URL: https://jobs.ashbyhq.com/hive.co/538c47f9-d008-49b7-b0d4-583d9294a481 Comments URL: https://news.ycombinator.com/item?id=48267324 Points: 0 # Comments: 0",
+      "title": "What Color is Your Function? (2015)",
+      "description": "Article URL: https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/ Comments URL: https://news.ycombinator.com/item?id=48281515 Points: 10 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://jobs.ashbyhq.com/hive.co/538c47f9-d008-49b7-b0d4-583d9294a481",
+      "url": "https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Uber, Lyft drivers in Massachusetts form first US ride-share union",
+      "description": "Article URL: https://www.reuters.com/business/world-at-work/uber-lyft-drivers-massachusetts-form-first-us-ride-share-union-2026-05-26/ Comments URL: https://news.ycombinator.com/item?id=48281509 Points: 47 # Comments: 13",
+      "source": "Hacker News",
+      "url": "https://www.reuters.com/business/world-at-work/uber-lyft-drivers-massachusetts-form-first-us-ride-share-union-2026-05-26/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "The Ballad of TIGIT",
+      "description": "Article URL: https://www.owlposting.com/p/the-ballad-of-tigit Comments URL: https://news.ycombinator.com/item?id=48281367 Points: 18 # Comments: 0",
+      "source": "Hacker News",
+      "url": "https://www.owlposting.com/p/the-ballad-of-tigit",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
-      "description": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "White House gunman had previous run-ins with Secret Service, court documents show",
-      "description": "The suspect previously obstructed a White House entry lane in June of 2025 and told Secret Service agents he was Jesus Christ.",
+      "title": "Almost 1,000 migrants cross Channel over bank holiday",
+      "description": "A total of 989 people arrived in the UK in 14 boats between Friday and Monday.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1l22pg12mpo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cy422k3z83vo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Police fire shots in air to disperse angry crowds at DR Congo Ebola treatment centre",
-      "description": "Unrest between crowds trying to reclaim the bodies of suspected Ebola cases and authorities have continued.",
+      "title": "Iran condemns US strikes as 'gross violation' of ceasefire",
+      "description": "The attacks took place while Iranian and Qatari negotiators were in Doha for peace talks.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0l22pz6nw6o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Deal with US not imminent, Iran says",
-      "description": "The US secretary of state earlier said that an agreement could possibly come on Monday.",
+      "title": "'Bullying' and 'overbearing' behaviour behind abrupt BP chairman removal",
+      "description": "BP declined to comment on whether bullying behaviour was part of the reason for his immediate dismissal.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cjrppppwvwlo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "The questions raised by the Murrell embezzlement controversy",
-      "description": "Thecase has been hanging over the SNP like a toxic cloud since the police investigation began five years ago.",
+      "title": "Sentences of boys spared custody over rape referred to Court of Appeal",
+      "description": "The sentences of boys spared custody over the rape of two girls in Hampshire will be referred to the Court of Appeal, the prime minister has said.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c74dd82w943o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "Trump says U.S. and Iran nearing a peace deal. And, Pope Leo weighs in on AI's rise",
-      "description": "President Trump says that a deal with Iran to end the war is largely negotiated. And, Pope Leo XIV weighed in today on the rise of AI during his first encyclical.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/05/25/g-s1-124191/up-first-newsletter-iran-war-trump-ebola-california-chemical-tank-pope-leo-ai",
+      "url": "https://www.bbc.com/news/articles/c5y779yeq0eo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "U.S.-Iran peace deal emerging, while war threats still loom",
-      "description": "President Trump and other administration officials are tempering expectations raised of an imminent agreement to end the war in Iran while Iranian officials have signaled there are still disagreements on key issues.",
+      "title": "Prospects fade for imminent end to Iran war as attacks restart",
+      "description": "Israel says it will intensify attacks against Hezbollah in Lebanon and U.S. military struck Iranian boats and missile launch sites as envoys continued negotiations for a deal that would end the three-month war.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/05/25/nx-s1-5833690/u-s-iran-negotiations-updates",
+      "url": "https://www.npr.org/2026/05/26/nx-s1-5834840/iran-lebanon-updates",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "U.S. strikes Iran. And, immigration courts use new tactic to speed up deportations",
+      "description": "The U.S. military has launched new attacks on Iran while talks to end the conflict are ongoing. And, the Department of Justice is using a new tactic in immigration courts to accelerate deportations.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/26/g-s1-124277/up-first-newsletter-iran-war-russia-ukraine-immigration-courts-trump-health",
       "category": "🌎 TOP NEWS",
       "timeAgo": "5h ago"
     },
     {
-      "title": "Pope Leo calls for ‘disarming’ of artificial intelligence",
-      "description": "Pope Leo has warned that some AI-powered weapons systems are becoming ‘practically beyond human control'.",
+      "title": "France’s Kouame becomes youngest male Grand Slam match-winner in 17 years",
+      "description": "At 17, Moise Kouame becomes the youngest winner of a Grand Slam match with French Open win against Marin Cilic.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/pope-leo-calls-for-disarming-of-artificial-intelligence?traffic_source=rss",
+      "url": "https://www.aljazeera.com/sports/2026/5/26/frances-kouame-becomes-youngest-male-grand-slam-match-winner-in-17-years?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Trump links Iran negotiations to expansion of Abraham Accords",
-      "description": "US President Donald Trump links Iran negotiations to expansion of Abraham Accords.",
+      "title": "Albert Manifold ousted as BP chair over governance and conduct concerns",
+      "description": "BP stock falls by over 4 percent in US and UK markets as governance concerns lead to chairman Albert Manifold's removal.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/trump-links-iran-negotiations-to-expansion-of-abraham-accords?traffic_source=rss",
+      "url": "https://www.aljazeera.com/economy/2026/5/26/albert-manifold-ousted-as-bp-chair-over-governance-and-conduct-concerns?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Australian Gaza aid flotilla activists allege abuse after Israeli abduction",
-      "description": "Activists allege assaults and torture during Israeli detention after flotilla intercepted in international waters.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/25/australian-gaza-aid-flotilla-activists-allege-abuse-after-israeli-abduction?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "WHO chief says suspected Ebola deaths at 220 as epidemic ‘outpacing us’",
-      "description": "Tedros ⁠Adhanom Ghebreyesus says ​a delay in detecting cases means responders were now 'playing catch-up'.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/25/who-chief-says-suspected-ebola-deaths-at-220-as-epidemic-outpacing-us?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Oil prices slide on hopes of US-Iran peace deal",
-      "description": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
+      "title": "Four killed as school minibus collides with train in Belgium",
+      "description": "Two schoolchildren, their chaperone and the minibus driver were killed in the crash, says a Belgian minister.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c70vvd17rg7o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "3h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Three killed in Uganda after crashing into elephant",
-      "description": "Four people were also injured in the incident inside Murchison Falls National Park, officials say.",
+      "title": "Iranian fishermen struggle to survive amid Hormuz blockade",
+      "description": "The livelihoods of Iranian fishermen have taken a hit amid the US blockade on Iran’s ports in the Strait of Hormuz.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/iranian-fishermen-struggle-to-survive-amid-hormuz-blockade?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Scotland fans book 20 school buses for games at ‘inaccessible’ US World Cup",
+      "description": "As ticket prices soar to record levels, fans come to terms with overall cost of following their teams at World Cup.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/5/26/scotland-fans-book-school-bus-for-matches-at-inaccessible-world-cup?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Eleven killed in Lebanon village as Israel intensifies strikes",
+      "description": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" Hezbollah.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyppgvd3qzo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "4h ago"
     },
     {
-      "title": "Is the stock market open today? Does the post office deliver mail on Memorial Day?",
-      "description": "The holiday weekend will affect the stock and bond market. Here’s what you need to know.",
+      "title": "This bear market signal Wall Street ignores is putting your money at risk right now",
+      "description": "Veteran trader Steve Burns prepares for a 50% decline and exposes the 3 “deadly stock-market sins” destroying portfolios.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/is-the-stock-market-closed-on-memorial-day-does-the-post-office-deliver-mail-bba7ef11?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/this-bear-market-signal-wall-street-ignores-is-putting-your-money-at-risk-right-now-46f1fcf3?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "I inherited a house. My CPA says I should sell within a year to avoid capital gains. Is he right?",
-      "description": "“We plan to sell it to another family member for the appraised value.”",
+      "title": "More than 9 million people are missing out on $58 billion in food and medical benefits. Are you one of them?",
+      "description": "Lack of awareness, social stigma, application struggles and eligibility concerns prevent people from getting benefits",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-inherited-a-house-my-cpa-says-i-should-sell-within-a-year-to-avoid-capital-gains-is-he-right-d0909486?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/more-than-9-million-people-are-missing-out-on-58-billion-in-food-and-medical-benefits-are-you-one-of-them-d2e79770?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "These underdogs are a big reason S&P 500 profit growth is the fastest in nearly 5 years",
-      "description": "Ever since Big Tech went all in on artificial intelligence more than three years ago, seven companies have done the heavy lifting for overall S&P 500 earnings growth. But more recently, the other 493 names in the index…",
+      "title": "Micron’s stock soars as UBS slaps on an out-of-sight price target",
+      "description": "Strong memory chip demand is leading to “enhanced” long term agreements that should benefit Micron’s stock and earnings power, UBS says.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/these-underdogs-are-a-big-reason-s-p-500-profit-growth-is-the-fastest-in-nearly-5-years-4a43f142?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/microns-stock-soars-as-ubs-slaps-on-an-out-of-sight-price-target-77e75b8e?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "I’m selling my $1 million home. Will my agent really charge less than a 6% commission?",
-      "description": "“I haven’t bought or sold property since the National Association of Realtors ruling that decoupled buyer’s and seller’s agent commissions.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-selling-my-1-million-maui-home-will-my-agent-charge-me-less-than-a-6-commission-ed06c0f1?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "When are prediction markets most helpful? Evercore ISI has a formula",
-      "description": "Evercore ISI strategists provide insight for when prediction markets are useful for forecasting.",
+      "title": "Judges block Alabama redistricting maps that would dilute Black vote in midterms",
+      "description": "A three-judge panel found that the 2023 congressional district maps adopted by Alabama intentionally discriminated against Black voters.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/25/when-are-prediction-markets-most-helpful-evercore-isi-has-a-formula.html",
+      "url": "https://www.cnbc.com/2026/05/26/alabama-redistricting-congress-black-votes-midterm-elections.html",
       "category": "📈 MARKETS",
-      "timeAgo": "4h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Iran is in the 'process of blinking' over the Strait of Hormuz, Petraeus says",
-      "description": "Ex-CIA director David Petraeus said that an initial successful peace deal with Tehran would see the Strait opened without any conditions.",
+      "title": "I’m 67. Our family trust earns $300,000 annually for my kids. How do I ensure they won’t get killed on taxes?",
+      "description": "“My thought is to distribute all of the income to my children each year so that the trust itself pays little to no tax.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-67-our-family-trust-earns-300-000-annually-for-my-kids-how-do-i-ensure-they-wont-get-killed-on-taxes-ee0c35d6?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Trump to host Cabinet meeting at Camp David on Wednesday as Iran talks continue",
+      "description": "Trump and his top officials will make the rare trip to the woodsy Maryland retreat to discuss issues both foreign and domestic, a White House official said.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/25/iran-in-the-process-of-blinking-over-the-strait-ofoh-ex-cia-director.html",
+      "url": "https://www.cnbc.com/2026/05/26/trump-camp-david-iran-cabinet.html",
       "category": "📈 MARKETS",
-      "timeAgo": "9h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "2026 NBA Eastern Conference Finals odds, predictions: Knicks vs. Cavaliers Game 4 picks by expert on 87-55 run",
-      "description": "SportsLine's Larry Hartstein reveals his New York Knicks vs. Cleveland Cavaliers Game 4 NBA playoff picks for Monday",
+      "title": "Avalanche vs. Golden Knights odds, prediction: 2026 NHL Western Conference Finals Game 4 picks by proven model",
+      "description": "SportsLine's model reveals its Colorado Avalanche vs. Vegas Golden Knights picks for their 2026 NHL playoff matchup on Tuesday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nba/news/2026-nba-eastern-conference-finals-odds-predictions-knicks-cavaliers-game-4-picks/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "What Malachi Moreno's return means for Kentucky: Key starting big man anchors Wildcats' roster overhaul",
-      "description": "The All-SEC Freshman gives Kentucky a big boost heading into a critical season for coach Mark Pope",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-basketball/news/malachi-morenos-returns-kentucky-nba-draft/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "2026 MLB Memorial Day check-in: Handing out MVPs, Cy Youngs and more superlatives as summer begins",
-      "description": "It's no longer early in the 2026 MLB season, and two months into the campaign, these players and teams stand out the most",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/mlb/news/2026-mlb-memorial-day-check-in-mvp-cy-young/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "NBA player prop picks, odds: Three best 2026 NBA Playoffs prop bets for Knicks vs. Cavaliers, Game 4",
-      "description": "SportsLine's model and team of experts have revealed top NBA props picks and NBA predictions for the NBA Playoffs on Monday",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nba/news/nba-player-prop-picks-odds-three-best-2026-nba-playoffs-prop-bets-for-knicks-vs-cavaliers-game-4/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Spurs shut down OKC in Game 4 to even series",
-      "description": "Victor Wembanyama set the tone from the beginning of Game 4 on Sunday as the Spurs evened the Western Conference finals at 2-2.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/48868264/spurs-shut-thunder-game-4-even-series",
+      "url": "https://www.cbssports.com/nhl/news/avalanche-golden-knights-odds-prediction-2026-nhl-western-conference-finals-game-4-picks/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Lakers hire 'rocket scientist' as assistant GM",
-      "description": "The Lakers made their first significant move of the offseason by hiring Rohan Ramadas as an assistant GM under president and GM Rob Pelinka, sources told ESPN.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/48845975/sources-lakers-hire-rohan-ramadas-assistant-general-manager",
+      "title": "Snyder's Soapbox: Combined no-hitters don't belong in baseball's record books",
+      "description": "If a starting pitcher can't finish a no-hitter by himself, it's not really that impressive of a feat",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/mlb/news/combined-no-hitters-dont-belong-record-books/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
+    },
+    {
+      "title": "Free MLB home run picks, odds for May 26: Ketel Marte in expert's best bets for Tuesday HR player props",
+      "description": "SportsLine's Jacob Fetner reveals his best MLB home run props picks for Tuesday, May 26",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/betting/news/free-mlb-home-run-picks-odds-for-may-26-ketel-marte-in-experts-best-bets-for-tuesday-hr-player-props/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "WNBA Power Rankings: New York Liberty plummet from top spot after shocking three-game home losing streak",
+      "description": "The Liberty's rough week coincided with the returns of Sabrina Ionescu and Satou Sabally",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/wnba/news/wnba-power-rankings-new-york-liberty-losing-streak/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "1h ago"
     }
   ]
 }
