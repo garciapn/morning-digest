@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-27T16:48:46.453197+00:00",
-  "edition": "#113",
+  "date": "2026-05-28T17:07:49.529510+00:00",
+  "edition": "#114",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,228 +8,228 @@
   },
   "stories": [
     {
-      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-      "description": "Article URL: https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/ Comments URL: https://news.ycombinator.com/it…",
-      "source": "Hacker News",
-      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "PostHog will train AI models with your data (opt-in by default)",
-      "description": "Article URL: https://posthog.com/blog/training-ai-models Comments URL: https://news.ycombinator.com/item?id=48296359 Points: 29 # Comments: 14",
-      "source": "Hacker News",
-      "url": "https://posthog.com/blog/training-ai-models",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
-      "description": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
+      "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
+      "description": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+      "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Last.fm is now independent",
-      "description": "Article URL: https://support.last.fm/t/last-fm-is-now-independent/118591 Comments URL: https://news.ycombinator.com/item?id=48295892 Points: 187 # Comments: 51",
-      "source": "Hacker News",
-      "url": "https://support.last.fm/t/last-fm-is-now-independent/118591",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Tech CEOs are apparently suffering from AI psychosis",
-      "description": "Article URL: https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/ Comments URL: https://news.ycombinator.com/item?id=48295679 Points: 27 # Comments: 4",
-      "source": "Hacker News",
-      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "FAA orders SpaceX to investigate Starship V3 booster failure",
-      "description": "Starship is grounded until SpaceX finds out why the first V3 booster failed during its first test flight.",
+      "title": "Waymo’s newest robotaxi is Chinese-made, built to make money, and now accepting riders",
+      "description": "The launch of the Ojai minivan robotaxi comes after years of development and testing, but arrives amid a challenging time for Waymo.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/27/faa-orders-spacex-to-investigate-starship-v3-booster-failure/",
+      "url": "https://techcrunch.com/2026/05/28/waymos-newest-robotaxi-is-chinese-made-built-to-make-money-and-now-accepting-riders/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Claude Opus 4.8",
+      "description": "Article URL: https://www.anthropic.com/news/claude-opus-4-8 Comments URL: https://news.ycombinator.com/item?id=48311647 Points: 139 # Comments: 49",
+      "source": "Hacker News",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "U.S. says troops were targeted with location data, as senator warns ad industry is a ‘national security threat’",
+      "description": "One leading privacy lawmaker said it was time to \"start treating the adtech industry as a national security threat.\"",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/28/u-s-says-troops-were-targeted-with-location-data-as-senator-warns-ad-industry-is-a-national-security-threat/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "How long is Anthropic’s lease with SpaceX? Opinions vary.",
+      "description": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Safety warning after nine water-related deaths during heatwave",
-      "description": "Charities urge people to take precautions after at least nine people died after getting into difficulty in water during the warm weather.",
+      "title": "The Permanent Upper Crow",
+      "description": "Article URL: https://permanent-upper-crow.jasonwu.ink/ Comments URL: https://news.ycombinator.com/item?id=48310280 Points: 34 # Comments: 9",
+      "source": "Hacker News",
+      "url": "https://permanent-upper-crow.jasonwu.ink/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Sturgeon says she was deceived, betrayed and lied to over Murrell embezzlement",
+      "description": "The former first minister said she was \"coming to terms with being married to someone she did not know\" after Peter Murrell's guilty plea.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp8plymvm47o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cpdp3d8792no?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Family of mum, 30, shot dead outside Sheffield bar pay tribute to 'beautiful soul'",
-      "description": "Shanice Brookes, 30, worked for a charity and was studying for a university degree, her family say.",
+      "title": "'I've applied for more than 400 roles' - how young people are facing the job shortage",
+      "description": "The BBC has been hearing from young people who are struggling to find work about how they are tackling the challenge.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0q2yle5e0yo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/czx2qll4rlyo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Resident doctors in England to strike for 16th time over pay",
-      "description": "British Medical Association resident doctor members in England announce new strike for four days from 15 June.",
+      "title": "Opportunities shrinking for too many young people, says major report on 'lost generation'",
+      "description": "A report warns the number of 16 to 24-year-olds out of work, education or training set to rise to 1.25 million by 2031.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8xw2vvlxeko?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Burnham accuses Blair of ignoring inequality as he hits back at ex-PM",
-      "description": "The Labour mayor and by-election candidate rejects the former PM's call to embrace the \"radical centre\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ckgp4llnn12o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Former Obama adviser reflects on the 'Battle for American Identity'",
-      "description": "Ben Rhodes was a speechwriter and security adviser for President Obama. His book, All We Say, is a collection of 15 speeches — from Ben Franklin to Trump — about what it means to be American.",
+      "title": "Australian woman charged over travel to Syria to join Islamic State",
+      "description": "The arrest came eight months after she returned to Australia with her children from Lebanon.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/05/27/nx-s1-5835275/former-obama-advisor-reflects-on-the-battle-for-american-identity",
+      "url": "https://www.npr.org/2026/05/28/g-s1-124669/australian-woman-charged-over-travel-to-syria-to-join-islamic-state",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Greetings from Cape Verde, where the sounds of samba, jazz and morna fill the air",
-      "description": "Music is interwoven with the sounds of daily life in this West African island nation, which hosted two international music festivals in April and has been named the African Capital of Culture for 2028.",
+      "title": "Orthodox Jewish women in Israel may now take a rabbinic exam, like men",
+      "description": "Until now, only Orthodox Jewish men in Israel have been allowed to take exams to become rabbis. After a long campaign, women can now also take the test - but still can't become rabbis",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/05/27/g-s1-124325/cape-verde-music-morna-african-capital-culture",
+      "url": "https://www.npr.org/2026/05/28/g-s1-124466/israel-orthodox-jewish-women-exam-religion",
       "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Prostate cancer screening only for 'a few thousand' high risk men",
+      "description": "Only men with a dangerous genetic variant and a family history of cancer should be offered screening, say UK advisors.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn0pvxe5jgzo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "6h ago"
+    },
+    {
+      "title": "Israel hits Lebanese capital in 'targeted strike'",
+      "description": "Beirut had until now largely been spared even as both Israel and Hezbollah accused each other of breaking last month's ceasefire.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgqpjwdv7xeo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Are US and Iran close to peace or sliding back to war?",
+      "description": "Neither side seems interested in a return to all-out conflict, despite the latest exchange of strikes.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Fire kills 16 students at Kenyan girls’ boarding school",
+      "description": "At least 16 students were killed and dozens injured after a fire tore through the dormitory of a girls’ school in Kenya.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/fire-kills-16-students-at-kenyan-girls-boarding-school?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "WHO chief heads to ‘hardest hit’ Ituri as DRC’s 17th Ebola outbreak spreads",
+      "description": "DRC battles Bundibugyo strain as confirmed cases rise to 121, with 17 deaths and 246 suspected fatalities reported.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/28/who-chief-heads-to-hardest-hit-ituri-as-drcs-17th-ebola-outbreak-spreads?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders",
+      "description": "At least five children were reportedly killed in the strike, which appears to have targeted a Hamas commander.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn9p40en4ngo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Iran says it targeted American base after fresh US strikes",
+      "description": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Israel orders evacuation of Lebanese city as conflict with Hezbollah escalates",
-      "description": "Israel's military tells residents of Tyre it will \"act forcefully\" against the armed group, after another wave of strikes in south and east Lebanon.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
+      "title": "Oil prices turn lower in the wake of progress toward a U.S.-Iran deal",
+      "description": "Global oil prices turned lower on Thursday after news of progress toward a deal that would extend the U.S.-Iran cease-fire.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/oil-prices-rise-after-fresh-round-of-strikes-between-u-s-and-iran-pushing-peace-deal-into-doubt-4d20336b?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "The true cost of the Iran war is billions more than the Pentagon says — and we’re paying for it",
+      "description": "Washington’s ‘fuzzy math’ impacts inflation and your wallet.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-true-cost-of-the-iran-war-is-billions-more-than-the-pentagon-says-and-were-paying-for-it-7bf90988?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Google engineer charged after making $1.2 million on Polymarket bets — showing insider trading is becoming everyone’s problem",
+      "description": "Prediction markets have an insider-trading problem that one-off cases might not solve.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/google-engineer-charged-after-making-1-2-million-on-polymarket-bets-showing-insider-trading-is-becoming-everyones-problem-5f2a0063?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Here’s the real story behind the record drop in America’s oil reserves",
+      "description": "Stocks in the nation’s Strategic Petroleum Reserve are near their lowest in more than 40 years — but it may not matter",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-have-plenty-heres-the-real-story-behind-the-record-drop-in-americas-oil-reserves-9c8de9d5?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Oil prices pull back on report U.S.-Iran agreement to extend ceasefire awaits Trump approval",
+      "description": "Oil prices pulled back Thursday, erasing earlier gains on a report that U.S. and Iranian negotiators reached an agreement to extend ceasefire.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/28/oil-prices-us-strikes-in-iran-revive-strait-of-hormuz-turmoil-fears.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Airlines, hotels warn against Trump admin threat to international flights to 'sanctuary cities'",
+      "description": "Homeland Security Secretary Markwayne Mullin said the Trump administration is considering pulling international flight processing in \"sanctuary cities.\"",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/28/sanctuary-cities-immigration-fight-dhs-international-flights.html",
+      "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Family mourn ‘Hamas leader’ killed in Israeli attack",
-      "description": "A funeral has been held for Mohammed Odeh, believed to be the leader of Hamas’s military wing.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/family-mourn-hamas-leader-killed-in-israeli-attack?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Mogadishu gathers for Eid with prayers, family meals and outings",
-      "description": "Mogadishu has been tentatively emerging from the waves of violence that have rocked the city over recent decades.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/5/27/mogadishu-gathers-for-eid-with-prayers-family-meals-and-outings?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Muslims worldwide celebrate Eid al-Adha, the Festival of Sacrifice",
-      "description": "The sacred holiday coincides with Hajj, drawing over 1.7 million pilgrims seeking spiritual fulfilment in Saudi Arabia.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/5/27/muslims-worldwide-celebrate-eid-al-adha-the-festival-of-sacrifice?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Why is Israel attacking Lebanon’s Nabatieh, the major southern city?",
-      "description": "Israel issued forced displacement for Lebanon's southern city of Nabatieh on Tuesday. Why is it focused on this city?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/27/why-is-israel-attacking-lebanons-nabatieh-the-major-southern-city?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
-      "description": "Hamas says Mohammed Odeh was killed alongside his wife and two children in a strike on a residential building.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Momentus’s stock nearly triples in 2 days as the space company raises more cash from investors",
-      "description": "Momentus investors continue to cheer as the space firm secures more cash through a private placement of stock.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/momentuss-stock-nearly-triples-in-2-days-as-the-space-company-raises-more-cash-from-investors-b2c9a088?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Oil prices fall 4% after Rubio says U.S. will give Iran diplomacy 'every chance to succeed'",
-      "description": "U.S. crude oil prices trim losses as traders assess whether U.S. is nearing a deal with Iran that would restore traffic in the Strait of Hormuz.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/27/oil-price-today-iran-war-strait-hormuz.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "This stock-market strategy is a smart way to play Micron and the memory-chip rally",
-      "description": "Adding a value component and trimming back on the hottest growth stocks has served this growth ETF well over the long term and during the AI build-out.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-stock-market-strategy-is-a-smart-way-to-play-micron-and-the-memory-chip-rally-0f51a44f?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Alabama asks Supreme Court to allow congressional map that dilutes Black vote",
-      "description": "A three-judge panel in Birmingham, Alabama, found that the state's proposed map of House districts was 'intentionally discriminatory.\"",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/27/alabama-supreme-court-redistricting-black-vote-midterms.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Republicans stare down inflation abyss with midterms fast approaching",
-      "description": "Republicans are struggling to find a clear message to battle high prices as President Trump pushes for funding for a White House ballroom.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/27/election-economy-congress-inflation-republicans.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Cancer treatment already costs hundreds of thousands of dollars — and it’s about to get even worse",
-      "description": "Someone who survived brain cancer in the 1990s explains how the Affordable Care Act could have helped.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/cancer-treatment-already-costs-hundreds-of-thousands-of-dollars-and-its-about-to-get-even-worse-5f0ac8a3?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "FIFA World Cup 2026 odds: Futures picks, predictions, soccer best bets from proven expert",
-      "description": "Martin Green has analyzed the 2026 World Cup draw and locked in his best bets, overall winner, sleeper picks and top props",
+      "title": "USMNT coach Mauricio Pochettino met with AC Milan about open coaching job days ahead of World Cup, per report",
+      "description": "Before guiding the U.S. at the World Cup, the manager reportedly had a meeting with AC Milan over their vacant head coaching job",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/fifa-world-cup-2026-odds-futures-picks-predictions-soccer-best-bets/",
+      "url": "https://www.cbssports.com/soccer/news/usmnt-coach-mauricio-pochettino-met-ac-milan-coaching-job-world-cup/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "2026 Charles Schwab Challenge odds, picks: Surprising predictions by golf model that's nailed 17 majors",
-      "description": "SportsLine's model simulated the Charles Schwab Challenge 2026 10,000 times and revealed its surprising picks for Colonial Country Club",
+      "title": "Big Ten post-spring intel: Breakout players, key QB battles, more buzz from across the league",
+      "description": "CBS Sports tapped anonymous Big Ten sources for fresh updates as summer approaches",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/golf/news/2026-charles-schwab-challenge-odds-date-picks-predictions-golf-field-best-bets/",
+      "url": "https://www.cbssports.com/college-football/news/big-ten-post-spring-intel-breakout-players-qb-battles/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Footy Fix: Crystal Palace chase Conference League trophy as European season nears its end",
-      "description": "Elsewhere on Golazo Starting XI, USL is in action on Wednesday",
+      "title": "NFL division winners who are unlikely to repeat, plus a new twist in A.J Brown trade talks and a 2023 redraft",
+      "description": "Here's everything you need to know about the NFL for May 28",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/footy-fix-crystal-palace-chase-conference-league-trophy-as-european-season-nears-its-end/",
+      "url": "https://www.cbssports.com/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Hurricanes vs. Canadiens odds, prediction: 2026 NHL Eastern Conference Finals Game 4 picks by proven model",
-      "description": "SportsLine's model reveals its Carolina Hurricanes vs. Montreal Canadiens picks for their 2026 NHL playoff matchup on Wednesday",
+      "title": "'Bloody hell, don't get relegated': How Josh Kroenke navigated Arsenal's rebuild to the top",
+      "description": "Co-chair Josh Kroenke opens up on his emotional ride with the Gunners, from puppy-scaring title celebrations to navigating years of fan protests and backroom rebuilds",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nhl/news/hurricanes-canadiens-odds-prediction-2026-nhl-eastern-conference-finals-game-4-picks/",
+      "url": "https://www.cbssports.com/soccer/news/bloody-hell-dont-get-relegated-how-josh-kroenke-navigated-arsenals-rebuild-to-the-top/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     }
   ]
 }
