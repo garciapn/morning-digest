@@ -1,177 +1,161 @@
 {
-  "date": "2026-05-29T16:57:22.244609+00:00",
-  "edition": "#115",
-  "totalStories": 30,
+  "date": "2026-05-30T14:52:11.131620+00:00",
+  "edition": "#116",
+  "totalStories": 28,
   "podcast": {
     "show": "The Daily",
     "description": "The New York Times' daily news podcast — today's top story in 20 minutes."
   },
   "stories": [
     {
-      "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
-      "description": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers.",
+      "title": "The groupthink boom: what three top VCs really think about the AI frenzy",
+      "description": "\"If you're 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox — but if you're 19, oh my God, this means you're really good; you might already have a Series A [offer]…",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+      "url": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "CAPTCHAs can still detect AI agents",
-      "description": "Article URL: https://research.roundtable.ai/captchas-detect-ai/ Comments URL: https://news.ycombinator.com/item?id=48324910 Points: 5 # Comments: 0",
+      "title": "Voxel Space",
+      "description": "Article URL: https://s-macke.github.io/VoxelSpace/ Comments URL: https://news.ycombinator.com/item?id=48336564 Points: 15 # Comments: 1",
       "source": "Hacker News",
-      "url": "https://research.roundtable.ai/captchas-detect-ai/",
+      "url": "https://s-macke.github.io/VoxelSpace/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "The Dead Economy Theory",
-      "description": "Article URL: https://www.owenmcgrann.com/p/the-dead-economy-theory Comments URL: https://news.ycombinator.com/item?id=48324712 Points: 82 # Comments: 53",
+      "title": "Memory decline after menopause linked to loss of estrogen production in brain",
+      "description": "Article URL: https://news.northwestern.edu/stories/2026/05/memory-decline-after-menopause-linked-to-loss-of-estrogen-production-in-brain-tissue Comments URL: https://news.ycombinator.com/item?id=48336312 Points: 18 # Co…",
       "source": "Hacker News",
-      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+      "url": "https://news.northwestern.edu/stories/2026/05/memory-decline-after-menopause-linked-to-loss-of-estrogen-production-in-brain-tissue",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "GTA 6 Developers Unionize",
-      "description": "Article URL: https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/ Comments URL: https://news.ycombinator.com/item?id=48324499 Points: 141 # Comments: 54",
+      "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
+      "description": "Article URL: https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup Comments URL: https://news.ycombinator.com/item?id=48336233 Points: 107 # Comments: 87",
       "source": "Hacker News",
-      "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
+      "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "The Framework 12 is dead. Apple killed it [video]",
-      "description": "Article URL: https://www.youtube.com/watch?v=aPVAnwuSjfk Comments URL: https://news.ycombinator.com/item?id=48324144 Points: 4 # Comments: 2",
-      "source": "Hacker News",
-      "url": "https://www.youtube.com/watch?v=aPVAnwuSjfk",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
-      "description": "Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conversations defining the tech industry.",
+      "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
+      "description": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
+      "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
       "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "This $300 pizza oven can easily help elevate your summer pizza nights",
+      "description": "The Ninja Artisan Outdoor Pizza Oven is aimed at people who want delicious pizza nights without having to deal with things like propane or wood pellets, unlike many other pizza ovens.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/30/this-300-pizza-oven-can-easily-help-elevate-your-summer-pizza-nights/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "US, UK and Australia to develop underwater drone technology",
+      "description": "The technology, developed under the Aukus military pact, is aimed at protecting undersea cables and boosting naval defence.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Nato condemns Russian 'recklessness' after drone hits Romanian residential block",
-      "description": "Romania will hold an emergency meeting following the incident, in which two people were injured.",
+      "title": "Liverpool sack head coach Arne Slot year after Premier League title win",
+      "description": "Liverpool sack head coach Arne Slot after two seasons in charge, with Andoni Iraola the leading contender to replace him.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides",
-      "description": "Kenneth Law admitted charges relating to Canadian victims - but families say he should also be charged in the UK over 79 deaths in Britain.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Child among three dead in tower block fall",
-      "description": "A man, a woman and a child were pronounced dead at the scene in Elephant and Castle.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1k21077k7lo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Exploding rocket casts doubts over Nasa's Moon plans",
-      "description": "Explosion of Blue Origin rocket is a setback for the company and for Nasa's Moon plans.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwy2q0g07kgo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "6h ago"
-    },
-    {
-      "title": "Asia defense summit opens amid doubts over U.S. priorities",
-      "description": "The Shangri-La Dialogue, hosted by the International Institute for Strategic Studies, will also address tensions in the Middle East and Russia's war on Ukraine.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/05/29/g-s1-124788/asia-defense-summit-opens-amid-doubts-over-u-s-priorities",
+      "url": "https://www.bbc.com/sport/football/articles/cglp7kelrljo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Israel, Lebanon officials to meet. And, judge won't block Trump's mail-in voting order",
-      "description": "Israel and Lebanon officials are set to meet today as U.S.-Iran peace talks continue. And, a federal judge declined to block Trump's executive order restricting mail-in voting.",
+      "title": "Palace was handed Andrew's controversial envoy emails six years ago",
+      "description": "Thousands of emails containing information about the former prince's financial dealings were given to the Royal Household in 2020.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy02j5pl98no?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "Pride celebrations struggle as corporate sponsorships dry up",
+      "description": "Public support for the LGBTQ+ community by corporations has become politically risky, public relations expert says.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/05/29/g-s1-124776/up-first-newsletter-israel-lebanon-iran-war-e-jean-carroll-trump-cbs-60-minutes-voting",
+      "url": "https://www.npr.org/2026/05/30/nx-s1-5805854/pride-parade-struggle-corporate-sponsorships",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Arrive three hours before flight home, airline boss tells UK holidaymakers",
+      "description": "Wizz Air CEO Yvonne Moynihan also advises passengers to carry portable chargers and water due to lengthy queues.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8xw2kjlrlxo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "5h ago"
     },
     {
-      "title": "Vance says US, Iran have made “a lot of progress” towards deal",
-      "description": "US Vice President JD Vance says Washington and Tehran have made “a lot of progress” towards ceasefire",
+      "title": "Carcass of Timmy the humpback whale brought to shore in Denmark",
+      "description": "The humpback whale, nicknamed \"Timmy\" by German media, died following a controversial failed rescue effort. His carcass had been drifting near the Danish shore for two weeks.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/30/nx-s1-5839921/timmy-humpback-whale-autopsy",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Truck carrying Afghan returnees from Pakistan flips on highway, killing 18",
+      "description": "At least 10 children among the dead as a packed truck carrying families returning from Pakistan flips on major highway.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/vance-says-us-iran-have-made-a-lot-of-progress-towards-deal?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/5/30/truck-carrying-afghan-returnees-from-pakistan-flips-on-highway-killing-18?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Five killed in Lebanon as Israeli forces advance across key Litani River",
-      "description": "Attacks come ahead of security talks between Lebanese and Israeli military delegations at the Pentagon.",
+      "title": "Israeli soldiers reach Nabatieh, one of southern Lebanon’s biggest cities",
+      "description": "Israel’s military has advanced beyond Lebanon's Litani River for the first time since 2006.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/29/five-killed-in-lebanon-as-israeli-forces-advance-across-key-litani-river?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Israel strikes building in Gaza’s Shati refugee camp",
-      "description": "Israel strikes building in Gaza’s Shati refugee camp.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/israel-strikes-building-in-gazas-shati-refugee-camp?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/5/30/israeli-soldiers-reach-nabatieh-one-of-southern-lebanons-biggest-cities?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Eid and sacrifice in Gaza",
-      "description": "Eid al-Adha in Gaza this year marked the third Eid in a row without animal sacrifice or Hajj.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/eid-and-sacrifice-in-gaza?traffic_source=rss",
+      "title": "US not 'turning back' on Asia allies, but expects them to boost defence, says Hegseth",
+      "description": "The US defense secretary is questioned about US commitment, including further arms deals, at an Asian security summit in Singapore.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5ye34k7yejo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "'Controversial' North Korean invasion setting for next Call of Duty game",
-      "description": "Developer Infinity Ward said the game will be \"grounded in the military authenticity\" the series is known for.",
+      "title": "Violence against foreign-owned shops in South Africa",
+      "description": "Foreign workers in South Africa are again facing violence and protests by anti-immigrant groups.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/violence-against-foreign-owned-shops-in-south-africa?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "WHO chief visits Bunia, epicentre of the Ebola outbreak",
+      "description": "WHO Chief Tedros Adhanom Ghebreyesus is visiting Bunia in the DRC, the epicentre of the Ebola outbreak.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/who-chief-visits-bunia-epicentre-of-the-ebola-outbreak?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
+      "description": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c9q391y5088o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Former US attorney general Pam Bondi testifies in congressional Epstein probe",
-      "description": "The testimony comes about a month after America's top prosecutor was ousted by US President Donald Trump.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/czj2ldllgwgo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "ServiceNow’s stock soars toward historic month as AI fears fade across software",
-      "description": "ServiceNow shares are up 40% this month, leading an industrywide relief rally among enterprise software companies.",
+      "title": "This mutual fund lets you buy SpaceX stock before the IPO — but what are you actually getting?",
+      "description": "The hype surrounding SpaceX and the scale of its ambitions will surely drive short-term demand for shares in the IPO.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/servicenows-stock-soars-toward-historic-month-as-ai-fears-fade-across-software-31854b69?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Trump lays out Iran deal demands, says he's about to make 'final determination'",
-      "description": "Trump's Truth Social statement left unclear which of his conditions are already part of a deal that negotiators are working on to pause the U.S.-Iran war.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/29/trump-iran-deal-hormuz-nuclear-war.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Trump DOJ 'lawfare' fund temporarily blocked by judge as suit proceeds",
-      "description": "The DOJ has face strong criticism for the creation of a $1.8 Anti-Weaponization Fund which could compensate allies of President Donald Trump.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/29/trump-doj-fund-lawfare-blocked-judge.html",
+      "url": "https://www.marketwatch.com/story/this-mutual-fund-lets-you-buy-spacex-stock-before-the-ipo-but-what-are-you-actually-getting-907b96d1?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
@@ -181,69 +165,69 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/even-the-ronald-reagan-institute-doesnt-believe-the-waste-fraud-and-abuse-baloney-629a6447?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Dell stock skyrockets 32%, heads for best day ever as AI server revenue soars",
-      "description": "Dell reported its fastest pace of revenue growth since returning to the public market in 2018, with AI server revenue soaring 757% over last year.",
+      "title": "The death of Nascar driver Kyle Busch is renewing the debate around indexed universal life insurance",
+      "description": "If you’re looking for a “sure thing” in a retirement plan, indexed universal life is probably not the answer.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-death-of-nascar-driver-kyle-busch-is-renewing-the-debate-around-indexed-universal-life-insurance-3d5dc6d5?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Your retirement plan may have a ‘blind spot’ that could leave you without enough money",
+      "description": "Planning for the unexpected should be the most expected part of your retirement plan.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/have-a-date-in-mind-to-stop-working-why-you-likely-wont-retire-when-you-plan-to-5e9f2f38?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Oil exports through the Strait of Hormuz might not return to levels seen before the Iran war",
+      "description": "Iran's blockade of the Strait of Hormuz has seriously challenged freedom of navigation in the sea lane, raising questions about the future.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/29/dell-stock-earnings-ai-servers.html",
+      "url": "https://www.cnbc.com/2026/05/30/oil-exports-through-hormuz-might-not-return-to-levels-before-iran-war.html",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "SpaceX skeptics have added reason for concern after Musk comments diverge from IPO filing",
-      "description": "In a post on X, Elon Musk offered details about SpaceX's deal with Anthropic that weren't included in the company's IPO prospectus.",
+      "title": "Meta has struggled at selling anything other than ads. Will AI be different?",
+      "description": "Meta is making a major push to expand its business beyond online advertising, but past efforts show that success is far from guaranteed.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/29/spacex-skeptics-concerned-as-musk-comments-diverge-from-ipo-filing.html",
+      "url": "https://www.cnbc.com/2026/05/30/meta-struggled-selling-anything-other-than-ads-will-ai-be-different.html",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "World Cup 2026 odds, futures: Mexico aiming to restore its soccer standing with deep tournament run",
-      "description": "Mexico have slipped in the CONCACAF soccer hierarchy but they have a chance to change that at the 2026 World Cup",
+      "title": "Champions League final burning questions: Can Paris Saint-Germain become the next great European dynasty?",
+      "description": "Arsenal, Mikel Arteta's defensive masters, seek glory and their first European crown against a lethal PSG side aiming to cement a modern dynasty",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/world-cup-2026-odds-futures-mexico-aiming-to-restore-its-soccer-standing-with-deep-tournament-run/",
+      "url": "https://www.cbssports.com/soccer/news/champions-league-final-psg-arsenal-european-dynasty/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Can Arsenal's historically dominant defense prevent a PSG dynasty in the Champions League final?",
-      "description": "Paris Saint-Germain aim to become the first team to win back-to-back Champions League titles since Real Madrid completed the feat in 2018, while Arsenal are in pursuit of their first-ever title",
+      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Thunder-Spurs, PSG-Arsenal, MLB on Saturday",
+      "description": "Use the latest BetMGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for NBA and MLB betting on Saturday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/champions-league-final-2026-psg-arsenal-watch-time-channel/",
+      "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-1500-bonus-bets-thunder-spurs-psg-arsenal-mlb-saturday/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Bears' Ben Johnson is 'buying Luther Burden stock'; What could second-year WR's role be in 2026?",
-      "description": "Burden has a huge opportunity to step up in Year 2",
+      "title": "Use DraftKings promo code for $100 in bonus bets by targeting Thunder-Spurs, Arsenal-PSG, MLB on Saturday",
+      "description": "DraftKings offers $100 in bonus bets instantly after your first $5 wager for NBA and MLB on Saturday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/bears-coach-ben-johnson-luther-burden-wrs-role-in-2026/",
+      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-100-bonus-bets-thunder-spurs-arsenal-psg-mlb-saturday/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Free MLB picks, predictions for Friday: Proven expert has Phillies vs. Dodgers among his best bets",
-      "description": "SportsLine's Adam Thompson provides his best MLB bets for Friday's games",
+      "title": "2026 Belmont Stakes odds, date, predictions: Expert who hit 4 of last 8 winners shares horse racing picks",
+      "description": "Jody Demling, who has called four of the last eight Belmont champions, reveals his 2026 Belmont Stakes picks for Saturday, June 6 at Saratoga Race Course",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/free-mlb-picks-predictions-for-friday-proven-expert-has-phillies-vs-dodgers-among-his-best-bets/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Sources: Knicks' Robinson to play after surgery",
-      "description": "Knicks center Mitchell Robinson has undergone surgery on his broken right pinkie finger and plans to play in Game 1 of the NBA Finals while wearing a brace on his hand, sources told ESPN.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/48909492/sources-mitchell-robinson-pinkie-plans-play-nba-finals",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "4-time Cup champ Claude Lemieux dies at 60",
-      "description": "Claude Lemieux, who won the Stanley Cup four times during a memorable NHL career, died Thursday at age 60. Authorities said Lemieux died by suicide.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nhl/story/_/id/48901936/4-stanley-cup-champion-claude-lemieux-dies-60",
+      "url": "https://www.cbssports.com/general/news/2026-belmont-stakes-odds-date-predictions-expert-who-hit-4-of-last-8-winners-shares-horse-racing-picks/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
