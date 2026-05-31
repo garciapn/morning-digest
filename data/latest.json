@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-30T14:52:11.131620+00:00",
-  "edition": "#116",
+  "date": "2026-05-31T15:01:59.911063+00:00",
+  "edition": "#117",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "The groupthink boom: what three top VCs really think about the AI frenzy",
-      "description": "\"If you're 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox — but if you're 19, oh my God, this means you're really good; you might already have a Series A [offer]…",
+      "title": "Black founders raise highest amount of quarterly funding since 2022, but there’s a catch",
+      "description": "Speaking to TechCrunch, Crunchbase’s head of research Gené Teare, said the factors holding back Black founders include “access to networks, relationships, and early introductions.\"",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
+      "url": "https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Voxel Space",
-      "description": "Article URL: https://s-macke.github.io/VoxelSpace/ Comments URL: https://news.ycombinator.com/item?id=48336564 Points: 15 # Comments: 1",
+      "title": "The people who actually want AI to replace humanity",
+      "description": "Article URL: https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism Comments URL: https://news.ycombinator.com/item?id=48345881 Points: 11 # Comments: 1",
       "source": "Hacker News",
-      "url": "https://s-macke.github.io/VoxelSpace/",
+      "url": "https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Memory decline after menopause linked to loss of estrogen production in brain",
-      "description": "Article URL: https://news.northwestern.edu/stories/2026/05/memory-decline-after-menopause-linked-to-loss-of-estrogen-production-in-brain-tissue Comments URL: https://news.ycombinator.com/item?id=48336312 Points: 18 # Co…",
+      "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+      "description": "Article URL: https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting Comments URL: https://news.ycombinator.com/item?id=48345840 Points: 16 # Comments: 3",
       "source": "Hacker News",
-      "url": "https://news.northwestern.edu/stories/2026/05/memory-decline-after-menopause-linked-to-loss-of-estrogen-production-in-brain-tissue",
+      "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
-      "description": "Article URL: https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup Comments URL: https://news.ycombinator.com/item?id=48336233 Points: 107 # Comments: 87",
+      "title": "I Put a Datacenter GPU in My Gaming PC for £200",
+      "description": "Article URL: https://blog.tymscar.com/posts/v100localllm/ Comments URL: https://news.ycombinator.com/item?id=48345694 Points: 51 # Comments: 23",
       "source": "Hacker News",
-      "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
-      "description": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "url": "https://blog.tymscar.com/posts/v100localllm/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "This $300 pizza oven can easily help elevate your summer pizza nights",
-      "description": "The Ninja Artisan Outdoor Pizza Oven is aimed at people who want delicious pizza nights without having to deal with things like propane or wood pellets, unlike many other pizza ovens.",
+      "title": "What happens in Vega$: steroids, swimmers, and a billion-dollar hustle",
+      "description": "The Enhanced Games — a singular sporting competition where a majority of the athletes were on performance enhancing drugs — may herald a new business model that the tech industry is ready to embrace.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/30/this-300-pizza-oven-can-easily-help-elevate-your-summer-pizza-nights/",
+      "url": "https://techcrunch.com/2026/05/31/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "US, UK and Australia to develop underwater drone technology",
-      "description": "The technology, developed under the Aukus military pact, is aimed at protecting undersea cables and boosting naval defence.",
+      "title": "You Weren't Meant to Have a Boss (2008)",
+      "description": "Article URL: https://paulgraham.com/boss.html Comments URL: https://news.ycombinator.com/item?id=48345282 Points: 14 # Comments: 1",
+      "source": "Hacker News",
+      "url": "https://paulgraham.com/boss.html",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Sturgeon tells BBC: I'm serving a sentence for crime I didn't commit",
+      "description": "Scotland's former first minister is challenged by Laura Kuenssberg over the SNP embezzlement scandal, and at times struggles to hold back tears.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c2027k1ev3zo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Liverpool sack head coach Arne Slot year after Premier League title win",
-      "description": "Liverpool sack head coach Arne Slot after two seasons in charge, with Andoni Iraola the leading contender to replace him.",
+      "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
+      "description": "Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/sport/football/articles/cglp7kelrljo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Palace was handed Andrew's controversial envoy emails six years ago",
-      "description": "Thousands of emails containing information about the former prince's financial dealings were given to the Royal Household in 2020.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy02j5pl98no?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "Pride celebrations struggle as corporate sponsorships dry up",
-      "description": "Public support for the LGBTQ+ community by corporations has become politically risky, public relations expert says.",
+      "title": "Israel seizes medieval castle as it expands major offensive in southern Lebanon",
+      "description": "Israel has captured the 12th-century Beaufort castle that overlooks southern Lebanon and northern Israel. The move suggests Israel is planning an extended military presence in Lebanon.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/05/30/nx-s1-5805854/pride-parade-struggle-corporate-sponsorships",
+      "url": "https://www.npr.org/2026/05/31/g-s1-125056/israel-seizes-medieval-beaufort-castle-southern-lebanon",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Arrive three hours before flight home, airline boss tells UK holidaymakers",
-      "description": "Wizz Air CEO Yvonne Moynihan also advises passengers to carry portable chargers and water due to lengthy queues.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8xw2kjlrlxo?at_medium=RSS&at_campaign=rss",
+      "title": "Experimental pill promises new hope for deadly pancreatic cancer",
+      "description": "A novel pill helped people with advanced pancreatic cancer live longer, researchers reported Sunday, raising hopes of long-needed better treatments for one of the deadliest types of cancer.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/31/nx-s1-5841859/experimental-pill-new-hope-pancreatic-cancer",
       "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "The biggest permanent desert lake threatens with rising waters and hungry crocs",
+      "description": "Kenya's Lake Turkana is the world's largest permanent desert lake. Its waters have long sustained hundreds of thousands. Now the lake is facing multiple threats — and threatening those who rely on it.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/31/g-s1-122887/lake-turkana-kenya-climate-rising-waters-fishing-crocodiles",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Watch: Key moments from Nicola Sturgeon's interview with Laura Kuenssberg",
+      "description": "Former First Minister of Scotland Nicola Sturgeon speaks to the BBC in her first interview since her estranged husband Peter Murrell pled guilty to embezzling £400,000 from the SNP",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/c70vl59vd9vo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "6h ago"
+    },
+    {
+      "title": "Not just the US: How 51 countries armed Israel during Gaza war",
+      "description": "An Al Jazeera investigation has found that military-related goods from at least 51 countries and territories continued e",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/2026/5/31/not-just-the-us-how-51-countries-armed-israel-during-gaza-war?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Israeli airstrikes devastate Lebanon’s Tyre",
+      "description": "Video from southern Lebanon shows widespread destruction after Israel repeatedly bombed the city of Tyre.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/israeli-airstrikes-devastate-lebanons-tyre?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "World Health Organization hails recovery of five Ebola patients",
+      "description": "More than 220 people are suspected to have died from the disease's latest outbreak, which was declared two weeks ago.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/31/world-health-organization-hails-recovery-of-five-ebola-patients?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Protesters want to send ‘fascists to Mars’ aboard mock rocket",
+      "description": "Environmental activists in Rome built a mock rocket with caricatures of Giorgia Meloni and Donald Trump.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/protesters-want-to-send-fascists-to-mars-aboard-mock-rocket?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Laos cave survivors help with plan to find last two missing men",
+      "description": "So far, five men have been freed from the narrow, flooded cave but efforts are ongoing to locate two more.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8094jdpzv3o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
+      "description": "The medical charity's comments come as the head of the World Health Organization visits the region worst-hit by the virus outbreak.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "8h ago"
+    },
+    {
+      "title": "Here’s how Gap’s yoga-wear maker Athleta went from must-have to ‘generic’",
+      "description": "Athleta’s expected recovery has been pushed out for three straight years, as an attempt to widen its appeal ended up “appealing to no one in particular.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-how-gaps-yoga-wear-maker-athleta-went-from-must-have-to-generic-3d94b008?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "‘I have no preexisting conditions’: I’m 56, earn $198,000 and want to retire early. Can I afford private healthcare?",
+      "description": "“I’m trying to figure out whether it’s worth my while achieving FIRE.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-have-no-preexisting-conditions-im-56-earn-198-000-and-want-to-retire-early-can-i-afford-private-healthcare-e80cdd26?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Why Trump reversed course to fast-track psychedelic drugs for mental healthcare",
+      "description": "President Donald Trump is trying to fast-track research into psychedelics as treatments, creating new opportunities and risks.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/31/why-trump-is-encouraging-psychedelics-for-mental-health.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "My golf buddy dropped me when I didn’t ask him to be my financial adviser. Was I naive?",
+      "description": "“Friendliness alone is not a sufficient reason to trust someone with your finances.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-golf-buddy-dropped-me-when-i-didnt-make-him-my-financial-adviser-be-careful-who-you-trust-b5c00854?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "My friend, 62, earns $20,000 a year. Should she take Social Security now — and claim survivor’s benefit at 67?",
+      "description": "“I calculated her break-even point to be around age 78.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-friend-62-earns-20-000-a-year-should-she-take-social-security-now-or-claim-survivors-benefit-at-67-c661bdca?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "Defense spending, China in Asia and lessons from Ukraine: Takeways from the 2026 IISS Shangri-La Dialogue",
+      "description": "The summit sees top world leaders, defence officials and key executives gathering in Singapore from May 29 to 31",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/31/takeways-from-the-2026-shangri-la-dialogue-.html",
+      "category": "📈 MARKETS",
       "timeAgo": "5h ago"
     },
     {
-      "title": "Carcass of Timmy the humpback whale brought to shore in Denmark",
-      "description": "The humpback whale, nicknamed \"Timmy\" by German media, died following a controversial failed rescue effort. His carcass had been drifting near the Danish shore for two weeks.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/05/30/nx-s1-5839921/timmy-humpback-whale-autopsy",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Truck carrying Afghan returnees from Pakistan flips on highway, killing 18",
-      "description": "At least 10 children among the dead as a packed truck carrying families returning from Pakistan flips on major highway.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/30/truck-carrying-afghan-returnees-from-pakistan-flips-on-highway-killing-18?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Israeli soldiers reach Nabatieh, one of southern Lebanon’s biggest cities",
-      "description": "Israel’s military has advanced beyond Lebanon's Litani River for the first time since 2006.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/30/israeli-soldiers-reach-nabatieh-one-of-southern-lebanons-biggest-cities?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "US not 'turning back' on Asia allies, but expects them to boost defence, says Hegseth",
-      "description": "The US defense secretary is questioned about US commitment, including further arms deals, at an Asian security summit in Singapore.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5ye34k7yejo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Violence against foreign-owned shops in South Africa",
-      "description": "Foreign workers in South Africa are again facing violence and protests by anti-immigrant groups.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/violence-against-foreign-owned-shops-in-south-africa?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "WHO chief visits Bunia, epicentre of the Ebola outbreak",
-      "description": "WHO Chief Tedros Adhanom Ghebreyesus is visiting Bunia in the DRC, the epicentre of the Ebola outbreak.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/who-chief-visits-bunia-epicentre-of-the-ebola-outbreak?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
-      "description": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "This mutual fund lets you buy SpaceX stock before the IPO — but what are you actually getting?",
-      "description": "The hype surrounding SpaceX and the scale of its ambitions will surely drive short-term demand for shares in the IPO.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-mutual-fund-lets-you-buy-spacex-stock-before-the-ipo-but-what-are-you-actually-getting-907b96d1?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Even the Ronald Reagan Institute doesn’t believe the ‘waste, fraud and abuse’ baloney",
-      "description": "This may be the single most important issue facing U.S. democracy today.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/even-the-ronald-reagan-institute-doesnt-believe-the-waste-fraud-and-abuse-baloney-629a6447?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "The death of Nascar driver Kyle Busch is renewing the debate around indexed universal life insurance",
-      "description": "If you’re looking for a “sure thing” in a retirement plan, indexed universal life is probably not the answer.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-death-of-nascar-driver-kyle-busch-is-renewing-the-debate-around-indexed-universal-life-insurance-3d5dc6d5?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Your retirement plan may have a ‘blind spot’ that could leave you without enough money",
-      "description": "Planning for the unexpected should be the most expected part of your retirement plan.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/have-a-date-in-mind-to-stop-working-why-you-likely-wont-retire-when-you-plan-to-5e9f2f38?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Oil exports through the Strait of Hormuz might not return to levels seen before the Iran war",
-      "description": "Iran's blockade of the Strait of Hormuz has seriously challenged freedom of navigation in the sea lane, raising questions about the future.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/30/oil-exports-through-hormuz-might-not-return-to-levels-before-iran-war.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Meta has struggled at selling anything other than ads. Will AI be different?",
-      "description": "Meta is making a major push to expand its business beyond online advertising, but past efforts show that success is far from guaranteed.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/30/meta-struggled-selling-anything-other-than-ads-will-ai-be-different.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Champions League final burning questions: Can Paris Saint-Germain become the next great European dynasty?",
-      "description": "Arsenal, Mikel Arteta's defensive masters, seek glory and their first European crown against a lethal PSG side aiming to cement a modern dynasty",
+      "title": "2026 Cracker Barrel 400 predictions, odds, time: NASCAR at Nashville picks, best bets by advanced model",
+      "description": "Mike McClure's computer model reveals its surprising picks and NASCAR Nashville props for the Cracker Barrel 400 2026 on Sunday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/champions-league-final-psg-arsenal-european-dynasty/",
+      "url": "https://www.cbssports.com/nascar/news/2026-cracker-barrel-400-predictions-odds-time-nascar-nashville-picks-auto-racing-best-bets/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Thunder-Spurs, PSG-Arsenal, MLB on Saturday",
-      "description": "Use the latest BetMGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for NBA and MLB betting on Saturday",
+      "title": "FIFA World Cup 2026 odds: Futures picks, predictions, soccer best bets from proven expert",
+      "description": "Martin Green has analyzed the 2026 World Cup draw and locked in his best bets, overall winner, sleeper picks and top props",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-1500-bonus-bets-thunder-spurs-psg-arsenal-mlb-saturday/",
+      "url": "https://www.cbssports.com/soccer/news/fifa-world-cup-2026-odds-favorites-futures-picks-predictions-soccer-betting/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Use DraftKings promo code for $100 in bonus bets by targeting Thunder-Spurs, Arsenal-PSG, MLB on Saturday",
-      "description": "DraftKings offers $100 in bonus bets instantly after your first $5 wager for NBA and MLB on Saturday",
+      "title": "Use DraftKings promo code for $100 in bonus bets by targeting Dodgers-Phillies, Cardinals-Cubs, MLB on Sunday",
+      "description": "DraftKings offers $100 in bonus bets instantly after your first $5 wager for MLB on Sunday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-100-bonus-bets-thunder-spurs-arsenal-psg-mlb-saturday/",
+      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-100-bonus-bets-dodgers-phillies-cardinals-cubs-mlb-sunday/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "2026 Belmont Stakes odds, date, predictions: Expert who hit 4 of last 8 winners shares horse racing picks",
-      "description": "Jody Demling, who has called four of the last eight Belmont champions, reveals his 2026 Belmont Stakes picks for Saturday, June 6 at Saratoga Race Course",
+      "title": "SportsLine Newsletter May 31, 2026",
+      "description": "Sunday Betting Guide: Top picks for NASCAR Nashville and a lookahead to the Belmont Stakes next Saturday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/general/news/2026-belmont-stakes-odds-date-predictions-expert-who-hit-4-of-last-8-winners-shares-horse-racing-picks/",
+      "url": "https://www.cbssports.com/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
