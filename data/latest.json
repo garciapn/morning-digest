@@ -1,233 +1,249 @@
 {
-  "date": "2026-05-31T15:01:59.911063+00:00",
-  "edition": "#117",
-  "totalStories": 28,
+  "date": "2026-06-01T19:08:45.800404+00:00",
+  "edition": "#118",
+  "totalStories": 30,
   "podcast": {
     "show": "The Daily",
     "description": "The New York Times' daily news podcast — today's top story in 20 minutes."
   },
   "stories": [
     {
-      "title": "Black founders raise highest amount of quarterly funding since 2022, but there’s a catch",
-      "description": "Speaking to TechCrunch, Crunchbase’s head of research Gené Teare, said the factors holding back Black founders include “access to networks, relationships, and early introductions.\"",
+      "title": "GitHub and the Crime Against Software",
+      "description": "Article URL: https://eblog.fly.dev/githubbad.html Comments URL: https://news.ycombinator.com/item?id=48361064 Points: 6 # Comments: 0",
+      "source": "Hacker News",
+      "url": "https://eblog.fly.dev/githubbad.html",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access",
+      "description": "Several users on social media reported having their Instagram accounts hacked over the weekend. Meta's own support chatbot was blamed for allowing hackers to hijack accounts.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/",
+      "url": "https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "The people who actually want AI to replace humanity",
-      "description": "Article URL: https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism Comments URL: https://news.ycombinator.com/item?id=48345881 Points: 11 # Comments: 1",
-      "source": "Hacker News",
-      "url": "https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
-      "description": "Article URL: https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting Comments URL: https://news.ycombinator.com/item?id=48345840 Points: 16 # Comments: 3",
-      "source": "Hacker News",
-      "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "I Put a Datacenter GPU in My Gaming PC for £200",
-      "description": "Article URL: https://blog.tymscar.com/posts/v100localllm/ Comments URL: https://news.ycombinator.com/item?id=48345694 Points: 51 # Comments: 23",
-      "source": "Hacker News",
-      "url": "https://blog.tymscar.com/posts/v100localllm/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "What happens in Vega$: steroids, swimmers, and a billion-dollar hustle",
-      "description": "The Enhanced Games — a singular sporting competition where a majority of the athletes were on performance enhancing drugs — may herald a new business model that the tech industry is ready to embrace.",
+      "title": "Water access is now a risk factor in SpaceX’s IPO",
+      "description": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/05/31/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/",
+      "url": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "You Weren't Meant to Have a Boss (2008)",
-      "description": "Article URL: https://paulgraham.com/boss.html Comments URL: https://news.ycombinator.com/item?id=48345282 Points: 14 # Comments: 1",
+      "title": "A new app, The Mall, is building a universal feed for online shopping",
+      "description": "The Mall lets shoppers build a personalized feed of brands, track sales and drops, and discover products across thousands of retailers.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/01/a-new-app-the-mall-is-building-a-universal-feed-for-online-shopping/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Superintelligence: The Idea That Eats Smart People (2016)",
+      "description": "Article URL: https://idlewords.com/talks/superintelligence.htm Comments URL: https://news.ycombinator.com/item?id=48360137 Points: 41 # Comments: 35",
       "source": "Hacker News",
-      "url": "https://paulgraham.com/boss.html",
+      "url": "https://idlewords.com/talks/superintelligence.htm",
       "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Sturgeon tells BBC: I'm serving a sentence for crime I didn't commit",
-      "description": "Scotland's former first minister is challenged by Laura Kuenssberg over the SNP embezzlement scandal, and at times struggles to hold back tears.",
+      "title": "Should you normalize RGB values by 255 or 256?",
+      "description": "Article URL: https://30fps.net/pages/255-vs-256-division/ Comments URL: https://news.ycombinator.com/item?id=48360054 Points: 31 # Comments: 4",
+      "source": "Hacker News",
+      "url": "https://30fps.net/pages/255-vs-256-division/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Iran warns Israeli attacks in Lebanon threaten ceasefire with US",
+      "description": "Earlier Israel's PM ordered strikes on Beirut's southern suburbs in response to Hezbollah rocket and drone attacks on northern Israel.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c2027k1ev3zo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Chris Mason: Decision to appoint Mandelson continues to inflict damage",
+      "description": "When Sir Keir Starmer looks back on his time at No10, his decision to send Lord Mandelson to Washington will be a central part of the critique of his tenure.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgzr6pn0nko?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Weapons-obsessed killer jailed for student's murder",
+      "description": "University student Henry Nowak was killed as he walked back from a night out in Southampton.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1d2w411rgro?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
-      "description": "Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers.",
+      "title": "Jeremy Bowen: Trump needs this war to end but Iran is not backing down",
+      "description": "Under pressure from the polls and Gulf allies, the White House is pushing for a deal but Iran wants concessions, writes BBC's international editor.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Israel seizes medieval castle as it expands major offensive in southern Lebanon",
-      "description": "Israel has captured the 12th-century Beaufort castle that overlooks southern Lebanon and northern Israel. The move suggests Israel is planning an extended military presence in Lebanon.",
+      "title": "AI giant Anthropic prepares to sell stock to the public; files preliminary IPO paperwork",
+      "description": "The Anthropic IPO, and those of other AI-related firms like OpenAI, could be among the biggest in U.S. history.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/05/31/g-s1-125056/israel-seizes-medieval-beaufort-castle-southern-lebanon",
+      "url": "https://www.npr.org/2026/06/01/nx-s1-5843199/anthropic-ipo-filing-ai-large",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Experimental pill promises new hope for deadly pancreatic cancer",
-      "description": "A novel pill helped people with advanced pancreatic cancer live longer, researchers reported Sunday, raising hopes of long-needed better treatments for one of the deadliest types of cancer.",
+      "title": "Serena Williams returns to tennis, announcing 'next chapter'",
+      "description": "A tennis legend at 44, Serena Williams is returning to pro tennis this month, announcing plans to play in the HSBC Championships in London. Williams, a mother of two, retired nearly four years ago.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/05/31/nx-s1-5841859/experimental-pill-new-hope-pancreatic-cancer",
+      "url": "https://www.npr.org/2026/06/01/nx-s1-5843168/serena-williams-returns-hsbc-championships",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "The biggest permanent desert lake threatens with rising waters and hungry crocs",
-      "description": "Kenya's Lake Turkana is the world's largest permanent desert lake. Its waters have long sustained hundreds of thousands. Now the lake is facing multiple threats — and threatening those who rely on it.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/05/31/g-s1-122887/lake-turkana-kenya-climate-rising-waters-fishing-crocodiles",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Watch: Key moments from Nicola Sturgeon's interview with Laura Kuenssberg",
-      "description": "Former First Minister of Scotland Nicola Sturgeon speaks to the BBC in her first interview since her estranged husband Peter Murrell pled guilty to embezzling £400,000 from the SNP",
+      "title": "AI giant Anthropic says it plans to list on US stock market",
+      "description": "The AI company behind Claude is set to offer the public shares of stock sometime this year.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/c70vl59vd9vo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "6h ago"
-    },
-    {
-      "title": "Not just the US: How 51 countries armed Israel during Gaza war",
-      "description": "An Al Jazeera investigation has found that military-related goods from at least 51 countries and territories continued e",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/2026/5/31/not-just-the-us-how-51-countries-armed-israel-during-gaza-war?traffic_source=rss",
+      "url": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Israeli airstrikes devastate Lebanon’s Tyre",
-      "description": "Video from southern Lebanon shows widespread destruction after Israel repeatedly bombed the city of Tyre.",
+      "title": "AI giant Anthropic files for US IPO as investors bet big on AI future",
+      "description": "Anthropic, which operates AI chatbot Claude, did not disclose the size or the terms of the offering.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/israeli-airstrikes-devastate-lebanons-tyre?traffic_source=rss",
+      "url": "https://www.aljazeera.com/economy/2026/6/1/ai-giant-anthropic-files-for-us-ipo-as-investors-bet-big-on-ai-future?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "World Health Organization hails recovery of five Ebola patients",
-      "description": "More than 220 people are suspected to have died from the disease's latest outbreak, which was declared two weeks ago.",
+      "title": "Israeli strike damages hospital in southern Lebanon",
+      "description": "An Israeli attack near Jabal Amel Hospital in Tyre has destroyed wards and medical equipment.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/31/world-health-organization-hails-recovery-of-five-ebola-patients?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/israeli-strike-damages-hospital-in-southern-lebanon?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Protesters want to send ‘fascists to Mars’ aboard mock rocket",
-      "description": "Environmental activists in Rome built a mock rocket with caricatures of Giorgia Meloni and Donald Trump.",
+      "title": "Ethiopians head to polls as millions excluded from elections",
+      "description": "Ethiopians head to polls as millions excluded from elections.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/protesters-want-to-send-fascists-to-mars-aboard-mock-rocket?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/ethiopians-head-to-polls-as-millions-excluded-from-elections?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Laos cave survivors help with plan to find last two missing men",
-      "description": "So far, five men have been freed from the narrow, flooded cave but efforts are ongoing to locate two more.",
+      "title": "Activists plaster missing posters around Mexico stadiums ahead of World Cup",
+      "description": "Activists put up missing persons posters to raise awareness of the disappearance crisis ahead of the 2026 World Cup.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/activists-plaster-missing-posters-around-mexico-stadiums-ahead-of-world-cup?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Three Ebola vaccines in development amid growing outbreak fears",
+      "description": "IAVI, Moderna and the University of Oxford are all working on new vaccines.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8094jdpzv3o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cn8pw93929wo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "3h ago"
+      "timeAgo": "4h ago"
     },
     {
-      "title": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
-      "description": "The medical charity's comments come as the head of the World Health Organization visits the region worst-hit by the virus outbreak.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "8h ago"
-    },
-    {
-      "title": "Here’s how Gap’s yoga-wear maker Athleta went from must-have to ‘generic’",
-      "description": "Athleta’s expected recovery has been pushed out for three straight years, as an attempt to widen its appeal ended up “appealing to no one in particular.”",
+      "title": "Barry Diller’s $12.4 billion offer for MGM is a big bet that Vegas is back",
+      "description": "Las Vegas has suffered from uneven tourism trends as well as sports-betting competition, but analysts say there’s reason to believe things are looking up for Sin City.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-how-gaps-yoga-wear-maker-athleta-went-from-must-have-to-generic-3d94b008?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/barry-dillers-12-4-billion-offer-for-mgm-is-a-big-bet-that-vegas-is-back-3e96bb8c?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "‘I have no preexisting conditions’: I’m 56, earn $198,000 and want to retire early. Can I afford private healthcare?",
-      "description": "“I’m trying to figure out whether it’s worth my while achieving FIRE.”",
+      "title": "‘He threatened to cut the roots’: A tree fell onto my neighbor’s property during a storm. Then all hell broke loose.",
+      "description": "“The neighbor estimates damage from the tree at approximately $6,000 or more.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-have-no-preexisting-conditions-im-56-earn-198-000-and-want-to-retire-early-can-i-afford-private-healthcare-e80cdd26?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/he-threatened-to-cut-the-roots-a-tree-fell-onto-my-neighbors-property-during-a-storm-then-all-hell-broke-loose-90da5af2?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Why Trump reversed course to fast-track psychedelic drugs for mental healthcare",
-      "description": "President Donald Trump is trying to fast-track research into psychedelics as treatments, creating new opportunities and risks.",
+      "title": "These home-builder stocks look cheap after Berkshire’s ‘vote of confidence’ in the sector",
+      "description": "After two years of underperformance, most home builders remain profitable and many stocks are trading at relatively low valuations.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/these-home-builder-stocks-look-cheap-after-berkshires-vote-of-confidence-in-the-sector-136c1aef?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "SpaceX sets aside up to 5% of shares in IPO for certain employees and friends",
+      "description": "In an updated IPO prospectus, SpaceX said that up to 5% of stock being offered by the company in the offering will be available in a direct share program.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/31/why-trump-is-encouraging-psychedelics-for-mental-health.html",
+      "url": "https://www.cnbc.com/2026/06/01/spacex-sets-aside-up-to-5percent-of-shares-in-ipo-for-employees-and-friends.html",
       "category": "📈 MARKETS",
-      "timeAgo": "3h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "My golf buddy dropped me when I didn’t ask him to be my financial adviser. Was I naive?",
-      "description": "“Friendliness alone is not a sufficient reason to trust someone with your finances.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-golf-buddy-dropped-me-when-i-didnt-make-him-my-financial-adviser-be-careful-who-you-trust-b5c00854?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "My friend, 62, earns $20,000 a year. Should she take Social Security now — and claim survivor’s benefit at 67?",
-      "description": "“I calculated her break-even point to be around age 78.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-friend-62-earns-20-000-a-year-should-she-take-social-security-now-or-claim-survivors-benefit-at-67-c661bdca?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Defense spending, China in Asia and lessons from Ukraine: Takeways from the 2026 IISS Shangri-La Dialogue",
-      "description": "The summit sees top world leaders, defence officials and key executives gathering in Singapore from May 29 to 31",
+      "title": "Trump tells CNBC: 'I don't care' if Iran negotiations are over",
+      "description": "President Trump spoke with CNBC's Eamon Javers about the latest with the Iran war in an interview Monday.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/31/takeways-from-the-2026-shangri-la-dialogue-.html",
+      "url": "https://www.cnbc.com/2026/06/01/trump-iran-war-negotiations-oil-israel-interview.html",
       "category": "📈 MARKETS",
-      "timeAgo": "5h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "2026 Cracker Barrel 400 predictions, odds, time: NASCAR at Nashville picks, best bets by advanced model",
-      "description": "Mike McClure's computer model reveals its surprising picks and NASCAR Nashville props for the Cracker Barrel 400 2026 on Sunday",
+      "title": "Anthropic confidentially files IPO prospectus with SEC, prepping Wall Street for landmark AI deal",
+      "description": "Anthropic said it confidentially filed its IPO prospectus with the SEC, setting up a potentially historic share sale for investors ready to jump into AI.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Myles Garrett traded from Browns to Rams as Los Angeles goes all in for Super Bowl run",
+      "description": "Los Angeles is loading up for a Super Bowl run by acquiring the reigning Defensive Player of the Year in a historic blockbuster trade",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nascar/news/2026-cracker-barrel-400-predictions-odds-time-nascar-nashville-picks-auto-racing-best-bets/",
+      "url": "https://www.cbssports.com/nfl/news/myles-garrett-traded-from-browns-to-rams/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "FIFA World Cup 2026 odds: Futures picks, predictions, soccer best bets from proven expert",
-      "description": "Martin Green has analyzed the 2026 World Cup draw and locked in his best bets, overall winner, sleeper picks and top props",
+      "title": "Stanley Cup Final 2026: Hurricanes vs. Golden Knights preview, predictions, Conn Smythe Trophy picks",
+      "description": "The Stanley Cup Final begins on Tuesday with Carolina and Vegas entering Game 1 on serious hot streaks",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/fifa-world-cup-2026-odds-favorites-futures-picks-predictions-soccer-betting/",
+      "url": "https://www.cbssports.com/nhl/news/stanley-cup-final-2026-preview-predictions-hurricanes-golden-knights/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Use DraftKings promo code for $100 in bonus bets by targeting Dodgers-Phillies, Cardinals-Cubs, MLB on Sunday",
-      "description": "DraftKings offers $100 in bonus bets instantly after your first $5 wager for MLB on Sunday",
+      "title": "Arkansas sports betting: Best AR sportsbooks in 2026",
+      "description": "Find the best Arkansas sports betting apps for betting on the NBA Finals in June 2026, and all you need to know about Arkansas sports betting.",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-100-bonus-bets-dodgers-phillies-cardinals-cubs-mlb-sunday/",
+      "url": "https://www.cbssports.com/betting/news/arkansas/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "SportsLine Newsletter May 31, 2026",
-      "description": "Sunday Betting Guide: Top picks for NASCAR Nashville and a lookahead to the Belmont Stakes next Saturday",
+      "title": "The NFL's June 1 rule helped make the Myles Garrett trade happen. More blockbuster moves may follow",
+      "description": "It's only a matter of time before A.J. Brown gets dealt. Could Alvin Kamara be moved too?",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/",
+      "url": "https://www.cbssports.com/nfl/news/nfl-june-1-salary-cap-myles-garrett-trade-aj-brown/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Sources: Garrett traded to Rams in blockbuster",
+      "description": "The Browns have agreed to trade Myles Garrett to the Rams for Jared Verse and multiple draft picks, including a 2027 first-rounder, sources told ESPN.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/48939456/sources-browns-rams-finalizing-myles-garrett-blockbuster-trade",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Back in Blue: Giants sign OBJ to boost WR room",
+      "description": "The New York Giants have signed wide receiver Odell Beckham Jr., the team announced Monday.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/48939355/giants-sign-odell-beckham-jr-bolster-wr-room",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
