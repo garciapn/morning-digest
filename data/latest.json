@@ -1,251 +1,235 @@
 {
-  "date": "2026-06-01T19:08:45.800404+00:00",
-  "edition": "#118",
-  "totalStories": 30,
+  "date": "2026-06-02T17:52:31.758134+00:00",
+  "edition": "#119",
+  "totalStories": 28,
   "podcast": {
     "show": "The Daily",
     "description": "The New York Times' daily news podcast — today's top story in 20 minutes."
   },
   "stories": [
     {
-      "title": "GitHub and the Crime Against Software",
-      "description": "Article URL: https://eblog.fly.dev/githubbad.html Comments URL: https://news.ycombinator.com/item?id=48361064 Points: 6 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://eblog.fly.dev/githubbad.html",
+      "title": "Amazon faces class action lawsuit over Ring facial recognition feature",
+      "description": "The class action lawsuit, filed in Seattle by Virginia resident Charles Sigwalt, claims that Ring's Familiar Faces feature stores images of passersby without consent.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access",
-      "description": "Several users on social media reported having their Instagram accounts hacked over the weekend. Meta's own support chatbot was blamed for allowing hackers to hijack accounts.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/",
+      "title": "Larry Ellison: \"Citizens will be on their best behavior because we’re recording\"",
+      "description": "Article URL: https://www.techradar.com/pro/quote-of-the-day-by-oracle-co-founder-larry-ellison-citizens-will-be-on-their-best-behavior-because-were-constantly-recording-and-reporting-everything-that-is-going-on-a-dire-w…",
+      "source": "Hacker News",
+      "url": "https://www.techradar.com/pro/quote-of-the-day-by-oracle-co-founder-larry-ellison-citizens-will-be-on-their-best-behavior-because-were-constantly-recording-and-reporting-everything-that-is-going-on-a-dire-warning-on-the-erosion-of-privacy",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Water access is now a risk factor in SpaceX’s IPO",
-      "description": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
+      "title": "Intelligent Terminal 0.1",
+      "description": "Article URL: https://devblogs.microsoft.com/commandline/announcing-intelligent-terminal-version-0-1/ Comments URL: https://news.ycombinator.com/item?id=48373231 Points: 9 # Comments: 2",
+      "source": "Hacker News",
+      "url": "https://devblogs.microsoft.com/commandline/announcing-intelligent-terminal-version-0-1/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "A new app, The Mall, is building a universal feed for online shopping",
-      "description": "The Mall lets shoppers build a personalized feed of brands, track sales and drops, and discover products across thousands of retailers.",
+      "title": "Three Ways to Get Paid",
+      "description": "Article URL: https://jasonzweig.com/three-ways-to-get-paid/ Comments URL: https://news.ycombinator.com/item?id=48373054 Points: 31 # Comments: 12",
+      "source": "Hacker News",
+      "url": "https://jasonzweig.com/three-ways-to-get-paid/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Focused Energy raises whopping $240M Series A for laser-powered fusion tech",
+      "description": "Another fusion startup has raised another a massive round to make this type of power a reality.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/01/a-new-app-the-mall-is-building-a-universal-feed-for-online-shopping/",
+      "url": "https://techcrunch.com/2026/06/02/focused-energy-raises-whopping-240m-series-a-for-laser-powered-fusion-tech/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Superintelligence: The Idea That Eats Smart People (2016)",
-      "description": "Article URL: https://idlewords.com/talks/superintelligence.htm Comments URL: https://news.ycombinator.com/item?id=48360137 Points: 41 # Comments: 35",
+      "title": "Coreutils for Windows",
+      "description": "Article URL: https://github.com/microsoft/coreutils Comments URL: https://news.ycombinator.com/item?id=48372853 Points: 69 # Comments: 51",
       "source": "Hacker News",
-      "url": "https://idlewords.com/talks/superintelligence.htm",
+      "url": "https://github.com/microsoft/coreutils",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Should you normalize RGB values by 255 or 256?",
-      "description": "Article URL: https://30fps.net/pages/255-vs-256-division/ Comments URL: https://news.ycombinator.com/item?id=48360054 Points: 31 # Comments: 4",
-      "source": "Hacker News",
-      "url": "https://30fps.net/pages/255-vs-256-division/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Iran warns Israeli attacks in Lebanon threaten ceasefire with US",
-      "description": "Earlier Israel's PM ordered strikes on Beirut's southern suburbs in response to Hezbollah rocket and drone attacks on northern Israel.",
+      "title": "British couple lose Iran jail sentence appeal, family says",
+      "description": "Lindsay and Craig Foreman were arrested in January 2025 during a global motorbike journey.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Chris Mason: Decision to appoint Mandelson continues to inflict damage",
-      "description": "When Sir Keir Starmer looks back on his time at No10, his decision to send Lord Mandelson to Washington will be a central part of the critique of his tenure.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgzr6pn0nko?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Weapons-obsessed killer jailed for student's murder",
-      "description": "University student Henry Nowak was killed as he walked back from a night out in Southampton.",
+      "title": "Police bodycam shows officers handcuffing stabbed student as he lay dying",
+      "description": "Henry Nowak was handcuffed after his killer Vickrum Digwa lied and claimed he was racially abused by the teen.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1d2w411rgro?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/videos/c172kkwpd9xo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Jeremy Bowen: Trump needs this war to end but Iran is not backing down",
-      "description": "Under pressure from the polls and Gulf allies, the White House is pushing for a deal but Iran wants concessions, writes BBC's international editor.",
+      "title": "Murrell used fake invoices to cover up £400,000 spending spree",
+      "description": "The former SNP chief executive is facing a lengthy jail sentence after admitting embezzling funds from the party.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cgmp0pxyze8o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "AI giant Anthropic prepares to sell stock to the public; files preliminary IPO paperwork",
-      "description": "The Anthropic IPO, and those of other AI-related firms like OpenAI, could be among the biggest in U.S. history.",
+      "title": "Trump signs AI safety order seeking voluntary review of new models",
+      "description": "The order asks AI companies to voluntarily submit their most powerful models for the government to test up to 30 days before releasing them to the public.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/06/01/nx-s1-5843199/anthropic-ipo-filing-ai-large",
+      "url": "https://www.npr.org/2026/06/02/nx-s1-5844347/ai-safety-trump-executive-order",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Serena Williams returns to tennis, announcing 'next chapter'",
-      "description": "A tennis legend at 44, Serena Williams is returning to pro tennis this month, announcing plans to play in the HSBC Championships in London. Williams, a mother of two, retired nearly four years ago.",
+      "title": "Five questions left unanswered by the Mandelson files",
+      "description": "A second batch of files relating to Lord Mandelson's appointment as US ambassador has been released.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn4p9pv13kdo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "5h ago"
+    },
+    {
+      "title": "5 ways to reduce everyday exposure to 'forever chemicals'",
+      "description": "Mara Hoplamazian has spent years reporting on 'forever chemicals,' or PFAS. Here's what they've learned about what may help limit everyday exposure to the contaminant.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/06/01/nx-s1-5843168/serena-williams-returns-hsbc-championships",
+      "url": "https://www.npr.org/2026/06/02/nx-s1-5839343/reduce-exposure-forever-chemicals-pfas-water",
       "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "French PM to fast-track security bill after PSG football violence and riots",
+      "description": "More than 200 people were arrested in France following PSG's Champions League win, which followed semifinal disorder.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/6/2/french-pm-to-fast-track-security-bill-after-psg-football-violence-and-riots?traffic_source=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "AI giant Anthropic says it plans to list on US stock market",
-      "description": "The AI company behind Claude is set to offer the public shares of stock sometime this year.",
+      "title": "UK police bodycam video shows wrongful arrest of dying teen",
+      "description": "Newly-released bodycam video shows the moment UK police wrongfully arrested 18-year-old Henry Nowak as he was dying.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/uk-police-bodycam-video-shows-wrongful-arrest-of-dying-teen-2?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Scene of damaged hospital after Israeli strike in southern Lebanon",
+      "description": "Al Jazeera’s Obaida Hitto is at the scene of Jabal Amel Hospital, which was ‘significantly damaged’ in Israeli attacks.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/scene-of-damaged-hospital-after-israeli-strike-in-southern-lebanon?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "US targets Brazil with new tariffs over trade practices",
+      "description": "The US plans new 25 percent tariffs on Brazilian imports, citing issues like deforestation and digital trade practices.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/6/2/us-targets-brazil-with-new-tariffs-over-trade-practices?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
+      "description": "Israel continues its campaign in the south, though has not struck Beirut after a deal announced by the US.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "AI giant Anthropic files for US IPO as investors bet big on AI future",
-      "description": "Anthropic, which operates AI chatbot Claude, did not disclose the size or the terms of the offering.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/1/ai-giant-anthropic-files-for-us-ipo-as-investors-bet-big-on-ai-future?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Israeli strike damages hospital in southern Lebanon",
-      "description": "An Israeli attack near Jabal Amel Hospital in Tyre has destroyed wards and medical equipment.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/israeli-strike-damages-hospital-in-southern-lebanon?traffic_source=rss",
+      "url": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Ethiopians head to polls as millions excluded from elections",
-      "description": "Ethiopians head to polls as millions excluded from elections.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/ethiopians-head-to-polls-as-millions-excluded-from-elections?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Activists plaster missing posters around Mexico stadiums ahead of World Cup",
-      "description": "Activists put up missing persons posters to raise awareness of the disappearance crisis ahead of the 2026 World Cup.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/activists-plaster-missing-posters-around-mexico-stadiums-ahead-of-world-cup?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Three Ebola vaccines in development amid growing outbreak fears",
-      "description": "IAVI, Moderna and the University of Oxford are all working on new vaccines.",
+      "title": "Two people shot dead amid Kenya protests against US Ebola quarantine centre plan",
+      "description": "The US plan has sparked public anger and led to demonstrations near the site of the proposed treatment facility.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn8pw93929wo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cvgz7zny3pzo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "4h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Barry Diller’s $12.4 billion offer for MGM is a big bet that Vegas is back",
-      "description": "Las Vegas has suffered from uneven tourism trends as well as sports-betting competition, but analysts say there’s reason to believe things are looking up for Sin City.",
+      "title": "Americans are using buy-now-pay-later for gas and groceries, showing just how expensive daily necessities are now",
+      "description": "With gas prices up more than $1 a gallon from last year’s average, Americans are turning to buy-now-pay-later at the pump.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/barry-dillers-12-4-billion-offer-for-mgm-is-a-big-bet-that-vegas-is-back-3e96bb8c?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/americans-are-using-buy-now-pay-later-for-gas-and-groceries-showing-just-how-expensive-daily-necessities-are-now-25a041b3?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "‘He threatened to cut the roots’: A tree fell onto my neighbor’s property during a storm. Then all hell broke loose.",
-      "description": "“The neighbor estimates damage from the tree at approximately $6,000 or more.”",
+      "title": "Many Americans now need $20,000 in an emergency savings fund. Yes, really.",
+      "description": "The old rules of thumb are broken — here is why a three-month cash buffer is ‘almost dangerous’",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/he-threatened-to-cut-the-roots-a-tree-fell-onto-my-neighbors-property-during-a-storm-then-all-hell-broke-loose-90da5af2?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/many-americans-now-need-20-000-in-an-emergency-savings-fund-yes-really-d71dbf76?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "These home-builder stocks look cheap after Berkshire’s ‘vote of confidence’ in the sector",
-      "description": "After two years of underperformance, most home builders remain profitable and many stocks are trading at relatively low valuations.",
+      "title": "One way to get hired right now: Be willing to go to the office five days a week",
+      "description": "New research finds remote- and hybrid-work arrangements have been more of a barrier to breaking in for young workers.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/these-home-builder-stocks-look-cheap-after-berkshires-vote-of-confidence-in-the-sector-136c1aef?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/one-way-to-get-hired-right-now-be-willing-to-go-to-the-office-five-days-a-week-715be041?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "SpaceX sets aside up to 5% of shares in IPO for certain employees and friends",
-      "description": "In an updated IPO prospectus, SpaceX said that up to 5% of stock being offered by the company in the offering will be available in a direct share program.",
+      "title": "The CFTC has sparked a potential revolution on Wall Street. Exchange stocks are dropping",
+      "description": "Investors are worried about increased competition for the traditional exchanges that have long dominated on Wall Street.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/01/spacex-sets-aside-up-to-5percent-of-shares-in-ipo-for-employees-and-friends.html",
+      "url": "https://www.cnbc.com/2026/06/02/the-cftc-has-sparked-a-potential-revolution-on-wall-street-exchange-stocks-are-dropping.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Trump tells CNBC: 'I don't care' if Iran negotiations are over",
-      "description": "President Trump spoke with CNBC's Eamon Javers about the latest with the Iran war in an interview Monday.",
+      "title": "Rubio says U.S. is in talks with Iran over nuclear program as senators press for war endgame",
+      "description": "Rubio says Iran nuclear talks may advance soon as senators press Trump on war strategy, Strait of Hormuz, Cuba and Venezuela policy.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/01/trump-iran-war-negotiations-oil-israel-interview.html",
+      "url": "https://www.cnbc.com/2026/06/02/rubio-iran-nuclear-talks-trump-war-strategy-hormuz.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Anthropic confidentially files IPO prospectus with SEC, prepping Wall Street for landmark AI deal",
-      "description": "Anthropic said it confidentially filed its IPO prospectus with the SEC, setting up a potentially historic share sale for investors ready to jump into AI.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html",
+      "title": "The S&P 500 has only risen this quickly 4 times since WWII. Once, a historic stock-market crash followed.",
+      "description": "The S&P 500 has overcome worries about artificial intelligence and the fallout from the war in Iran to stage one of its strongest two-month showings on record.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-s-p-500-has-only-risen-this-quickly-4-times-since-wwii-once-a-historic-stock-market-crash-followed-ed41ab2d?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Myles Garrett traded from Browns to Rams as Los Angeles goes all in for Super Bowl run",
-      "description": "Los Angeles is loading up for a Super Bowl run by acquiring the reigning Defensive Player of the Year in a historic blockbuster trade",
+      "title": "2026 Memorial Tournament preview and predictions: Rory McIlroy returns as Scottie Scheffler eyes three-peat",
+      "description": "The penultimate signature event on the PGA Tour calendar takes place this week at Jack's Place",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/myles-garrett-traded-from-browns-to-rams/",
+      "url": "https://www.cbssports.com/golf/news/memorial-tournament-2026-predictions-odds-picks-field-rankings-preview-rory-mcilroy-scottie-scheffler/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Stanley Cup Final 2026: Hurricanes vs. Golden Knights preview, predictions, Conn Smythe Trophy picks",
-      "description": "The Stanley Cup Final begins on Tuesday with Carolina and Vegas entering Game 1 on serious hot streaks",
+      "title": "Best horse racing betting sites: Where to bet on the 2026 horse racing",
+      "description": "Learn where to bet on horse racing online, including for the Belmont Stakes on June 6. Discover top horse racing betting sites and tips.",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nhl/news/stanley-cup-final-2026-preview-predictions-hurricanes-golden-knights/",
+      "url": "https://www.cbssports.com/betting/news/horse-racing/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Arkansas sports betting: Best AR sportsbooks in 2026",
-      "description": "Find the best Arkansas sports betting apps for betting on the NBA Finals in June 2026, and all you need to know about Arkansas sports betting.",
+      "title": "SportsLine Newsletter Tuesday, June 2, 2026",
+      "description": "Today's best bets + Parlay of the Day + Tigers-Rays + Knights-Hurricanes Game 1 + Myles Garrett",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/arkansas/",
+      "url": "https://www.cbssports.com/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "The NFL's June 1 rule helped make the Myles Garrett trade happen. More blockbuster moves may follow",
-      "description": "It's only a matter of time before A.J. Brown gets dealt. Could Alvin Kamara be moved too?",
+      "title": "Free MLB home run picks, odds for June 2: Nick Kurtz among top HR prop bets for Tuesday",
+      "description": "The reigning AL Rookie of the Year headlines our top MLB home run picks for Tuesday's 15-game slate",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/nfl-june-1-salary-cap-myles-garrett-trade-aj-brown/",
+      "url": "https://www.cbssports.com/betting/news/free-mlb-home-run-picks-odds-for-june-2-nick-kurtz-among-top-hr-prop-bets-for-tuesday/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Sources: Garrett traded to Rams in blockbuster",
-      "description": "The Browns have agreed to trade Myles Garrett to the Rams for Jared Verse and multiple draft picks, including a 2027 first-rounder, sources told ESPN.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/48939456/sources-browns-rams-finalizing-myles-garrett-blockbuster-trade",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Back in Blue: Giants sign OBJ to boost WR room",
-      "description": "The New York Giants have signed wide receiver Odell Beckham Jr., the team announced Monday.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/48939355/giants-sign-odell-beckham-jr-bolster-wr-room",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     }
   ]
 }
