@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-03T18:08:48.558627+00:00",
-  "edition": "#120",
+  "date": "2026-06-04T16:32:52.429733+00:00",
+  "edition": "#121",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Launch HN: Hyper (YC P26) – Company brain to power agentic development",
-      "description": "Hey HN, we’re Shalin & Kanyes, best friends who've been hacking together for 10+yrs, and now founders of Hyper ( https://heyhyper.ai/ ). Hyper is a shared “company brain” that plugs into information flowing inside a com…",
-      "source": "Hacker News",
-      "url": "https://news.ycombinator.com/item?id=48387095",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Ultrahuman says hackers accessed customers’ wellness data via internal tool",
-      "description": "The breach at wearable ring maker Ultrahuman stemmed from credentials stolen from a malware-infected employee laptop.",
+      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+      "description": "Apple's WWDC nears: here's what you can look forward to.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/03/ultrahuman-says-hackers-accessed-customers-wellness-data-via-internal-tool/",
+      "url": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Carvana ties up with Bezos-backed Slate Auto as it plans new car sales",
-      "description": "Carvana was granted a warrant to buy shares in Slate last year, according to documents obtained by TechCrunch. Guggenheim Partners CEO Mark Walter is heavily invested in both companies.",
+      "title": "A burglar used a Waymo to steal yoga clothes in San Francisco — and got away with it",
+      "description": "The incident helps shed some new light on how Waymo treats and stores the footage captured by its robotaxis.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/03/carvana-ties-up-with-bezos-backed-slate-auto-as-it-plans-new-car-sales/",
+      "url": "https://techcrunch.com/2026/06/04/a-burglar-used-a-waymo-to-steal-yoga-clothes-in-sf-and-got-away-with-it/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Gooey: A GPU-accelerated UI framework for Zig",
-      "description": "Article URL: https://github.com/duanebester/gooey Comments URL: https://news.ycombinator.com/item?id=48386725 Points: 4 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://github.com/duanebester/gooey",
+      "title": "Cash App launches a wand for tap-and-pay",
+      "description": "Cash App plans to launch more tap-to-pay tags",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/04/cash-app-launches-a-wand-for-tap-and-pay/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Skyvern (YC S23) Is Hiring Open-Source Loving DevRel Engineers",
-      "description": "Article URL: https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai Comments URL: https://news.ycombinator.com/item?id=48386588 Points: 0 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai",
+      "title": "Waymo’s spent robotaxi batteries will be used as grid storage",
+      "description": "The company announced a deal with B2U Storage Solutions to repurpose the battery packs as Waymo pulls them off the road.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/04/waymos-spent-robotaxi-batteries-will-be-used-as-grid-storage/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "The Public Should Own Half of the Big A.I. Companies",
-      "description": "Article URL: https://www.sanders.senate.gov/op-eds/the-public-should-own-half-of-the-big-a-i-companies/ Comments URL: https://news.ycombinator.com/item?id=48386551 Points: 75 # Comments: 60",
-      "source": "Hacker News",
-      "url": "https://www.sanders.senate.gov/op-eds/the-public-should-own-half-of-the-big-a-i-companies/",
+      "title": "It doesn't feel very agricultural: The 2026 Subaru Solterra review",
+      "description": "Subaru's badge-engineered SUV remains on sale alongside the new Trailseeker.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/06/2026-subaru-solterra-review-the-badge-engineered-bz-aint-bad/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Three die in Royal Navy helicopter crash during training exercise",
-      "description": "The Royal Family, prime minister and head of the navy offer condolences after the crash in Devon.",
+      "title": "Google Employees Internally Share Memes About How Its AI Sucks",
+      "description": "Article URL: https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/ Comments URL: https://news.ycombinator.com/item?id=48400311 Points: 46 # Comments: 18",
+      "source": "Hacker News",
+      "url": "https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Royal Navy crew killed in helicopter crash named",
+      "description": "A Merlin Mk4 helicopter crashed during a training exercise in Devon on Wednesday.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce3pdv1gl41o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cg4p69gzd4po?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "PM accuses Farage of exploiting Nowak case and denies 'two-tier policing' claim",
-      "description": "It comes after the Reform UK leader said the public should respond with \"pure, cold rage\" to the actions of police.",
+      "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+      "description": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgz23p8117o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Trump hits back at 'unpatriotic' vote after House rebukes him over Iran",
+      "description": "The lower chamber of Congress passed a measure that seeks to halt further military action, in a vote seen as largely symbolic.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn0pl0wvvz0o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Starmer accuses Musk of trying to whip up division over Henry Nowak murder",
+      "description": "X owner Musk has posted several times on the site criticising the police treatment of Henry Nowak.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1e2ww900zno?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Embedded: \"We Keep Us Safe\" from NPR, KUOW and The Seattle Times",
+      "description": "In the summer of 2020, sixteen-year-old Antonio Mays Jr. traveled a thousand miles to join the racial justice movement of his generation. He arrived in Seattle during the Capitol Hill Occupied Protest, known as CHOP. Le…",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/04/g-s1-120825/seattle-chop-zone-murder-antonio-mays",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "What will it take to get a vaccine for the Ebola strain driving the current outbreak?",
+      "description": "There is an effective vaccine for Ebola — but not for the variety spreading rapidly in the Democratic Republic of Congo. Trials are going on for several candidates. How long will it take?",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/04/g-s1-125822/vaccine-ebola-democratic-republic-congo",
       "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
-      "description": "Iran says the attack on Kuwait was in retaliation for earlier US strikes on an Iranian oil tanker and island.",
+      "title": "Ronaldo, Messi at World Cup: Who else is playing their final tournament?",
+      "description": "The World Cup is set to be the swansong for some big names, including Cristiano Ronaldo and Lionel Messi, but who else?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/6/4/ronaldo-messi-at-world-cup-who-else-is-playing-their-final-tournament?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Russia’s Andreeva beats Ukraine’s Kostyuk in no-handshake French Open semi",
+      "description": "No handshake and no photo as Mirra Andreeva of Russia beats Marta Kostyuk of Ukraine to reach French Open final.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/6/4/russias-andreeva-beats-ukraines-kostyuk-in-no-handshake-french-open-semi?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "The making of Sudan’s RSF",
+      "description": "Sudan’s Rapid Support Forces have a long history of violations, going back to when they were known as the ‘Janjaweed'.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/4/rise-of-the-devils-of-horseback-the-making-of-sudans-rsf?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Pro-Palestinian badges should not be worn by NHS staff, UK review suggests",
+      "description": "Anti-Semitism review recommends that badges proclaiming political support should not be worn by public health workers",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/4/pro-palestinian-badges-should-not-be-worn-by-nhs-staff-uk-review-suggests?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Israeli strikes kill 11 people in Gaza City, medics say",
+      "description": "Women and children were among those killed when Israeli aircraft struck at least four residential buildings in several areas.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
+      "url": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "5h ago"
     },
     {
-      "title": "Michael Jackson's shadow of doubt",
-      "description": "A sanded-down biopic about the King of pop and propaganda has resurfaced his music on the charts — along with questions about how his enduring magic became make-believe",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/03/nx-s1-5843133/michael-jackson-biopic-legacy-impact-essay",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Firings at CBS' '60 Minutes' reflect the fight for media control in the age of Trump",
-      "description": "The show's new leader says he fired star Scott Pelley for insubordination. Pelley says he was defending the integrity of the show's journalism after three top executives and two reporters were fired.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/03/nx-s1-5844929/cbs-60-minutes-scott-pelley-cecilia-vega-bari-weiss-trump",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "How a single decision made a century ago split a family in half by race",
-      "description": "Pope Leo's Black family roots inspired journalist Susan Saulny to research her Creole great-uncle who moved to Chicago, became white and didn't return. She describes her journey to reunite her family.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/03/nx-s1-5845003/how-a-single-decision-made-a-century-ago-split-a-family-in-half-by-race",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
-      "description": "The incidents strain a partial ceasefire agreed by Israel and the Lebanese armed group on Monday.",
+      "title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
+      "description": "Israel's PM laughed off reports of friction, but he has tested the patience of other US presidents.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "just now"
+      "timeAgo": "20h ago"
     },
     {
-      "title": "Israeli attacks kill nine in Lebanon, reach Beirut outskirts",
-      "description": "The attacks test a US-mediated deal to curb Israel-Hezbollah attacks, and new Israel-Lebanon talks in Washington.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/3/israeli-attacks-kill-nine-in-lebanon-reach-beirut-outskirts?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Lula says Brazil cannot ‘accept treatment’ after new US tariffs proposed",
-      "description": "Brazil's president says he was surprised by the proposed 25 percent tariffs, which came amid signs relations improving.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/3/lula-says-brazil-cannot-accept-treatment-after-new-us-tariffs-proposed?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "US cites forced labour concerns as grounds for new tariffs",
-      "description": "USTR's proposal comes from a Section 301 unfair trade practices investigation designed to help rebuild Trump's tariffs.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/3/us-cites-forced-labour-concerns-as-grounds-for-new-tariffs?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Netanyahu downplays US-Israel rift after Trump confirms criticism",
-      "description": "US president acknowledges he had harsh words for Netanyahu over Lebanon attacks but says he 'likes' the Israeli leader.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/3/netanyahu-downplays-us-israel-rift-after-trump-confirms-criticism?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Foreign nationals among at least 21 killed in Delhi fire",
-      "description": "Many victims were South Asians who had travelled to India for treatment or to accompany relatives.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "6h ago"
-    },
-    {
-      "title": "I want to give my brother and his kids $5,000 each. My financial adviser is reluctant. Who’s right?",
-      "description": "“In the past I’ve loaned my brother over $12,000, which I’m sure I’ll never get back.”",
+      "title": "Elon Musk’s SpaceX paid to secure its ticker symbol ahead of blockbuster IPO",
+      "description": "When SpaceX shares make their public debut next week, they will be trading under the ticker “SPCX.” Until recently, that ticker belonged to Tuttle Capital Management’s SPAC and New Issue ETF.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-want-to-give-my-brother-and-his-kids-5-000-each-my-financial-adviser-is-reluctant-whos-right-47cbb74e?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/elon-musks-spacex-paid-to-secure-its-ticker-symbol-ahead-of-blockbuster-ipo-61a57e6b?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "I’m 73 and living 100% off dividends from my stocks. How can I create even more income?",
-      "description": "A “bulletproof” portfolio may be impossible, but you can try to get close if you have enough money invested",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-73-and-living-100-off-dividends-from-my-stocks-how-can-i-create-even-more-income-74b372f1?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Here’s advice on how to pick a doctor — from a doctor",
-      "description": "A cardiologist outlines the best approach to finding a doctor — and the questions to ask yourself when you do.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/do-ask-a-friend-dont-pay-attention-to-ads-heres-advice-on-how-to-pick-a-doctor-from-a-doctor-93bbdaf2?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "A classic strategy that could yield big dividends",
-      "description": "Packaging Corp of America (PKG) is an old-school, brick-and-mortar industrial business.",
+      "title": "Long-term unemployment is surging in the U.S. There are hidden costs for workers and the economy",
+      "description": "Long-term unemployment can have ramifications on financial, emotional and family health that linger even after reentry into the workforce.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/03/a-classic-strategy-that-could-yield-big-dividends.html",
+      "url": "https://www.cnbc.com/2026/06/04/long-term-unemployment-economy-jobs.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "AT&T’s stock is seeing its worst day in 8 months as the SpaceX threat comes into focus",
-      "description": "Investors aren’t thinking enough about the risk posed by SpaceX’s satellite ambitions, an Oppenheimer analyst warned.",
+      "title": "Quantinuum’s stock set to pop after IPO as Wall Street buys into the quantum boom",
+      "description": "Quantinuum could be valued north of $18 billion, given indications for an opening price of about $71.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/at-ts-stock-is-seeing-its-worst-day-in-8-months-as-the-spacex-threat-comes-into-focus-fd79acc9?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/quantinuums-stock-set-to-pop-after-ipo-as-wall-street-buys-into-the-quantum-boom-8f2e83b9?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "GOP Sen. Tillis slams Trump intelligence pick Pulte: 'Don't think he has a prayer'",
-      "description": "Pulte is widely viewed as a Trump loyalist who has targeted the president's political foes during his tenure leading the housing regulatory agency.",
+      "title": "The Fed can’t protect consumers from supply shocks and price gouging — but Congress can",
+      "description": "As global disruptions drive up Americans’ grocery and gasoline prices, lawmakers need to take a stand.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-2-types-of-inflation-the-fed-cant-control-and-how-congress-must-protect-your-wallet-7ac2079a?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "As the largest World Cup ever kicks off, health officials are focused on more than Ebola",
+      "description": "Officials are more concerned about highly contagious diseases like measles and respiratory viruses, which can spread quickly through large, fast-moving crowds.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/03/tillis-trump-pulte-intelligence-dni-senate.html",
+      "url": "https://www.cnbc.com/2026/06/04/world-cup-2026-health-officials-focused-on-ebola-measles.html",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "NC State vs. Virginia pulled from Brazil, relocated to Cavaliers' home game after logistics fall through",
-      "description": "The Rio de Janeiro contest was set to be college football's first game in Brazil, but the sport's South American debut will have to wait",
+      "title": "Gas prices could go even higher this summer due to this quiet shift at U.S. refineries",
+      "description": "Planes over cars: $5-a-gallon gas could be here by July or August because of what is going on at refineries, one expert said.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/think-gas-prices-are-high-now-this-quiet-shift-at-u-s-refineries-could-trigger-an-even-more-painful-summer-9f788044?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Orioles vs. Red Sox prediction, odds, time: 2026 MLB picks for Thursday, June 4 by proven model",
+      "description": "SportsLine's model simulated the Baltimore Orioles vs. Boston Red Sox 10,000 times and revealed its MLB picks for Thursday's matchup",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/nc-state-vs-virginia-in-week-0-relocated-brazil/",
+      "url": "https://www.cbssports.com/mlb/news/orioles-red-sox-prediction-odds-time-2026-mlb-picks-thursday-june-4-best-bets/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Dynasty Fantasy Football Wide Receiver Rankings: Marvin Harrison Jr. among Year 3 wideouts looking to rebound",
-      "description": "Updated Dynasty rankings for the wide receiver position",
+      "title": "Fan banned from NBA arenas for life after running onto court to take selfie with Victor Wembanyama",
+      "description": "A second fan was also banned for his role in the incident",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/fantasy/football/news/dynasty-wide-receiver-rankings-marvin-harrison-jr-looking-to-rebound/",
+      "url": "https://www.cbssports.com/nba/news/fan-banned-nba-victor-wembanyama-selfie/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Giannis Antetokounmpo trade rumors: Heat look like current frontrunner, but plenty of questions remain",
-      "description": "Bucks ownership previously said they want the matter settled by the NBA Draft",
+      "title": "Betting the 49ers in 2026: See how San Francisco's win total, Super Bowl odds are trending and our best bets",
+      "description": "We're breaking down 49ers futures in our 2026 betting preview, featuring odds, trends, schedule and more",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nba/news/giannis-antetokounmpo-trade-rumors-heat/",
+      "url": "https://www.cbssports.com/nfl/news/betting-the-49ers-in-2026-see-how-san-franciscos-win-total-super-bowl-odds-are-trending-and-our-best-bets/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Knicks vs. Spurs NBA Finals 2026 Game 1 odds, prediction, time: Picks by expert on 141-101 run",
-      "description": "SportsLine's Mike Barner reveals his New York Knicks vs. San Antonio Spurs Game 1 NBA playoff picks for Wednesday",
+      "title": "Way-too-early Big East basketball tiers: St. John's and UConn primed to jostle for supremacy, again",
+      "description": "An early look at each Big East team after the NBA Draft stay-or-go deadline and weeks of transfer portal combat",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nba/news/knicks-spurs-nba-finals-2026-game-1-odds-prediction-time-expert-picks-bets/",
+      "url": "https://www.cbssports.com/college-basketball/news/big-east-rankings-st-johns-uconn/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
