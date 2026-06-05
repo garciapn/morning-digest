@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-04T16:32:52.429733+00:00",
-  "edition": "#121",
+  "date": "2026-06-05T16:13:35.843478+00:00",
+  "edition": "#122",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
-      "description": "Apple's WWDC nears: here's what you can look forward to.",
+      "title": "Google and FBI warn of ransomware group that sends fake IT workers to hack victims in person",
+      "description": "Cybercriminals, part of a gang known as Silent Ransom Group, have sent people pretending to be IT support employees to law firms' offices, where the criminals have stolen data using USB drives or remote access tools.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "url": "https://techcrunch.com/2026/06/05/google-and-fbi-warn-of-ransomware-group-that-sends-fake-it-workers-to-hack-victims-in-person/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "A burglar used a Waymo to steal yoga clothes in San Francisco — and got away with it",
-      "description": "The incident helps shed some new light on how Waymo treats and stores the footage captured by its robotaxis.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/04/a-burglar-used-a-waymo-to-steal-yoga-clothes-in-sf-and-got-away-with-it/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Cash App launches a wand for tap-and-pay",
-      "description": "Cash App plans to launch more tap-to-pay tags",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/04/cash-app-launches-a-wand-for-tap-and-pay/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Waymo’s spent robotaxi batteries will be used as grid storage",
-      "description": "The company announced a deal with B2U Storage Solutions to repurpose the battery packs as Waymo pulls them off the road.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/04/waymos-spent-robotaxi-batteries-will-be-used-as-grid-storage/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "It doesn't feel very agricultural: The 2026 Subaru Solterra review",
-      "description": "Subaru's badge-engineered SUV remains on sale alongside the new Trailseeker.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/06/2026-subaru-solterra-review-the-badge-engineered-bz-aint-bad/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Google Employees Internally Share Memes About How Its AI Sucks",
-      "description": "Article URL: https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/ Comments URL: https://news.ycombinator.com/item?id=48400311 Points: 46 # Comments: 18",
+      "title": "pg_durable: Microsoft open sources in-database durable execution",
+      "description": "Article URL: https://github.com/microsoft/pg_durable Comments URL: https://news.ycombinator.com/item?id=48414367 Points: 9 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/",
+      "url": "https://github.com/microsoft/pg_durable",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Royal Navy crew killed in helicopter crash named",
-      "description": "A Merlin Mk4 helicopter crashed during a training exercise in Devon on Wednesday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cg4p69gzd4po?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
+      "title": "Stop Using Conventional Commits",
+      "description": "Article URL: https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/ Comments URL: https://news.ycombinator.com/item?id=48414027 Points: 29 # Comments: 11",
+      "source": "Hacker News",
+      "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+      "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
-      "description": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
+      "title": "Leak Reveals Microsoft Wants Its AI to Be 'Addictive'",
+      "description": "Article URL: https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924 Comments URL: https://news.ycombinator.com/item?id=48413924 Points: 14 # Comments: 0",
+      "source": "Hacker News",
+      "url": "https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Ask HN: What is your (AI) dev tech stack / workflow? (June 2026)",
+      "description": "Hello, happy Friday! I am looking to do some in-person \"developer boot-up\" workshops, and seek your suggestions for \"modern tooling\". The background of the participants range from motivated newbie (\"I heard you can make…",
+      "source": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=48413629",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+      "description": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+      "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Trump hits back at 'unpatriotic' vote after House rebukes him over Iran",
-      "description": "The lower chamber of Congress passed a measure that seeks to halt further military action, in a vote seen as largely symbolic.",
+      "title": "Buffy and Ted Lasso star Anthony Head dies at 72",
+      "description": "The British actor, who also appeared in Merlin and Little Britain, died of complications from pneumonia.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn0pl0wvvz0o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cd0p0rz4n0mo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Starmer accuses Musk of trying to whip up division over Henry Nowak murder",
-      "description": "X owner Musk has posted several times on the site criticising the police treatment of Henry Nowak.",
+      "title": "Teen rapists spared jail partly because of intellectual limitations, judge's full remarks show",
+      "description": "The boys' sentencing last month caused an outcry when they were given youth rehabilitation orders (YROs).",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1e2ww900zno?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Embedded: \"We Keep Us Safe\" from NPR, KUOW and The Seattle Times",
-      "description": "In the summer of 2020, sixteen-year-old Antonio Mays Jr. traveled a thousand miles to join the racial justice movement of his generation. He arrived in Seattle during the Capitol Hill Occupied Protest, known as CHOP. Le…",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/04/g-s1-120825/seattle-chop-zone-murder-antonio-mays",
+      "url": "https://www.bbc.com/news/articles/c3d2d55kvy1o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "What will it take to get a vaccine for the Ebola strain driving the current outbreak?",
-      "description": "There is an effective vaccine for Ebola — but not for the variety spreading rapidly in the Democratic Republic of Congo. Trials are going on for several candidates. How long will it take?",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/04/g-s1-125822/vaccine-ebola-democratic-republic-congo",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Ronaldo, Messi at World Cup: Who else is playing their final tournament?",
-      "description": "The World Cup is set to be the swansong for some big names, including Cristiano Ronaldo and Lionel Messi, but who else?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/4/ronaldo-messi-at-world-cup-who-else-is-playing-their-final-tournament?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Russia’s Andreeva beats Ukraine’s Kostyuk in no-handshake French Open semi",
-      "description": "No handshake and no photo as Mirra Andreeva of Russia beats Marta Kostyuk of Ukraine to reach French Open final.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/4/russias-andreeva-beats-ukraines-kostyuk-in-no-handshake-french-open-semi?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "The making of Sudan’s RSF",
-      "description": "Sudan’s Rapid Support Forces have a long history of violations, going back to when they were known as the ‘Janjaweed'.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/4/rise-of-the-devils-of-horseback-the-making-of-sudans-rsf?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Pro-Palestinian badges should not be worn by NHS staff, UK review suggests",
-      "description": "Anti-Semitism review recommends that badges proclaiming political support should not be worn by public health workers",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/4/pro-palestinian-badges-should-not-be-worn-by-nhs-staff-uk-review-suggests?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Israeli strikes kill 11 people in Gaza City, medics say",
-      "description": "Women and children were among those killed when Israeli aircraft struck at least four residential buildings in several areas.",
+      "title": "Rapist Paul Quinn sentenced to 24 years in case that saw Andrew Malkinson wrongly convicted",
+      "description": "Paul Quinn is jailed over the 2003 attack in Salford for which Andrew Malkinson served 17 years.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
+      "url": "https://www.bbc.com/news/articles/c99l93md0gko?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Andrew was sub-letting Royal Lodge cottages, watchdog reveals",
+      "description": "A public spending watchdog examines the property arrangements of royals including Andrew Mountbatten-Windsor.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce8p8dzvjy9o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
       "timeAgo": "5h ago"
     },
     {
-      "title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
-      "description": "Israel's PM laughed off reports of friction, but he has tested the patience of other US presidents.",
+      "title": "South Africa rolls out game-changing HIV shot amid funding shortfalls",
+      "description": "A new twice-yearly HIV prevention injection could transform South Africa's fight against the epidemic — but U.S. aid cuts and limited doses threaten to slow its impact.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/05/nx-s1-5846846/south-africa-hiv-lenacapavir-aid",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "The U.S. adds 172,000 jobs as the labor market picks up steam",
+      "description": "U.S. employers added jobs for the third month in a row in May, while the unemployment rate held steady at 4.3%. But wage gains softened and likely failed to keep pace with rising prices.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/05/nx-s1-5847669/jobs-labor-market-unemployment-wages-inflation",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Nearly 50 people die of thirst in Sahara desert after lorry breaks down",
+      "description": "Only two survived after trekking more than 50km (30 miles) across the desert to alert the authorities.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c62r2ldyejro?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "20h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Elon Musk’s SpaceX paid to secure its ticker symbol ahead of blockbuster IPO",
-      "description": "When SpaceX shares make their public debut next week, they will be trading under the ticker “SPCX.” Until recently, that ticker belonged to Tuttle Capital Management’s SPAC and New Issue ETF.",
+      "title": "Israeli Knesset member backs settlement push in southern Syria",
+      "description": "An Israeli Knesset member has publicly backed efforts to establish Israeli settlements in southern Syria.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/israeli-knesset-member-backs-settlement-push-in-southern-syria?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Man City chair Al Mubarak will ‘say everything’ after verdict on finances",
+      "description": "English Premier League side Manchester City charged with 115 alleged breaches of financial rules.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/6/5/man-city-chair-al-mubarak-will-say-everything-after-verdict-on-finances?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Ukraine strikes cargo ships and admits Romania drone blast",
+      "description": "Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "‘Red meat is a dream’: Iran inflation hits highest level since World War II",
+      "description": "The war with the US is not the only factor driving prices skywards.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/5/red-meat-is-a-dream-iran-inflation-hits-highest-level-since-world-war-ii?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "At least 49 people die of thirst after truck breakdown in Niger desert",
+      "description": "Two people managed to survive after walking more than 50km to a water source and then a nearby town.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/5/at-least-49-people-die-of-thirst-after-truck-breakdown-in-niger-desert?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Here’s what wild single-stock price swings may signal for your index fund",
+      "description": "Also in Weekend Reads: The latest on SpaceX and other IPOs, a raw deal for Alphabet’s non-Berkshire shareholders and advice from the Moneyist.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/elon-musks-spacex-paid-to-secure-its-ticker-symbol-ahead-of-blockbuster-ipo-61a57e6b?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/heres-what-wild-single-stock-price-swings-may-signal-for-your-index-fund-9f401623?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Long-term unemployment is surging in the U.S. There are hidden costs for workers and the economy",
-      "description": "Long-term unemployment can have ramifications on financial, emotional and family health that linger even after reentry into the workforce.",
+      "title": "Boeing to start 737 Max production on new assembly line July 6, CEO says",
+      "description": "The new 737 Max final assembly line in Everett, Washington, will serve as a catalyst for increasing Max production to 52 jets per month.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/04/long-term-unemployment-economy-jobs.html",
+      "url": "https://www.cnbc.com/2026/06/05/boeing-ceo-737-max-production-assembly-line.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Quantinuum’s stock set to pop after IPO as Wall Street buys into the quantum boom",
-      "description": "Quantinuum could be valued north of $18 billion, given indications for an opening price of about $71.",
+      "title": "‘DOGE’ wanted to declare 2.7 million people ‘dead’ at Social Security: whistleblower",
+      "description": "This is the third whistleblower to come forward about alleged illegal activity by Trump’s Department of Government Efficiency.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/quantinuums-stock-set-to-pop-after-ipo-as-wall-street-buys-into-the-quantum-boom-8f2e83b9?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/doge-wanted-to-declare-2-7-million-people-dead-at-social-security-whistleblower-e195065b?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "The Fed can’t protect consumers from supply shocks and price gouging — but Congress can",
-      "description": "As global disruptions drive up Americans’ grocery and gasoline prices, lawmakers need to take a stand.",
+      "title": "California’s proposed ‘billionaire tax’ is a terrible idea. We should do this instead.",
+      "description": "Almost everything about this tax is bad, and it obscures something much better that we do need.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-2-types-of-inflation-the-fed-cant-control-and-how-congress-must-protect-your-wallet-7ac2079a?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/californias-proposed-billionaire-tax-is-moronic-we-should-do-this-instead-de61bca8?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "As the largest World Cup ever kicks off, health officials are focused on more than Ebola",
-      "description": "Officials are more concerned about highly contagious diseases like measles and respiratory viruses, which can spread quickly through large, fast-moving crowds.",
+      "title": "Social Security is looking at a $500-a-month cut. Could a new bipartisan commission make a difference?",
+      "description": "A new legislative proposal would create a bipartisan commission to strengthen the finances of Social Security and Medicare at a time when the programs are under pressure.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/social-security-is-looking-at-a-500-a-month-cut-could-a-new-bipartisan-commission-make-a-difference-5e9d358a?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "U.S. payrolls rose by 172,000 in May, much more than expected; unemployment at 4.3%",
+      "description": "Nonfarm payrolls were expected to increase by 80,000 in May while the unemployment rate held at 4.3%.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/04/world-cup-2026-health-officials-focused-on-ebola-measles.html",
+      "url": "https://www.cnbc.com/2026/06/05/jobs-report-may-2026.html",
       "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Gas prices could go even higher this summer due to this quiet shift at U.S. refineries",
-      "description": "Planes over cars: $5-a-gallon gas could be here by July or August because of what is going on at refineries, one expert said.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/think-gas-prices-are-high-now-this-quiet-shift-at-u-s-refineries-could-trigger-an-even-more-painful-summer-9f788044?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Orioles vs. Red Sox prediction, odds, time: 2026 MLB picks for Thursday, June 4 by proven model",
-      "description": "SportsLine's model simulated the Baltimore Orioles vs. Boston Red Sox 10,000 times and revealed its MLB picks for Thursday's matchup",
+      "title": "MLB DFS: Top DraftKings, FanDuel daily Fantasy baseball picks include Jackson Chourio on Friday, June 5",
+      "description": "SportsLine's Mike McClure, a daily Fantasy pro with more than $2 million in winnings, gives optimal MLB DFS lineup advice for Friday, June 5",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/mlb/news/orioles-red-sox-prediction-odds-time-2026-mlb-picks-thursday-june-4-best-bets/",
+      "url": "https://www.cbssports.com/mlb/news/mlb-dfs-top-draftkings-fanduel-daily-fantasy-baseball-picks-include-jackson-chourio-on-friday-june-5/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Fan banned from NBA arenas for life after running onto court to take selfie with Victor Wembanyama",
-      "description": "A second fan was also banned for his role in the incident",
+      "title": "2026 Belmont Stakes predictions, horses, odds, posts: Surprising picks from elite handicapper",
+      "description": "Michelle Yu reveals her Belmont Stakes 2026 best bets for the 158th running on Saturday, June 6, at Saratoga Race Course",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nba/news/fan-banned-nba-victor-wembanyama-selfie/",
+      "url": "https://www.cbssports.com/general/news/2026-belmont-stakes-predictions-horses-odds-posts-surprising-picks-from-elite-handicapper/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Betting the 49ers in 2026: See how San Francisco's win total, Super Bowl odds are trending and our best bets",
-      "description": "We're breaking down 49ers futures in our 2026 betting preview, featuring odds, trends, schedule and more",
+      "title": "When will Aaron Judge be back? How can Yankees replace him? Answering five big questions about his injury",
+      "description": "Judge, the Yankees captain, has a stress fracture in a rib -- and we might not see him again until August",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/betting-the-49ers-in-2026-see-how-san-franciscos-win-total-super-bowl-odds-are-trending-and-our-best-bets/",
+      "url": "https://www.cbssports.com/mlb/news/aaron-judge-injury-yankees-questions/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Way-too-early Big East basketball tiers: St. John's and UConn primed to jostle for supremacy, again",
-      "description": "An early look at each Big East team after the NBA Draft stay-or-go deadline and weeks of transfer portal combat",
+      "title": "How to bet on the 2026 World Cup: Betting guide, schedule, odds, groups, rosters, promo codes, offers",
+      "description": "Our World Cup betting guide tells you where to bet on the 2026 World Cup, gives odds, rosters, schedule, promo offers, and more",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-basketball/news/big-east-rankings-st-johns-uconn/",
+      "url": "https://www.cbssports.com/betting/news/how-to-bet-on-the-2026-world-cup-betting-guide-schedule-odds-groups-rosters-promo-codes-offers/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
