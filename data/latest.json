@@ -1,235 +1,251 @@
 {
-  "date": "2026-06-05T16:13:35.843478+00:00",
-  "edition": "#122",
-  "totalStories": 28,
+  "date": "2026-06-06T14:58:24.164341+00:00",
+  "edition": "#123",
+  "totalStories": 30,
   "podcast": {
     "show": "The Daily",
     "description": "The New York Times' daily news podcast — today's top story in 20 minutes."
   },
   "stories": [
     {
-      "title": "Google and FBI warn of ransomware group that sends fake IT workers to hack victims in person",
-      "description": "Cybercriminals, part of a gang known as Silent Ransom Group, have sent people pretending to be IT support employees to law firms' offices, where the criminals have stolen data using USB drives or remote access tools.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/05/google-and-fbi-warn-of-ransomware-group-that-sends-fake-it-workers-to-hack-victims-in-person/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "pg_durable: Microsoft open sources in-database durable execution",
-      "description": "Article URL: https://github.com/microsoft/pg_durable Comments URL: https://news.ycombinator.com/item?id=48414367 Points: 9 # Comments: 0",
+      "title": "Benchmarks in Leipzig",
+      "description": "Article URL: https://arxiv.org/abs/2606.05818 Comments URL: https://news.ycombinator.com/item?id=48425247 Points: 35 # Comments: 11",
       "source": "Hacker News",
-      "url": "https://github.com/microsoft/pg_durable",
+      "url": "https://arxiv.org/abs/2606.05818",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Stop Using Conventional Commits",
-      "description": "Article URL: https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/ Comments URL: https://news.ycombinator.com/item?id=48414027 Points: 29 # Comments: 11",
+      "title": "Meta Keeps Delaying the Release of Its New AI Model to Developers",
+      "description": "Article URL: https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c Comments URL: https://news.ycombinator.com/item?id=48424252 Points: 20 # Comments: 5",
       "source": "Hacker News",
-      "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+      "url": "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c",
       "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Leak Reveals Microsoft Wants Its AI to Be 'Addictive'",
-      "description": "Article URL: https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924 Comments URL: https://news.ycombinator.com/item?id=48413924 Points: 14 # Comments: 0",
+      "title": "The new bibliomaniacs",
+      "description": "Article URL: https://engelsbergideas.com/notebook/the-new-bibliomaniacs/ Comments URL: https://news.ycombinator.com/item?id=48424125 Points: 26 # Comments: 17",
       "source": "Hacker News",
-      "url": "https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924",
+      "url": "https://engelsbergideas.com/notebook/the-new-bibliomaniacs/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Ask HN: What is your (AI) dev tech stack / workflow? (June 2026)",
-      "description": "Hello, happy Friday! I am looking to do some in-person \"developer boot-up\" workshops, and seek your suggestions for \"modern tooling\". The background of the participants range from motivated newbie (\"I heard you can make…",
+      "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
+      "description": "Article URL: https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer Comments URL: https://news.ycombinator.com/item?id=48424103 Points: 0 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://news.ycombinator.com/item?id=48413629",
+      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Some ancient microbes frozen with Ötzi the Iceman are still growing",
+      "description": "What’s the difference between a person, an artifact, and an ecosystem?",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/06/otzis-mummified-body-is-home-to-ancient-strains-of-yeast-and-bacteria/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "82-0 is the best basketball game, to hell with NBA 2K",
+      "description": "82-0 marries the stat nerd fun of fantasy basketball with instant gratification and a bit of dumb luck. The goal is to draft a team of players that could (theoretically) have a perfect 82-0 season. Obviously, if you jus…",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/944975/82-0-perfect-basketball-stats-game",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
-      "description": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
-      "category": "🤖 TECH & AI",
+      "title": "West Ham joint chairman David Sullivan steps down after 'serious' historical allegations",
+      "description": "Sullivan is stepping down from his position as joint chairman and director of the club with immediate effect \"having been made aware of the impending publication of serious historic allegations\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/football/articles/clypyk2e7vyo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "King's nephew Peter Phillips weds NHS nurse with William and Kate among guests",
+      "description": "Peter Phillips married NHS nurse Harriet Sperling during a private ceremony on Saturday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj9gl0x7lj9o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+      "description": "The city's governor urges residents to remain indoors for the first time since the beginning of the war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Buffy and Ted Lasso star Anthony Head dies at 72",
-      "description": "The British actor, who also appeared in Merlin and Little Britain, died of complications from pneumonia.",
+      "title": "The Nowak murder has lit a match under British politics. This is how we got here",
+      "description": "The police response to the murder of Henry Nowak has triggered a heated transatlantic debate.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cd0p0rz4n0mo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c39297vxmw2o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "Teen rapists spared jail partly because of intellectual limitations, judge's full remarks show",
-      "description": "The boys' sentencing last month caused an outcry when they were given youth rehabilitation orders (YROs).",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3d2d55kvy1o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Rapist Paul Quinn sentenced to 24 years in case that saw Andrew Malkinson wrongly convicted",
-      "description": "Paul Quinn is jailed over the 2003 attack in Salford for which Andrew Malkinson served 17 years.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c99l93md0gko?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Andrew was sub-letting Royal Lodge cottages, watchdog reveals",
-      "description": "A public spending watchdog examines the property arrangements of royals including Andrew Mountbatten-Windsor.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce8p8dzvjy9o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "5h ago"
-    },
-    {
-      "title": "South Africa rolls out game-changing HIV shot amid funding shortfalls",
-      "description": "A new twice-yearly HIV prevention injection could transform South Africa's fight against the epidemic — but U.S. aid cuts and limited doses threaten to slow its impact.",
+      "title": "A park famed for rare gorillas gears up to fight Ebola and protect its primates",
+      "description": "In Virunga National Park, rangers are on the front lines — playing a critical role to contain the surging virus while coping with an upsurge in conflict-related violence.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/06/05/nx-s1-5846846/south-africa-hiv-lenacapavir-aid",
+      "url": "https://www.npr.org/2026/06/06/g-s1-126287/ebola-gorillas-democratic-republic-congo",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "The U.S. adds 172,000 jobs as the labor market picks up steam",
-      "description": "U.S. employers added jobs for the third month in a row in May, while the unemployment rate held steady at 4.3%. But wage gains softened and likely failed to keep pace with rising prices.",
+      "title": "Israeli airstrikes kill 9 including Lebanese army officers after ceasefire deal",
+      "description": "The Israeli military confirmed hitting a vehicle and said the incident is being reviewed. Lebanon's President Joseph Aoun called the strike \"a flagrant violation to Lebanese sovereignty and international law.\"",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/06/05/nx-s1-5847669/jobs-labor-market-unemployment-wages-inflation",
+      "url": "https://www.npr.org/2026/06/06/nx-s1-5848595/israeli-airstrikes-kill-lebanese-army-officers",
       "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
+      "description": "The US military strikes Iranian drones and radar sites and Tehran says it has targeted US bases in Kuwait and Bahrain.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "What Afghanistan’s rotten apples tell us about its non-profit sector",
+      "description": "Funding has dwindled, while need has grown. And yet NGO work continues to be plagued by inefficiency.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/6/6/what-afghanistans-rotten-apples-tell-us-about-its-non-profit-sector?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Lebanon and Israel’s perpetual war machine",
+      "description": "Why Lebanon remains central to Israel's multi-front wars.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/the-listening-post/2026/6/6/lebanon-and-israels-perpetual-war-machine?traffic_source=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Nearly 50 people die of thirst in Sahara desert after lorry breaks down",
-      "description": "Only two survived after trekking more than 50km (30 miles) across the desert to alert the authorities.",
+      "title": "Pope calls for end to polarisation during visit to Spain",
+      "description": "Huge gatherings are expected in the coming days for the first visit to Spain by a pope since 2011.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/6/pope-calls-for-end-to-polarisation-during-visit-to-spain?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "‘Elections campaigned on who can be more brutal to Palestinians’",
+      "description": "‘Elections campaigned on who can be more brutal to Palestinians’",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/elections-campaigned-on-who-can-be-more-brutal-to?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Lebanon says three soldiers killed in Israeli attack on car",
+      "description": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c62r2ldyejro?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "just now"
+      "timeAgo": "4h ago"
     },
     {
-      "title": "Israeli Knesset member backs settlement push in southern Syria",
-      "description": "An Israeli Knesset member has publicly backed efforts to establish Israeli settlements in southern Syria.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/israeli-knesset-member-backs-settlement-push-in-southern-syria?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Man City chair Al Mubarak will ‘say everything’ after verdict on finances",
-      "description": "English Premier League side Manchester City charged with 115 alleged breaches of financial rules.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/5/man-city-chair-al-mubarak-will-say-everything-after-verdict-on-finances?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Ukraine strikes cargo ships and admits Romania drone blast",
-      "description": "Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "‘Red meat is a dream’: Iran inflation hits highest level since World War II",
-      "description": "The war with the US is not the only factor driving prices skywards.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/5/red-meat-is-a-dream-iran-inflation-hits-highest-level-since-world-war-ii?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "At least 49 people die of thirst after truck breakdown in Niger desert",
-      "description": "Two people managed to survive after walking more than 50km to a water source and then a nearby town.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/5/at-least-49-people-die-of-thirst-after-truck-breakdown-in-niger-desert?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Here’s what wild single-stock price swings may signal for your index fund",
-      "description": "Also in Weekend Reads: The latest on SpaceX and other IPOs, a raw deal for Alphabet’s non-Berkshire shareholders and advice from the Moneyist.",
+      "title": "The Fed can’t protect consumers from supply shocks and price gouging — but Congress can",
+      "description": "As global disruptions drive up Americans’ grocery and gasoline prices, lawmakers need to take a stand.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-what-wild-single-stock-price-swings-may-signal-for-your-index-fund-9f401623?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/the-2-types-of-inflation-the-fed-cant-control-and-how-congress-must-protect-your-wallet-7ac2079a?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Boeing to start 737 Max production on new assembly line July 6, CEO says",
-      "description": "The new 737 Max final assembly line in Everett, Washington, will serve as a catalyst for increasing Max production to 52 jets per month.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/05/boeing-ceo-737-max-production-assembly-line.html",
+      "title": "The U.S. stock market is facing historic downside risk — these 10 low-volatility stocks can protect your portfolio",
+      "description": "Low-volatility stocks give investors a smoother ride — and they are beating the market on a risk-adjusted basis.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-u-s-stock-market-is-facing-historic-downside-risk-these-10-low-volatility-stocks-can-protect-your-portfolio-088a2189?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "‘DOGE’ wanted to declare 2.7 million people ‘dead’ at Social Security: whistleblower",
-      "description": "This is the third whistleblower to come forward about alleged illegal activity by Trump’s Department of Government Efficiency.",
+      "title": "The blowout jobs report is bad news for stocks — but it shouldn’t force the Fed’s hand on interest rates",
+      "description": "Rate hikes now will choke off the critical investments needed to lower prices.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/doge-wanted-to-declare-2-7-million-people-dead-at-social-security-whistleblower-e195065b?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/the-blowout-jobs-report-is-bad-news-for-stocks-but-it-shouldnt-force-the-feds-hand-on-interest-rates-66eaa2b9?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "California’s proposed ‘billionaire tax’ is a terrible idea. We should do this instead.",
-      "description": "Almost everything about this tax is bad, and it obscures something much better that we do need.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/californias-proposed-billionaire-tax-is-moronic-we-should-do-this-instead-de61bca8?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Social Security is looking at a $500-a-month cut. Could a new bipartisan commission make a difference?",
-      "description": "A new legislative proposal would create a bipartisan commission to strengthen the finances of Social Security and Medicare at a time when the programs are under pressure.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/social-security-is-looking-at-a-500-a-month-cut-could-a-new-bipartisan-commission-make-a-difference-5e9d358a?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "U.S. payrolls rose by 172,000 in May, much more than expected; unemployment at 4.3%",
-      "description": "Nonfarm payrolls were expected to increase by 80,000 in May while the unemployment rate held at 4.3%.",
+      "title": "Chinese EVs may hit U.S. within a few years, one way or another",
+      "description": "Chinese electric vehicles are likely to be sold in the U.S. within years, despite tariffs, strict laws and opposition from the auto industry and politicians.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/05/jobs-report-may-2026.html",
+      "url": "https://www.cnbc.com/2026/06/06/chinese-evs-auto-sales-manufacturing-us.html",
       "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "MLB DFS: Top DraftKings, FanDuel daily Fantasy baseball picks include Jackson Chourio on Friday, June 5",
-      "description": "SportsLine's Mike McClure, a daily Fantasy pro with more than $2 million in winnings, gives optimal MLB DFS lineup advice for Friday, June 5",
+      "title": "Bitcoin is cratering, but a new Wall Street crypto hype is on the rise",
+      "description": "As bitcoin dropped to its lowest price since 2024, investors flock to a new type of crypto investment linked to the hyperliquid platforms, HYPE ETFs.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/06/bitcoin-price-crash-crypto-hype-hyperliquid-etfs.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "We thought we found the perfect luxury retirement community, but it’s millions of dollars in debt. Are we trapped?",
+      "description": "“If we were to leave, we would lose a portion of our buy-in — about $80,000.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-thought-we-found-the-perfect-luxury-retirement-community-but-its-millions-of-dollars-in-debt-are-we-trapped-cde2e8f5?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Best horse racing betting sites: Where to bet on the 2026 horse racing",
+      "description": "Learn where to bet on horse racing online, including for the Belmont Stakes on June 6. Discover top horse racing betting sites and tips.",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/mlb/news/mlb-dfs-top-draftkings-fanduel-daily-fantasy-baseball-picks-include-jackson-chourio-on-friday-june-5/",
+      "url": "https://www.cbssports.com/betting/news/horse-racing/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "2026 Belmont Stakes predictions, horses, odds, posts: Surprising picks from elite handicapper",
-      "description": "Michelle Yu reveals her Belmont Stakes 2026 best bets for the 158th running on Saturday, June 6, at Saratoga Race Course",
+      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Hurricanes-Golden Knights, MLB, UFC Saturday",
+      "description": "Use the latest BetMGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for UFC, MLB, Golden Knights vs. Hurricanes Stanley Cup betting on Saturday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/general/news/2026-belmont-stakes-predictions-horses-odds-posts-surprising-picks-from-elite-handicapper/",
+      "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-get-1500-bonus-bets-hurricanes-golden-knights-mlb-ufc-saturday/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "When will Aaron Judge be back? How can Yankees replace him? Answering five big questions about his injury",
-      "description": "Judge, the Yankees captain, has a stress fracture in a rib -- and we might not see him again until August",
+      "title": "Use DraftKings promo code for $200 in bonus bets by targeting Hurricanes-Golden Knights, MLB, UFC on Saturday",
+      "description": "DraftKings offers $200 in bonus bets instantly after your first $5 wager for UFC, MLB, Golden Knights vs. Hurricanes Stanley Cup betting on Saturday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/mlb/news/aaron-judge-injury-yankees-questions/",
+      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-200-bonus-bets-by-targeting-hurricanes-golden-knights-mlb-ufc-saturday/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "How to bet on the 2026 World Cup: Betting guide, schedule, odds, groups, rosters, promo codes, offers",
-      "description": "Our World Cup betting guide tells you where to bet on the 2026 World Cup, gives odds, rosters, schedule, promo offers, and more",
+      "title": "USMNT's Chris Richards trains with team but will miss last pre-World Cup friendly against Germany",
+      "description": "Richards sustained an ankle injury on May 17, days before the USMNT's pre-tournament camp opened",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/how-to-bet-on-the-2026-world-cup-betting-guide-schedule-odds-groups-rosters-promo-codes-offers/",
+      "url": "https://www.cbssports.com/soccer/news/usmnt-chris-richards-trains-world-cup-friendly-germany/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
+    },
+    {
+      "title": "Teenager Mirra Andreeva wins French Open women's s...",
+      "description": "null",
+      "source": "ESPN",
+      "url": "https://www.espn.com/tennis/scoreboard/tournament/_/eventId/172-2026/competitionType/2",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Are the Spurs cooked? How the Knicks have slowed d...",
+      "description": "Let's break down Game 2 from all angles, then look ahead to a massive Game 3 in New York.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/48982102/2026-nba-finals-game-2-playoffs-new-york-knicks-san-antonio-spurs-important-plays-lessons-court-wembanyama-brunson",
+      "category": "🏀 SPORTS",
+      "timeAgo": "1h ago"
     }
   ]
 }
