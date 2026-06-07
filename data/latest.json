@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-06T14:58:24.164341+00:00",
-  "edition": "#123",
+  "date": "2026-06-07T15:11:49.536985+00:00",
+  "edition": "#124",
   "totalStories": 30,
   "podcast": {
     "show": "The Daily",
@@ -8,244 +8,244 @@
   },
   "stories": [
     {
-      "title": "Benchmarks in Leipzig",
-      "description": "Article URL: https://arxiv.org/abs/2606.05818 Comments URL: https://news.ycombinator.com/item?id=48425247 Points: 35 # Comments: 11",
+      "title": "Netlify CTO Dana Lawson: Writing code is no longer the job",
+      "description": "Article URL: https://thenewstack.io/netlify-agent-experience-engineers/ Comments URL: https://news.ycombinator.com/item?id=48435093 Points: 13 # Comments: 10",
       "source": "Hacker News",
-      "url": "https://arxiv.org/abs/2606.05818",
+      "url": "https://thenewstack.io/netlify-agent-experience-engineers/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Meta Keeps Delaying the Release of Its New AI Model to Developers",
-      "description": "Article URL: https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c Comments URL: https://news.ycombinator.com/item?id=48424252 Points: 20 # Comments: 5",
+      "title": "Hacked, leaked, and held for ransom: the worst breaches of 2026 so far",
+      "description": "From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Anthropic, please ship an official Claude Desktop for Linux",
+      "description": "Article URL: https://github.com/anthropics/claude-code/issues/65697 Comments URL: https://news.ycombinator.com/item?id=48434436 Points: 135 # Comments: 52",
       "source": "Hacker News",
-      "url": "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c",
+      "url": "https://github.com/anthropics/claude-code/issues/65697",
       "category": "🤖 TECH & AI",
       "timeAgo": "2h ago"
     },
     {
-      "title": "The new bibliomaniacs",
-      "description": "Article URL: https://engelsbergideas.com/notebook/the-new-bibliomaniacs/ Comments URL: https://news.ycombinator.com/item?id=48424125 Points: 26 # Comments: 17",
+      "title": "LLMs are eroding my software engineering career and I don't know what to do",
+      "description": "Article URL: https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/ Comments URL: https://news.ycombinator.com/item?id=48434312 Points: 312 # Comments: 238",
       "source": "Hacker News",
-      "url": "https://engelsbergideas.com/notebook/the-new-bibliomaniacs/",
+      "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
       "category": "🤖 TECH & AI",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
-      "description": "Article URL: https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer Comments URL: https://news.ycombinator.com/item?id=48424103 Points: 0 # Comments: 0",
+      "title": "Misguided Misstatements Continue to Dismantle Biomedical Research in the U.S.",
+      "description": "Article URL: https://diabetesjournals.org/care/article/49/6/901/164764/Misguided-Brushes-of-a-Pen-Continue-to-Dismantle Comments URL: https://news.ycombinator.com/item?id=48434204 Points: 23 # Comments: 1",
       "source": "Hacker News",
-      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer",
+      "url": "https://diabetesjournals.org/care/article/49/6/901/164764/Misguided-Brushes-of-a-Pen-Continue-to-Dismantle",
       "category": "🤖 TECH & AI",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Some ancient microbes frozen with Ötzi the Iceman are still growing",
-      "description": "What’s the difference between a person, an artifact, and an ecosystem?",
+      "title": "School shooting survivor sues AI gun detection firm after system failed to spot weapon",
+      "description": "How accurate does an AI system need to be?",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/06/otzis-mummified-body-is-home-to-ancient-strains-of-yeast-and-bacteria/",
+      "url": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "3h ago"
+      "timeAgo": "4h ago"
     },
     {
-      "title": "82-0 is the best basketball game, to hell with NBA 2K",
-      "description": "82-0 marries the stat nerd fun of fantasy basketball with instant gratification and a bit of dumb luck. The goal is to draft a team of players that could (theoretically) have a perfect 82-0 season. Obviously, if you jus…",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/944975/82-0-perfect-basketball-stats-game",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "West Ham joint chairman David Sullivan steps down after 'serious' historical allegations",
-      "description": "Sullivan is stepping down from his position as joint chairman and director of the club with immediate effect \"having been made aware of the impending publication of serious historic allegations\".",
+      "title": "M&S launches new traineeship for 1,000 young people",
+      "description": "The scheme aims to tackle the \"growing challenge\" of young people not in employment, education, or training.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/sport/football/articles/clypyk2e7vyo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cr7xr3dvxp9o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "King's nephew Peter Phillips weds NHS nurse with William and Kate among guests",
-      "description": "Peter Phillips married NHS nurse Harriet Sperling during a private ceremony on Saturday.",
+      "title": "Zelensky criticises 'vile' Chornobyl drone strike ahead of London talks",
+      "description": "Ukrainian officials say a Russian drone hit a storage facility for spent nuclear fuel near the Chornobyl nuclear plant.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj9gl0x7lj9o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
-      "description": "The city's governor urges residents to remain indoors for the first time since the beginning of the war.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "The Nowak murder has lit a match under British politics. This is how we got here",
-      "description": "The police response to the murder of Henry Nowak has triggered a heated transatlantic debate.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c39297vxmw2o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "A park famed for rare gorillas gears up to fight Ebola and protect its primates",
-      "description": "In Virunga National Park, rangers are on the front lines — playing a critical role to contain the surging virus while coping with an upsurge in conflict-related violence.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/06/g-s1-126287/ebola-gorillas-democratic-republic-congo",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Israeli airstrikes kill 9 including Lebanese army officers after ceasefire deal",
-      "description": "The Israeli military confirmed hitting a vehicle and said the incident is being reviewed. Lebanon's President Joseph Aoun called the strike \"a flagrant violation to Lebanese sovereignty and international law.\"",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/06/nx-s1-5848595/israeli-airstrikes-kill-lebanese-army-officers",
+      "title": "Lammy says he told JD Vance his Nowak comments were 'wrong'",
+      "description": "Vance had blamed Henry Nowak's death on the \"mass invasion of migrants\" - but Lammy says it \"has got nothing to do with mass migration\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cjwg387040wo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "4h ago"
     },
     {
-      "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
-      "description": "The US military strikes Iranian drones and radar sites and Tehran says it has targeted US bases in Kuwait and Bahrain.",
+      "title": "It's one of the world's most isolated islands. Here come the bulldozers",
+      "description": "The Indian government is spending $9 billion to create a megaport, airport and city on this remote island. Critics fear the impact on pristine forests and the lives of indigenous inhabitants.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/07/g-s1-125586/island-isolated-india-great-nicobar-china-development",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
+      "description": "The BBC's Russia editor saw Putin's flagship economic event overshadowed by Ukrainian drones attacks.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "8h ago"
+    },
+    {
+      "title": "1 million people flood Madrid streets to see the pope's flower-carpeted procession",
+      "description": "The crowd cheered and shouted \"This is the youth of the pope!\" as Pope Leo arrived for Mass at a central Madrid plaza. It's the first papal visit to Spain in 15 years.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/07/nx-s1-5849147/1-million-flood-madrid-streets-pope-procession",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "Does Israel really think it can get rid of Hezbollah in Lebanon?",
+      "description": "It’s hard to assume that ‘anything positive’ for Lebanon can come from its talks with Israel, argues analyst Imad Harb.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/6/7/does-israel-really-think-it-can-get-rid-of-hezbollah-in-lebanon?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "What Afghanistan’s rotten apples tell us about its non-profit sector",
-      "description": "Funding has dwindled, while need has grown. And yet NGO work continues to be plagued by inefficiency.",
+      "title": "The Taiz transplant team looking to begin a medical revolution in Yemen",
+      "description": "Taiz's Cardiac and Vascular Diseases and Kidney Transplant Center provides Yemenis with affordable treatment.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/6/6/what-afghanistans-rotten-apples-tell-us-about-its-non-profit-sector?traffic_source=rss",
+      "url": "https://www.aljazeera.com/features/2026/6/7/a-cardiovascular-team-in-taiz-offers-yemen-hope-for-a-better-future?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Lebanon and Israel’s perpetual war machine",
-      "description": "Why Lebanon remains central to Israel's multi-front wars.",
+      "title": "Peru polls open in Keiko Fujimori, Roberto Sanchez presidential runoff",
+      "description": "Race between right-wing Fujimori, leftwing Sanchez follows first round of voting marred by logistical issues.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/6/6/lebanon-and-israels-perpetual-war-machine?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/6/7/peru-polls-open-in-keiko-fujimori-roberto-sanchez-presidential-runoff?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Pope calls for end to polarisation during visit to Spain",
-      "description": "Huge gatherings are expected in the coming days for the first visit to Spain by a pope since 2011.",
+      "title": "Army frees 360 abductees after clashes with Boko Haram in Nigeria’s Borno",
+      "description": "Two infants succumbed to the 'harsh conditions' of Boko Haram captivity in the Mandara mountains, the army says.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/6/pope-calls-for-end-to-polarisation-during-visit-to-spain?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/6/7/army-frees-360-abductees-after-clashes-with-boko-haram-in-nigerias-borno?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "‘Elections campaigned on who can be more brutal to Palestinians’",
-      "description": "‘Elections campaigned on who can be more brutal to Palestinians’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/elections-campaigned-on-who-can-be-more-brutal-to?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Lebanon says three soldiers killed in Israeli attack on car",
-      "description": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
+      "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
+      "description": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "4h ago"
     },
     {
-      "title": "The Fed can’t protect consumers from supply shocks and price gouging — but Congress can",
-      "description": "As global disruptions drive up Americans’ grocery and gasoline prices, lawmakers need to take a stand.",
+      "title": "Armenia votes as Russia piles pressure on pro-West government",
+      "description": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "10h ago"
+    },
+    {
+      "title": "A new wave of weight-loss therapies aims to be better than today’s GLP-1s",
+      "description": "Retatrutide is one of those drugs. It helped people lose a massive amount of weight in clinical trials. It also improved sleep apnea and knee pain.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-2-types-of-inflation-the-fed-cant-control-and-how-congress-must-protect-your-wallet-7ac2079a?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/tired-of-nausea-or-taking-a-glp-1-pill-every-day-these-experimental-drugs-could-be-better-than-zepbound-and-wegovy-587bf648?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "The U.S. stock market is facing historic downside risk — these 10 low-volatility stocks can protect your portfolio",
-      "description": "Low-volatility stocks give investors a smoother ride — and they are beating the market on a risk-adjusted basis.",
+      "title": "S&P 500 sees $1.8 trillion wipeout, Nasdaq tallies biggest point drop on record: What investors need to know about Friday’s selloff",
+      "description": "A remarkable two-month sprint higher for major stock-market indexes encountered its first major hiccup on Friday as the Nasdaq Composite plummeted more than 1,121 points — the biggest one day point drop on record, accor…",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-u-s-stock-market-is-facing-historic-downside-risk-these-10-low-volatility-stocks-can-protect-your-portfolio-088a2189?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "The blowout jobs report is bad news for stocks — but it shouldn’t force the Fed’s hand on interest rates",
-      "description": "Rate hikes now will choke off the critical investments needed to lower prices.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-blowout-jobs-report-is-bad-news-for-stocks-but-it-shouldnt-force-the-feds-hand-on-interest-rates-66eaa2b9?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/s-p-500-sees-1-8-trillion-wipeout-nasdaq-tallies-biggest-point-drop-on-record-heres-what-investors-need-to-know-about-fridays-selloff-4eb7b490?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Chinese EVs may hit U.S. within a few years, one way or another",
-      "description": "Chinese electric vehicles are likely to be sold in the U.S. within years, despite tariffs, strict laws and opposition from the auto industry and politicians.",
+      "title": "‘No one wears bling’: What does it say about America if people are afraid to wear their jewelry?",
+      "description": "“I’ve been to many shows, operas, big parties and fundraisers.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/no-one-seems-to-wear-their-bling-is-it-safe-to-show-off-your-expensive-jewelry-a807bc55?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "S&P 500 companies can’t stop talking about higher oil prices. But few say they’ll actually hit profits.",
+      "description": "Only seven companies cited oil prices as a reason for cutting or not updating their profit outlooks for the year.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/s-p-500-companies-cant-stop-talking-about-higher-oil-prices-but-few-say-theyll-actually-hit-profits-c3a4e4ea?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Inflation inside the electronics you buy may soon become a bit more sticky",
+      "description": "Most consumers are not familiar with the role resin plays inside electronics like smartphones. A current shortage of the materials may push up prices.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/06/chinese-evs-auto-sales-manufacturing-us.html",
+      "url": "https://www.cnbc.com/2026/06/07/inflation-iran-war-consumer-economy-electronics.html",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Bitcoin is cratering, but a new Wall Street crypto hype is on the rise",
-      "description": "As bitcoin dropped to its lowest price since 2024, investors flock to a new type of crypto investment linked to the hyperliquid platforms, HYPE ETFs.",
+      "title": "Harry's and Coterie owner Mammoth Brands has ambitions to be the next CPG giant",
+      "description": "Mammoth's direct-to-consumer brands have helped upend the razor, diaper and deodorant categories.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/06/bitcoin-price-crash-crypto-hype-hyperliquid-etfs.html",
+      "url": "https://www.cnbc.com/2026/06/07/harrys-coterie-owner-mammoth-brands-growth-ipo-rumors.html",
       "category": "📈 MARKETS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "Use DraftKings promo code for $200 in bonus bets by targeting Dodgers-Angels, Cubs-Giants in MLB on Sunday",
+      "description": "DraftKings offers $200 in bonus bets instantly after your first $5 wager for MLB betting on Sunday",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-200-bonus-bets-by-targeting-dodgers-angels-cubs-giants-mlb-sunday/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "World Cup 2026 picks, odds, predictions: Top props, best bets for United States by proven soccer expert",
+      "description": "Jon \"Buckets\" Eimer has locked in his top USMNT prop bets for the 2026 World Cup being hosted by the United States, Canada and Mexico",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/soccer/news/world-cup-2026-picks-odds-futures-predictions-usmnt-props-soccer-best-bets/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "MLB futures: How Aaron Judge's injury has shaken up AL MVP odds",
+      "description": "With Aaron Judge on the shelf, the American League MVP race has seen some drastic changes at sportsbooks",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/betting/news/mlb-futures-how-aaron-judges-injury-has-shaken-up-al-mvp-odds/",
+      "category": "🏀 SPORTS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "We thought we found the perfect luxury retirement community, but it’s millions of dollars in debt. Are we trapped?",
-      "description": "“If we were to leave, we would lose a portion of our buy-in — about $80,000.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-thought-we-found-the-perfect-luxury-retirement-community-but-its-millions-of-dollars-in-debt-are-we-trapped-cde2e8f5?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
+      "title": "SportsLine Newsletter June 7, 2026",
+      "description": "Sunday Betting Guide: Top picks for NASCAR at Michigan, Sunday Night Baseball and a lookahead to the FIFA World Cup",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/",
+      "category": "🏀 SPORTS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Best horse racing betting sites: Where to bet on the 2026 horse racing",
-      "description": "Learn where to bet on horse racing online, including for the Belmont Stakes on June 6. Discover top horse racing betting sites and tips.",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/horse-racing/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Hurricanes-Golden Knights, MLB, UFC Saturday",
-      "description": "Use the latest BetMGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for UFC, MLB, Golden Knights vs. Hurricanes Stanley Cup betting on Saturday",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-get-1500-bonus-bets-hurricanes-golden-knights-mlb-ufc-saturday/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Use DraftKings promo code for $200 in bonus bets by targeting Hurricanes-Golden Knights, MLB, UFC on Saturday",
-      "description": "DraftKings offers $200 in bonus bets instantly after your first $5 wager for UFC, MLB, Golden Knights vs. Hurricanes Stanley Cup betting on Saturday",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-200-bonus-bets-by-targeting-hurricanes-golden-knights-mlb-ufc-saturday/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "USMNT's Chris Richards trains with team but will miss last pre-World Cup friendly against Germany",
-      "description": "Richards sustained an ankle injury on May 17, days before the USMNT's pre-tournament camp opened",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/usmnt-chris-richards-trains-world-cup-friendly-germany/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Teenager Mirra Andreeva wins French Open women's s...",
-      "description": "null",
+      "title": "Copy of What did we just watch?! Grades, big questions aft...",
+      "description": "The game was absolute chaos, with four straight goals scored by each team before a double OT winner.",
       "source": "ESPN",
-      "url": "https://www.espn.com/tennis/scoreboard/tournament/_/eventId/172-2026/competitionType/2",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Are the Spurs cooked? How the Knicks have slowed d...",
-      "description": "Let's break down Game 2 from all angles, then look ahead to a massive Game 3 in New York.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/48982102/2026-nba-finals-game-2-playoffs-new-york-knicks-san-antonio-spurs-important-plays-lessons-court-wembanyama-brunson",
+      "url": "https://www.espn.com/nhl/story/_/id/48982766/2026-nhl-playoffs-stanley-cup-final-game-3-grades-questions-golden-knights-hurricanes",
       "category": "🏀 SPORTS",
       "timeAgo": "1h ago"
+    },
+    {
+      "title": "Knights recover in 2OT, outlast Canes in Game 3",
+      "description": "Defenseman Shea Theodore was credited with a goal in double overtime, and the Golden Knights recovered from losing a 4-0 lead to defeat the Carolina Hurricanes 5-4 in Game 3 of the Stanley Cup Final on Saturday, giving…",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nhl/story/_/id/48989106/vegas-golden-knights-outlast-carolina-hurricanes-game-3",
+      "category": "🏀 SPORTS",
+      "timeAgo": "8h ago"
     }
   ]
 }
