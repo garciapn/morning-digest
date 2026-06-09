@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-08T16:56:24.141604+00:00",
-  "edition": "#125",
+  "date": "2026-06-09T16:18:15.278418+00:00",
+  "edition": "#126",
   "totalStories": 30,
   "podcast": {
     "show": "The Daily",
@@ -8,242 +8,242 @@
   },
   "stories": [
     {
-      "title": "How to apply to Startup Battlefield 2026, what you need ahead of today’s June 8 deadline",
-      "description": "Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!",
+      "title": "It’s not FAANG anymore. It’s MANGOS.",
+      "description": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new acronym to match. Say goodbye to FAANG and hello to MANGOS.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/08/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-todays-june-8-deadline/",
+      "url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "NotebookLM’s new update will help you build source repository from chat",
-      "description": "Google is making Gemini 3.5 the default model in NotebookLM",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/08/notebooklms-new-update-will-help-you-build-source-repository-from-chat/",
+      "title": "US military claims first drone boat rescue of downed helicopter crew",
+      "description": "US Navy’s Task Force 59 achieved the drone rescue at sea near Strait of Hormuz.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/06/us-military-claims-first-drone-boat-rescue-of-downed-helicopter-crew/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Amazon now lets you design custom merch using AI",
-      "description": "A new feature in the Amazon Shopping app allows users to generate designs with Alexa, then print them on products like T-shirts, hoodies, and tumblers.",
+      "title": "Apple says it may remove some apps from the App Store if they don’t attract users",
+      "description": "Apple may begin removing existing apps that it considers stale, low-value, or unable to attract users.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
+      "url": "https://techcrunch.com/2026/06/09/apple-says-it-may-remove-apps-from-the-app-store-if-they-dont-attract-users/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Why are so many young people getting cancer? What researchers do and don't know",
-      "description": "Article URL: https://www.nature.com/articles/d41586-026-01780-6 Comments URL: https://news.ycombinator.com/item?id=48446909 Points: 45 # Comments: 5",
+      "title": "FCC Wants to Kill Burner Phones by Forcing Telecoms to Get All Customers' IDs",
+      "description": "Article URL: https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/ Comments URL: https://news.ycombinator.com/item?id=48462308 Points: 23 # Comments: 8",
       "source": "Hacker News",
-      "url": "https://www.nature.com/articles/d41586-026-01780-6",
+      "url": "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "High-severity vulnerability in Linux caused by a single errant character",
+      "description": "Use-after-free bug can be exploited to evade sandbox defenses.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/06/a-single-errant-character-in-the-linux-kernel-allows-attacker-to-gain-root/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "WhatsApp says it caught new spyware attacks linked to NSO Group in violation of court order",
-      "description": "The messaging giant announced that it disrupted a phishing campaign targeting its users with NSO’s spyware.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/08/whatsapp-says-it-caught-new-spyware-attacks-linked-to-nso-group-in-violation-of-court-order/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-      "description": "Article URL: https://mimo.xiaomi.com/blog/mimo-tilert-1000tps Comments URL: https://news.ycombinator.com/item?id=48446639 Points: 169 # Comments: 107",
+      "title": "Using Optical Aberrations to Distinguish Real Astronomical Transients",
+      "description": "Article URL: https://arxiv.org/abs/2606.08319 Comments URL: https://news.ycombinator.com/item?id=48462184 Points: 10 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+      "url": "https://arxiv.org/abs/2606.08319",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Who is David Sullivan - football boss, 'king of porn' and alleged sexual predator?",
-      "description": "The ex-West Ham boss has long boasted of sexual conquests, but is now accused of exploitative behaviour.",
+      "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
+      "description": "Iran warned Israel on Monday that it could resume hostilities if attacks on its Lebanese ally Hezbollah do not stop.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce8pk06wrx0o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Billionaire West Ham co-owner accused of abusing his power and preying on women for sex",
-      "description": "Women say David Sullivan told them they needed to have sex with him to feature in his newspapers.",
+      "title": "Football regulator contacts West Ham over 'serious allegations' against Sullivan",
+      "description": "Multiple women accuse the billionaire of abusing his power and preying on them for sex, in some cases when they were in their late teens.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj9p2lm7epeo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Iran's strike on Israel suggests the regime's sense of resilience is growing",
-      "description": "Iran's decision to risk jeopardising peace talks may reflect how its leaders view their current position, writes BBC Persian editor Amir Azimi.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cly72ryrd1jo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c1ky7gndnlyo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "NPR's new chief content officer: 'I've been training for this job my whole life'",
-      "description": "Less than two weeks after overhauling its newsroom, NPR has hired Nadine Zylstra to be its chief content officer. She has been a top executive at Sesame Workshop, YouTube and Pinterest.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/08/nx-s1-5839396/npr-chief-content-officer-nadine-zylstra-podcasts",
+      "title": "Scrap legal equality duty for public services, says Badenoch",
+      "description": "The Conservative leader says the rules have led to public bodies becoming \"institutionally incompetent\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy5vyqykpx5o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Xi and Kim express hopes for greater ties between China and North Korea",
-      "description": "Xi traveled to Pyongyang on Monday in a likely attempt to reassert China's unique influence over its socialist neighbor.",
+      "title": "Sea drone rescues US army helicopter crew near Strait of Hormuz",
+      "description": "An uncrewed vessel picked up two crew members of an Apache helicopter that went down on Monday, US officials tells CBS News.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "4 states head to the polls. And, global conflicts are on the rise, new report says",
+      "description": "Voters in four states head to the polls today for their primaries. Here are the races to watch. And, global conflicts are at their highest level since World War II, data shows.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/06/08/g-s1-126863/xi-and-kim-express-hopes-for-greater-ties-between-china-and-north-korea",
+      "url": "https://www.npr.org/2026/06/09/g-s1-126975/up-first-newsletter-iran-israel-lebanon-primaries-election-fraud-los-angeles-global-conflicts",
       "category": "🌎 TOP NEWS",
       "timeAgo": "4h ago"
     },
     {
-      "title": "Israel-Iran strikes threaten truce. And, Ebola is spreading at an unprecedented rate",
-      "description": "Israel and Iran's recent exchange of fire is threatening the truce in the Middle East. And, the Ebola outbreak in the Democratic Republic of Congo is spreading at an unprecedented rate, officials say.",
+      "title": "The Supreme Court is in its final stretch this term. Here are the major cases left",
+      "description": "The Supreme Court is heading into its crunch time, the part of the year when the justices are racing to finish decisions and dissents in the cases that remain undecided. Here's what's left.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/06/08/g-s1-126858/up-first-newsletter-iran-lebanon-israel-trump-meet-the-press-interview-congo-ebola",
+      "url": "https://www.npr.org/2026/06/09/nx-s1-5847967/supreme-court-major-cases-left-2026",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "5h ago"
+      "timeAgo": "7h ago"
     },
     {
-      "title": "7.8 magnitude earthquake leaves dozens dead in the Philippines",
-      "description": "A powerful 7.8 magnitude earthquake struck the southern Philippines off the island of Mindanao, killing at least 32.",
+      "title": "Six countries sanction enablers of settler violence in occupied West Bank",
+      "description": "The Western nations also say they will take further measures if Israel fails to address the situation on the ground.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/7-8-magnitude-earthquake-leaves-dozens-dead-in-the-philippines?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "How Lebanon became the breaking point for the Iran war ceasefire",
-      "description": "Iran has switched from projecting power via its proxies to using its own firepower to protect them, analysts say.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/8/how-lebanon-became-the-breaking-point-for-the-iran-war-ceasefire?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "‘Strategic doctrine’: Iran hails military shift after Beirut raid response",
-      "description": "Iranians describe attacks on Israel as part of military approach prioritising 'taking initiative and offensive power'.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/8/strategic-doctrine-iran-hails-military-shift-after-beirut-raid-response?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Lebanon’s children face physical, psychological trauma amid Israel’s war",
-      "description": "Experts warn of lasting trauma for Lebanon's children as war continues to shatter their sense of safety.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/6/8/lebanon-children-face-physical-psychological-trauma-israel-war?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Iran says it has halted attacks on Israel after first exchange of fire since truce",
-      "description": "Iran launched about 30 missiles at Israel following a strike in Lebanon, while Israel carried out two waves of air strikes in Iran.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.aljazeera.com/news/2026/6/9/six-countries-sanction-networks-enabling-settler-violence-in-west-bank?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "At least 32 dead after major earthquake strikes southern Philippines",
-      "description": "The magnitude-7.8 quake triggered small tsunami waves in the Philippines, Indonesia and Japan.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss",
+      "title": "Did Netanyahu really ‘defy’ Trump in bombing Iran?",
+      "description": "Experts say the latest confrontation has laid bare growing divisions between the two leaders.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/9/did-netanyahu-really-defy-trump-in-bombing-iran?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "5h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Food supply 'not at risk' after new Texas screwworm cases, USDA secretary says",
-      "description": "The U.S. will lean on the same playbook it did starting in the late 1950s, part of which involves releasing sterile insects to suppress the pest's population.",
+      "title": "Deadly protests in Pakistan-administered Kashmir: What’s going on?",
+      "description": "Experts say the current crisis is part of a deeper, long-running debate about governance in the region.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/9/deadly-protests-in-pakistan-administered-kashmir-whats-going-on?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Modi is using a cannon to kill a cockroach",
+      "description": "A student parody account has rattled India’s most powerful man and exposed just how thin his skin has become.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/6/9/modi-is-using-a-cannon-to-kill-a-cockroach?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Hundreds of aftershocks jolt Philippines as officials say death toll could rise",
+      "description": "Dozens of people are dead and hundreds more injured following an earthquake in the country's south.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckg50pypn2eo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "8h ago"
+    },
+    {
+      "title": "300 migrants bound for UK kidnapped and threatened with kidney removal",
+      "description": "The Iraqi Kurds were captured by a militia who demanded a ransom of $5,000 (£3,700) per person.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8xwxdgvx8lo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "11h ago"
+    },
+    {
+      "title": "Social Security retirement trust fund may be depleted in 2032, new trustees report finds",
+      "description": "The Social Security Administration has released a report with new projections as to when the trust funds that help pay benefits may be depleted.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/08/texas-screwworm-cases-food-supply-brooke-rollins.html",
+      "url": "https://www.cnbc.com/2026/06/09/social-security-trustees-report-depletion-dates.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Netanyahu says war with Iran, Hezbollah isn't over after Tehran says it's halting strikes",
-      "description": "Iran and Israel traded strikes Sunday night for the first time since the U.S. and Iran agreed to a fragile ceasefire in mid-April.",
+      "title": "Apple’s AI could usher in a historic upgrade cycle that investors are overlooking",
+      "description": "Apple’s new AI features are on track to be monetized faster than expected, thanks to increased hardware requirements and new “killer apps.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/apples-ai-could-usher-in-a-historic-upgrade-cycle-that-investors-are-overlooking-2b47fbb3?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Social Security faces insolvency in 2032, when it would pay only 78% of benefits",
+      "description": "Social Security, which provides benefits to more than 70 million retired workers and people with disabilities, faces increased pressure from last year’s One Big Beautiful Bill Act.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/social-security-faces-insolvency-in-2032-when-it-would-pay-only-78-of-benefits-b0f0df22?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "You can calculate the exact impact a reduced Social Security check will have on your retirement success",
+      "description": "If benefits go down 22% in 2032 as predicted by the latest Trustees report, you need to know what that means for you.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/you-can-calculate-the-exact-impact-a-reduced-social-security-check-will-have-on-your-retirement-success-f0f58429?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Oil prices fall nearly 4% after U.S. Energy Secretary says Hormuz ship traffic is increasing",
+      "description": "President Donald Trump has repeatedly said a deal with Tehran to reopen Hormuz is close, but such an agreement still has not materialized.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/08/iran-end-military-operations-israel-lebanon-escalation.html",
+      "url": "https://www.cnbc.com/2026/06/09/oil-prices-iran-war-strait-hormuz-trump-israel-lebanon.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "We thought we found the perfect luxury retirement community, but it’s millions of dollars in debt. Are we trapped?",
-      "description": "“If we were to leave, we would lose a portion of our buy-in — about $80,000.”",
+      "title": "This proposed federal budget cut could eliminate job training for 42,000 vulnerable seniors",
+      "description": "A job-training program for low-income older adults is set to lose funding under President Donald Trump’s proposed budget for 2027 — just as more stringent work requirements for food aid and healthcare coverage go into e…",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-thought-we-found-the-perfect-luxury-retirement-community-but-its-millions-of-dollars-in-debt-are-we-trapped-cde2e8f5?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/this-proposed-federal-budget-cut-could-eliminate-job-training-for-42-000-vulnerable-seniors-2520ac73?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Intel’s stock soars as the company’s ‘blue-chip roster’ of customers looks to be growing",
-      "description": "Investors are cheering the idea that Intel could serve as a backup chip manufacturer for Nvidia and Google.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/intels-stock-soars-as-the-companys-blue-chip-roster-of-customers-looks-to-be-growing-264cd9d2?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Millions of grandparents are spending their retirements raising their grandkids — and it’s taking a financial toll",
-      "description": "Grandparent-headed households are more likely to live in poverty.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/millions-of-grandparents-are-spending-their-retirements-raising-their-grandkids-and-its-taking-a-financial-toll-5ddc4102?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Household worries over finances hit highest level since July 2022, New York Fed survey shows",
-      "description": "While the central bank's monthly survey showed the inflation outlook mostly unchanged, the general perception of conditions deteriorated.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/08/household-financial-worries-at-highest-level-since-2022-new-york-fed-says.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Free MLB home run picks, odds for June 8: Alec Bohm in expert's best bets for Monday HR player props",
-      "description": "SportsLine's Jacob Fetner reveals his best MLB home run props picks for Monday, June 8",
+      "title": "Brendan Sorsby fallout: Georgia, Nebraska boycott future games vs. Texas Tech as Big 12, Big Ten mull action",
+      "description": "Athletic directors and conference commissioners are reacting strongly to an injunction that restored Brendabfrn Soraby's for the 2026 season",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/free-mlb-home-run-picks-odds-for-june-8-alec-bohm-in-experts-best-bets-for-monday-hr-player-props/",
+      "url": "https://www.cbssports.com/college-football/news/brendan-sorsby-fallout-georgia-nebraska-texas-tech-big-12-big-ten/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Ranking the NFL's top new WR-QB duos, plus Cowboys win total might be the safest bet in the NFC East",
-      "description": "Here's everything you need to know about the NFL for June 8",
+      "title": "Free MLB home run picks, odds for June 9: Ben Rice among top HR player props for Tuesday",
+      "description": "New York's standout first baseman is one of our two favorite home run picks for Tuesday's MLB slate",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/ranking-nfls-top-new-wr-qb-duos-plus-cowboys-win-total-safest-nfc-east/",
+      "url": "https://www.cbssports.com/betting/news/free-mlb-home-run-picks-odds-for-june-9-ben-rice-among-top-hr-player-props-for-tuesday/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "SportsLine Newsletter Monday, June 8, 2026",
-      "description": "Today's best bets + Parlay of the Day + Yordan Alvarez + Vikings' Week 1 QB",
+      "title": "College World Series futures odds 2026: Expert reveals college baseball picks, predictions for Omaha",
+      "description": "David Bearman has locked in his best futures picks for the College World Series 2026, which begins on Friday, June 12",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/",
+      "url": "https://www.cbssports.com/mlb/news/college-world-series-2026-futures-odds-expert-picks-predictions-for-omaha/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Brendan Sorsby granted 2026 eligibility: Texas Tech QB wins injunction vs. NCAA amid gambling probe",
-      "description": "A judge ruled on Monday that Sorsby will be eligible to participate during the 2026 season",
+      "title": "2026 College World Series schedule: Scores, bracket, TV times as NCAA baseball's best descend on Omaha",
+      "description": "Five of the eight CWS teams hail from the SEC, which seeks its seventh consecutive national championship",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/brendan-sorsby-granted-2026-eligibilty-texas-tech-qb-ncaa-gambling/",
+      "url": "https://www.cbssports.com/general/news/college-world-series-schedule-2026-scores-bracket-tv-times/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Nine Tarik Skubal blockbuster proposals that would...",
-      "description": "Where should Detroit send the best pitcher on the planet? Here are our best offers for the Tigers ace.",
+      "title": "Brown on FT gap: 'Never thought I'd see' in Finals...",
+      "description": "Knicks coach Mike Brown criticized the officiating in Game 3 of the NBA Finals after the Spurs shot 24 free throws in the second half to New York's eight.",
       "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/48968175/2026-mlb-trade-deadline-tarik-skubal-offers-tigers-dodgers-yankees-cubs-brewers-braves",
+      "url": "https://www.espn.com/nba/story/_/id/49006693/knicks-coach-mike-brown-criticizes-free-throw-disparity-game-3-loss-spurs",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Mason Miller is so good -- even AI can't replicate...",
-      "description": "Not even MLB's most advanced technology can replicate the dominant San Diego Padres closer.",
+      "title": "Rams' Jackson faces domestic violence charge",
+      "description": "Rams left tackle Alaric Jackson was arrested on a felony domestic violence charge Monday night, the Los Angeles Police Department confirmed to ESPN.",
       "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/48975512/mlb-2026-mason-miller-san-diego-padres-closer-ai",
+      "url": "https://www.espn.com/nfl/story/_/id/49010238/rams-alaric-jackson-arrested-domestic-violence-charge",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
