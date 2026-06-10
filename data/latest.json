@@ -1,249 +1,233 @@
 {
-  "date": "2026-06-09T16:18:15.278418+00:00",
-  "edition": "#126",
-  "totalStories": 30,
+  "date": "2026-06-10T16:47:22.647866+00:00",
+  "edition": "#127",
+  "totalStories": 28,
   "podcast": {
     "show": "The Daily",
     "description": "The New York Times' daily news podcast — today's top story in 20 minutes."
   },
   "stories": [
     {
-      "title": "It’s not FAANG anymore. It’s MANGOS.",
-      "description": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new acronym to match. Say goodbye to FAANG and hello to MANGOS.",
+      "title": "The Indian government got cold feet on Starlink just before SpaceX’s IPO",
+      "description": "Problems with Starlink's India expansion could challenge SpaceX's IPO growth story.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
+      "url": "https://techcrunch.com/2026/06/10/the-indian-government-got-cold-feet-on-starlink-just-before-spacexs-ipo/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "US military claims first drone boat rescue of downed helicopter crew",
-      "description": "US Navy’s Task Force 59 achieved the drone rescue at sea near Strait of Hormuz.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/06/us-military-claims-first-drone-boat-rescue-of-downed-helicopter-crew/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Apple says it may remove some apps from the App Store if they don’t attract users",
-      "description": "Apple may begin removing existing apps that it considers stale, low-value, or unable to attract users.",
+      "title": "How memory tools can make AI models worse",
+      "description": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/09/apple-says-it-may-remove-apps-from-the-app-store-if-they-dont-attract-users/",
+      "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "FCC Wants to Kill Burner Phones by Forcing Telecoms to Get All Customers' IDs",
-      "description": "Article URL: https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/ Comments URL: https://news.ycombinator.com/item?id=48462308 Points: 23 # Comments: 8",
+      "title": "Postgres by Example",
+      "description": "Article URL: https://github.com/boringcollege/postgres-by-example Comments URL: https://news.ycombinator.com/item?id=48478410 Points: 5 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/",
+      "url": "https://github.com/boringcollege/postgres-by-example",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "High-severity vulnerability in Linux caused by a single errant character",
-      "description": "Use-after-free bug can be exploited to evade sandbox defenses.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/06/a-single-errant-character-in-the-linux-kernel-allows-attacker-to-gain-root/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Using Optical Aberrations to Distinguish Real Astronomical Transients",
-      "description": "Article URL: https://arxiv.org/abs/2606.08319 Comments URL: https://news.ycombinator.com/item?id=48462184 Points: 10 # Comments: 0",
+      "title": "The Last Evolution, by John W Campbell Jr. (1932)",
+      "description": "Article URL: https://www.gutenberg.org/files/27462/27462-h/27462-h.htm Comments URL: https://news.ycombinator.com/item?id=48478285 Points: 5 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://arxiv.org/abs/2606.08319",
+      "url": "https://www.gutenberg.org/files/27462/27462-h/27462-h.htm",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Zest launches a restaurant discovery app powered by where people actually eat",
+      "description": "Backed by Alexis Ohanian’s 776 and Kindred Ventures, Zest uses transaction data and AI to generate restaurant recommendations based on users’ real dining habits and the places they frequent.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/10/zest-launches-a-restaurant-discovery-app-powered-by-where-people-actually-eat/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+      "description": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
-      "description": "Iran warned Israel on Monday that it could resume hostilities if attacks on its Lebanese ally Hezbollah do not stop.",
+      "title": "Trump says US will hit Iran 'hard' again on Wednesday",
+      "description": "The US president warns Iran \"will have to pay the price\" for taking too long to agree a deal, after Tehran vows retaliation to any attacks.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Three arrested over Glasgow unrest and racist assaults after Belfast knife attack",
+      "description": "Police Scotland said members of the public were attacked \"because of the colour of their skin\" on Tuesday evening.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cr5jme6ld54o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Five jailed for violence at Henry Nowak police protest",
+      "description": "Disorder broke out in Southampton close to where the 18-year-old student was murdered.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwye9v0dy3yo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "'I'll never get over watching my home burn': Belfast residents reel after night of unrest",
+      "description": "A night of disorder in Belfast saw people forced to flee their homes, in protests that followed a knife attack in the north of the city.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cevl9j9y8dmo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Football regulator contacts West Ham over 'serious allegations' against Sullivan",
-      "description": "Multiple women accuse the billionaire of abusing his power and preying on them for sex, in some cases when they were in their late teens.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1ky7gndnlyo?at_medium=RSS&at_campaign=rss",
+      "title": "Taiwan drills with U.S. rocket system, firing in China's direction",
+      "description": "The drill on Wednesday marked the first time the U.S.-supplied HIMARS system has been fired into the Taiwan Strait.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/10/g-s1-127253/taiwan-drills-with-us-rocket-system-firing-in-chinas-direction",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Scrap legal equality duty for public services, says Badenoch",
-      "description": "The Conservative leader says the rules have led to public bodies becoming \"institutionally incompetent\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy5vyqykpx5o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Sea drone rescues US army helicopter crew near Strait of Hormuz",
-      "description": "An uncrewed vessel picked up two crew members of an Apache helicopter that went down on Monday, US officials tells CBS News.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&at_campaign=rss",
+      "title": "Inflation tops 4% for the first time in 3 years on spike in gasoline prices",
+      "description": "Inflation has surged to its highest level in more than three years since the U.S. and Israel launched their war on Iran, triggering a surge in gasoline prices.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/10/nx-s1-5853077/inflation-over-4-cpi-gasoline-prices",
       "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "4 states head to the polls. And, global conflicts are on the rise, new report says",
-      "description": "Voters in four states head to the polls today for their primaries. Here are the races to watch. And, global conflicts are at their highest level since World War II, data shows.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/09/g-s1-126975/up-first-newsletter-iran-israel-lebanon-primaries-election-fraud-los-angeles-global-conflicts",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "The Supreme Court is in its final stretch this term. Here are the major cases left",
-      "description": "The Supreme Court is heading into its crunch time, the part of the year when the justices are racing to finish decisions and dissents in the cases that remain undecided. Here's what's left.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/09/nx-s1-5847967/supreme-court-major-cases-left-2026",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "7h ago"
-    },
-    {
-      "title": "Six countries sanction enablers of settler violence in occupied West Bank",
-      "description": "The Western nations also say they will take further measures if Israel fails to address the situation on the ground.",
+      "title": "Mass shooting with at least 10 attackers in Johannesburg",
+      "description": "A manhunt is underway for at least 10 suspects in a mass shooting that left 12 people dead near Johannesburg.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/9/six-countries-sanction-networks-enabling-settler-violence-in-west-bank?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/mass-shooting-with-at-least-10-attackers-in-johannesburg?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "The Light Within | Ep 5 – El Salvador",
+      "description": "In a Salvadoran prison, young women from rival gangs learn to co-exist and prepare for life beyond penitentiary walls.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/making-peace/2026/6/10/the-light-within-ep-5-el?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Trump hardens tone against Iran, says ‘may keep going’ with strikes",
+      "description": "US president claims Iran is 'completely defeated' and renews threats to bomb the country's civilian infrastructure.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/10/trump-hardens-tone-against-iran-says-may-keep-going-with-strikes?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "US diplomat found dead in Myanmar, Thai woman in custody",
+      "description": "US State Department confirms the fatality, but refuses to provide more information about the person's death in Yangon.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/10/thai-woman-in-custody-after-us-diplomat-found-dead-in-myanmar?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Did Netanyahu really ‘defy’ Trump in bombing Iran?",
-      "description": "Experts say the latest confrontation has laid bare growing divisions between the two leaders.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/9/did-netanyahu-really-defy-trump-in-bombing-iran?traffic_source=rss",
+      "title": "Norway crown princess's son to stay in custody before rape verdict, says court",
+      "description": "Thr ruling overturns a lower court's decision on Monday ordering the release of the crown princess's 29-year-old son.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c621lnee131o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Deadly protests in Pakistan-administered Kashmir: What’s going on?",
-      "description": "Experts say the current crisis is part of a deeper, long-running debate about governance in the region.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/9/deadly-protests-in-pakistan-administered-kashmir-whats-going-on?traffic_source=rss",
+      "title": "Israeli strikes in southern Lebanon kill 17, reports say",
+      "description": "Nine of them were killed in a series of attacks in the town of Tayr Debba, according to Lebanon's state news agency.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cpq3d44l907o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Modi is using a cannon to kill a cockroach",
-      "description": "A student parody account has rattled India’s most powerful man and exposed just how thin his skin has become.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/6/9/modi-is-using-a-cannon-to-kill-a-cockroach?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Hundreds of aftershocks jolt Philippines as officials say death toll could rise",
-      "description": "Dozens of people are dead and hundreds more injured following an earthquake in the country's south.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ckg50pypn2eo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "8h ago"
-    },
-    {
-      "title": "300 migrants bound for UK kidnapped and threatened with kidney removal",
-      "description": "The Iraqi Kurds were captured by a militia who demanded a ransom of $5,000 (£3,700) per person.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8xwxdgvx8lo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "11h ago"
-    },
-    {
-      "title": "Social Security retirement trust fund may be depleted in 2032, new trustees report finds",
-      "description": "The Social Security Administration has released a report with new projections as to when the trust funds that help pay benefits may be depleted.",
+      "title": "Trump says 'I love the inflation' after consumer price index hits 3-year high",
+      "description": "President Trump suggested that inflation would drop when the U.S. war against Iran ends, and said, \"we've been taking out millions of barrels of oil.\"",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/09/social-security-trustees-report-depletion-dates.html",
+      "url": "https://www.cnbc.com/2026/06/10/trump-inflation-cpi-iran-oil.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Apple’s AI could usher in a historic upgrade cycle that investors are overlooking",
-      "description": "Apple’s new AI features are on track to be monetized faster than expected, thanks to increased hardware requirements and new “killer apps.”",
+      "title": "Here are all the red flags in the SpaceX IPO",
+      "description": "You have to give Elon Musk credit for his vision — and chutzpah.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/apples-ai-could-usher-in-a-historic-upgrade-cycle-that-investors-are-overlooking-2b47fbb3?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/here-are-all-the-red-flags-in-the-spacex-ipo-7c55b31e?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Social Security faces insolvency in 2032, when it would pay only 78% of benefits",
-      "description": "Social Security, which provides benefits to more than 70 million retired workers and people with disabilities, faces increased pressure from last year’s One Big Beautiful Bill Act.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/social-security-faces-insolvency-in-2032-when-it-would-pay-only-78-of-benefits-b0f0df22?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "You can calculate the exact impact a reduced Social Security check will have on your retirement success",
-      "description": "If benefits go down 22% in 2032 as predicted by the latest Trustees report, you need to know what that means for you.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/you-can-calculate-the-exact-impact-a-reduced-social-security-check-will-have-on-your-retirement-success-f0f58429?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Oil prices fall nearly 4% after U.S. Energy Secretary says Hormuz ship traffic is increasing",
-      "description": "President Donald Trump has repeatedly said a deal with Tehran to reopen Hormuz is close, but such an agreement still has not materialized.",
+      "title": "Trump pledges more Iran attacks, saying U.S. will be 'attacking them very hard'",
+      "description": "President Donald Trump promised more attacks on Iran after strikes resumed this week. Earlier this week, he said a deal to end the war was near.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/09/oil-prices-iran-war-strait-hormuz-trump-israel-lebanon.html",
+      "url": "https://www.cnbc.com/2026/06/10/trump-iran-war-attacks-deal.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "This proposed federal budget cut could eliminate job training for 42,000 vulnerable seniors",
-      "description": "A job-training program for low-income older adults is set to lose funding under President Donald Trump’s proposed budget for 2027 — just as more stringent work requirements for food aid and healthcare coverage go into e…",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-proposed-federal-budget-cut-could-eliminate-job-training-for-42-000-vulnerable-seniors-2520ac73?mod=mw_rss_topstories",
+      "title": "Sen. Warren calls on SEC to delay SpaceX IPO, flagging concerns about valuation and governance",
+      "description": "Sen. Elizabeth Warren noted Elon Musk's \"uniquely unchecked\" power as SpaceX's majority shareholder and other concerns in a letter to the SEC.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/10/spacex-elizabeth-warren-elon-musk-sec-ipo.html",
       "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "‘This would be a one-time event’: How can I take extra money from my 401(k) without triggering higher Medicare premiums?",
+      "description": "“I generally withdraw money from my traditional 401(k) for projects, larger expenses and sometimes just to stay ahead on upcoming bills.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/this-would-be-a-one-time-event-how-can-i-take-extra-money-from-my-401-k-without-triggering-higher-medicare-premiums-fef1586d?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "My 20-year-old son wanted his first credit card. I told him to skip the most obvious advice and do these 4 things instead.",
+      "description": "Plus: A credit-building shortcut that many parents overlook.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-20-year-old-son-wanted-his-first-credit-card-i-told-him-to-skip-most-of-the-advice-online-and-do-this-instead-16331ceb?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Texas Tech's decision on Brendan Sorsby threatens to throw a live grenade into college football powder keg",
+      "description": "With the Big 12 and national college football landscapes hanging in the balance, Texas Tech can't afford to take a chance on playing Sorsby",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/texas-tech-brendan-sorsby-decision-college-football/",
+      "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
       "title": "Brendan Sorsby fallout: Georgia, Nebraska boycott future games vs. Texas Tech as Big 12, Big Ten mull action",
-      "description": "Athletic directors and conference commissioners are reacting strongly to an injunction that restored Brendabfrn Soraby's for the 2026 season",
+      "description": "Athletic directors and conference commissioners are reacting strongly to an injunction that restored Brendan Sorsby's eligibility for the 2026 season",
       "source": "CBS Sports",
       "url": "https://www.cbssports.com/college-football/news/brendan-sorsby-fallout-georgia-nebraska-texas-tech-big-12-big-ten/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Free MLB home run picks, odds for June 9: Ben Rice among top HR player props for Tuesday",
-      "description": "New York's standout first baseman is one of our two favorite home run picks for Tuesday's MLB slate",
+      "title": "Fantasy Baseball Prospects Report: Cole Carrigg gets his chance; Luis Lara could be next",
+      "description": "Tuesday call-ups Cole Carrigg and Braden Montgomery make an immediate impact",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/free-mlb-home-run-picks-odds-for-june-9-ben-rice-among-top-hr-player-props-for-tuesday/",
+      "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-prospects-report-cole-carrigg-gets-his-chance/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "College World Series futures odds 2026: Expert reveals college baseball picks, predictions for Omaha",
-      "description": "David Bearman has locked in his best futures picks for the College World Series 2026, which begins on Friday, June 12",
+      "title": "From free cruises to cash-filled birthday cards: The wild shadow economy of unofficial recruiting visits",
+      "description": "Schools are increasingly paying for unofficial visits despite NCAA rules preventing it. Here's how the system works -- legally and illegally -- and why enforcement can't keep up",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/mlb/news/college-world-series-2026-futures-odds-expert-picks-predictions-for-omaha/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "2026 College World Series schedule: Scores, bracket, TV times as NCAA baseball's best descend on Omaha",
-      "description": "Five of the eight CWS teams hail from the SEC, which seeks its seventh consecutive national championship",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/general/news/college-world-series-schedule-2026-scores-bracket-tv-times/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Brown on FT gap: 'Never thought I'd see' in Finals...",
-      "description": "Knicks coach Mike Brown criticized the officiating in Game 3 of the NBA Finals after the Spurs shot 24 free throws in the second half to New York's eight.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/49006693/knicks-coach-mike-brown-criticizes-free-throw-disparity-game-3-loss-spurs",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Rams' Jackson faces domestic violence charge",
-      "description": "Rams left tackle Alaric Jackson was arrested on a felony domestic violence charge Monday night, the Los Angeles Police Department confirmed to ESPN.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49010238/rams-alaric-jackson-arrested-domestic-violence-charge",
+      "url": "https://www.cbssports.com/college-football/news/unofficial-visit-payments-nil-recruiting-loopholes/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
