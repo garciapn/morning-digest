@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-10T16:47:22.647866+00:00",
-  "edition": "#127",
+  "date": "2026-06-11T17:06:37.555428+00:00",
+  "edition": "#128",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,228 +8,228 @@
   },
   "stories": [
     {
-      "title": "The Indian government got cold feet on Starlink just before SpaceX’s IPO",
-      "description": "Problems with Starlink's India expansion could challenge SpaceX's IPO growth story.",
+      "title": "Coinbase debuts AI agent that can trade and pay for premium research",
+      "description": "Coinbase's agent can use x402 protocol to get access to data and APIs.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/10/the-indian-government-got-cold-feet-on-starlink-just-before-spacexs-ipo/",
+      "url": "https://techcrunch.com/2026/06/11/coinbase-debuts-ai-agent-that-can-trade-and-pay-for-premium-research/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "How memory tools can make AI models worse",
-      "description": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
+      "title": "Quantum Space’s military SPAC is trying to catch SpaceX’s IPO wave",
+      "description": "Quantum Space says SPACs aren't dead as it seeks a $1.2 billion deal to build military spacecraft.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+      "url": "https://techcrunch.com/2026/06/11/quantum-spaces-military-spac-is-trying-to-catch-spacexs-ipo-wave/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Postgres by Example",
-      "description": "Article URL: https://github.com/boringcollege/postgres-by-example Comments URL: https://news.ycombinator.com/item?id=48478410 Points: 5 # Comments: 0",
+      "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
+      "description": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Fable 5 lies 96% of the time",
+      "description": "Article URL: https://twitter.com/kradleai/status/2064907897373642912 Comments URL: https://news.ycombinator.com/item?id=48492613 Points: 14 # Comments: 1",
       "source": "Hacker News",
-      "url": "https://github.com/boringcollege/postgres-by-example",
+      "url": "https://twitter.com/kradleai/status/2064907897373642912",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "The Last Evolution, by John W Campbell Jr. (1932)",
-      "description": "Article URL: https://www.gutenberg.org/files/27462/27462-h/27462-h.htm Comments URL: https://news.ycombinator.com/item?id=48478285 Points: 5 # Comments: 0",
+      "title": "Software Is Made Between Commits",
+      "description": "Article URL: https://zed.dev/blog/introducing-deltadb Comments URL: https://news.ycombinator.com/item?id=48492533 Points: 5 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://www.gutenberg.org/files/27462/27462-h/27462-h.htm",
+      "url": "https://zed.dev/blog/introducing-deltadb",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Zest launches a restaurant discovery app powered by where people actually eat",
-      "description": "Backed by Alexis Ohanian’s 776 and Kindred Ventures, Zest uses transaction data and AI to generate restaurant recommendations based on users’ real dining habits and the places they frequent.",
+      "title": "These are the countries moving to ban social media for children",
+      "description": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/10/zest-launches-a-restaurant-discovery-app-powered-by-where-people-actually-eat/",
+      "url": "https://techcrunch.com/2026/06/11/social-media-ban-children-countries-list/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
-      "description": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Trump says US will hit Iran 'hard' again on Wednesday",
-      "description": "The US president warns Iran \"will have to pay the price\" for taking too long to agree a deal, after Tehran vows retaliation to any attacks.",
+      "title": "Police officer, 19, dies from crash injuries",
+      "description": "Jess Turnbull \"had so much to look forward to in her career and her life\", the chief constable says.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Three arrested over Glasgow unrest and racist assaults after Belfast knife attack",
-      "description": "Police Scotland said members of the public were attacked \"because of the colour of their skin\" on Tuesday evening.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cr5jme6ld54o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Five jailed for violence at Henry Nowak police protest",
-      "description": "Disorder broke out in Southampton close to where the 18-year-old student was murdered.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwye9v0dy3yo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "'I'll never get over watching my home burn': Belfast residents reel after night of unrest",
-      "description": "A night of disorder in Belfast saw people forced to flee their homes, in protests that followed a knife attack in the north of the city.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cevl9j9y8dmo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c621l2nkz4ko?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Taiwan drills with U.S. rocket system, firing in China's direction",
-      "description": "The drill on Wednesday marked the first time the U.S.-supplied HIMARS system has been fired into the Taiwan Strait.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/10/g-s1-127253/taiwan-drills-with-us-rocket-system-firing-in-chinas-direction",
+      "title": "Weight-loss drug Wegovy to be available in pill form in UK for first time",
+      "description": "Manufacturer Novo Nordisk says a daily tablet of the drug could be more convenient for some people than weekly injections.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c9d2pl10lqzo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Inflation tops 4% for the first time in 3 years on spike in gasoline prices",
-      "description": "Inflation has surged to its highest level in more than three years since the U.S. and Israel launched their war on Iran, triggering a surge in gasoline prices.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/10/nx-s1-5853077/inflation-over-4-cpi-gasoline-prices",
+      "title": "Asylum appeal backlog at record high, new figures show",
+      "description": "While the government has cut the backlog of cases waiting for a decision, the number of appeals has risen.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwyld5rnw9vo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Mass shooting with at least 10 attackers in Johannesburg",
-      "description": "A manhunt is underway for at least 10 suspects in a mass shooting that left 12 people dead near Johannesburg.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/mass-shooting-with-at-least-10-attackers-in-johannesburg?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "The Light Within | Ep 5 – El Salvador",
-      "description": "In a Salvadoran prison, young women from rival gangs learn to co-exist and prepare for life beyond penitentiary walls.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/making-peace/2026/6/10/the-light-within-ep-5-el?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Trump hardens tone against Iran, says ‘may keep going’ with strikes",
-      "description": "US president claims Iran is 'completely defeated' and renews threats to bomb the country's civilian infrastructure.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/10/trump-hardens-tone-against-iran-says-may-keep-going-with-strikes?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "US diplomat found dead in Myanmar, Thai woman in custody",
-      "description": "US State Department confirms the fatality, but refuses to provide more information about the person's death in Yangon.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/10/thai-woman-in-custody-after-us-diplomat-found-dead-in-myanmar?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Norway crown princess's son to stay in custody before rape verdict, says court",
-      "description": "Thr ruling overturns a lower court's decision on Monday ordering the release of the crown princess's 29-year-old son.",
+      "title": "El Niño under way and threatens weather extremes, scientists say",
+      "description": "An El Niño event has officially started, say US scientists, raising fears of extreme weather and higher temperatures.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c621lnee131o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
+      "url": "https://www.bbc.com/news/articles/c75ylx7g00xo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "3h ago"
     },
     {
-      "title": "Israeli strikes in southern Lebanon kill 17, reports say",
-      "description": "Nine of them were killed in a series of attacks in the town of Tayr Debba, according to Lebanon's state news agency.",
+      "title": "Taiwan opposition leader says Xi meeting avoided 'reunification' talk",
+      "description": "Cheng's comments come as Taiwan awaits approval on a $14 billion arms package from the U.S., and as uncertainty lingers over Washington's long-term commitment to the island's defense.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/11/g-s1-127478/taiwan-opposition-leader-says-xi-meeting-avoided-reunification-talk",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Japan reactor restart sparks fresh fears over nuclear waste storage",
+      "description": "The reboot highlights a dire problem for the country's nuclear program. Japan is running out of space to store spent nuclear fuel and lacks plans for radioactive waste disposal.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/11/g-s1-127439/japan-reactor-restart-sparks-fresh-fears-over-nuclear-waste-storage",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "US-Iran war to pull global economy to post-COVID low: World Bank",
+      "description": "Global growth forecast cut to 2.5 percent due to surging energy prices, inflation and borrowing costs.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/6/11/global-growth-to-slow-to-lowest-since-covid-due-to-iran-war-world-bank?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Gold is now the top reserve asset. Is dollar dominance at risk?",
+      "description": "Gold now accounts for 27% of global reserve holdings, overtaking US Treasuries as the world's largest reserve asset.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/11/gold-is-now-the-top-reserve-asset-is-dollar-dominance-at-risk?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Stephen Miller’s War",
+      "description": "Unelected and unaccountable, Stephen Miller has become one of the most powerful figures in modern US history.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/fault-lines/2026/6/11/stephen-millers-war?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Nigeria evacuates citizens from South Africa as anti-migrant sentiment rises",
+      "description": "Nigeria is the latest African state to repatriate citizens following reports of xenophobic attacks.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cpq3d44l907o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cq512vgyzl9o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "2h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Trump says 'I love the inflation' after consumer price index hits 3-year high",
-      "description": "President Trump suggested that inflation would drop when the U.S. war against Iran ends, and said, \"we've been taking out millions of barrels of oil.\"",
+      "title": "Deadly Sudan drone strike targets funeral procession",
+      "description": "Rights groups accuse the RSF paramilitary group of killing civilians in el-Obeid, a city on the civil war's front line.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c70yeee2jvqo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Bahrain releases footage of damage caused by intercepted Iranian drones",
+      "description": "Bahrain released video of damage in Manama after debris from intercepted Iranian drones fell in populated areas",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/bahrain-releases-footage-of-damage-caused-by-intercepted-iranian-drones?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Coinbase launches tool to let AI agents manage trading and payments",
+      "description": "Coinbase is betting that AI agents will become the primary interface for people's financial activity.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/10/trump-inflation-cpi-iran-oil.html",
+      "url": "https://www.cnbc.com/2026/06/11/coinbase-launches-tool-to-let-ai-agents-manage-trading-and-payments.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Here are all the red flags in the SpaceX IPO",
-      "description": "You have to give Elon Musk credit for his vision — and chutzpah.",
+      "title": "A will isn’t enough: 3 ways to help your loved ones before you die",
+      "description": "There are countless ways to mess up estate planning — even if you’re organized.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/here-are-all-the-red-flags-in-the-spacex-ipo-7c55b31e?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/a-will-isnt-enough-3-ways-to-help-your-loved-ones-before-you-die-be522804?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Trump pledges more Iran attacks, saying U.S. will be 'attacking them very hard'",
-      "description": "President Donald Trump promised more attacks on Iran after strikes resumed this week. Earlier this week, he said a deal to end the war was near.",
+      "title": "Brace for SpaceX’s stock to show ‘extreme’ volatility, a bullish analyst warns",
+      "description": "Early analyst coverage of SpaceX’s stock is starting to roll in now that the IPO is imminent.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/brace-for-spacexs-stock-to-show-extreme-volatility-a-bullish-analyst-warns-589ea226?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Americans are trading Tuscany for Tacoma, thanks to soaring airfares",
+      "description": "Surging airfares have made it harder for price-conscious travelers to justify summer vacations in Europe — and many are opting to travel within the U.S. instead.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/rip-euro-summer-americans-are-trading-tuscany-for-tacoma-thanks-to-soaring-airfares-44751904?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Oracle’s stock is seeing its worst run in a quarter-century as this key AI debate rages on",
+      "description": "While Oracle’s cloud-infrastructure business is growing rapidly, a massive $95 billion spending plan and a physical bottleneck in data-center deliveries are giving investors pause.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/oracles-stock-is-seeing-its-worst-run-in-a-quarter-century-as-this-key-ai-debate-rages-on-49b3e9ed?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Trump threatens to seize Kharg Island and other Iran oil infrastructure",
+      "description": "Trump said the forthcoming operations to take over Iran's oil infrastructure, and its oil and gas markets, would be similar to U.S. actions in Venezuela.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/10/trump-iran-war-attacks-deal.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Sen. Warren calls on SEC to delay SpaceX IPO, flagging concerns about valuation and governance",
-      "description": "Sen. Elizabeth Warren noted Elon Musk's \"uniquely unchecked\" power as SpaceX's majority shareholder and other concerns in a letter to the SEC.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/10/spacex-elizabeth-warren-elon-musk-sec-ipo.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "‘This would be a one-time event’: How can I take extra money from my 401(k) without triggering higher Medicare premiums?",
-      "description": "“I generally withdraw money from my traditional 401(k) for projects, larger expenses and sometimes just to stay ahead on upcoming bills.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-would-be-a-one-time-event-how-can-i-take-extra-money-from-my-401-k-without-triggering-higher-medicare-premiums-fef1586d?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "My 20-year-old son wanted his first credit card. I told him to skip the most obvious advice and do these 4 things instead.",
-      "description": "Plus: A credit-building shortcut that many parents overlook.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-20-year-old-son-wanted-his-first-credit-card-i-told-him-to-skip-most-of-the-advice-online-and-do-this-instead-16331ceb?mod=mw_rss_topstories",
+      "url": "https://www.cnbc.com/2026/06/11/trump-says-us-will-seize-kharg-island-and-other-oil-infrastructure-points.html",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Texas Tech's decision on Brendan Sorsby threatens to throw a live grenade into college football powder keg",
-      "description": "With the Big 12 and national college football landscapes hanging in the balance, Texas Tech can't afford to take a chance on playing Sorsby",
+      "title": "Cardinals vs. Mets line, odds, prediction, time: 2026 MLB picks for Thursday, June 11 from proven model",
+      "description": "SportsLine's projection model, which enters Week 12 of the MLB season on a sizzling 19-7 run, has locked in its MLB predictions for the St. Louis Cardinals vs. New York Mets on Thursday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/texas-tech-brendan-sorsby-decision-college-football/",
+      "url": "https://www.cbssports.com/mlb/news/cardinals-mets-line-odds-prediction-2026-mlb-picks-thursday-june-11-best-bets/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Brendan Sorsby fallout: Georgia, Nebraska boycott future games vs. Texas Tech as Big 12, Big Ten mull action",
-      "description": "Athletic directors and conference commissioners are reacting strongly to an injunction that restored Brendan Sorsby's eligibility for the 2026 season",
+      "title": "World Cup 2026 odds, futures: USMNT's tournament hopes lie heavily with Tyler Adams, Weston McKennie",
+      "description": "The Americans have high hopes for this tournament, and two standout midfielders will be instrumental in deciding the outcome",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/brendan-sorsby-fallout-georgia-nebraska-texas-tech-big-12-big-ten/",
+      "url": "https://www.cbssports.com/soccer/news/world-cup-2026-odds-futures-usmnts-tournament-hopes-lie-heavily-with-tyler-adams-weston-mckennie/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Fantasy Baseball Prospects Report: Cole Carrigg gets his chance; Luis Lara could be next",
-      "description": "Tuesday call-ups Cole Carrigg and Braden Montgomery make an immediate impact",
+      "title": "World Cup 2026 wall chart: Printable tournament tracker, bracket to fill out groups, knockout stage and more",
+      "description": "Get ready for the 2026 World Cup with a blank, printable wall chart to fill out",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-prospects-report-cole-carrigg-gets-his-chance/",
+      "url": "https://www.cbssports.com/soccer/news/world-cup-2026-wall-chart-printable-tournament-tracker/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "From free cruises to cash-filled birthday cards: The wild shadow economy of unofficial recruiting visits",
-      "description": "Schools are increasingly paying for unofficial visits despite NCAA rules preventing it. Here's how the system works -- legally and illegally -- and why enforcement can't keep up",
+      "title": "2026 FIFA World Cup predictions, picking every game: England vs. Spain; Messi vs. Ronaldo; USMNT end drought",
+      "description": "The 48-team field produces some incredible matchups in the knockout stages, and the U.S. go on to win their first knockout game at the World Cup since 2002",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/unofficial-visit-payments-nil-recruiting-loopholes/",
+      "url": "https://www.cbssports.com/soccer/news/2026-fifa-world-cup-predictions-picking-every-game-england-vs-spain-messi-vs-ronaldo-usmnt/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     }
   ]
 }
