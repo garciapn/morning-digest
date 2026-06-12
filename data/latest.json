@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-11T17:06:37.555428+00:00",
-  "edition": "#128",
+  "date": "2026-06-12T16:31:38.203374+00:00",
+  "edition": "#129",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,228 +8,228 @@
   },
   "stories": [
     {
-      "title": "Coinbase debuts AI agent that can trade and pay for premium research",
-      "description": "Coinbase's agent can use x402 protocol to get access to data and APIs.",
+      "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+      "description": "The IPO market is back, and it’s not the same companies leading the charge. FAANG had a good run, but a new acronym is taking over: MANGOS — Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, Open…",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/11/coinbase-debuts-ai-agent-that-can-trade-and-pay-for-premium-research/",
+      "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Quantum Space’s military SPAC is trying to catch SpaceX’s IPO wave",
-      "description": "Quantum Space says SPACs aren't dead as it seeks a $1.2 billion deal to build military spacecraft.",
+      "title": "Elon Musk becomes the world’s first trillionaire after SpaceX’s historic IPO",
+      "description": "The SpaceX IPO has boosted Musk's paper wealth to more than $1,000,000,000,000 at a time when he is more hated -- and powerful -- than ever.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/11/quantum-spaces-military-spac-is-trying-to-catch-spacexs-ipo-wave/",
+      "url": "https://techcrunch.com/2026/06/12/elon-musk-becomes-the-worlds-first-trillionaire-after-spacexs-historic-ipo/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
-      "description": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
+      "title": "SpaceX opens at $150, an 11% pop for the most anticipated debut in history",
+      "description": "The company made its heavily-anticipated debut on Friday, trading higher than its initial $135 IPO price.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+      "url": "https://techcrunch.com/2026/06/12/spacex-opens-at-150-an-11-pop-for-the-most-anticipated-debut-in-history/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Fable 5 lies 96% of the time",
-      "description": "Article URL: https://twitter.com/kradleai/status/2064907897373642912 Comments URL: https://news.ycombinator.com/item?id=48492613 Points: 14 # Comments: 1",
+      "title": "Where Did Earth Get Its Oceans? Maybe It Made Them Itself",
+      "description": "Article URL: https://www.quantamagazine.org/where-did-earth-get-its-oceans-maybe-it-made-them-itself-20260612/ Comments URL: https://news.ycombinator.com/item?id=48505452 Points: 10 # Comments: 1",
       "source": "Hacker News",
-      "url": "https://twitter.com/kradleai/status/2064907897373642912",
+      "url": "https://www.quantamagazine.org/where-did-earth-get-its-oceans-maybe-it-made-them-itself-20260612/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Software Is Made Between Commits",
-      "description": "Article URL: https://zed.dev/blog/introducing-deltadb Comments URL: https://news.ycombinator.com/item?id=48492533 Points: 5 # Comments: 0",
+      "title": "Wasi: WebGPU – A Proposed WebAssembly System Interface API",
+      "description": "Article URL: https://github.com/WebAssembly/wasi-webgpu Comments URL: https://news.ycombinator.com/item?id=48505373 Points: 16 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://zed.dev/blog/introducing-deltadb",
+      "url": "https://github.com/WebAssembly/wasi-webgpu",
       "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "These are the countries moving to ban social media for children",
-      "description": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/11/social-media-ban-children-countries-list/",
+      "title": "Show HN: StackScope – I crawled over 40k indie launches to see what they ship",
+      "description": "Hey all, I built StackScope, a crawler/catalogue that looks at new product launches and shows what they were built with. It watches launches from Product Hunt, Show HN, and PeerPush, then crawls the public site behind e…",
+      "source": "Hacker News",
+      "url": "https://stackscope.dev/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Police officer, 19, dies from crash injuries",
-      "description": "Jess Turnbull \"had so much to look forward to in her career and her life\", the chief constable says.",
+      "title": "Ministers want 60% of children walking or cycling to school by 2035",
+      "description": "Thousands of safer paths and crossings are promised to help people become more active in England's towns and cities.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c621l2nkz4ko?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c3wyezwly69o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Weight-loss drug Wegovy to be available in pill form in UK for first time",
-      "description": "Manufacturer Novo Nordisk says a daily tablet of the drug could be more convenient for some people than weekly injections.",
+      "title": "Defence row exposes tensions over how to keep UK safe",
+      "description": "Ex-Defence Secretary John Healey has said the defence investment plan is \"well short of what is required\".",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c9d2pl10lqzo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c8d2q84y1gno?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Celebrated British artist David Hockney dies aged 88",
+      "description": "Hockney, one of the UK's most important and influential artists, has died at the age of 88.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgjxdr27z4o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Asylum appeal backlog at record high, new figures show",
-      "description": "While the government has cut the backlog of cases waiting for a decision, the number of appeals has risen.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwyld5rnw9vo?at_medium=RSS&at_campaign=rss",
+      "title": "A key U.S. spy tool is set to lapse on Friday — now what?",
+      "description": "The government says more than 60% of the president's daily intelligence briefing relies on information collected under a tool known as FISA Section 702. But Congress has struggled to renew it.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/12/nx-s1-5856291/fisa-702-surveillance-expiration-bill-pulte",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "SpaceX stock lifts off, rising above its IPO price",
+      "description": "The initial public offering from the rocket and AI company raised some $75 billion, making the company one of the biggest in the world — and likely making Elon Musk a trillionaire.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/12/nx-s1-5855004/stock-ai-spacex-ipo-elon-musk",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Canada is ready to become a soccer nation as it hosts World Cup opener against Bosnia-Herzegovina",
+      "description": "The World Cup is drawing attention to soccer's growing popularity in Canada. Soccer has surpassed hockey and all other sports in youth participation, according to a recent report by Jumpstart, a Canadian charity. Canada…",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/12/g-s1-127720/canada-world-cup-bosnia-herzegovina",
       "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "El Niño under way and threatens weather extremes, scientists say",
-      "description": "An El Niño event has officially started, say US scientists, raising fears of extreme weather and higher temperatures.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c75ylx7g00xo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Taiwan opposition leader says Xi meeting avoided 'reunification' talk",
-      "description": "Cheng's comments come as Taiwan awaits approval on a $14 billion arms package from the U.S., and as uncertainty lingers over Washington's long-term commitment to the island's defense.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/11/g-s1-127478/taiwan-opposition-leader-says-xi-meeting-avoided-reunification-talk",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Japan reactor restart sparks fresh fears over nuclear waste storage",
-      "description": "The reboot highlights a dire problem for the country's nuclear program. Japan is running out of space to store spent nuclear fuel and lacks plans for radioactive waste disposal.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/11/g-s1-127439/japan-reactor-restart-sparks-fresh-fears-over-nuclear-waste-storage",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "US-Iran war to pull global economy to post-COVID low: World Bank",
-      "description": "Global growth forecast cut to 2.5 percent due to surging energy prices, inflation and borrowing costs.",
+      "title": "USA vs Paraguay: World Cup fever grips Los Angeles despite Trump policies",
+      "description": "Fans in FIFA World Cup host city Los Angeles criticise the organisers and travel policies but are eager for the action.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/11/global-growth-to-slow-to-lowest-since-covid-due-to-iran-war-world-bank?traffic_source=rss",
+      "url": "https://www.aljazeera.com/sports/2026/6/12/usa-vs-paraguay-world-cup-fever-grips-los-angeles-despite-trump-policies?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Gold is now the top reserve asset. Is dollar dominance at risk?",
-      "description": "Gold now accounts for 27% of global reserve holdings, overtaking US Treasuries as the world's largest reserve asset.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/11/gold-is-now-the-top-reserve-asset-is-dollar-dominance-at-risk?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Stephen Miller’s War",
-      "description": "Unelected and unaccountable, Stephen Miller has become one of the most powerful figures in modern US history.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/fault-lines/2026/6/11/stephen-millers-war?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Nigeria evacuates citizens from South Africa as anti-migrant sentiment rises",
-      "description": "Nigeria is the latest African state to repatriate citizens following reports of xenophobic attacks.",
+      "title": "Discovery of €1.2m jewellery prompts fresh probe into former Spanish PM",
+      "description": "José Luis Rodriguez Zapatero is suspected of being unable to show proof he paid import duties on the jewellery.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cq512vgyzl9o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cjeg9p1xqdwo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Deadly Sudan drone strike targets funeral procession",
-      "description": "Rights groups accuse the RSF paramilitary group of killing civilians in el-Obeid, a city on the civil war's front line.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c70yeee2jvqo?at_medium=RSS&at_campaign=rss",
+      "title": "SpaceX IPO debuts in US markets, Musk becomes world’s first trillionaire",
+      "description": "The landmark listing cemented Musk's status as the first trillionaire and propelled SpaceX into ranks of most valuable.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/6/12/spacex-ipo-debuts-in-us-markets-musk-becomes-worlds-first-trillionaire?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Alarm as Ebola spreads into new areas of DR Congo",
+      "description": "Cases are being identified in new health zones on a near-daily basis, warns WHO's head of epidemiology.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/12/alarm-as-ebola-spreads-into-new-areas-of-dr-congo?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Activists form human Palestine flag at World Cup opener in Mexico City",
+      "description": "Pro-Palestinian demonstrators gathered in Mexico City to form a giant human Palestinian flag.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/12/activists-form-human-palestine-flag-at-world-cup-opener-in-mexico-city?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Bahrain releases footage of damage caused by intercepted Iranian drones",
-      "description": "Bahrain released video of damage in Manama after debris from intercepted Iranian drones fell in populated areas",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/bahrain-releases-footage-of-damage-caused-by-intercepted-iranian-drones?traffic_source=rss",
+      "title": "Taylor Swift makes tearful 21-minute speech as she joins Songwriters Hall of Fame",
+      "description": "The singer thanks her family as she becomes the youngest woman to be inducted into the Hall of Fame.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5yzxd0g833o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
+      "timeAgo": "5h ago"
     },
     {
-      "title": "Coinbase launches tool to let AI agents manage trading and payments",
-      "description": "Coinbase is betting that AI agents will become the primary interface for people's financial activity.",
+      "title": "SpaceX shares gain 21% as trading begins, valuing Elon Musk's rocket company at more than $2 trillion",
+      "description": "SpaceX shares soared on Friday as trading commenced on the Nasdaq.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/11/coinbase-launches-tool-to-let-ai-agents-manage-trading-and-payments.html",
+      "url": "https://www.cnbc.com/2026/06/12/spacex-stock-jumps-2-trillion.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "A will isn’t enough: 3 ways to help your loved ones before you die",
-      "description": "There are countless ways to mess up estate planning — even if you’re organized.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/a-will-isnt-enough-3-ways-to-help-your-loved-ones-before-you-die-be522804?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Brace for SpaceX’s stock to show ‘extreme’ volatility, a bullish analyst warns",
-      "description": "Early analyst coverage of SpaceX’s stock is starting to roll in now that the IPO is imminent.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/brace-for-spacexs-stock-to-show-extreme-volatility-a-bullish-analyst-warns-589ea226?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Americans are trading Tuscany for Tacoma, thanks to soaring airfares",
-      "description": "Surging airfares have made it harder for price-conscious travelers to justify summer vacations in Europe — and many are opting to travel within the U.S. instead.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/rip-euro-summer-americans-are-trading-tuscany-for-tacoma-thanks-to-soaring-airfares-44751904?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Oracle’s stock is seeing its worst run in a quarter-century as this key AI debate rages on",
-      "description": "While Oracle’s cloud-infrastructure business is growing rapidly, a massive $95 billion spending plan and a physical bottleneck in data-center deliveries are giving investors pause.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/oracles-stock-is-seeing-its-worst-run-in-a-quarter-century-as-this-key-ai-debate-rages-on-49b3e9ed?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Trump threatens to seize Kharg Island and other Iran oil infrastructure",
-      "description": "Trump said the forthcoming operations to take over Iran's oil infrastructure, and its oil and gas markets, would be similar to U.S. actions in Venezuela.",
+      "title": "Elon Musk becomes world's first trillionaire as SpaceX begins trading on the Nasdaq",
+      "description": "Elon Musk's stake in SpaceX is worth more than $766 billion. Combined with his Tesla holdings, Musk's net worth as of Friday is roughly $1.05 trillion.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/11/trump-says-us-will-seize-kharg-island-and-other-oil-infrastructure-points.html",
+      "url": "https://www.cnbc.com/2026/06/12/elon-musk-trillionaire-spacex.html",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Cardinals vs. Mets line, odds, prediction, time: 2026 MLB picks for Thursday, June 11 from proven model",
-      "description": "SportsLine's projection model, which enters Week 12 of the MLB season on a sizzling 19-7 run, has locked in its MLB predictions for the St. Louis Cardinals vs. New York Mets on Thursday",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/mlb/news/cardinals-mets-line-odds-prediction-2026-mlb-picks-thursday-june-11-best-bets/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
+      "title": "Here are all the red flags in the SpaceX IPO",
+      "description": "You have to give Elon Musk credit for his vision — and chutzpah.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/here-are-all-the-red-flags-in-the-spacex-ipo-7c55b31e?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
     },
     {
-      "title": "World Cup 2026 odds, futures: USMNT's tournament hopes lie heavily with Tyler Adams, Weston McKennie",
-      "description": "The Americans have high hopes for this tournament, and two standout midfielders will be instrumental in deciding the outcome",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/world-cup-2026-odds-futures-usmnts-tournament-hopes-lie-heavily-with-tyler-adams-weston-mckennie/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
+      "title": "Judge blocks DOJ 'anti-weaponization' fund for longer, wants guarantee it’s dead",
+      "description": "A judge gave Acting Attorney General Todd Blanche and Treasury Secretary Scott Bessent a week to submit a sworn declaration the DOJ fund was not going forward.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/12/trump-doj-fund-preliminary-injunction-blanche-bessent.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
     },
     {
-      "title": "World Cup 2026 wall chart: Printable tournament tracker, bracket to fill out groups, knockout stage and more",
-      "description": "Get ready for the 2026 World Cup with a blank, printable wall chart to fill out",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/world-cup-2026-wall-chart-printable-tournament-tracker/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
+      "title": "AMD is seen as a CPU stock — but it’s gaining ground here, too",
+      "description": "Wall Street is underestimating how much Meta will spend on AMD’s AI chips, a Citi analyst said.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/amd-is-seen-as-a-cpu-stock-but-its-gaining-ground-here-too-69a55e0f?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
     },
     {
-      "title": "2026 FIFA World Cup predictions, picking every game: England vs. Spain; Messi vs. Ronaldo; USMNT end drought",
-      "description": "The 48-team field produces some incredible matchups in the knockout stages, and the U.S. go on to win their first knockout game at the World Cup since 2002",
+      "title": "Trump denies Iran's account of deal terms, decries new drone attack: 'Dishonorable people'",
+      "description": "\"They better get their act together, and FAST!\" President Donald Trump said of Iran one day after announcing that a deal would be finalized within days.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/12/iran-us-peace-memo-strait-hormuz-oil-sanctions.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Canada vs. Bosnia and Herzegovina odds, prediction, time: 2026 World Cup picks, bets by expert on 18-8 roll",
+      "description": "SportsLine's Martin Green reveals his Canada vs. Bosnia and Herzegovina best bets for their FIFA World Cup 2026 match on Friday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/2026-fifa-world-cup-predictions-picking-every-game-england-vs-spain-messi-vs-ronaldo-usmnt/",
+      "url": "https://www.cbssports.com/soccer/news/canada-bosnia-and-herzegovina-odds-prediction-line-time-2026-world-cup-picks/",
       "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
+    },
+    {
+      "title": "SportsLine Newsletter Friday, June 12, 2026",
+      "description": "Today's best bets + Parlay of the Day + Home run picks + College World Series",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Highest-paid players at every NFL position: A look at who is cashing the biggest check heading into 2026",
+      "description": "A look at the markets by position for 2026",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/nfl/news/highest-paid-players-at-every-nfl-position/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Meet USMNT's World Cup opponents: What to know about Paraguay, Australia and Turkiye",
+      "description": "The U.S. may have gotten a favorable draw, but make no mistake -- this is a tough group across the board and one that will present plenty of challenges",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/soccer/news/usmnts-world-cup-opponents-what-to-know-about-paraguay-australia-and-turkiye/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
     }
   ]
 }
