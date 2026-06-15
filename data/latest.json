@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-14T15:26:15.058094+00:00",
-  "edition": "#131",
+  "date": "2026-06-15T18:08:59.832163+00:00",
+  "edition": "#132",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "UK set to announce social media ban for under-16s",
-      "description": "Article URL: https://www.manchestereveningnews.co.uk/news/uk-news/uk-set-announce-social-media-34119132 Comments URL: https://news.ycombinator.com/item?id=48527766 Points: 48 # Comments: 30",
-      "source": "Hacker News",
-      "url": "https://www.manchestereveningnews.co.uk/news/uk-news/uk-set-announce-social-media-34119132",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Dangerous hormone-disrupting chemicals found in US breast milk samples",
-      "description": "Article URL: https://www.theguardian.com/us-news/2026/jun/14/breast-milk-research-chemicals Comments URL: https://news.ycombinator.com/item?id=48527731 Points: 10 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://www.theguardian.com/us-news/2026/jun/14/breast-milk-research-chemicals",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "A 'cold blob' in the Atlantic could be a sign of AMOC shutdown – CNN",
-      "description": "Article URL: https://www.cnn.com/2026/06/12/climate/cold-blob-atlantic-amoc-ocean-circulation Comments URL: https://news.ycombinator.com/item?id=48527658 Points: 29 # Comments: 4",
-      "source": "Hacker News",
-      "url": "https://www.cnn.com/2026/06/12/climate/cold-blob-atlantic-amoc-ocean-circulation",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Rio de Janeiro's city government model Rio3.5 beats Qwen3.7 in recent benchmarks",
-      "description": "Article URL: https://twitter.com/zenmagnets/status/2065796012820848699 Comments URL: https://news.ycombinator.com/item?id=48527634 Points: 30 # Comments: 8",
-      "source": "Hacker News",
-      "url": "https://twitter.com/zenmagnets/status/2065796012820848699",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "The new Sonos Play has become my go-to desk and kitchen speaker",
-      "description": "The new Sonos Play can act as a portable speaker inside and outside your home.",
+      "title": "These are the countries moving to ban social media for children",
+      "description": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/",
+      "url": "https://techcrunch.com/2026/06/15/social-media-ban-children-countries-list/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "How TimescaleDB compresses time-series data",
+      "description": "Article URL: https://roszigit.com/en/blog/timescaledb-compression-hypercore Comments URL: https://news.ycombinator.com/item?id=48544451 Points: 19 # Comments: 1",
+      "source": "Hacker News",
+      "url": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Launch HN: Drafted (YC P26) – Models for residential architecture",
+      "description": "I’m Nick, founder of Drafted ( https://www.drafted.ai ). We’re training models that generate residential architecture from structured design constraints. Product demo: https://www.youtube.com/watch?v=8QkJ7jNU9y4 Residen…",
+      "source": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=48543908",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "The impossible dream of the universal remote",
-      "description": "You don't really ever have to explain why a universal remote is a good idea. You have a bunch of stuff that needs controlling; this thing controls them all. Many companies have set out to build a product worthy of this…",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/podcast/949620/harmony-universal-remote-version-history",
+      "title": "20 years of Intel Macs: Why Apple switched, and why it switched again",
+      "description": "Remembering the ups and downs of the Intel Mac era as it finally winds down.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/06/20-years-of-intel-macs-why-apple-switched-and-why-it-switched-again/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Lewis Hamilton wins first grand prix for Ferrari",
-      "description": "Lewis Hamilton takes his first victory for Ferrari in a compelling Barcelona-Catalunya Grand Prix as championship leader Kimi Antonelli retires.",
+      "title": "Good news—we have extra time before the Sun ends life on Earth",
+      "description": "Will the Sun roast Earth’s plants or starve them?",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/06/good-news-we-have-extra-time-before-the-sun-ends-life-on-earth/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+      "description": "Article URL: https://tinywind.io Comments URL: https://news.ycombinator.com/item?id=48543475 Points: 162 # Comments: 39",
+      "source": "Hacker News",
+      "url": "https://tinywind.io",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Under-16s to be banned from TikTok, YouTube and other social media by next spring, Starmer says",
+      "description": "Sites including Instagram, YouTube and TikTok will become inaccessible for millions of children, the prime minister has announced.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/sport/formula1/articles/cn8k5n737p4o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c2kydl0zqeko?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Royal Marines board Russian shadow fleet oil tanker in English Channel",
-      "description": "Marines were joined by National Crime Agency officers in the six-hour long operation in the early hours of Sunday.",
+      "title": "Teacher guilty of sexually abusing and murdering adopted baby",
+      "description": "Preston Davey died after months of sexual and physical abuse at the hands of Jamie Varley.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyek039l2vo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cvgld0vywpmo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Swiss voters reject 10 million population cap, early projections say",
-      "description": "Not all votes have been counted, but the current trend suggests 55% of participants voted against the proposal.",
+      "title": "Russia was behind arson attacks targeting PM, BBC reveals",
+      "description": "Evidence shows Russians directing the plot and stoking tensions with fake far-right and Muslim groups.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Tech firms had 'enough time' says Nandy, ahead of social media announcement",
-      "description": "The prime minister is expected to announce measures on protecting teenagers online on Monday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce8jyp78mklo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "5h ago"
-    },
-    {
-      "title": "Here's who's missing at the World Cup: Soccer-playing grannies!",
-      "description": "The World Cup isn't the only global soccer event of note. Check out the Grannies International Football Tournament.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/14/g-s1-127865/world-cup-soccer-grannies",
+      "url": "https://www.bbc.com/news/articles/c8r2l352z2do?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "4h ago"
     },
     {
-      "title": "Trump's UFC fights bring historic spectacle to White House",
-      "description": "Seven cage fights will be held on the White House grounds in honor of the nation's upcoming 250th anniversary.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/14/nx-s1-5854962/trump-ufc-white-house-fights",
+      "title": "Social media ban - bold and blunt, but no silver bullet",
+      "description": "The BBC's technology editor Zoe Kleinman on the big changes coming down the line for young people online.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cddl65dp0rdo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "6h ago"
+      "timeAgo": "5h ago"
     },
     {
-      "title": "EU set to hold membership talks with Ukraine",
-      "description": "EU set to hold membership talks with Ukraine",
+      "title": "Soccer Edition: Watch World Cup highlights from across the NPR Network",
+      "description": "The 2026 World Cup is playing out in communities across the country. Journalists from NPR and its member stations are in your city — capturing the excitement and asking the important questions.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/15/g-s1-126999/soccer-edition-watch-world-cup-highlights-from-across-the-npr-network",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "As the U.S. turns 250, this historian has blunt advice: 'America has to grow up'",
+      "description": "In America, U.S.A., Princeton historian Eddie Glaude Jr. looks at the country through the lens of its previous anniversaries and centennials. \"The divided soul of the nation is in full view,\" he says.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/15/nx-s1-5856348/america-250-eddie-glaude",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Bus crash in Ethiopian mountains kills at least 31",
+      "description": "Ethiopia is one of the worst countries in the world for road traffic accidents and has notoriously dangerous roads.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/eu-set-to-hold-membership-talks-with-ukraine?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/6/15/bus-crash-in-ethiopian-mountains-kills-at-least-31?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "‘We were herded like animals’: Freed from Boko Haram captivity",
-      "description": "More than 360 people abducted by Boko Haram have been rescued in northeastern Nigeria.",
+      "title": "Mass return to southern Lebanon following US-Iran agreement",
+      "description": "Mass return to southern Lebanon following US-Iran agreement",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/we-were-herded-like-animals-freed-from-boko-haram-captivity?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/mass-return-to-southern-lebanon-following-us-iran-agreement?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Teen shot and buses torched in Manhattan after historic NBA win for Knicks",
-      "description": "At least 63 people were arrested in the disorder after the Knicks beat the Spurs to clinch the title.",
+      "title": "South African jazz legend Abdullah Ibrahim dies at 91",
+      "description": "Ibrahim helped define a genre of South African jazz music in a career that spanned eight decades.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8623n5pq2vo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cy5vngrq3q5o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "US asks Anthropic to block global access to top AI models: Why it matters",
-      "description": "Foreigners barred from accessing top AI models, underscoring Donald Trump's policy of export controls over high tech.",
+      "title": "Iran vs New Zealand: World Cup team news, start, lineups and where to watch",
+      "description": "After uncertainty over their participation and a disrupted build-up, Iran are set to begin their World Cup campaign.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/14/us-asks-anthropic-to-block-global-access-to-top-ai-models-why-it-matters?traffic_source=rss",
+      "url": "https://www.aljazeera.com/sports/2026/6/15/iran-vs-new-zealand-world-cup-team-news-start-lineups-and-where-to-watch?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Donald Trump’s name removed from Kennedy Center",
-      "description": "Trump’s name has been removed from the Kennedy Center after a court ruling, but adorns many other things and places.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/donald-trumps-name-removed-from-kennedy-center?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Tourist train overturns and injures 17 during Cártama tapas festival",
-      "description": "Nobody was seriously hurt as a result of the accident in the Spanish town, local authorities say.",
+      "title": "Norwegian crown princess's son found guilty of two counts of rape",
+      "description": "Marius Borg Høiby, the 29-year-old son of Norway's Crown Princess Mette Marit, has been sentenced to four years in jail.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c14yn10jzyeo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "U.S. peace deal with Iran in question as Israel strikes Lebanon, Trump warns not to 'blow it'",
-      "description": "An initial deal to end the war and open the Strait of Hormuz was expected to be signed this week.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/14/iran-deal-teeters-israel-strikes-lebanon.html",
-      "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it",
-      "description": "Mark Zuckerberg's mega spending spree began a year ago, when he lured Alexandr Wang to oversee a new AI strategy. The results so far are underwhelming.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/14/meta-hired-alexandr-wang-to-build-ai-its-zuckerbergs-job-to-sell-it.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "title": "Trump says Iran deal ‘all signed’",
+      "description": "US President Donald Trump has said the agreement with Iran is 'all signed'.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/trump-says-iran-deal-all?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
     },
     {
-      "title": "We thought we found the perfect luxury retirement community, but it’s millions of dollars in debt. Are we trapped?",
-      "description": "“If we were to leave, we would lose a portion of our buy-in — about $80,000.”",
+      "title": "I’m spending $170,000 to upgrade my home for my aging parents. Can I get tax breaks?",
+      "description": "“Given that at least half of the remodeling cost is to accommodate my disabled mother, I’m wondering if some of this may be tax deductible.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-thought-we-found-the-perfect-luxury-retirement-community-but-its-millions-of-dollars-in-debt-are-we-trapped-cde2e8f5?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/im-spending-170-000-to-upgrade-my-home-for-my-aging-parents-can-i-get-tax-breaks-3adf0236?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Social Security gave me conflicting answers about my cheating ex-husband’s record. What should I do?",
+      "description": "“I was married to my former husband for 23 years. After repeated instances of infidelity, we divorced.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/social-security-gave-me-conflicting-answers-about-my-cheating-former-husbands-record-what-should-i-do-ee7f1e56?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "My elderly mother and I own a home together. Will Medicaid force its sale?",
+      "description": "“My sister thinks Medicaid will take the house my mom and I own together.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-elderly-mother-and-i-own-a-home-together-will-medicaid-force-its-sale-fdfbad4a?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Social Security’s woes are well known, but Medicare is also facing a fiscal crisis — in just 7 years",
+      "description": "Medicare Part A, which pays for inpatient hospital stays, would see an 11% payment cut.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/social-securitys-woes-are-well-known-but-medicare-is-also-facing-a-fiscal-crisis-in-just-7-years-a5915c6d?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Vance says 'a lot' of Iran deal details to figure out, but U.S. has 'all the cards'",
+      "description": "Vance on CNBC's \"Squawk Box\" expressed confidence that America has \"all the cards\" in subsequent talks with Iran.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/15/vance-iran-deal-negotiations-nuclear.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "SpaceX IPO raises total of $85.7 billion as underwriters exercise 'greenshoe' overallotment option",
+      "description": "Elon Musk's space and artificial intelligence company raised an initial $75 billion on Thursday.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/15/spacex-ipo-spcx-greenshoe-overallotment.html",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "‘This would be a one-time event’: How can I take extra money from my 401(k) without triggering higher Medicare premiums?",
-      "description": "“I generally withdraw money from my traditional 401(k) for projects, larger expenses and sometimes just to stay ahead on upcoming bills.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-would-be-a-one-time-event-how-can-i-take-extra-money-from-my-401-k-without-triggering-higher-medicare-premiums-fef1586d?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Defaults in debt markets are starting again, warns Pimco. Here’s the bond giant’s game plan.",
-      "description": "Investors should increasingly seek out fixed income to anchor portfolios as equity valuations look stretched, says Pimco.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/defaults-in-debt-markets-are-starting-again-warns-pimco-heres-the-bond-giants-game-plan-16559c6d?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "SpaceX shows investors still want moonshots. The Fed may test that theory this week.",
-      "description": "Higher interest rates could make the AI growth story that’s been powering the bull market harder to justify.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/spacex-shows-investors-still-want-moonshots-the-fed-may-test-that-theory-this-week-d7771f3a?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Golden Knights vs. Hurricanes odds, prediction, time: 2026 NHL Stanley Cup Final Game 6 picks by proven model",
-      "description": "SportsLine's model reveals its Carolina Hurricanes vs. Vegas Golden Knights picks for their 2026 NHL Stanley Cup Final Game 6 matchup on Sunday",
+      "title": "Free MLB home run picks, odds: Junior Caminero features in expert's top Monday HR player props for June 15",
+      "description": "SportsLine expert Angelo \"Amags\" Magliocca is revealing his top MLB home run props picks for June 15, and the Rays star has been hammering the ball",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nhl/news/golden-knights-hurricanes-odds-prediction-line-time-2026-nhl-stanley-cup-final-game-6-picks-best-bets/",
+      "url": "https://www.cbssports.com/betting/news/free-mlb-home-run-picks-odds-junior-caminero-features-in-experts-top-monday-hr-player-props-for-june-15/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Where to watch UFC White House: Start time for fight card on Paramount+ and more info on UFC Freedom 250 event",
-      "description": "Complete schedule and viewing information so you can watch UFC Freedom 250 live at the White House on Sunday",
+      "title": "2026 U.S. Open sleepers and picks: Five players who could follow J.J. Spaun, cash long odds and surprise",
+      "description": "Chris Gotterup has contended at majors; is it time for him to break through and enter the winner's circle?",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/ufc/news/where-to-watch-ufc-white-house-start-time-fight-card-paramount-ufc-freedom-250-event/",
+      "url": "https://www.cbssports.com/golf/news/us-open-sleepers-picks-2026/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Red Sox vs. Rangers prediction, odds, time: 2026 MLB picks for Sunday Night Baseball from advanced model",
-      "description": "SportsLine's model simulated Boston Red Sox vs. Texas Rangers 10,000 times and revealed its MLB predictions and Sunday Night Baseball picks",
+      "title": "NBA rumors: Celtics have made an offer for Giannis Antetokounmpo; Aaron Gordon drawing interest",
+      "description": "The Knicks are NBA champions and the offseason is officially underway",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/mlb/news/red-sox-rangers-prediction-odds-time-2026-mlb-picks-sunday-night-baseball/",
+      "url": "https://www.cbssports.com/nba/news/nba-trade-rumors-giannis-antetokounmpo-celtics-offer-nuggets-aaron-gordon/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "After Knicks' long-awaited title, ranking NFL teams most likely to end their Super Bowl droughts in 2026",
-      "description": "New York finally ended its 53-year NBA championship drought. We ranked NFL teams most likely to end their own title drought in 2026",
+      "title": "Royal Ascot 2026: Top horses, races, odds, preview for five-day meet in England",
+      "description": "This week's meet at Royal Ascot is set to feature several of the world's best horses and what may be the race of the year in Europe",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/super-bowl-drought-rankings-2026/",
+      "url": "https://www.cbssports.com/general/news/royal-ascot-2026-top-horses-races-odds-preview-for-five-day-meet-in-england/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
