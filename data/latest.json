@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-17T16:46:25.113403+00:00",
-  "edition": "#134",
+  "date": "2026-06-18T16:45:11.022720+00:00",
+  "edition": "#135",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,228 +8,228 @@
   },
   "stories": [
     {
-      "title": "Google bets on Gemini to reinvent the smart home speaker",
-      "description": "Google is betting generative AI can breathe new life into the smart speaker. The company's new $99.99 Google Home Speaker replaces the rigid commands of the Google Assistant era with more conversational Gemini interacti…",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
-      "description": "Hey HN! I'm Zach from Adam ( https://adam.new/ ). We're building AI agents for mechanical CAD software. We’ve built the company on two fundamental beliefs: - AI will be the primary medium for creating mechanical designs…",
+      "title": "The Harajuku Moment",
+      "description": "Article URL: https://tim.blog/2024/02/09/harajuku-moment/ Comments URL: https://news.ycombinator.com/item?id=48587527 Points: 9 # Comments: 5",
       "source": "Hacker News",
-      "url": "https://github.com/Adam-CAD/CADAM",
+      "url": "https://tim.blog/2024/02/09/harajuku-moment/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "PayPal Ventures shutters as company restructuring continues",
-      "description": "The corporate venture arm ends after 10 years and 80 investments.",
+      "title": "Apple opens up App Store to new competition in Brazil",
+      "description": "Apple’s grip on iPhone app distribution is loosening in another major market: Brazil.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/17/paypal-ventures-shutters-as-company-restructuring-continues/",
+      "url": "https://techcrunch.com/2026/06/18/apple-opens-up-app-store-to-new-competition-in-brazil/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Ten months later, the $100 Google Home Speaker is finally available for preorder",
-      "description": "Google's new smart speaker is more about Gemini than audio quality.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/",
+      "title": "MapTap, a daily geography game, is my new Wordle",
+      "description": "MapTap is a phone game that will make you feel smarter after you play it.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/18/maptap-a-daily-geography-game-is-my-new-wordle/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Towers once planned for California shuttle launches leveled for SpaceX rockets",
-      "description": "\"Space Launch Complex-6 represents six decades of American innovation.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/06/towers-once-planned-for-california-shuttle-launches-leveled-for-spacex-rockets/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Agentic coding deserves more than a chat box bolted onto VS Code",
-      "description": "Article URL: https://github.com/evanklem/polypore Comments URL: https://news.ycombinator.com/item?id=48571811 Points: 21 # Comments: 8",
-      "source": "Hacker News",
-      "url": "https://github.com/evanklem/polypore",
+      "title": "General Intuition in talks to raise $300M at around $2B valuation",
+      "description": "The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "BBC announces 550 job cuts as first part of £500m savings plan",
-      "description": "In an email to staff, the corporation laid out proposals for the initial 200 job losses in the news division.",
+      "title": "TerraPower in Deal with Meta for Eight Natrium 345 MW Advanced Nuclear Plants",
+      "description": "Article URL: https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants/ Comments URL: https://news.ycombinator.com/item?id=48586648 Points: 23 # Comments: 13",
+      "source": "Hacker News",
+      "url": "https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight",
+      "description": "Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Man arrested on suspicion of attempted murder after boy injured in crocodile enclosure",
+      "description": "A three-year-old boy was taken to Addenbrooke's Hospital with critical injuries and is in a stable condition, Cambridgeshire Police said.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgmqrrlej5o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/czx50n2vj74o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Iran sends tankers loaded with oil past US military blockade",
-      "description": "Three Iranian tankers loaded with crude oil have passed the US blockade line in the Gulf of Oman, ship-tracking data shows.",
+      "title": "Bowen: US-Iran deal raises inescapable question of what the war was for",
+      "description": "While the human cost is clear, the Iranian regime has not just survived the war, it has been empowered.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Greetings from Maputo, Mozambique's capital, shaped by a modernist architecture",
-      "description": "An impromptu tour of Mozambique's capital city reveals a unique imprint left by architect Amâncio \"Pancho\" Guedes.",
+      "title": "Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery",
+      "description": "A refinery and a shopping centre burned after almost 200 Ukrainian drones struck an area to the south-east of the Russian capital.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Teacher who murdered adopted baby son Preston Davey given whole life prison sentence",
+      "description": "Preston Davey died after months of sexual and physical abuse at the hands of Jamie Varley.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/czrx8gj112mo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Read the full text of Trump's preliminary U.S.-Iran agreement to end the war",
+      "description": "Here is the text of the memorandum of understanding that was signed Wednesday by President Trump and Iranian President Masoud Pezeshkian, as well as Pakistan's prime minister.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/06/17/nx-s1-5853087/maputo-mozambique-modernist-architecture",
+      "url": "https://www.npr.org/2026/06/18/nx-s1-5863027/us-iran-trump-memorandum-of-understanding-full-text",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Pakistan ends 'luxury tax' on menstrual products, contraceptives. Will prices drop?",
-      "description": "In Pakistan, taxes on menstrual products can add up. Activists have long worked to change this. Now a new budget wipes out the 18% sales tax. But questions remain about the impact on prices.",
+      "title": "Ukraine hits a Moscow oil refinery and other sites in a large-scale drone attack",
+      "description": "Ukraine launched a new wave of drone attacks on Russia early Thursday, amounting to one of the largest attacks on the Russian capital since the Kremlin ordered the invasion of Ukraine more than four years ago.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/06/17/g-s1-128442/menstrual-products-contraceptives-pakistan-luxury-tax",
+      "url": "https://www.npr.org/2026/06/18/g-s1-128782/moscow-ukraine-drone-attack-russia-oil-refinery",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "PM warns Burnham against immediate leadership challenge if he wins by-election",
-      "description": "Keir Starmer says Labour should focus on a subsequent Manchester mayoral race if Andy Burnham wins in Makerfield.",
+      "title": "Lebanon Latest: Tensions remain despite US-Iran deal",
+      "description": "Residents return home as a fragile ceasefire takes hold across southern Lebanon.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/aje-onl-aje_onl_lebanon_wrap-180626?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Niger says soldiers, civilians killed in armed attack on Niamey airport",
+      "description": "Ministry of Defence says 11 soldiers, 2 civilians and 22 attackers killed in Diori Hamani International Airport assault.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/18/niger-says-soldiers-civilians-killed-in-armed-attack-on-niamey-airport?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Gunmen attack Niger's biggest airport for second time in months",
+      "description": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn4dj7n83yqo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "7h ago"
-    },
-    {
-      "title": "Taiwan says Chinese pressure over the island is the \"new normal\"",
-      "description": "Taiwan's Foreign Ministry on Tuesday said the scholars' passports and mobile phones were confiscated, and they were detained in Mombasa for more than 20 hours before being allowed to leave the country.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/17/g-s1-128550/taiwan-says-chinese-pressure-over-the-island-is-the-new-normal",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Massive brush fire sends thick smoke over western Miami",
-      "description": "Aerial footage captured a brush fire that blanketed a residential neighbourhood near Miami with heavy smoke.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/aje-onl-nf_massive-brush-fire-sends-thick-smoke-over-miami-170626?traffic_source=rss",
+      "url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Trump: ‘Very strong’ Iran deal is a ‘wall to a nuclear weapon’",
-      "description": "US President Donald Trump claimed that the scheduled signing of his Iran “peace deal” in Geneva on Friday would be succe",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-very-strong-iran-deal-is-a-wall-to-a-nuclear?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Why are experts warning latest Ebola outbreak could be ‘worst ever’?",
-      "description": "The virus is spreading faster than health workers can track it and international funding has slumped.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/17/why-are-experts-warning-latest-ebola-outbreak-could-be-worst-ever?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "England vs Croatia: LIVE – World Cup 2026",
-      "description": "Follow our live build-up, with full team news coverage, ahead of our text commentary stream.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/6/17/england-vs-croatia-live-world-cup-2026?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Search for six-year-old Ebola patient after armed men storm DR Congo hospital",
-      "description": "Health facilities have come under attack during the current outbreak as a result of misinformation and fear.",
+      "title": "Why Iran believes deal with US leaves it stronger than before",
+      "description": "Iran has come out of the war's first chapter stronger than many expected, but its next challenge may be harder, the BBC Persian Service's Amir Azimi writes.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgep4l397eo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "5h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Israel launches fresh strikes on Lebanon despite Trump criticism",
-      "description": "Speaking on Tuesday, Trump said Israel's PM Benjamin Netanyahu needed \"to be more responsible with respect to Lebanon\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss",
+      "title": "US progressive Lewis George on track to become DC mayor after Trump threats",
+      "description": "The Democratic Socialist has vowed aggressive response to Trump, who has said he could 'take back' DC if she wins.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/18/us-progressive-lewis-george-on-track-to-become-dc-mayor-after-trump-threats?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "6h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Historic NBA Finals ratings and Fox’s $22 billion Roku deal show live sports are key to winning the streaming wars",
-      "description": "“In this streaming-first world, live, shared moments are a rare thing. Sports is where that still exists.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/record-world-cup-nba-finals-ratings-show-live-sports-are-tvs-most-valuable-asset-82c2a970?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "title": "Continuity or change? What to know about Colombia’s run-off election",
+      "description": "Far-right Abelardo de la Espriella and leftist Ivan Cepeda compete for the presidency on starkly different platforms.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/18/continuity-or-change-what-to-know-about-colombias-run-off-election?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Retail investors have been buying more SpaceX shares than all of the ‘Magnificent Seven’ combined",
-      "description": "Retail investors net bought $369.8 million worth of SpaceX stock in the first three days of trading.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/retail-investors-have-been-buying-more-spacex-shares-than-all-of-the-magnificent-seven-combined-877f6667?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "JetBlue to reduce Newark, LaGuardia footprint as it forges ahead in Fort Lauderdale",
-      "description": "JetBlue is planning to cut crew bases at Newark Liberty International Airport in New Jersey and New York's LaGuardia Airport.",
+      "title": "Oil prices fall after Vance says more than 12 million barrels exit Strait of Hormuz",
+      "description": "Oil declines as Mideast peace prospects rise following U.S.-Iran deal.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/17/jetblue-to-reduce-newark-laguardia-footprint-as-it-expands-in-florida.html",
+      "url": "https://www.cnbc.com/2026/06/18/oil-prices-today-wti-brent.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Watch: Trump speaks at G7 summit after threatening Iran",
-      "description": "U.S. President Donald Trump said Wednesday at the G7 conference that the U.S. will \"go right back to dropping bombs\" if he doesn't like the Iran deal.",
+      "title": "Vance says U.S. isn’t giving Iran ‘a cent’ as he defends Trump peace deal",
+      "description": "\"The only way the Iranians get any of these resources ... is if they comply fully\" with the terms of the deal, Vice President JD Vance said.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/17/trump-us-iran-deal-g7.html",
+      "url": "https://www.cnbc.com/2026/06/18/vance-iran-war-memo-oil-gas.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Trump sabotages Senate bid to fast-track Clayton as DNI",
-      "description": "Any delay, and continuation of acting DNI Bill Pulte in the role, is likely to endanger the reauthorization of a key U.S. intelligence authority.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/17/jay-clayton-dni-hearing-congress-trump-cancel.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "The $124 trillion Great Wealth Transfer is real — but the IRS or a nursing home might get your family’s money first",
-      "description": "From Medicaid cuts to an IRA tax trap, here are the real threats to your family’s inheritance and what to do about them.",
+      "title": "These stocks are in trouble now that Kevin Warsh removed the market’s guardrails",
+      "description": "The new Fed chief is ditching the central bank’s playbook — leaving your portfolio flying blind.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-great-wealth-transfer-is-real-but-the-irs-or-a-nursing-home-might-get-your-money-first-d0c46676?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/these-stocks-are-in-trouble-now-that-kevin-warsh-removed-the-markets-guardrails-f7f1e51c?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Fed Chair Kevin Warsh wants to get inflation under control. That could be bad news for home buyers seeking lower mortgage rates.",
+      "description": "The Federal Reserve is in a “new era,” but home buyers are facing the same old affordability challenges.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/fed-chair-kevin-warsh-wants-to-get-inflation-under-control-that-could-be-bad-news-for-home-buyers-seeking-lower-mortgage-rates-99fb4aad?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Gen Z’s ‘chicken before the egg’ credit problem: How to build your score when lenders keep saying no",
+      "description": "Half of Gen Z-ers say they don’t have enough access to the credit they need to reach their financial goals",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/gen-z-needs-to-build-credit-to-start-adulting-but-half-say-they-cant-get-it-heres-how-to-start-ef3e100c?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "How Texas Tech played itself, and the Big 12 commissioner rose to meet his tenure-defining moment",
-      "description": "As we turn the page on the Brendan Sorsby we look back at how Texas Attorney General Ken Paxton's threat unified the Big 12, and commissioner Brett Yormark pulled all the right levers to advocate for his member schools",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/texas-tech-big-12-commissioner-brendan-sorsby/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "title": "Trump bid to fire Fed's Lisa Cook cost her more than $1M in legal, security costs: Filing",
+      "description": "A financial disclosure from Federal Reserve Governor Lisa Cook details large legal and security expenses",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/18/trump-federal-reserve-lisa-cook-security-filing.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Czechia vs. South Africa odds, prediction, time: 2026 World Cup picks, best bets from expert on 18-8 roll",
-      "description": "SportsLine's Martin Green reveals his Czechia vs. South Africa best bets for their FIFA World Cup 2026 match on Thursday",
+      "title": "Free MLB home run picks, odds for June 18: Byron Buxton in expert's best bets for Thursday HR player props",
+      "description": "SportsLine's Jacob Fetner reveals his best MLB home run props picks for Thursday, June 18",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/czechia-south-africa-odds-prediction-time-2026-world-cup-picks-best-bets/",
+      "url": "https://www.cbssports.com/betting/news/free-mlb-home-run-picks-odds-june-18-byron-buxton-experts-best-bets-thursday-hr-player-props/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for England-Croatia, Panama-Ghana, 2026 World Cup",
-      "description": "Use the latest BetMGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for England vs. Croatia, 2026 World Cup betting on Wednesday",
+      "title": "USMNT vs. Australia odds, prediction, time: 2026 World Cup picks, best bets by expert on 18-8 roll",
+      "description": "SportsLine's Martin Green reveals his Australia vs. USA best bets for their FIFA World Cup 2026 match on Friday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-england-croatia-panama-ghana-2026-world-cup/",
+      "url": "https://www.cbssports.com/soccer/news/usmnt-australia-odds-prediction-time-2026-world-cup-picks-soccer-bets/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "World Cup 2026: Ivory Coast player arrested for alleged spot-fixing before tournament started, per report",
-      "description": "The 23-year-old Nice forward was arrested by French police in May but still traveled to the United States to play in the Elephants' tournament opener",
+      "title": "Free agent Stefon Diggs keeps eye on Commanders: 'Back home' fans still matter",
+      "description": "The Gaithersburg, Maryland, native is deciding between the hometown NFC team and other options",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/world-cup-2026-ivory-coast-spot-fixing/",
+      "url": "https://www.cbssports.com/nfl/news/nfl-free-agent-stefon-diggs-commanders/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Fantasy football rankings 2026: Sleepers, breakouts, busts per model that called Daniel Jones' huge season",
+      "description": "SportsLine simulated the new NFL season 10,000 times to help form your early 2026 Fantasy football draft strategy",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-busts-per-model-that-called-daniel-jones-huge-season/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "1h ago"
     }
   ]
 }
