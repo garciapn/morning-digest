@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-18T16:45:11.022720+00:00",
-  "edition": "#135",
+  "date": "2026-06-19T16:18:49.674043+00:00",
+  "edition": "#136",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,228 +8,228 @@
   },
   "stories": [
     {
-      "title": "The Harajuku Moment",
-      "description": "Article URL: https://tim.blog/2024/02/09/harajuku-moment/ Comments URL: https://news.ycombinator.com/item?id=48587527 Points: 9 # Comments: 5",
-      "source": "Hacker News",
-      "url": "https://tim.blog/2024/02/09/harajuku-moment/",
+      "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+      "description": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s…",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Apple opens up App Store to new competition in Brazil",
-      "description": "Apple’s grip on iPhone app distribution is loosening in another major market: Brazil.",
+      "title": "Billionaire Ambani wants AI in every call, app, and home",
+      "description": "Reliance is weaving AI into telecom services used by more than 500 million people.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/18/apple-opens-up-app-store-to-new-competition-in-brazil/",
+      "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "MapTap, a daily geography game, is my new Wordle",
-      "description": "MapTap is a phone game that will make you feel smarter after you play it.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/18/maptap-a-daily-geography-game-is-my-new-wordle/",
+      "title": "Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars",
+      "description": "A French launch startup is scrapping the name of its rocket, apparently due to a trademark issue.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "General Intuition in talks to raise $300M at around $2B valuation",
-      "description": "The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users.",
+      "title": "The CEO of Allbirds’ new AI biz has a plan, but no employees",
+      "description": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+      "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "As global warming threatens corals, scientists search for reefs that can take the heat",
+      "description": "Researchers say these coral strongholds may help repopulate more degraded reefs.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/06/as-global-warming-threatens-corals-scientists-search-for-reefs-that-can-take-the-heat/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "5h ago"
+    },
+    {
+      "title": "The NTS Radio Player brings the best of internet radio to your hi-fi",
+      "description": "NTS Radio and Swedish audio company Atonemo have teamed up on a dedicated player that brings NTS's genre-defying mixes and streaming stations to almost any stereo or speaker setup. And, like Atonemo's existing Streampla…",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "TerraPower in Deal with Meta for Eight Natrium 345 MW Advanced Nuclear Plants",
-      "description": "Article URL: https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants/ Comments URL: https://news.ycombinator.com/item?id=48586648 Points: 23 # Comments: 13",
-      "source": "Hacker News",
-      "url": "https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants/",
-      "category": "🤖 TECH & AI",
+      "title": "Boy, 3, hurt at zoo was attacked by a crocodile",
+      "description": "Police say a man arrested on suspicion of attempted murder has been bailed.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp9l2278m8no?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight",
-      "description": "Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
-      "category": "🤖 TECH & AI",
+      "title": "Henry Zeffman: What does Keir Starmer do next after Andy Burnham's Makerfield win?",
+      "description": "Discussion about the prime minister's future ramps up after Makerfield by-election.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3ryp0nejdro?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Man arrested on suspicion of attempted murder after boy injured in crocodile enclosure",
-      "description": "A three-year-old boy was taken to Addenbrooke's Hospital with critical injuries and is in a stable condition, Cambridgeshire Police said.",
+      "title": "'Neither I nor Italy ever beg': Meloni says Trump made up story about photo",
+      "description": "The highly public exchange is an indication that their earlier close ties have frayed since Trump's decision to go to war with Iran.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/czx50n2vj74o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Bowen: US-Iran deal raises inescapable question of what the war was for",
-      "description": "While the human cost is clear, the Iranian regime has not just survived the war, it has been empowered.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery",
-      "description": "A refinery and a shopping centre burned after almost 200 Ukrainian drones struck an area to the south-east of the Russian capital.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Teacher who murdered adopted baby son Preston Davey given whole life prison sentence",
-      "description": "Preston Davey died after months of sexual and physical abuse at the hands of Jamie Varley.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/czrx8gj112mo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Read the full text of Trump's preliminary U.S.-Iran agreement to end the war",
-      "description": "Here is the text of the memorandum of understanding that was signed Wednesday by President Trump and Iranian President Masoud Pezeshkian, as well as Pakistan's prime minister.",
+      "title": "Historic by-election win sends message to Labour and SNP, says Badenoch",
+      "description": "Kemi Badenoch hailed the Scottish Conservatives' first by-election win since 1973, after the party took Aberdeen South from the SNP.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn8q4p34qg4o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "How and why algae clouded Trump's vision for an 'American flag blue' Reflecting Pool",
+      "description": "The shallow, sunny waters of the reflecting pool are an ideal incubator for algae growth in the summertime. Experts say the recent renovation may have helped accelerate it.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/06/18/nx-s1-5863027/us-iran-trump-memorandum-of-understanding-full-text",
+      "url": "https://www.npr.org/2026/06/19/nx-s1-5863044/dc-reflecting-pool-algae-green-trump",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Ukraine hits a Moscow oil refinery and other sites in a large-scale drone attack",
-      "description": "Ukraine launched a new wave of drone attacks on Russia early Thursday, amounting to one of the largest attacks on the Russian capital since the Kremlin ordered the invasion of Ukraine more than four years ago.",
+      "title": "US-Iran talks in Switzerland canceled. And, DHS to give police facial recognition app",
+      "description": "The U.S.-Iran talks that were set to happen in Switzerland have been canceled. And, the Department of Homeland Security has plans to give some local police access to ICE facial recognition technology.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/06/18/g-s1-128782/moscow-ukraine-drone-attack-russia-oil-refinery",
+      "url": "https://www.npr.org/2026/06/19/g-s1-129076/up-first-newsletter-vice-president-vance-iran-agreement-obama-presidential-center-judicial-system-dhs-facial-recognition",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
+      "timeAgo": "4h ago"
     },
     {
-      "title": "Lebanon Latest: Tensions remain despite US-Iran deal",
-      "description": "Residents return home as a fragile ceasefire takes hold across southern Lebanon.",
+      "title": "Israeli air strikes hit Lebanon minutes after new ceasefire",
+      "description": "Minutes after a new ceasefire had come into force between Israel and Hezbollah, explosions were seen in southern Lebanon",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/aje-onl-aje_onl_lebanon_wrap-180626?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/israeli-air-strikes-hit-lebanon-minutes-after-new-ceasefire?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Niger says soldiers, civilians killed in armed attack on Niamey airport",
-      "description": "Ministry of Defence says 11 soldiers, 2 civilians and 22 attackers killed in Diori Hamani International Airport assault.",
+      "title": "Two men jailed for arson attacks on property linked to UK prime minister",
+      "description": "The Ukrainian-born men with alleged links to Russia targeted property associated with Keir Starmer in May 2025.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/18/niger-says-soldiers-civilians-killed-in-armed-attack-on-niamey-airport?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/6/19/two-men-jailed-for-arson-attacks-on-property-linked-to-uk-prime-minister?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Gunmen attack Niger's biggest airport for second time in months",
-      "description": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
+      "title": "Israel continues attacks on Lebanon despite agreeing to ceasefire",
+      "description": "At least 47 people killed in Israeli attacks on Lebanon since midnight as US-Iran talks stall.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/19/israel-continues-attacks-on-lebanon-despite-agreeing-to-ceasefire?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Germany and Ivory Coast aim to seal World Cup knockout place: All to know",
+      "description": "Team news, prediction, and lineups as Germany and Ivory Coast meet in Group E aiming to secure last-32 qualification.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/6/19/germany-and-ivory-coast-aim-to-seal-world-cup-knockout-place?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Six-year-old Ebola patient taken from DR Congo hospital found and 'doing well'",
+      "description": "Health facilities have come under attack during the current outbreak as a result of misinformation and fear.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c0qyg29wpk2o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Why Iran believes deal with US leaves it stronger than before",
-      "description": "Iran has come out of the war's first chapter stronger than many expected, but its next challenge may be harder, the BBC Persian Service's Amir Azimi writes.",
+      "title": "Morocco captain Achraf Hakimi to stand trial for rape",
+      "description": "French prosecutors confirm Morocco captain Achraf Hakimi will stand trial for rape, in accusations dating back to 2023.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/football/articles/c20y18z7le1o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
+      "timeAgo": "5h ago"
     },
     {
-      "title": "US progressive Lewis George on track to become DC mayor after Trump threats",
-      "description": "The Democratic Socialist has vowed aggressive response to Trump, who has said he could 'take back' DC if she wins.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/18/us-progressive-lewis-george-on-track-to-become-dc-mayor-after-trump-threats?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Continuity or change? What to know about Colombia’s run-off election",
-      "description": "Far-right Abelardo de la Espriella and leftist Ivan Cepeda compete for the presidency on starkly different platforms.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/18/continuity-or-change-what-to-know-about-colombias-run-off-election?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Oil prices fall after Vance says more than 12 million barrels exit Strait of Hormuz",
-      "description": "Oil declines as Mideast peace prospects rise following U.S.-Iran deal.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/18/oil-prices-today-wti-brent.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Vance says U.S. isn’t giving Iran ‘a cent’ as he defends Trump peace deal",
-      "description": "\"The only way the Iranians get any of these resources ... is if they comply fully\" with the terms of the deal, Vice President JD Vance said.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/18/vance-iran-war-memo-oil-gas.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "These stocks are in trouble now that Kevin Warsh removed the market’s guardrails",
-      "description": "The new Fed chief is ditching the central bank’s playbook — leaving your portfolio flying blind.",
+      "title": "Oil prices under new wave of pressure amid lingering questions over a Strait of Hormuz reopening",
+      "description": "A flurry of headlines on Friday point to an increasingly fragile deal between the U.S. and Iran.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/these-stocks-are-in-trouble-now-that-kevin-warsh-removed-the-markets-guardrails-f7f1e51c?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/oil-prices-under-new-wave-of-pressure-amid-lingering-questions-over-a-strait-of-hormuz-reopening-c58fc9e8?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Fed Chair Kevin Warsh wants to get inflation under control. That could be bad news for home buyers seeking lower mortgage rates.",
-      "description": "The Federal Reserve is in a “new era,” but home buyers are facing the same old affordability challenges.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/fed-chair-kevin-warsh-wants-to-get-inflation-under-control-that-could-be-bad-news-for-home-buyers-seeking-lower-mortgage-rates-99fb4aad?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Gen Z’s ‘chicken before the egg’ credit problem: How to build your score when lenders keep saying no",
-      "description": "Half of Gen Z-ers say they don’t have enough access to the credit they need to reach their financial goals",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/gen-z-needs-to-build-credit-to-start-adulting-but-half-say-they-cant-get-it-heres-how-to-start-ef3e100c?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Trump bid to fire Fed's Lisa Cook cost her more than $1M in legal, security costs: Filing",
-      "description": "A financial disclosure from Federal Reserve Governor Lisa Cook details large legal and security expenses",
+      "title": "Oil tanker traffic in Strait of Hormuz jumps after U.S. and Iran implement deal to open sea lane",
+      "description": "The U.S.-Iran deal has raised questions about how the Strait of Hormuz will be governed after the toll-free period ends.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/18/trump-federal-reserve-lisa-cook-security-filing.html",
+      "url": "https://www.cnbc.com/2026/06/19/iran-oil-tanker-traffic-strait-hormuz-gulf-vlcc.html",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Free MLB home run picks, odds for June 18: Byron Buxton in expert's best bets for Thursday HR player props",
-      "description": "SportsLine's Jacob Fetner reveals his best MLB home run props picks for Thursday, June 18",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/free-mlb-home-run-picks-odds-june-18-byron-buxton-experts-best-bets-thursday-hr-player-props/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
+      "title": "‘We are habitually frugal’: My wife and I have money. How do we help our children without ruining their independence?",
+      "description": "“Partly due to some mental-health issues, they may continue to go through life living paycheck to paycheck, or worse.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-are-habitually-frugal-my-wife-and-i-have-money-how-do-we-help-our-children-without-ruining-their-independence-a1e30cec?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "‘We own our home outright’: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?",
+      "description": "“We have combined savings of $950,000 in retirement plans, Roth IRAs and Treasuries.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "The loneliness crisis has gotten so bad that lawmakers are ready to spend millions of dollars to fight it",
+      "description": "The health damage of loneliness is similar to heavy smoking and obesity",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-loneliness-crisis-has-gotten-so-bad-that-lawmakers-are-ready-to-spend-millions-of-dollars-to-fight-it-f7e7c7b7?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Memory crisis hits such extremes that 'even Apple can't be safe'",
+      "description": "Apple appears poised to take the rare step of increasing prices to deal with what CEO Tim Cook called an \"unsustainable\" memory shortage.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/19/memory-crisis-hits-such-extremes-that-even-apple-cant-be-safe-.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "4h ago"
     },
     {
       "title": "USMNT vs. Australia odds, prediction, time: 2026 World Cup picks, best bets by expert on 18-8 roll",
-      "description": "SportsLine's Martin Green reveals his Australia vs. USA best bets for their FIFA World Cup 2026 match on Friday",
+      "description": "SportsLine's Martin Green reveals his Australia vs. USA best bets for their FIFA World Cup 2026 match on Friday with Christian Pulisic (calf) questionable",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/usmnt-australia-odds-prediction-time-2026-world-cup-picks-soccer-bets/",
+      "url": "https://www.cbssports.com/soccer/news/usmnt-australia-odds-line-prediction-time-2026-world-cup-picks-best-bets/",
       "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Free agent Stefon Diggs keeps eye on Commanders: 'Back home' fans still matter",
-      "description": "The Gaithersburg, Maryland, native is deciding between the hometown NFC team and other options",
+      "title": "AJ Dybantsa's relentless pursuit to try and be the No. 1 pick driven by one motto: 'Keep it in the family'",
+      "description": "Over the past five years the Dybantsas have controlled almost everything. The one thing they can't is what AJ has always wanted most: The No. 1 pick",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/nfl-free-agent-stefon-diggs-commanders/",
+      "url": "https://www.cbssports.com/college-basketball/news/aj-dybantsa-nba-draft-no-1-pick/",
       "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Fantasy football rankings 2026: Sleepers, breakouts, busts per model that called Daniel Jones' huge season",
-      "description": "SportsLine simulated the new NFL season 10,000 times to help form your early 2026 Fantasy football draft strategy",
+      "title": "Colts star Sauce Gardner clears up confusion about his date of birth: Why almost everyone got his age wrong",
+      "description": "The Colts cornerback clarified that he is 24, not 25, after years of conflicting birthdate listings across NFL resources and major sports websites",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-busts-per-model-that-called-daniel-jones-huge-season/",
+      "url": "https://www.cbssports.com/nfl/news/sauce-gardner-age-nfl-colts/",
       "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
+    },
+    {
+      "title": "NFL minicamp overreactions: Chargers WR ready for a breakout? Are 2026 Bengals really the 2019 LSU Tigers?",
+      "description": "From Tre Harris' breakout potential to Joe Burrow's lofty Bengals comparison and looming quarterback questions, here's what to buy — and what to fade — from NFL minicamp",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/nfl/news/nfl-minicamp-overreactions-tre-harris-joe-burrow-bengals/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
     }
   ]
 }
