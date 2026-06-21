@@ -1,233 +1,249 @@
 {
-  "date": "2026-06-20T15:21:56.860781+00:00",
-  "edition": "#137",
-  "totalStories": 28,
+  "date": "2026-06-21T15:27:10.574657+00:00",
+  "edition": "#138",
+  "totalStories": 30,
   "podcast": {
     "show": "The Daily",
     "description": "The New York Times' daily news podcast — today's top story in 20 minutes."
   },
   "stories": [
     {
-      "title": "Every new iOS 27 feature that’s worth knowing about",
-      "description": "While it's not flashy like Apple’s new Siri AI and Apple Intelligence upgrades, there are still a number of additions to iOS 27 worth looking at.",
+      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "description": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
+      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "The European Social Stack",
-      "description": "Article URL: https://european.social Comments URL: https://news.ycombinator.com/item?id=48609421 Points: 5 # Comments: 0",
+      "title": "Who Owns Your ATProto Identity? Hint: It's Probably Not You",
+      "description": "Article URL: https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you Comments URL: https://news.ycombinator.com/item?id=48619140 Points: 45 # Comments: 29",
       "source": "Hacker News",
-      "url": "https://european.social",
+      "url": "https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Pong in S Favicon",
-      "description": "Article URL: https://pong-in-a-favicon.franzai.com/ Comments URL: https://news.ycombinator.com/item?id=48608681 Points: 9 # Comments: 0",
+      "title": "Smashing the NIMBYs created modern capitalism",
+      "description": "Article URL: https://worksinprogress.co/issue/how-abolishing-the-stakeholder-state-caused-the-industrial-revolution/ Comments URL: https://news.ycombinator.com/item?id=48618442 Points: 11 # Comments: 1",
       "source": "Hacker News",
-      "url": "https://pong-in-a-favicon.franzai.com/",
+      "url": "https://worksinprogress.co/issue/how-abolishing-the-stakeholder-state-caused-the-industrial-revolution/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "New (Old) 3D Golf: Porting PC-9801 and Virtual Boy to Mega Drive",
-      "description": "Article URL: https://blog.gingerbeardman.com/2026/06/19/new-old-3d-golf-porting-pc-9801-and-virtual-boy-to-mega-drive/ Comments URL: https://news.ycombinator.com/item?id=48608633 Points: 6 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://blog.gingerbeardman.com/2026/06/19/new-old-3d-golf-porting-pc-9801-and-virtual-boy-to-mega-drive/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed",
-      "description": "Tests of age-verification technology show the risks of life-altering errors.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss Army Knives",
-      "description": "Stefan Paul Goetsch, better known as Hainbach, is a German experimental composer, artist, and YouTuber who is perhaps most famous for making music with laboratory equipment and scientific instruments. He describes it as…",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Extreme heat warning expanded as 36C heatwave approaches UK",
-      "description": "After a slightly cooler Saturday, temperatures will rise again, possibly touching 36C by Tuesday with a Met Office amber extreme heat warning set to come into force.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/weather/articles/cp8lye61jk6o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "What we know so far about the collision and emergency response",
-      "description": "Nine people are in a critical condition out of a total of 28 still in hospital on Saturday, emergency services say.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn75z3nl048o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Talk of Starmer staying on to fight is fading - fast",
-      "description": "After Andy Burnham’s by-election victory, support for the prime minister is evaporating, writes Laura Kuenssberg.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cjeg7p5w4y9o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
-      "description": "There are moments when life in Moscow feels completely normal - Thursday morning wasn't one of them, writes Steve Rosenberg.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "5h ago"
-    },
-    {
-      "title": "Opinion: Algae doesn't care about our party lines",
-      "description": "President Trump's beautification project of the Lincoln Memorial Reflecting Pool has become plagued with a robust algae bloom, despite a $14 million investment and a coating of \"American flag blue.\"",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/20/nx-s1-5854977/opinion-algae-doesnt-care-about-our-party-lines",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "These nuns spent a lifetime helping others. In their last years, who will help them?",
-      "description": "The sisters of Uganda are teachers, health-care advocates and more. Those who are in their twilight of their life need help. Who will come to their aid?",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/20/g-s1-128632/nuns-convent-africa-hospice",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "Iran warns of ‘reciprocal action’ if US doesn’t honour MOU commitments",
-      "description": "Iran warns of ‘reciprocal action’ if US doesn’t honour MOU commitments.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/iran-warns-of-reciprocal-action-if-us-doesnt-honour-mou-commitments?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Nine left in critical condition after UK train collision that killed driver",
-      "description": "More than 80 people received treatment after the crash and 28 remain in hospital.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/20/nine-left-in-critical-condition-after-uk-train-collision-that-killed-driver?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Trump hits out at Italy's Meloni after pushback on G7 photo claim",
-      "description": "Trump said the Italian leader asked \"over and over\" for a picture at G7, after she said the US president \"made-up\" a story that she \"begged\" for a photo.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Court bans Spanish PM’s wife from leaving country amid corruption probe",
-      "description": "Begona Gomez is accused of using her position as the prime minister's wife ⁠to secure work contracts.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/20/court-bans-spanish-pms-wife-from-leaving-country-amid-corruption-probe?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
-      "description": "Deaths are reported in southern Lebanon, with the IDF saying it hit Hezbollah targets after the group fired over 50 projectiles at Israeli forces.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Where do Iran’s political factions stand on the US peace deal?",
-      "description": "Iran's rival political camps are locking horns over a memorandum of understanding with the US.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/20/where-do-irans-political-factions-stand-on-the-us-peace-deal?traffic_source=rss",
-      "category": "🌍 WORLD",
       "timeAgo": "2h ago"
     },
     {
-      "title": "The budget airline model in the U.S. is running out of runway",
-      "description": "Spirit's bankruptcy as United and Delta fly high suggests there's more to success in airline industry than low fares, and failure isn't about jet fuel spikes.",
+      "title": "David Ahl's Basic Computer Games Ported to C",
+      "description": "Article URL: https://github.com/proteanthread/bcg Comments URL: https://news.ycombinator.com/item?id=48618226 Points: 31 # Comments: 12",
+      "source": "Hacker News",
+      "url": "https://github.com/proteanthread/bcg",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+      "description": "Article URL: https://www.beyondallreason.info Comments URL: https://news.ycombinator.com/item?id=48617990 Points: 190 # Comments: 86",
+      "source": "Hacker News",
+      "url": "https://www.beyondallreason.info",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "That viral clip you saw of someone winning big on Polymarket was probably fake",
+      "description": "According to a Wall Street Journal investigation, Polymarket has been paying people to film themselves placing fake bets and celebrating fake wins on social media. WSJ identified over 1,100 deceptive clips and talked to…",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Extreme heat warning extended to four days as temperatures could hit 38C",
+      "description": "A Met Office amber weather warning for heat comes into force on Monday and will now last through to Thursday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/weather/articles/c932k0lewygo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Low-key funeral held for giant of the art world David Hockney",
+      "description": "The artist, who passed away at his home in London earlier this month, requested just his partner and great-nephew attend.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn8q6wxy706o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "William marks 44th birthday as royals celebrate Father's Day",
+      "description": "The Princess of Wales and the couple's children share message for \"the best papa in the world\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c9d2gzlze9po?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "Signs grow that Starmer will resign as government mood shifts",
+      "description": "The BBC's Henry Zeffman and Nick Eardley on the mood in government as speculation grows about the prime minister's departure.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cql10wwy69zo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "Ukrainian attacks prompt Russian-held Crimea to halt civilian gasoline sales",
+      "description": "Officials in Russia-occupied Crimea suspended civilian gasoline sales Sunday as Ukraine ramped up attacks on fuel supplies on the Black Sea peninsula.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/21/g-s1-129200/ukrainian-attacks-russia-crimea-halt-gas-sales",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Trump claims vandals damaged D.C. Reflecting Pool, and says it will be drained again",
+      "description": "The president posted on Truth Social claiming vandals slashed the pool's lining and poured chemicals into the water, saying arrests have been made. He provided no evidence for his claims.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/21/nx-s1-5865636/trump-reflecting-pool-dc-vandals-drain-green",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Nobel Peace Prize winner triumphs at Ethiopian polls but fears grow of new conflict",
+      "description": "Abiy Ahmed's party retains its huge majority despite unrest in several parts of Ethiopia and tensions with its neighbours.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cz750q5e3w3o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Iran-U.S. launch historic peace talks with 60-day roadmap",
+      "description": "Iran-U.S. launch historic peace talks with 60-day roadmap",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/iran-u-s-launch-historic-peace-talks-with-60-day-roadmap?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Fans flood Atlanta streets before Spain-Saudi Arabia match",
+      "description": "Spain and Saudi Arabia fans filled the streets of Atlanta with chants and celebrations ahead of their World Cup clash.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/fans-flood-atlanta-streets-before-spain-saudi-arabia-match?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "US and Iran begin talks on initial peace deal in Switzerland",
+      "description": "The face-to-face meeting follows ongoing fighting in Lebanon and Iran's claim to have shut the Strait of Hormuz.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Bolivian authorities say no active blockades after state of emergency decree",
+      "description": "State of emergency permits deployment of military to support police amid five weeks of anti-government protests.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/21/bolivian-authorities-say-no-active-blockades-after-state-of-emergency-decree?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Gaza bids farewell to slain journalist Ahmed Wishah",
+      "description": "Gaza bids farewell to slain journalist Ahmed Wishah.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/gaza-bids-farewell-to-slain-journalist-ahmed-wishah?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "‘We own our home outright’: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?",
+      "description": "“We have combined savings of $950,000 in retirement plans, Roth IRAs and Treasuries.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Raising the minimum wage has been a big political winner. Now it's running into resistance",
+      "description": "Raising the minimum wage has been a progressive policy winner at the ballot box, but recent losses suggest an economic mood slowing its political momentum.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/20/cheap-airline-fares-summer-travel.html",
+      "url": "https://www.cnbc.com/2026/06/21/raise-minimum-wage-inflation-politics.html",
       "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "SpaceX’s massive valuation may soon become its own worst enemy",
-      "description": "The biggest companies struggle to keep up with the stock market due to size alone.",
+      "title": "My two sons will inherit a $30,000 annuity from their grandmother. What should I do with the money?",
+      "description": "“My understanding is that they have five years to withdraw the money.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/spacexs-massive-2-1-trillion-valuation-may-soon-become-its-own-worst-enemy-0efe05b8?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/my-two-sons-will-inherit-a-30-000-annuity-from-their-grandmother-what-should-i-do-with-the-money-8882f396?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Bitcoin's future as revolutionary as the smartphone, according to CoinDesk",
-      "description": "CoinDesk’s president of indices and data has a message for investors: Don’t count out bitcoin.",
+      "title": "Micron’s earnings are a must-watch market event — with profit growth approaching 1,000%",
+      "description": "Micron’s massive growth is “coming at nearly pure profit,” and that’s starting to have real implications for the S&P 500.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/microns-earnings-are-a-must-watch-market-event-with-profit-growth-approaching-1-000-78ec4549?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "No one wants AI data centers on Earth. Do they make sense in space?",
+      "description": "Elon Musk's SpaceX is betting big on orbital AI data centers. The public doesn't want them on Earth, but the economic case for space-based is questionable.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/20/bitcoin-as-revolutionary-as-smartphone-according-to-coindesk.html",
+      "url": "https://www.cnbc.com/2026/06/21/do-space-based-ai-data-centers-make-economic-sense.html",
       "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "‘Money can make you happy’: My wife and I have no heirs, but we’re making the world a better place by giving it away",
-      "description": "“If you find a need in your community, there’s likely an organization that will help you get involved.”",
+      "title": "This bull market isn’t going to end because of Fed rate hikes under Warsh",
+      "description": "Warsh may hope the threat of rate hikes is enough. But stocks might gain ground if he does, and past rate-hike cycles can be a guide.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/money-can-make-you-happy-my-wife-and-i-have-no-heirs-but-were-making-the-world-a-better-place-by-giving-it-away-f61fad98?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/this-bull-market-isnt-going-to-end-because-of-fed-rate-hikes-under-warsh-8f63fa85?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Americans’ 401(k) balances hit record levels last year. See how you compare.",
-      "description": "It was a very good year for most workplace retirement savers, according to Vanguard’s latest “How America Saves” report",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/americans-401-k-balances-hit-record-levels-last-year-see-how-you-compare-facd32c4?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "‘We are habitually frugal’: My wife and I have money. How do we help our children without ruining their independence?",
-      "description": "“Partly due to some mental-health issues, they may continue to go through life living paycheck to paycheck, or worse.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-are-habitually-frugal-my-wife-and-i-have-money-how-do-we-help-our-children-without-ruining-their-independence-a1e30cec?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Free MLB home run picks, odds for June 20: Byron Buxton among top HR player props for Saturday",
-      "description": "Two veteran sluggers headline our top home run picks of the day for Saturday's MLB schedule",
+      "title": "2026 U.S. Open TV schedule: Complete viewing guide, streaming coverage details, where to watch live",
+      "description": "How to watch every memorable moment of the 2026 U.S. Open on TV or streaming live online",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/free-mlb-home-run-picks-odds-for-june-20-byron-buxton-among-top-hr-player-props-for-saturday/",
+      "url": "https://www.cbssports.com/golf/news/us-open-2026-tv-schedule-coverage-live-streaming/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Where to watch 2026 U.S. Championship live: TV coverage for Round 3, channel and streaming guide for Saturday",
-      "description": "Watch every single shot from the biggest names in golf during the third round of the 2026 U.S. Open",
+      "title": "Fantasy football rankings 2026: Sleepers, breakouts, busts from model that called Daniel Jones' huge season",
+      "description": "SportsLine simulated the new NFL season 10,000 times to help form your early 2026 Fantasy football draft strategy",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/golf/news/us-open-live-2026-start-time-where-how-to-watch-round-3-saturday/",
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-busts-from-model-that-called-daniel-jones-huge-season/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Germany-Ivory Coast, 2026 World Cup, UFC",
-      "description": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for Germany vs. Ivory Coast, 2026 World Cup betting, UFC Fight Night on Saturday",
+      "title": "Mets vs. Phillies prediction, odds, time: 2026 MLB picks for Sunday Night Baseball from advanced model",
+      "description": "SportsLine's model simulated New York Mets vs. Philadelphia Phillies 10,000 times and revealed its MLB predictions and Sunday Night Baseball picks",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-get-1500-bonus-bets-germany-ivory-coast-2026-world-cup-ufc-saturday/",
+      "url": "https://www.cbssports.com/mlb/news/mets-phillies-prediction-odds-time-2026-mlb-picks-sunday-night-baseball/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Use DraftKings promo code for $200 in bonus bets by targeting Germany-Ivory Coast, 2026 World Cup, UFC",
-      "description": "DraftKings offers $200 in bonus bets instantly after your first $5 wager for Germany vs. Ivory Coast, 2026 World Cup betting, UFC Fight Night on Saturday",
+      "title": "Can Miami's defense reload up front? Why Armondo Blount and Marquise Lightfoot are keys to 2026 success",
+      "description": "Last year's national runner-up must replace significant production along the defensive line",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-200-bonus-bets-by-targeting-germany-ivory-coast-2026-world-cup-ufc/",
+      "url": "https://www.cbssports.com/college-football/news/can-miamis-defense-reload-up-front-why-armondo-blount-and-marquise-lightfoot-are-keys-to-2026-success/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "How Alex Freeman's Pro Bowl dad helped him live hi...",
+      "description": "Antonio Freeman taught son Alex what it takes to be a pro. It was his mom and his stepdad, though, who taught the USMNT defender to love soccer.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/49003063/how-alex-freeman-pro-bowl-dad-green-bay-packers-antonio-freeman-helped-world-cup-dream-usmnt",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "If there was a time to dream big about the USMNT a...",
+      "description": "There's something different about this team: The players feel it, and we can all see it. So why not believe?",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/49121797/ok-dream-big-usmnt-world-cup",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
