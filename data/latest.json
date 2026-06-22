@@ -1,249 +1,233 @@
 {
-  "date": "2026-06-21T15:27:10.574657+00:00",
-  "edition": "#138",
-  "totalStories": 30,
+  "date": "2026-06-22T18:04:18.000601+00:00",
+  "edition": "#139",
+  "totalStories": 28,
   "podcast": {
     "show": "The Daily",
     "description": "The New York Times' daily news podcast — today's top story in 20 minutes."
   },
   "stories": [
     {
-      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
-      "description": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
+      "title": "Finding the Best Dog Treat with Statistics",
+      "description": "Article URL: https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html Comments URL: https://news.ycombinator.com/item?id=48633410 Points: 5 # Comments: 1",
+      "source": "Hacker News",
+      "url": "https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Amazon is testing Alexa+ in India with Hindi support",
+      "description": "Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "url": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Who Owns Your ATProto Identity? Hint: It's Probably Not You",
-      "description": "Article URL: https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you Comments URL: https://news.ycombinator.com/item?id=48619140 Points: 45 # Comments: 29",
+      "title": "Steam Machine Launches Today",
+      "description": "Article URL: https://store.steampowered.com/news/group/45479024/view/685257114654870245 Comments URL: https://news.ycombinator.com/item?id=48633012 Points: 39 # Comments: 7",
       "source": "Hacker News",
-      "url": "https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you",
+      "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Smashing the NIMBYs created modern capitalism",
-      "description": "Article URL: https://worksinprogress.co/issue/how-abolishing-the-stakeholder-state-caused-the-industrial-revolution/ Comments URL: https://news.ycombinator.com/item?id=48618442 Points: 11 # Comments: 1",
+      "title": "Steam Machine game testing",
+      "description": "Article URL: https://www.lttlabs.com/articles/2026/06/22/the-newell-nucleus-steam-machine-ltt-companion-article Comments URL: https://news.ycombinator.com/item?id=48632989 Points: 31 # Comments: 12",
       "source": "Hacker News",
-      "url": "https://worksinprogress.co/issue/how-abolishing-the-stakeholder-state-caused-the-industrial-revolution/",
+      "url": "https://www.lttlabs.com/articles/2026/06/22/the-newell-nucleus-steam-machine-ltt-companion-article",
       "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "David Ahl's Basic Computer Games Ported to C",
-      "description": "Article URL: https://github.com/proteanthread/bcg Comments URL: https://news.ycombinator.com/item?id=48618226 Points: 31 # Comments: 12",
+      "title": "Doorbell cam filmed Tesla Autopilot crash that killed woman in her home",
+      "description": "Tesla touts Autopilot as lifesaving a day after grandmother died in crash.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/06/woman-killed-when-tesla-driver-using-autopilot-crashed-into-her-home/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Steam Machine",
+      "description": "Article URL: https://store.steampowered.com/hardware/steammachine Comments URL: https://news.ycombinator.com/item?id=48632884 Points: 99 # Comments: 77",
       "source": "Hacker News",
-      "url": "https://github.com/proteanthread/bcg",
+      "url": "https://store.steampowered.com/hardware/steammachine",
       "category": "🤖 TECH & AI",
-      "timeAgo": "3h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
-      "description": "Article URL: https://www.beyondallreason.info Comments URL: https://news.ycombinator.com/item?id=48617990 Points: 190 # Comments: 86",
-      "source": "Hacker News",
-      "url": "https://www.beyondallreason.info",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "That viral clip you saw of someone winning big on Polymarket was probably fake",
-      "description": "According to a Wall Street Journal investigation, Polymarket has been paying people to film themselves placing fake bets and celebrating fake wins on social media. WSJ identified over 1,100 deceptive clips and talked to…",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Extreme heat warning extended to four days as temperatures could hit 38C",
-      "description": "A Met Office amber weather warning for heat comes into force on Monday and will now last through to Thursday.",
+      "title": "Analysis: Everything points to Burnham becoming PM within weeks",
+      "description": "If no leadership contest presents itself, Andy Burnham may not have to wait until September to enter Number 10.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/weather/articles/c932k0lewygo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c20y1zvg50lo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Low-key funeral held for giant of the art world David Hockney",
-      "description": "The artist, who passed away at his home in London earlier this month, requested just his partner and great-nephew attend.",
+      "title": "Starmer's premiership in six charts",
+      "description": "BBC Verify looks at the record of Sir Keir's time in government in six key areas since he took office in July 2024.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn8q6wxy706o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cp8p9qellmqo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "William marks 44th birthday as royals celebrate Father's Day",
-      "description": "The Princess of Wales and the couple's children share message for \"the best papa in the world\".",
+      "title": "Why did Starmer resign and what could happen next?",
+      "description": "The Labour leader says he will remain prime minister until his successor is chosen.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c9d2gzlze9po?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c0qyllvpkw8o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Signs grow that Starmer will resign as government mood shifts",
-      "description": "The BBC's Henry Zeffman and Nick Eardley on the mood in government as speculation grows about the prime minister's departure.",
+      "title": "Who is Andy Burnham? Ex-Manchester mayor who wants to lead the country",
+      "description": "The outgoing Greater Manchester mayor is lining up a third attempt to be Labour leader following his return to Westminster.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cql10wwy69zo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cp8pml5z8p6o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "4h ago"
     },
     {
-      "title": "Ukrainian attacks prompt Russian-held Crimea to halt civilian gasoline sales",
-      "description": "Officials in Russia-occupied Crimea suspended civilian gasoline sales Sunday as Ukraine ramped up attacks on fuel supplies on the Black Sea peninsula.",
+      "title": "Did you know? Alan Greenspan and Ayn Rand were close friends",
+      "description": "One of the most intellectually important relationships in the life of the late Fed chair Alan Greenspan was with his close friend, the formidable novelist and libertarian thinker Ayn Rand.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/06/21/g-s1-129200/ukrainian-attacks-russia-crimea-halt-gas-sales",
+      "url": "https://www.npr.org/2026/06/22/nx-s1-5866558/alan-greenspan-dead-ayn-rand",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Trump claims vandals damaged D.C. Reflecting Pool, and says it will be drained again",
-      "description": "The president posted on Truth Social claiming vandals slashed the pool's lining and poured chemicals into the water, saying arrests have been made. He provided no evidence for his claims.",
+      "title": "2 students in custody after shooting at high school in Philippines kills 3",
+      "description": "An investigation is underway to determine the cause. Police said the suspects claimed they were bullied at school.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/06/21/nx-s1-5865636/trump-reflecting-pool-dc-vandals-drain-green",
+      "url": "https://www.npr.org/2026/06/22/g-s1-129323/2-students-in-custody-after-shooting-at-high-school-in-philippines-kills-3",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "Nobel Peace Prize winner triumphs at Ethiopian polls but fears grow of new conflict",
-      "description": "Abiy Ahmed's party retains its huge majority despite unrest in several parts of Ethiopia and tensions with its neighbours.",
+      "title": "Qatar’s PM tells Al Jazeera progress made in US-Iran talks",
+      "description": "Qatar's PM said US-Iran talks in Switzerland laid the groundwork for a final deal after 18 hours of discussions.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/qatars-pm-tells-al-jazeera-progress-made-in-us-iran-talks?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Kenyan court finds minister in contempt over US Ebola site",
+      "description": "Health Minister Duale disobeyed an order to halt construction at the proposed facility for infected US nationals, court says.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/22/kenyan-court-finds-minister-in-contempt-over-us-ebola-site?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Will a US-Iran deal transform the Iranian economy?",
+      "description": "A US-Iran deal could unlock frozen assets, oil exports, and investment, reshaping Iran's economic future.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/22/will-a-us-iran-deal-transform-the-iranian-economy?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "South African police tighten security as anti-migrant deadline approaches",
+      "description": "Xenophobic protest groups have demanded that undocumented foreigners leave the country by June 30 .",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/22/south-african-police-tighten-security-as-anti-migrant-deadline-approaches?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Myanmar army killed over 700 civilians in six months, UN says",
+      "description": "The new UN report says the 702 civilian deaths over six months last year included 153 children.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cz750q5e3w3o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Iran-U.S. launch historic peace talks with 60-day roadmap",
-      "description": "Iran-U.S. launch historic peace talks with 60-day roadmap",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/iran-u-s-launch-historic-peace-talks-with-60-day-roadmap?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Fans flood Atlanta streets before Spain-Saudi Arabia match",
-      "description": "Spain and Saudi Arabia fans filled the streets of Atlanta with chants and celebrations ahead of their World Cup clash.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/fans-flood-atlanta-streets-before-spain-saudi-arabia-match?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "US and Iran begin talks on initial peace deal in Switzerland",
-      "description": "The face-to-face meeting follows ongoing fighting in Lebanon and Iran's claim to have shut the Strait of Hormuz.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Bolivian authorities say no active blockades after state of emergency decree",
-      "description": "State of emergency permits deployment of military to support police amid five weeks of anti-government protests.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/21/bolivian-authorities-say-no-active-blockades-after-state-of-emergency-decree?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Gaza bids farewell to slain journalist Ahmed Wishah",
-      "description": "Gaza bids farewell to slain journalist Ahmed Wishah.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/gaza-bids-farewell-to-slain-journalist-ahmed-wishah?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "‘We own our home outright’: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?",
-      "description": "“We have combined savings of $950,000 in retirement plans, Roth IRAs and Treasuries.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Raising the minimum wage has been a big political winner. Now it's running into resistance",
-      "description": "Raising the minimum wage has been a progressive policy winner at the ballot box, but recent losses suggest an economic mood slowing its political momentum.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/21/raise-minimum-wage-inflation-politics.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "My two sons will inherit a $30,000 annuity from their grandmother. What should I do with the money?",
-      "description": "“My understanding is that they have five years to withdraw the money.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-two-sons-will-inherit-a-30-000-annuity-from-their-grandmother-what-should-i-do-with-the-money-8882f396?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Micron’s earnings are a must-watch market event — with profit growth approaching 1,000%",
-      "description": "Micron’s massive growth is “coming at nearly pure profit,” and that’s starting to have real implications for the S&P 500.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/microns-earnings-are-a-must-watch-market-event-with-profit-growth-approaching-1-000-78ec4549?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "No one wants AI data centers on Earth. Do they make sense in space?",
-      "description": "Elon Musk's SpaceX is betting big on orbital AI data centers. The public doesn't want them on Earth, but the economic case for space-based is questionable.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/21/do-space-based-ai-data-centers-make-economic-sense.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "This bull market isn’t going to end because of Fed rate hikes under Warsh",
-      "description": "Warsh may hope the threat of rate hikes is enough. But stocks might gain ground if he does, and past rate-hike cycles can be a guide.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-bull-market-isnt-going-to-end-because-of-fed-rate-hikes-under-warsh-8f63fa85?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "2026 U.S. Open TV schedule: Complete viewing guide, streaming coverage details, where to watch live",
-      "description": "How to watch every memorable moment of the 2026 U.S. Open on TV or streaming live online",
+      "title": "At least 13 killed and dozens injured after Qatar gas explosion",
+      "description": "The city's main liquified natural gas (LNG) processing site suffered a \"technical accident\" in the Ras Laffan industrial zone.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Three key AI stocks to watch this week with traders expecting giant moves",
+      "description": "Micron and Cerebras report this week. Also there's heavy options activity in Super Micro.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/22/three-key-ai-stocks-to-watch-this-week-with-traders-expecting-giant-moves.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "The loneliness crisis has gotten so bad that lawmakers are ready to spend millions of dollars to fight it",
+      "description": "The health damage of loneliness is similar to heavy smoking and obesity",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-loneliness-crisis-has-gotten-so-bad-that-lawmakers-are-ready-to-spend-millions-of-dollars-to-fight-it-f7e7c7b7?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Alphabet paces for worst day in a year on AI concerns after high-profile exits",
+      "description": "Google parent Alphabet has seen consecutive high-profile artificial intelligence researchers leave.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "China’s weird new economic spark: toy elves and robocops",
+      "description": "Young Chinese aren’t buying status symbols. They’re spending money on things that make them feel something — anything.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/chinas-new-economic-drivers-a-sad-toy-elf-and-a-robot-police-force-8759daf9?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Alphabet sees $269 billion market-cap wipeout as investors fear it’s losing the war for AI talent",
+      "description": "Two AI leaders, including a Nobel laureate, recently said they would leave Google for rival labs.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/alphabet-sees-269-billion-market-cap-wipeout-as-investors-fear-its-losing-the-war-for-ai-talent-497aa378?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Caterpillar’s stock hits a milestone as roaring industrials rally sweeps up Wall Street",
+      "description": "Caterpillar is the hottest stock in the Dow this year, and now one of just two in the index with a price above $1,000.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/caterpillars-stock-hits-a-milestone-as-roaring-industrials-rally-sweeps-up-wall-street-391057f7?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Norway vs. Senegal odds, prediction, time: 2026 World Cup picks, best bets by expert on 18-8 roll",
+      "description": "SportsLine's Martin Green reveals his Norway vs. Senegal best bets for their FIFA World Cup 2026 match on Monday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/golf/news/us-open-2026-tv-schedule-coverage-live-streaming/",
+      "url": "https://www.cbssports.com/soccer/news/norway-senegal-odds-prediction-line-time-2026-world-cup-picks-best-bets/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Fantasy football rankings 2026: Sleepers, breakouts, busts from model that called Daniel Jones' huge season",
-      "description": "SportsLine simulated the new NFL season 10,000 times to help form your early 2026 Fantasy football draft strategy",
+      "title": "Lionel Messi breaks all-time men's World Cup goal scoring record for Argentina vs. Austria",
+      "description": "Messi has surpassed Germany's Miroslav Klose to stand alone as the greatest goal scorer in men's World Cup history",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-busts-from-model-that-called-daniel-jones-huge-season/",
+      "url": "https://www.cbssports.com/soccer/news/lionel-messi-breaks-all-time-mens-world-cup-goal-scoring-record-for-argentina-vs-austria/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Mets vs. Phillies prediction, odds, time: 2026 MLB picks for Sunday Night Baseball from advanced model",
-      "description": "SportsLine's model simulated New York Mets vs. Philadelphia Phillies 10,000 times and revealed its MLB predictions and Sunday Night Baseball picks",
+      "title": "'Nerd' Kingston Flemings knows he could be an analyst or a scout; instead, he'll be a first-round draft pick",
+      "description": "The Houston guard is incredibly explosive, but his basketball brain is what sets him apart",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/mlb/news/mets-phillies-prediction-odds-time-2026-mlb-picks-sunday-night-baseball/",
+      "url": "https://www.cbssports.com/nba/news/nba-draft-kingston-flemings-houston/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Can Miami's defense reload up front? Why Armondo Blount and Marquise Lightfoot are keys to 2026 success",
-      "description": "Last year's national runner-up must replace significant production along the defensive line",
+      "title": "2026 NFL training camp report dates, joint practices, top storyline for all 32 teams",
+      "description": "With training camps just over a month away, here's a team-by-team look at the battles, injuries, quarterback questions and breakout candidates that will shape the 2026 NFL season",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/can-miamis-defense-reload-up-front-why-armondo-blount-and-marquise-lightfoot-are-keys-to-2026-success/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "How Alex Freeman's Pro Bowl dad helped him live hi...",
-      "description": "Antonio Freeman taught son Alex what it takes to be a pro. It was his mom and his stepdad, though, who taught the USMNT defender to love soccer.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/49003063/how-alex-freeman-pro-bowl-dad-green-bay-packers-antonio-freeman-helped-world-cup-dream-usmnt",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "If there was a time to dream big about the USMNT a...",
-      "description": "There's something different about this team: The players feel it, and we can all see it. So why not believe?",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/49121797/ok-dream-big-usmnt-world-cup",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-training-camp-report-dates-joint-practices-storylines/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
