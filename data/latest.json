@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-22T18:04:18.000601+00:00",
-  "edition": "#139",
+  "date": "2026-06-23T16:09:57.716988+00:00",
+  "edition": "#140",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Finding the Best Dog Treat with Statistics",
-      "description": "Article URL: https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html Comments URL: https://news.ycombinator.com/item?id=48633410 Points: 5 # Comments: 1",
-      "source": "Hacker News",
-      "url": "https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Amazon is testing Alexa+ in India with Hindi support",
-      "description": "Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version.",
+      "title": "Password manager maker LastPass says hackers stole customer support case data during Klue breach",
+      "description": "This is the second data breach to affect LastPass customers in recent years, after one of the password manager's tech partners was recently breached.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
+      "url": "https://techcrunch.com/2026/06/23/password-manager-maker-lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Steam Machine Launches Today",
-      "description": "Article URL: https://store.steampowered.com/news/group/45479024/view/685257114654870245 Comments URL: https://news.ycombinator.com/item?id=48633012 Points: 39 # Comments: 7",
+      "title": "AI's Affordability Crisis",
+      "description": "Article URL: https://blog.dshr.org/2026/06/ais-affordability-crisis.html Comments URL: https://news.ycombinator.com/item?id=48646276 Points: 58 # Comments: 46",
       "source": "Hacker News",
-      "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+      "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Steam Machine game testing",
-      "description": "Article URL: https://www.lttlabs.com/articles/2026/06/22/the-newell-nucleus-steam-machine-ltt-companion-article Comments URL: https://news.ycombinator.com/item?id=48632989 Points: 31 # Comments: 12",
+      "title": "HaloBraid raises $7M from Seven Seven Six to end the six-hour hair salon appointment",
+      "description": "HaloBraid aims to help salons speed up braiding with its first device, slated to launch later this year, that acts as a braiding assistant for professional stylists.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Show HN: Treedocs: Documentation that automatically checks for staleness",
+      "description": "Article URL: https://dandylyons.github.io/treedocs/ Comments URL: https://news.ycombinator.com/item?id=48646209 Points: 9 # Comments: 3",
       "source": "Hacker News",
-      "url": "https://www.lttlabs.com/articles/2026/06/22/the-newell-nucleus-steam-machine-ltt-companion-article",
+      "url": "https://dandylyons.github.io/treedocs/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Doorbell cam filmed Tesla Autopilot crash that killed woman in her home",
-      "description": "Tesla touts Autopilot as lifesaving a day after grandmother died in crash.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/06/woman-killed-when-tesla-driver-using-autopilot-crashed-into-her-home/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Steam Machine",
-      "description": "Article URL: https://store.steampowered.com/hardware/steammachine Comments URL: https://news.ycombinator.com/item?id=48632884 Points: 99 # Comments: 77",
+      "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
+      "description": "Article URL: https://lift4d.github.io/ Comments URL: https://news.ycombinator.com/item?id=48645721 Points: 29 # Comments: 1",
       "source": "Hacker News",
-      "url": "https://store.steampowered.com/hardware/steammachine",
+      "url": "https://lift4d.github.io/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Analysis: Everything points to Burnham becoming PM within weeks",
-      "description": "If no leadership contest presents itself, Andy Burnham may not have to wait until September to enter Number 10.",
+      "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+      "description": "Hi all! TikZ is a widely-used LaTeX package for drawing figures in papers. It uses commands like \\draw[->] (0,0) -- (1,2); to draw lines, shapes, text, etc. Academics usually code up their figures by hand, so there is l…",
+      "source": "Hacker News",
+      "url": "https://tikz.dev/editor/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
+      "description": "Traffic in the waterway has risen since the US and Iran signed a deal aimed at ending the war, including 42 ships on Saturday alone.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c20y1zvg50lo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Starmer's premiership in six charts",
-      "description": "BBC Verify looks at the record of Sir Keir's time in government in six key areas since he took office in July 2024.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp8p9qellmqo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Why did Starmer resign and what could happen next?",
-      "description": "The Labour leader says he will remain prime minister until his successor is chosen.",
+      "title": "From cool-down spots to chalk on windows - how Europeans are coping with the heat",
+      "description": "People across the continent are taking measures to cope with the searing temperatures gripping Europe.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0qyllvpkw8o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cz0j87vpz79o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Who is Andy Burnham? Ex-Manchester mayor who wants to lead the country",
-      "description": "The outgoing Greater Manchester mayor is lining up a third attempt to be Labour leader following his return to Westminster.",
+      "title": "Stop pretending EU's new border system is working, says airports chief",
+      "description": "The head of Europe's airports lobby says concerns over EES are keeping him awake at night and he doesn't know how airports will cope over the summer.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp8pml5z8p6o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cn4rlzrdj14o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Did you know? Alan Greenspan and Ayn Rand were close friends",
-      "description": "One of the most intellectually important relationships in the life of the late Fed chair Alan Greenspan was with his close friend, the formidable novelist and libertarian thinker Ayn Rand.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/22/nx-s1-5866558/alan-greenspan-dead-ayn-rand",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "2 students in custody after shooting at high school in Philippines kills 3",
-      "description": "An investigation is underway to determine the cause. Police said the suspects claimed they were bullied at school.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/22/g-s1-129323/2-students-in-custody-after-shooting-at-high-school-in-philippines-kills-3",
+      "title": "Peter Murrell jailed for more than five years for embezzling SNP funds",
+      "description": "The former party chief executive had admitted embezzling more than £400,000 over a 12-year period.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzlqv4dyeo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Qatar’s PM tells Al Jazeera progress made in US-Iran talks",
-      "description": "Qatar's PM said US-Iran talks in Switzerland laid the groundwork for a final deal after 18 hours of discussions.",
+      "title": "A Revolutionary War soldier's DNA links him to living relatives",
+      "description": "Continental Army soldier John Pumphrey enlisted as a teenager in 1777 and fought at significant battles before his death in action against the British in Camden, S.C.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/23/nx-s1-5866455/revolutionary-war-continental-army-camden-south-carolina-maryland",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Afghan Taliban hold first, closed-door talks with EU on deportations",
+      "description": "Rights groups criticized the meeting, saying it undermines the EU's human rights obligations.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/23/g-s1-129648/afghan-taliban-hold-first-closed-door-talks-with-eu-on-deportations",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "The $3.7bn man: Inside one of US’s biggest Medicare frauds",
+      "description": "US businessman has been arrested in Turkiye after a year on the run from authorities.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/qatars-pm-tells-al-jazeera-progress-made-in-us-iran-talks?traffic_source=rss",
+      "url": "https://www.aljazeera.com/economy/2026/6/23/the-3-7bn-man-inside-one-of-americas-biggest-medicare-frauds?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Kenyan court finds minister in contempt over US Ebola site",
-      "description": "Health Minister Duale disobeyed an order to halt construction at the proposed facility for infected US nationals, court says.",
+      "title": "South African police investigate murder amid rise in anti-migrant attacks",
+      "description": "The rise in anti-migrant attacks in South Africa has already left several people dead, with hundreds trying to leave.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/22/kenyan-court-finds-minister-in-contempt-over-us-ebola-site?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/6/23/south-african-police-investigate-murder-amid-rise-in-anti-migrant-attacks?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Will a US-Iran deal transform the Iranian economy?",
-      "description": "A US-Iran deal could unlock frozen assets, oil exports, and investment, reshaping Iran's economic future.",
+      "title": "More than 5,300 people still held in Myanmar scam centres: rights group",
+      "description": "A UN report found the facilities are operated by foreign nationals who were trafficked by criminal gangs.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/22/will-a-us-iran-deal-transform-the-iranian-economy?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/6/23/more-than-5300-people-still-held-in-myanmar-scam-centres-rights-group?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "South African police tighten security as anti-migrant deadline approaches",
-      "description": "Xenophobic protest groups have demanded that undocumented foreigners leave the country by June 30 .",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/22/south-african-police-tighten-security-as-anti-migrant-deadline-approaches?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Myanmar army killed over 700 civilians in six months, UN says",
-      "description": "The new UN report says the 702 civilian deaths over six months last year included 153 children.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "At least 13 killed and dozens injured after Qatar gas explosion",
-      "description": "The city's main liquified natural gas (LNG) processing site suffered a \"technical accident\" in the Ras Laffan industrial zone.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Three key AI stocks to watch this week with traders expecting giant moves",
-      "description": "Micron and Cerebras report this week. Also there's heavy options activity in Super Micro.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/22/three-key-ai-stocks-to-watch-this-week-with-traders-expecting-giant-moves.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "The loneliness crisis has gotten so bad that lawmakers are ready to spend millions of dollars to fight it",
-      "description": "The health damage of loneliness is similar to heavy smoking and obesity",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-loneliness-crisis-has-gotten-so-bad-that-lawmakers-are-ready-to-spend-millions-of-dollars-to-fight-it-f7e7c7b7?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Alphabet paces for worst day in a year on AI concerns after high-profile exits",
-      "description": "Google parent Alphabet has seen consecutive high-profile artificial intelligence researchers leave.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "China’s weird new economic spark: toy elves and robocops",
-      "description": "Young Chinese aren’t buying status symbols. They’re spending money on things that make them feel something — anything.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/chinas-new-economic-drivers-a-sad-toy-elf-and-a-robot-police-force-8759daf9?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Alphabet sees $269 billion market-cap wipeout as investors fear it’s losing the war for AI talent",
-      "description": "Two AI leaders, including a Nobel laureate, recently said they would leave Google for rival labs.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/alphabet-sees-269-billion-market-cap-wipeout-as-investors-fear-its-losing-the-war-for-ai-talent-497aa378?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Caterpillar’s stock hits a milestone as roaring industrials rally sweeps up Wall Street",
-      "description": "Caterpillar is the hottest stock in the Dow this year, and now one of just two in the index with a price above $1,000.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/caterpillars-stock-hits-a-milestone-as-roaring-industrials-rally-sweeps-up-wall-street-391057f7?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Norway vs. Senegal odds, prediction, time: 2026 World Cup picks, best bets by expert on 18-8 roll",
-      "description": "SportsLine's Martin Green reveals his Norway vs. Senegal best bets for their FIFA World Cup 2026 match on Monday",
+      "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
+      "description": "Forty people have drowned in heatwave-related deaths in France since last Thursday, Prime Minister Sébastien Lecornu says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Republican-linked PACs funding Democratic US primaries: Why it matters",
+      "description": "Republicans and Democrats have both employed tactics to boost weaker rivals ahead of US midterm elections.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/23/republican-linked-pac-money-funding-democratic-us-primaries-why-it-matters?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
+      "description": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "SpaceX succumbs to gravity as the stock briefly dips below its debut price on Nasdaq",
+      "description": "The stock hit a new low before recovering to trade in positive territory.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/spacex-succumbs-to-gravity-as-its-stock-price-briefly-dips-below-its-ipo-trading-debut-a06e4321?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "SpaceX stock climbs 4% after falling below $150 debut price",
+      "description": "Gains have been pared back at the space and AI company following an initial surge off of its record-breaking IPO.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/23/spacex-stock-tech-sell-off.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables",
+      "description": "Meta executives have said they see the lightweight smart glasses as a step towards a more advanced device that includes screens in the lenses.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/23/meta-glasses-are-new-smart-glasses-starting-at-299.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "I’m 70. A relative offered me a $25,000 home loan secured by a lien that must be repaid within a year. Is that fair?",
+      "description": "“He also wants me to downsize and move.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-70-a-relative-offered-me-a-25-000-home-loan-secured-by-a-lien-that-must-be-repaid-within-a-year-should-i-agree-27d44725?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Social Security urgently needs another ‘Greenspan Commission’ to save it",
+      "description": "The former Federal Reserve chairman’s most important achievement is often overlooked",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/social-security-urgently-needs-another-greenspan-commission-to-save-it-d52fcdee?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "‘Money can make you happy’: My wife and I have no heirs, but we’re making the world a better place by giving it away",
+      "description": "“If you find a need in your community, there’s likely an organization that will help you get involved.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/money-can-make-you-happy-my-wife-and-i-have-no-heirs-but-were-making-the-world-a-better-place-by-giving-it-away-f61fad98?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Explaining PGA Tour's new structure: Two series, promotion and relegation, match play at Tour Championship",
+      "description": "The PGA Tour is set to undergo drastic changes to its overall format, starting in 2028",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/norway-senegal-odds-prediction-line-time-2026-world-cup-picks-best-bets/",
+      "url": "https://www.cbssports.com/golf/news/pga-tour-new-format-schedule-explainer-two-series-structure-match-play/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Lionel Messi breaks all-time men's World Cup goal scoring record for Argentina vs. Austria",
-      "description": "Messi has surpassed Germany's Miroslav Klose to stand alone as the greatest goal scorer in men's World Cup history",
+      "title": "2026 NBA Draft intel: Latest buzz on Wizards' No. 1 pick, trade chatter and prospects rising late",
+      "description": "Is AJ Dybantsa at No. 1 a lock? Could Utah really draft Cam Boozer second? Which point guard will be first off the board? A rundown on what we're hearing heading into Tuesday night",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/lionel-messi-breaks-all-time-mens-world-cup-goal-scoring-record-for-argentina-vs-austria/",
+      "url": "https://www.cbssports.com/nba/news/2026-nba-draft-rumors-picks-dybantsa-peterson-boozer-wilson/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "'Nerd' Kingston Flemings knows he could be an analyst or a scout; instead, he'll be a first-round draft pick",
-      "description": "The Houston guard is incredibly explosive, but his basketball brain is what sets him apart",
+      "title": "Why first-round talent may not be enough for Brendan Sorsby in NFL supplemental draft",
+      "description": "NFL front office sources view Sorsby as a potential starter-level talent, but concerns over his college gambling scandal could push him well below the second-round range",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nba/news/nba-draft-kingston-flemings-houston/",
+      "url": "https://www.cbssports.com/nfl/news/brendan-sorsby-supplemental-draft-updates-nfl-gambling/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "2026 NFL training camp report dates, joint practices, top storyline for all 32 teams",
-      "description": "With training camps just over a month away, here's a team-by-team look at the battles, injuries, quarterback questions and breakout candidates that will shape the 2026 NFL season",
+      "title": "PGA Tour elects CEO Brian Rolapp as new commissioner after Jay Monahan's retirement",
+      "description": "Rolapp's power over the PGA Tour is cemented by becoming the commissioner and CEO",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-training-camp-report-dates-joint-practices-storylines/",
+      "url": "https://www.cbssports.com/golf/news/brian-rolapp-new-pga-tour-commissioner-jay-monahan-retirement/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
