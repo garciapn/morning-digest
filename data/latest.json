@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-23T16:09:57.716988+00:00",
-  "edition": "#140",
+  "date": "2026-06-24T15:51:39.670331+00:00",
+  "edition": "#141",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Password manager maker LastPass says hackers stole customer support case data during Klue breach",
-      "description": "This is the second data breach to affect LastPass customers in recent years, after one of the password manager's tech partners was recently breached.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/23/password-manager-maker-lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/",
+      "title": "Quebec town recognizes trees as living beings with rights",
+      "description": "Article URL: https://www.cbc.ca/news/canada/montreal/terrasse-vaudreil-quebec-tree-rights-9.7243634 Comments URL: https://news.ycombinator.com/item?id=48661536 Points: 7 # Comments: 0",
+      "source": "Hacker News",
+      "url": "https://www.cbc.ca/news/canada/montreal/terrasse-vaudreil-quebec-tree-rights-9.7243634",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "AI's Affordability Crisis",
-      "description": "Article URL: https://blog.dshr.org/2026/06/ais-affordability-crisis.html Comments URL: https://news.ycombinator.com/item?id=48646276 Points: 58 # Comments: 46",
+      "title": "Boffin claims Microsoft's \"quantum leap\" is invalid due to \"basic Python errors\"",
+      "description": "Article URL: https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489 Comments URL: https://news.ycombinator.com/item?id=48661535…",
       "source": "Hacker News",
-      "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+      "url": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "HaloBraid raises $7M from Seven Seven Six to end the six-hour hair salon appointment",
-      "description": "HaloBraid aims to help salons speed up braiding with its first device, slated to launch later this year, that acts as a braiding assistant for professional stylists.",
+      "title": "Registration",
+      "description": "Article URL: https://www.winnipegsd.ca/student-registration Comments URL: https://news.ycombinator.com/item?id=48661195 Points: 4 # Comments: 1",
+      "source": "Hacker News",
+      "url": "https://www.winnipegsd.ca/student-registration",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Edsger Dijkstra's Library (Housed and Archived in Leuven, Belgium)",
+      "description": "Article URL: https://www.dijkstrascry.com/inventory Comments URL: https://news.ycombinator.com/item?id=48661179 Points: 5 # Comments: 0",
+      "source": "Hacker News",
+      "url": "https://www.dijkstrascry.com/inventory",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Zoox upgrades its robotaxi as it prepares for commercial service",
+      "description": "The new Zoox robotaxi has more cushioning, lighter colors, and a better microphone and speaker for communicating with Zoox Support.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/",
+      "url": "https://techcrunch.com/2026/06/24/zoox-upgrades-its-robotaxi-as-it-prepares-for-commercial-service/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Show HN: Treedocs: Documentation that automatically checks for staleness",
-      "description": "Article URL: https://dandylyons.github.io/treedocs/ Comments URL: https://news.ycombinator.com/item?id=48646209 Points: 9 # Comments: 3",
-      "source": "Hacker News",
-      "url": "https://dandylyons.github.io/treedocs/",
+      "title": "This new tracking label could help solve cargo theft",
+      "description": "The Samsara Tracking Label hides a BLE system that can offer real-time location in a disposable package.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/24/this-new-tracking-label-could-help-solve-cargo-theft/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
-      "description": "Article URL: https://lift4d.github.io/ Comments URL: https://news.ycombinator.com/item?id=48645721 Points: 29 # Comments: 1",
-      "source": "Hacker News",
-      "url": "https://lift4d.github.io/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
-      "description": "Hi all! TikZ is a widely-used LaTeX package for drawing figures in papers. It uses commands like \\draw[->] (0,0) -- (1,2); to draw lines, shapes, text, etc. Academics usually code up their figures by hand, so there is l…",
-      "source": "Hacker News",
-      "url": "https://tikz.dev/editor/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
-      "description": "Traffic in the waterway has risen since the US and Iran signed a deal aimed at ending the war, including 42 ships on Saturday alone.",
+      "title": "Train passed red signal before fatal crash, says report",
+      "description": "A preliminary report from the Independent Rail Accident Investigation Branch is published.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "From cool-down spots to chalk on windows - how Europeans are coping with the heat",
-      "description": "People across the continent are taking measures to cope with the searing temperatures gripping Europe.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cz0j87vpz79o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Stop pretending EU's new border system is working, says airports chief",
-      "description": "The head of Europe's airports lobby says concerns over EES are keeping him awake at night and he doesn't know how airports will cope over the summer.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn4rlzrdj14o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cly90nqpryko?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Peter Murrell jailed for more than five years for embezzling SNP funds",
-      "description": "The former party chief executive had admitted embezzling more than £400,000 over a 12-year period.",
+      "title": "Why this heatwave feels worse than the last one",
+      "description": "A combination of factors is making this heatwave more uncomfortable than some we have had in the past, as Simon King explains",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzlqv4dyeo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/weather/articles/c3vyzly206no?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "A Revolutionary War soldier's DNA links him to living relatives",
-      "description": "Continental Army soldier John Pumphrey enlisted as a teenager in 1777 and fought at significant battles before his death in action against the British in Camden, S.C.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/23/nx-s1-5866455/revolutionary-war-continental-army-camden-south-carolina-maryland",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Afghan Taliban hold first, closed-door talks with EU on deportations",
-      "description": "Rights groups criticized the meeting, saying it undermines the EU's human rights obligations.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/23/g-s1-129648/afghan-taliban-hold-first-closed-door-talks-with-eu-on-deportations",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "The $3.7bn man: Inside one of US’s biggest Medicare frauds",
-      "description": "US businessman has been arrested in Turkiye after a year on the run from authorities.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/23/the-3-7bn-man-inside-one-of-americas-biggest-medicare-frauds?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "South African police investigate murder amid rise in anti-migrant attacks",
-      "description": "The rise in anti-migrant attacks in South Africa has already left several people dead, with hundreds trying to leave.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/23/south-african-police-investigate-murder-amid-rise-in-anti-migrant-attacks?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "More than 5,300 people still held in Myanmar scam centres: rights group",
-      "description": "A UN report found the facilities are operated by foreign nationals who were trafficked by criminal gangs.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/23/more-than-5300-people-still-held-in-myanmar-scam-centres-rights-group?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
-      "description": "Forty people have drowned in heatwave-related deaths in France since last Thursday, Prime Minister Sébastien Lecornu says.",
+      "title": "Baby deaths and toxic culture - the Nottingham maternity report at a glance",
+      "description": "A long-awaited review into maternity services in Nottingham finds \"systemic\" failings.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Republican-linked PACs funding Democratic US primaries: Why it matters",
-      "description": "Republicans and Democrats have both employed tactics to boost weaker rivals ahead of US midterm elections.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/23/republican-linked-pac-money-funding-democratic-us-primaries-why-it-matters?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
-      "description": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
+      "url": "https://www.bbc.co.uk/news/articles/cwyd8kkjnx2o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "SpaceX succumbs to gravity as the stock briefly dips below its debut price on Nasdaq",
-      "description": "The stock hit a new low before recovering to trade in positive territory.",
+      "title": "Will Texas' new top voting official be a 'disruptor'? Locals are preparing for it",
+      "description": "Just ahead of closely contested midterms, Texas is about to get a new top voting official. Many locals there fear the frontrunner is a state lawmaker and pastor with no election experience.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/24/nx-s1-5866554/texas-secretary-of-state-schatzline",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Understanding 'masculinism,' a movement to restore the primacy of men",
+      "description": "Masculinism is a belief that feminism emasculates men, and men should be in control while women stay at home raising children. The Atlantic writer Helen Lewis says the movement is becoming mainstream.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/24/nx-s1-5868665/understanding-masculinism-a-movement-to-restore-the-primacy-of-men",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "US eases restriction on Iran's World Cup team, allowing travel 2 days before next match",
+      "description": "The U.S. is easing its restrictions on Iran's World Cup team. The U.S. Department of Homeland Security said Tuesday the squad could travel into the country two days before its next match.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/24/g-s1-129820/irans-world-cup-travel-restrictions",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Why Accra slavery reparatory justice meeting matters",
+      "description": "From apology to action: the renewed push for slavery reparations amid questions over delivery.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/24/why-accra-slavery-reparatory-justice-meeting-matters?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Rubio says Iran cannot charge tolls in Hormuz: What we know",
+      "description": "Tehran says the strait 'will never return' to its prewar conditions and claims it can charge fees for services.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/24/rubio-says-iran-cannot-charge-tolls-in-hormuz-what-we-know?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Air conditioning creates political divide after France records hottest day",
+      "description": "France is being forced to re-think its longstanding reservations about air-conditioning as temperatures soar.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Power outages hit France as record heatwave set to peak",
+      "description": "About 68,000 homes in Brittany have been affected, with electricity unlikely to be fully restored until Wednesday night.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Rubio tries to reassure Gulf allies on US-Iran deal details",
+      "description": "Rubio tours Gulf in bid to allay allies' security concerns over the US-Iran memorandum of understanding.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/24/rubio-tries-to-reassure-gulf-allies-on-us-iran-deal-details?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "When Paris is hotter than Mecca: How Europe’s heatwave compares globally",
+      "description": "Paris and other European cities are seeing temperatures above 40C (104F), levels normally seen across the Middle East.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/24/when-paris-is-hotter-than-mecca-how-europes-heatwave-compares-globally?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Why a 30-year mortgage loan could be your biggest money mistake",
+      "description": "You might be able to save hundreds of thousands of dollars with a 15-year mortgage loan.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/spacex-succumbs-to-gravity-as-its-stock-price-briefly-dips-below-its-ipo-trading-debut-a06e4321?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/why-a-30-year-mortgage-loan-could-be-your-biggest-money-mistake-46323442?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "SpaceX stock climbs 4% after falling below $150 debut price",
-      "description": "Gains have been pared back at the space and AI company following an initial surge off of its record-breaking IPO.",
+      "title": "Millions of older Americans will soon have Medicare access to GLP-1s for weight loss. Here’s what they need to know.",
+      "description": "Starting July 1, Medicare beneficiaries will have access to weight-loss drugs for the first time. There are some unique factors they should consider.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/millions-of-older-americans-will-soon-have-medicare-access-to-glp-1s-for-weight-loss-heres-what-they-need-to-know-758efe4c?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Trump cancels signing of bipartisan housing bill, demanding voter-ID provision",
+      "description": "President Donald Trump abruptly canceled the signing of a bill aimed at increasing housing affordability an hour before he was due at the Capitol for the ceremony.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/23/spacex-stock-tech-sell-off.html",
+      "url": "https://www.cnbc.com/2026/06/24/trump-cancels-housing-bill-signing-save-america-act.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Meta announces new smart glasses starting at $299, as Zuckerberg keeps pushing wearables",
-      "description": "Meta executives have said they see the lightweight smart glasses as a step towards a more advanced device that includes screens in the lenses.",
+      "title": "Here’s exactly what I said to get a $155 refund on a canceled flight — even when the airline pushed back",
+      "description": "Plus: Know your rights as a passenger — and what you’re entitled to if an airline cancels your flight for any reason.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/this-strategy-got-me-a-155-refund-on-a-canceled-flight-even-when-the-airline-pushed-back-0dc4de2f?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Amazon's Zoox unveils redesigned robotaxi ahead of upcoming expansion",
+      "description": "Zoox is updating its robotaxis as the Amazon division plots expansion in additional markets and prepares to charge for rides.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/23/meta-glasses-are-new-smart-glasses-starting-at-299.html",
+      "url": "https://www.cnbc.com/2026/06/24/amazons-zoox-unveils-redesigned-robotaxi-ahead-of-upcoming-expansion.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "I’m 70. A relative offered me a $25,000 home loan secured by a lien that must be repaid within a year. Is that fair?",
-      "description": "“He also wants me to downsize and move.”",
+      "title": "Broadcom unveils a custom chip for OpenAI as it challenges Nvidia’s dominance",
+      "description": "The custom chip is designed to support the ChatGPT maker’s future AI models and products.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-70-a-relative-offered-me-a-25-000-home-loan-secured-by-a-lien-that-must-be-repaid-within-a-year-should-i-agree-27d44725?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/broadcom-unveils-a-custom-chip-for-openai-as-it-challenges-nvidias-dominance-b9b17dd1?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Social Security urgently needs another ‘Greenspan Commission’ to save it",
-      "description": "The former Federal Reserve chairman’s most important achievement is often overlooked",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/social-security-urgently-needs-another-greenspan-commission-to-save-it-d52fcdee?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "‘Money can make you happy’: My wife and I have no heirs, but we’re making the world a better place by giving it away",
-      "description": "“If you find a need in your community, there’s likely an organization that will help you get involved.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/money-can-make-you-happy-my-wife-and-i-have-no-heirs-but-were-making-the-world-a-better-place-by-giving-it-away-f61fad98?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Explaining PGA Tour's new structure: Two series, promotion and relegation, match play at Tour Championship",
-      "description": "The PGA Tour is set to undergo drastic changes to its overall format, starting in 2028",
+      "title": "FIFA World Cup 2026 Power Rankings: France and Argentina still look strong; five teams eliminated",
+      "description": "The 2026 World Cup is entering its final round of the group stages",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/golf/news/pga-tour-new-format-schedule-explainer-two-series-structure-match-play/",
+      "url": "https://www.cbssports.com/soccer/news/fifa-world-cup-2026-power-rankings-france-argentina-top-two/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "2026 NBA Draft intel: Latest buzz on Wizards' No. 1 pick, trade chatter and prospects rising late",
-      "description": "Is AJ Dybantsa at No. 1 a lock? Could Utah really draft Cam Boozer second? Which point guard will be first off the board? A rundown on what we're hearing heading into Tuesday night",
+      "title": "Footy Fix: World Cup's third round of games begins with as teams begin to be eliminated from contention",
+      "description": "Elsewhere USMNT prepares for Turkiye with first-place already secured in Group D",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nba/news/2026-nba-draft-rumors-picks-dybantsa-peterson-boozer-wilson/",
+      "url": "https://www.cbssports.com/soccer/news/footy-fix-world-cup-third-round/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Why first-round talent may not be enough for Brendan Sorsby in NFL supplemental draft",
-      "description": "NFL front office sources view Sorsby as a potential starter-level talent, but concerns over his college gambling scandal could push him well below the second-round range",
+      "title": "2026 Travelers Championship longshot picks, odds, PGA props: This golf parlay could return over $520,000",
+      "description": "SportsLine's model simulated the Travelers Championship 2026 10,000 times and revealed a PGA longshot parlay that could return over $520,000 on just a $10 bet",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/brendan-sorsby-supplemental-draft-updates-nfl-gambling/",
+      "url": "https://www.cbssports.com/golf/news/2026-travelers-championship-picks-odds-pga-props-golf-longshot-parlay/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "PGA Tour elects CEO Brian Rolapp as new commissioner after Jay Monahan's retirement",
-      "description": "Rolapp's power over the PGA Tour is cemented by becoming the commissioner and CEO",
+      "title": "Caitlin Clark blasts refs over technical foul in Fever's win: 'You just don't like competitive basketball'",
+      "description": "Clark claimed she was told she got the technical foul 'for clapping'",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/golf/news/brian-rolapp-new-pga-tour-commissioner-jay-monahan-retirement/",
+      "url": "https://www.cbssports.com/wnba/news/caitlin-clark-fever-technical-foul-mercury-dewanna-bonner/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
