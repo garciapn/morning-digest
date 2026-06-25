@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-24T15:51:39.670331+00:00",
-  "edition": "#141",
+  "date": "2026-06-25T16:02:44.557883+00:00",
+  "edition": "#142",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Quebec town recognizes trees as living beings with rights",
-      "description": "Article URL: https://www.cbc.ca/news/canada/montreal/terrasse-vaudreil-quebec-tree-rights-9.7243634 Comments URL: https://news.ycombinator.com/item?id=48661536 Points: 7 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://www.cbc.ca/news/canada/montreal/terrasse-vaudreil-quebec-tree-rights-9.7243634",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Boffin claims Microsoft's \"quantum leap\" is invalid due to \"basic Python errors\"",
-      "description": "Article URL: https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489 Comments URL: https://news.ycombinator.com/item?id=48661535…",
-      "source": "Hacker News",
-      "url": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Registration",
-      "description": "Article URL: https://www.winnipegsd.ca/student-registration Comments URL: https://news.ycombinator.com/item?id=48661195 Points: 4 # Comments: 1",
-      "source": "Hacker News",
-      "url": "https://www.winnipegsd.ca/student-registration",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Edsger Dijkstra's Library (Housed and Archived in Leuven, Belgium)",
-      "description": "Article URL: https://www.dijkstrascry.com/inventory Comments URL: https://news.ycombinator.com/item?id=48661179 Points: 5 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://www.dijkstrascry.com/inventory",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Zoox upgrades its robotaxi as it prepares for commercial service",
-      "description": "The new Zoox robotaxi has more cushioning, lighter colors, and a better microphone and speaker for communicating with Zoox Support.",
+      "title": "From Fortnite to robots: General Intuition raises $2.3B on bet that video games can train AI agents for the real world",
+      "description": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/24/zoox-upgrades-its-robotaxi-as-it-prepares-for-commercial-service/",
+      "url": "https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "This new tracking label could help solve cargo theft",
-      "description": "The Samsara Tracking Label hides a BLE system that can offer real-time location in a disposable package.",
+      "title": "Parker Conrad knows which employees are worth their AI spend and says Rippling can help you, too",
+      "description": "\"There were employees doing things like, 'Claude is so helpful for me — it analyzes my calendar and my email and puts together a plan for me,'\" he says. \"That person was spending at a run rate of $30,000 a year for this…",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/24/this-new-tracking-label-could-help-solve-cargo-theft/",
+      "url": "https://techcrunch.com/2026/06/25/parker-conrad-knows-which-employees-are-worth-their-ai-spend-and-says-rippling-can-help-you-too/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Train passed red signal before fatal crash, says report",
-      "description": "A preliminary report from the Independent Rail Accident Investigation Branch is published.",
+      "title": "Google Finance gets a dedicated app for Android",
+      "description": "Users will be able to access their watchlists, real-time market data, live financial news, and Google's AI-powered \"Key Moments\" feature, which explains why stocks moved.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/25/google-finance-gets-a-dedicated-app-for-android/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+      "description": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Feds deny Polestar authorization to sell cars in US from model year 2027",
+      "description": "Unlike with Volvo, there will be no authorization for Polestar to sell its cars here.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/06/feds-deny-polestar-authorization-to-sell-cars-in-us-from-model-year-2027/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Apple ratchets up prices, blames the cost of memory",
+      "description": "Some Macs are hundreds of dollars more expensive today than yesterday.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/apple/2026/06/apple-ratchets-up-prices-blames-the-cost-of-memory/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Europe's heatwave shifts east as France raises health alert to highest level",
+      "description": "Temperatures in Germany could hit 40C in some areas while French officials say deaths linked to the heat are being seen among young people.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cly90nqpryko?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Why this heatwave feels worse than the last one",
-      "description": "A combination of factors is making this heatwave more uncomfortable than some we have had in the past, as Simon King explains",
+      "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
+      "description": "The airline had typically charged adults a fee of £8 each way to sit with their young children.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/weather/articles/c3vyzly206no?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Baby deaths and toxic culture - the Nottingham maternity report at a glance",
-      "description": "A long-awaited review into maternity services in Nottingham finds \"systemic\" failings.",
+      "title": "People flee as building collapses on Caracas outskirts",
+      "description": "The capital and its surrounding areas have seen some of the worst damage from the 7.2 and 7.5 quakes, which hit a minute apart.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwyd8kkjnx2o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Will Texas' new top voting official be a 'disruptor'? Locals are preparing for it",
-      "description": "Just ahead of closely contested midterms, Texas is about to get a new top voting official. Many locals there fear the frontrunner is a state lawmaker and pastor with no election experience.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/24/nx-s1-5866554/texas-secretary-of-state-schatzline",
+      "title": "TikTok influencer charged with Dubai murder",
+      "description": "Influencer Brooke George, 23, from Kent, claims she acted in self defence in stabbing her partner.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0p813jn7o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
+      "timeAgo": "4h ago"
     },
     {
-      "title": "Understanding 'masculinism,' a movement to restore the primacy of men",
-      "description": "Masculinism is a belief that feminism emasculates men, and men should be in control while women stay at home raising children. The Atlantic writer Helen Lewis says the movement is becoming mainstream.",
+      "title": "Supreme Court says U.S. can turn away asylum seekers at the border",
+      "description": "By a 6 to 3 vote, the high court ruled that that federal law allows the government to stop asylum seekers from physically setting foot in the United States, effectively keeping them from applying for asylum.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/06/24/nx-s1-5868665/understanding-masculinism-a-movement-to-restore-the-primacy-of-men",
+      "url": "https://www.npr.org/2026/06/25/nx-s1-5838860/supreme-court-asylum-policy",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "US eases restriction on Iran's World Cup team, allowing travel 2 days before next match",
-      "description": "The U.S. is easing its restrictions on Iran's World Cup team. The U.S. Department of Homeland Security said Tuesday the squad could travel into the country two days before its next match.",
+      "title": "Trump can begin deportations of Syrian, Haitian TPS holders, Supreme Court says",
+      "description": "Writing for the court majority, Justice Samuel Alito that under the TPS law, the president has unreviewable authority to end the program, without intervention from the courts.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/06/24/g-s1-129820/irans-world-cup-travel-restrictions",
+      "url": "https://www.npr.org/2026/06/25/nx-s1-5844292/supreme-court-syrian-haitian-tps",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Why Accra slavery reparatory justice meeting matters",
-      "description": "From apology to action: the renewed push for slavery reparations amid questions over delivery.",
+      "title": "They fled war as child refugees, now they’re playing at World Cup 2026",
+      "description": "In a World Cup for everyone, as it has been dubbed by FIFA, players carry historic stories of war and displacement.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/24/why-accra-slavery-reparatory-justice-meeting-matters?traffic_source=rss",
+      "url": "https://www.aljazeera.com/sports/2026/6/25/they-fled-war-as-child-refugees-now-theyre-playing-at-world-cup-2026?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Rubio says Iran cannot charge tolls in Hormuz: What we know",
-      "description": "Tehran says the strait 'will never return' to its prewar conditions and claims it can charge fees for services.",
+      "title": "Israel kills three in Lebanon as Rubio praises progress in Washington talks",
+      "description": "Lebanon’s state-run National News Agency reports three people killed after an Israeli attack on a car in Nabatieh.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/24/rubio-says-iran-cannot-charge-tolls-in-hormuz-what-we-know?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/6/25/israel-kills-three-in-lebanon-as-rubio-praises-progress-in-washington-talks?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "'I thought I was going to die' - Venezuelans describe earthquake panic",
+      "description": "Buildings were flattened in the capital Caracas, where voices have been heard calling from the rubble.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Lebanon Latest: Peace talks between Lebanon and Israel, people return south",
+      "description": "Al Jazeera’s Robert McBride brings you the latest from Beirut as people return to the south of Lebanon.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/lebanon-latest-peace-talks-between-lebanon-and-israel-people-return-south?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Air conditioning creates political divide after France records hottest day",
-      "description": "France is being forced to re-think its longstanding reservations about air-conditioning as temperatures soar.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Power outages hit France as record heatwave set to peak",
-      "description": "About 68,000 homes in Brittany have been affected, with electricity unlikely to be fully restored until Wednesday night.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Rubio tries to reassure Gulf allies on US-Iran deal details",
-      "description": "Rubio tours Gulf in bid to allay allies' security concerns over the US-Iran memorandum of understanding.",
+      "title": "Iran accuses NATO of ‘complicity’ in US war: What role did EU nations play?",
+      "description": "NATO boss tries to convince Trump that European allies were there for the US during war on Iran.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/24/rubio-tries-to-reassure-gulf-allies-on-us-iran-deal-details?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/6/25/iran-accuses-nato-of-complicity-in-us-war-what-role-did-eu-nations-play?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
+      "description": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "2h ago"
     },
     {
-      "title": "When Paris is hotter than Mecca: How Europe’s heatwave compares globally",
-      "description": "Paris and other European cities are seeing temperatures above 40C (104F), levels normally seen across the Middle East.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/24/when-paris-is-hotter-than-mecca-how-europes-heatwave-compares-globally?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Why a 30-year mortgage loan could be your biggest money mistake",
-      "description": "You might be able to save hundreds of thousands of dollars with a 15-year mortgage loan.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-a-30-year-mortgage-loan-could-be-your-biggest-money-mistake-46323442?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Millions of older Americans will soon have Medicare access to GLP-1s for weight loss. Here’s what they need to know.",
-      "description": "Starting July 1, Medicare beneficiaries will have access to weight-loss drugs for the first time. There are some unique factors they should consider.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/millions-of-older-americans-will-soon-have-medicare-access-to-glp-1s-for-weight-loss-heres-what-they-need-to-know-758efe4c?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Trump cancels signing of bipartisan housing bill, demanding voter-ID provision",
-      "description": "President Donald Trump abruptly canceled the signing of a bill aimed at increasing housing affordability an hour before he was due at the Capitol for the ceremony.",
+      "title": "Apple stock drops 5% on MacBook and iPad price hikes due to memory crunch",
+      "description": "Tim Cook said last week that Apple would hike prices due to surging memory and storage costs.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/24/trump-cancels-housing-bill-signing-save-america-act.html",
+      "url": "https://www.cnbc.com/2026/06/25/apple-macbook-ipad-price-hike-memory.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Here’s exactly what I said to get a $155 refund on a canceled flight — even when the airline pushed back",
-      "description": "Plus: Know your rights as a passenger — and what you’re entitled to if an airline cancels your flight for any reason.",
+      "title": "This disease is more expensive than cancer and heart disease combined. And it’s only going to get worse.",
+      "description": "“People should be alarmed. This is a health crisis. It’s also an economic crisis for families and government,”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-strategy-got-me-a-155-refund-on-a-canceled-flight-even-when-the-airline-pushed-back-0dc4de2f?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/this-disease-is-more-expensive-than-cancer-and-heart-disease-combined-and-its-only-going-to-get-worse-797b72d9?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Amazon's Zoox unveils redesigned robotaxi ahead of upcoming expansion",
-      "description": "Zoox is updating its robotaxis as the Amazon division plots expansion in additional markets and prepares to charge for rides.",
+      "title": "Bayer’s stock jumps after Supreme Court sides with Roundup weedkiller manufacturer",
+      "description": "The court ruled that states cannot have differing labeling warning rules than federal law requires.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/bayers-stock-jumps-after-supreme-court-sides-with-roundup-weedkiller-manufacturer-a747f253?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "A relative offered me a $25,000 home loan secured by a lien that must be repaid within a year. Is that fair?",
+      "description": "“He also wants me to downsize and move.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-70-a-relative-offered-me-a-25-000-home-loan-secured-by-a-lien-that-must-be-repaid-within-a-year-should-i-agree-27d44725?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "‘Take the money while you can’: I’m a CPA and tell my clients to take their Social Security early. Am I wrong?",
+      "description": "“Only 8% to 10% of people wait until age 70 to claim.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/take-the-money-while-you-can-im-a-cpa-and-tell-my-clients-to-take-their-social-security-early-am-i-wrong-a50e55e8?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Bayer wins Supreme Court case making it harder to sue over glyphosate in Monsanto's Roundup",
+      "description": "Glyphosate, used in Roundup weedkiller, is the most commonly used weedkiller in agriculture, and it has long been linked to cancer claims.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/24/amazons-zoox-unveils-redesigned-robotaxi-ahead-of-upcoming-expansion.html",
+      "url": "https://www.cnbc.com/2026/06/25/glyphosate-roundup-bayer-supreme-court-case-monsanto.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Broadcom unveils a custom chip for OpenAI as it challenges Nvidia’s dominance",
-      "description": "The custom chip is designed to support the ChatGPT maker’s future AI models and products.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/broadcom-unveils-a-custom-chip-for-openai-as-it-challenges-nvidias-dominance-b9b17dd1?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "FIFA World Cup 2026 Power Rankings: France and Argentina still look strong; five teams eliminated",
-      "description": "The 2026 World Cup is entering its final round of the group stages",
+      "title": "MLB DFS: Top DraftKings, FanDuel daily Fantasy baseball picks include Bryson Stott on Thursday, June 25",
+      "description": "SportsLine's Mike McClure, a daily Fantasy pro with more than $2 million in winnings, gives optimal MLB DFS lineup advice for Thursday, June 25",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/fifa-world-cup-2026-power-rankings-france-argentina-top-two/",
+      "url": "https://www.cbssports.com/mlb/news/mlb-dfs-draftkings-fanduel-daily-fantasy-baseball-picks-thursday-june-25/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Footy Fix: World Cup's third round of games begins with as teams begin to be eliminated from contention",
-      "description": "Elsewhere USMNT prepares for Turkiye with first-place already secured in Group D",
+      "title": "Mark Andrews says Lamar Jackson will be 'a scary sight' in Ravens' new offense, praises Jesse Minter",
+      "description": "Andrews discussed his quarterback, his coach and many other topics with CBS Sports",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/footy-fix-world-cup-third-round/",
+      "url": "https://www.cbssports.com/nfl/news/mark-andrews-lamar-jackson-ravens-new-offense/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "2026 Travelers Championship longshot picks, odds, PGA props: This golf parlay could return over $520,000",
-      "description": "SportsLine's model simulated the Travelers Championship 2026 10,000 times and revealed a PGA longshot parlay that could return over $520,000 on just a $10 bet",
+      "title": "LaMelo Ball trade grades: Timberwolves get 'B+' for high-risk, high-reward move, Hornets take the long view",
+      "description": "Ball could create an elite backcourt with Anthony Edwards, but it also could blow up in Minnesota's face",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/golf/news/2026-travelers-championship-picks-odds-pga-props-golf-longshot-parlay/",
+      "url": "https://www.cbssports.com/nba/news/lamelo-ball-trade-grades-timberwolves-hornets/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Caitlin Clark blasts refs over technical foul in Fever's win: 'You just don't like competitive basketball'",
-      "description": "Clark claimed she was told she got the technical foul 'for clapping'",
+      "title": "Free MLB home run odds, picks for June 25: Francisco Lindor leads expert's best Thursday HR player props",
+      "description": "SportsLine MLB expert Adam Thompson's reveals his best home run props for Thursday, June 25",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/wnba/news/caitlin-clark-fever-technical-foul-mercury-dewanna-bonner/",
+      "url": "https://www.cbssports.com/betting/news/free-mlb-home-run-odds-picks-for-june-25-francisco-lindor-leads-experts-best-thursday-hr-player-props/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
