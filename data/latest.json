@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-25T16:02:44.557883+00:00",
-  "edition": "#142",
+  "date": "2026-06-26T15:39:45.920974+00:00",
+  "edition": "#143",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "From Fortnite to robots: General Intuition raises $2.3B on bet that video games can train AI agents for the real world",
-      "description": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Parker Conrad knows which employees are worth their AI spend and says Rippling can help you, too",
-      "description": "\"There were employees doing things like, 'Claude is so helpful for me — it analyzes my calendar and my email and puts together a plan for me,'\" he says. \"That person was spending at a run rate of $30,000 a year for this…",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/25/parker-conrad-knows-which-employees-are-worth-their-ai-spend-and-says-rippling-can-help-you-too/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Google Finance gets a dedicated app for Android",
-      "description": "Users will be able to access their watchlists, real-time market data, live financial news, and Google's AI-powered \"Key Moments\" feature, which explains why stocks moved.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/25/google-finance-gets-a-dedicated-app-for-android/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
-      "description": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Feds deny Polestar authorization to sell cars in US from model year 2027",
-      "description": "Unlike with Volvo, there will be no authorization for Polestar to sell its cars here.",
+      "title": "VW may close four factories to adapt to the future, report says",
+      "description": "With falling sales in the US and especially China, VW Group wants to restructure.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/06/feds-deny-polestar-authorization-to-sell-cars-in-us-from-model-year-2027/",
+      "url": "https://arstechnica.com/cars/2026/06/vw-may-close-four-factories-to-adapt-to-the-future-report-says/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Apple ratchets up prices, blames the cost of memory",
-      "description": "Some Macs are hundreds of dollars more expensive today than yesterday.",
+      "title": "The AI industry is pouring millions into US elections",
+      "description": "Article URL: https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds Comments URL: https://news.ycombinator.com/item?id=48687483 Points: 15 # Comments: 1",
+      "source": "Hacker News",
+      "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Jolla Phone, Over 13 500 units sold",
+      "description": "Article URL: https://commerce.jolla.com/products/jolla-phone-october-2026 Comments URL: https://news.ycombinator.com/item?id=48687272 Points: 48 # Comments: 26",
+      "source": "Hacker News",
+      "url": "https://commerce.jolla.com/products/jolla-phone-october-2026",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Feedbacks upon feedbacks: Rock weathering and the climate",
+      "description": "Rock weathering may release or draw down carbon dioxide—it depends on the rock.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/apple/2026/06/apple-ratchets-up-prices-blames-the-cost-of-memory/",
+      "url": "https://arstechnica.com/science/2026/06/feedbacks-upon-feedbacks-rock-weathering-and-the-climate/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Why have papers by one of history's most famous physicists been retracted?",
+      "description": "Article URL: https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted Comments URL: https://news.ycombinator.com/item?id=48686834 Points: 131 # Comments: 44",
+      "source": "Hacker News",
+      "url": "https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Europe's heatwave shifts east as France raises health alert to highest level",
-      "description": "Temperatures in Germany could hit 40C in some areas while French officials say deaths linked to the heat are being seen among young people.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
-      "description": "The airline had typically charged adults a fee of £8 each way to sit with their young children.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "People flee as building collapses on Caracas outskirts",
-      "description": "The capital and its surrounding areas have seen some of the worst damage from the 7.2 and 7.5 quakes, which hit a minute apart.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "TikTok influencer charged with Dubai murder",
-      "description": "Influencer Brooke George, 23, from Kent, claims she acted in self defence in stabbing her partner.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwy0p813jn7o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "Supreme Court says U.S. can turn away asylum seekers at the border",
-      "description": "By a 6 to 3 vote, the high court ruled that that federal law allows the government to stop asylum seekers from physically setting foot in the United States, effectively keeping them from applying for asylum.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/25/nx-s1-5838860/supreme-court-asylum-policy",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Trump can begin deportations of Syrian, Haitian TPS holders, Supreme Court says",
-      "description": "Writing for the court majority, Justice Samuel Alito that under the TPS law, the president has unreviewable authority to end the program, without intervention from the courts.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/25/nx-s1-5844292/supreme-court-syrian-haitian-tps",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "They fled war as child refugees, now they’re playing at World Cup 2026",
-      "description": "In a World Cup for everyone, as it has been dubbed by FIFA, players carry historic stories of war and displacement.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/25/they-fled-war-as-child-refugees-now-theyre-playing-at-world-cup-2026?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Israel kills three in Lebanon as Rubio praises progress in Washington talks",
-      "description": "Lebanon’s state-run National News Agency reports three people killed after an Israeli attack on a car in Nabatieh.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/25/israel-kills-three-in-lebanon-as-rubio-praises-progress-in-washington-talks?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "'I thought I was going to die' - Venezuelans describe earthquake panic",
-      "description": "Buildings were flattened in the capital Caracas, where voices have been heard calling from the rubble.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Lebanon Latest: Peace talks between Lebanon and Israel, people return south",
-      "description": "Al Jazeera’s Robert McBride brings you the latest from Beirut as people return to the south of Lebanon.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/lebanon-latest-peace-talks-between-lebanon-and-israel-people-return-south?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Iran accuses NATO of ‘complicity’ in US war: What role did EU nations play?",
-      "description": "NATO boss tries to convince Trump that European allies were there for the US during war on Iran.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/25/iran-accuses-nato-of-complicity-in-us-war-what-role-did-eu-nations-play?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
-      "description": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
+      "title": "SpaceX plans to launch Starlink mobile service in the US",
+      "description": "Move would test whether group can turn ambition into a mass-market phone business.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/06/spacex-plans-to-launch-starlink-mobile-service-in-the-us/",
+      "category": "🤖 TECH & AI",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Apple stock drops 5% on MacBook and iPad price hikes due to memory crunch",
-      "description": "Tim Cook said last week that Apple would hike prices due to surging memory and storage costs.",
+      "title": "How transparent are the royals being about money?",
+      "description": "After the King reveals the tax he paid questions remain over how open the Royal Family is being about its wealth.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c77yzgnp5lvo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Court rules 13 men who allegedly helped rapist drug and abuse wife can be named",
+      "description": "13 men are accused of helping a man abuse his wife over a period of years.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cnv9er181lno?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Ukraine unleashes one of its heaviest drone bombardments, as Russia strikes Ukraine",
+      "description": "Ukraine launched a major nighttime attack on a dozen Russian regions, Russian-held Crimea and the surrounding seas, and Russia attacked various regions of Ukraine, as their war grinds on.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/26/nx-s1-5872256/russia-ukraine-war-drone-strikes",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Plane crashes into Beijing's tallest building; damage reported",
+      "description": "The cause of the damage could not be independently verified, and authorities did not immediately issue a statement on the incident.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/26/g-s1-130388/beijings-tallest-building-is-damaged-after-small-airplane-reportedly-crashed-into-it",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "John Bolton, former Trump national security adviser, pleads guilty in classified documents case",
+      "description": "Bolton pleaded guilty to one count of retaining national defense information while he was a national security adviser during President Trump's first term, saying: \"And I am sorry for it.\"",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/26/nx-s1-5871292/john-bolton-national-security-classified-documents",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Watch: Moment woman pulled from rubble alive",
+      "description": "First responders and volunteers pulled a survivor from under the rubble of a collapsed building in La Guaira.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/clyxgxr2672o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "5h ago"
+    },
+    {
+      "title": "Why has the UN paused plans to evacuate sailors from the Strait of Hormuz?",
+      "description": "A cargo vessel had been struck by a projectile near Oman, as Iran says all ships must pass with its permission.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/26/why-has-the-un-paused-plans-to-evacuate-sailors-from-the-strait-of-hormuz?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Morocco jails 29, including politicians and sports figures, in drug trial",
+      "description": "Casablanca court delivers landmark verdict in 'Escobar of the Sahara' case: up to 12 years for top figures.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/26/morocco-jails-29-including-politicians-and-sports-figures-in-drug-trial?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Ex-Trump adviser Bolton pleads guilty in classified documents case",
+      "description": "This is a breaking news story.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/26/ex-trump-adviser-bolton-pleads-guilty-in-classified-documents-case?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Iran slams the GCC and the US for ‘interventionist’ statement: What we know",
+      "description": "Tehran rejects US-GCC pressure over missiles, the Strait of Hormuz and regional armed groups.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/26/iran-slams-the-gcc-and-the-us-for-interventionist-statement-what-we-know?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
+      "description": "The ship was reportedly struck by an \"unknown projectile\" near Oman but no casualties were reported.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "Christmas market attacker jailed for life for murdering six in Germany",
+      "description": "A nine-year-old and five women were killed when Taleb Al-Abdulmohsen drove into the market in 2024.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "Ex-Apollo CEO Leon Black says Jeffrey Epstein duped him out of more than $60 million",
+      "description": "\"I knew Jekyll. I didn't know Hyde,\" Leon Black says about Jeffrey Epstein in his prepared statement to the House Oversight and Government Reform Committee.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/25/apple-macbook-ipad-price-hike-memory.html",
+      "url": "https://www.cnbc.com/2026/06/26/leon-black-jeffrey-epstein-house-oversight-committee.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "This disease is more expensive than cancer and heart disease combined. And it’s only going to get worse.",
-      "description": "“People should be alarmed. This is a health crisis. It’s also an economic crisis for families and government,”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-disease-is-more-expensive-than-cancer-and-heart-disease-combined-and-its-only-going-to-get-worse-797b72d9?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Bayer’s stock jumps after Supreme Court sides with Roundup weedkiller manufacturer",
-      "description": "The court ruled that states cannot have differing labeling warning rules than federal law requires.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/bayers-stock-jumps-after-supreme-court-sides-with-roundup-weedkiller-manufacturer-a747f253?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "A relative offered me a $25,000 home loan secured by a lien that must be repaid within a year. Is that fair?",
-      "description": "“He also wants me to downsize and move.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-70-a-relative-offered-me-a-25-000-home-loan-secured-by-a-lien-that-must-be-repaid-within-a-year-should-i-agree-27d44725?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "‘Take the money while you can’: I’m a CPA and tell my clients to take their Social Security early. Am I wrong?",
-      "description": "“Only 8% to 10% of people wait until age 70 to claim.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/take-the-money-while-you-can-im-a-cpa-and-tell-my-clients-to-take-their-social-security-early-am-i-wrong-a50e55e8?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Bayer wins Supreme Court case making it harder to sue over glyphosate in Monsanto's Roundup",
-      "description": "Glyphosate, used in Roundup weedkiller, is the most commonly used weedkiller in agriculture, and it has long been linked to cancer claims.",
+      "title": "OpenAI hasn't held pre-IPO investor meetings or set timeline yet, sources say",
+      "description": "OpenAI said it confidentially filed its prospectus with the SEC earlier this month, but noted it \"may be a while\" before it goes public.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/25/glyphosate-roundup-bayer-supreme-court-case-monsanto.html",
+      "url": "https://www.cnbc.com/2026/06/26/open-ai-ipo-timeline-investors.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "MLB DFS: Top DraftKings, FanDuel daily Fantasy baseball picks include Bryson Stott on Thursday, June 25",
-      "description": "SportsLine's Mike McClure, a daily Fantasy pro with more than $2 million in winnings, gives optimal MLB DFS lineup advice for Thursday, June 25",
+      "title": "Jeremy Grantham says this is the most expensive market in 'American history'",
+      "description": "Jeremy Grantham says soaring valuations around AI makes the U.S. stock market historically expensive.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Trump eases pressure on Fed Chairman Kevin Warsh as inflation tops 4%",
+      "description": "President Donald Trump's economic advisors are giving Warsh space, as the new Fed chairman, on interest rates as the president repeats calls to cut.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/26/trump-warsh-fed-rate-cuts-inflation.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "This imminent SpaceX development could make the stock even more volatile",
+      "description": "SpaceX is set to be added to the Russell 1000 after Friday’s close, and it could join other major indexes in the days ahead.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/spacexs-stock-could-get-another-dose-of-volatility-8763bb0a?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "I want to leave everything to my sons, but I’m terrified they’ll give it to my ex-husband. How do I prevent this?",
+      "description": "“I would not like my money to fall into the hands of my former spouse.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-want-to-leave-everything-to-my-sons-but-im-terrified-theyll-give-it-to-my-ex-husband-how-do-i-prevent-this-8cfc752c?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Footy Fix: USMNT on to World Cup round of 32 despite 3-2 loss: Next up, Bosnia and Herzegovina",
+      "description": "In a game that didn't matter for the standings, the USMNT lost to Tukriye on a last-second goal, but after winning Group D they're into the knockout stage",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/mlb/news/mlb-dfs-draftkings-fanduel-daily-fantasy-baseball-picks-thursday-june-25/",
+      "url": "https://www.cbssports.com/soccer/news/footy-fix-usmnt-on-to-world-cup-round-of-32-despite-3-2-loss-next-up-bosnia-and-herzegovina/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Mark Andrews says Lamar Jackson will be 'a scary sight' in Ravens' new offense, praises Jesse Minter",
-      "description": "Andrews discussed his quarterback, his coach and many other topics with CBS Sports",
+      "title": "Kalshi World Cup 2026: How to trade on 2026 World Cup",
+      "description": "You can use Kalshi prediction markets to trade event contracts during the 2026 World Cup in the United States, Canada and Mexico",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/mark-andrews-lamar-jackson-ravens-new-offense/",
+      "url": "https://www.cbssports.com/prediction/news/kalshi-world-cup-2026/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "LaMelo Ball trade grades: Timberwolves get 'B+' for high-risk, high-reward move, Hornets take the long view",
-      "description": "Ball could create an elite backcourt with Anthony Edwards, but it also could blow up in Minnesota's face",
+      "title": "UFC Baku: Rafael Fiziev faces must-win in homecoming fight against Manuel Torres in Azerbaijan",
+      "description": "Fiziev looks to erase any memories of his recent run of bad luck in the Octagon when he fights on home soil on Saturday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nba/news/lamelo-ball-trade-grades-timberwolves-hornets/",
+      "url": "https://www.cbssports.com/ufc/news/ufc-fight-night-baku-rafael-fiziev-next-fight-manuel-torres/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Free MLB home run odds, picks for June 25: Francisco Lindor leads expert's best Thursday HR player props",
-      "description": "SportsLine MLB expert Adam Thompson's reveals his best home run props for Thursday, June 25",
+      "title": "Mets fire Carlos Mendoza: Manager out after dismal first half in Queens",
+      "description": "The Mets are 34-47 at the season's halfway mark, and Mendoza was let go on Friday morning",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/free-mlb-home-run-odds-picks-for-june-25-francisco-lindor-leads-experts-best-thursday-hr-player-props/",
+      "url": "https://www.cbssports.com/mlb/news/mets-fire-carlos-mendoza-manager-out/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
