@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-27T15:02:04.632027+00:00",
-  "edition": "#144",
+  "date": "2026-06-28T15:04:16.994016+00:00",
+  "edition": "#145",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,228 +8,228 @@
   },
   "stories": [
     {
-      "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
-      "description": "Article URL: https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/ Comments URL: https://news.ycombinator.com/item?id=48698559 Points: 10 # Comments: 2",
-      "source": "Hacker News",
-      "url": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
+      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+      "description": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
-      "description": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
+      "title": "EU to legislate about Chat Control behind closed doors",
+      "description": "Article URL: https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/ Comments URL: https://news.y…",
+      "source": "Hacker News",
+      "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Flock cameras track more than your license plate, and they're spreading fast",
+      "description": "Article URL: https://www.engadget.com/2203000/flock-cameras-recording-license-plate/ Comments URL: https://news.ycombinator.com/item?id=48707673 Points: 41 # Comments: 2",
+      "source": "Hacker News",
+      "url": "https://www.engadget.com/2203000/flock-cameras-recording-license-plate/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Ask HN: Is there a bad employers (who have a records of not paying) list?",
+      "description": "I worked with a few employers on contracts, and there were situations where they haven't paid fees for a while. Is there a list or site that lists all the employers and if they have a record of them not fulfilling their…",
+      "source": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=48707536",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "EU Open Sources Ten-Year Network Development Planning Tools",
+      "description": "Article URL: https://github.com/open-energy-transition/open-tyndp Comments URL: https://news.ycombinator.com/item?id=48707361 Points: 42 # Comments: 9",
+      "source": "Hacker News",
+      "url": "https://github.com/open-energy-transition/open-tyndp",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Govee’s smart nugget ice maker makes every iced drink feel like a luxury",
+      "description": "For some people, the ice in a beverage is almost as important as the drink itself. That’s the audience Govee had in mind when designing its latest ice maker, the GoveeLife Smart Nugget Ice Maker Pro. This $500 premium s…",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "url": "https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "How Many Elementary Particles Are There, Really?",
-      "description": "Article URL: https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/ Comments URL: https://news.ycombinator.com/item?id=48697746 Points: 24 # Comments: 6",
-      "source": "Hacker News",
-      "url": "https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/",
-      "category": "🤖 TECH & AI",
+      "title": "Senior Labour figures say party is united behind Andy Burnham",
+      "description": "Lucy Powell and Steve Reed say Labour MPs are backing a coronation of Burnham rather than a contest.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn0vkle1q5ro?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
+      "description": "The pilot and 10 passengers died in the incident, local officials said.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
+      "description": "Rescuers spent six hours carefully digging to reach one of the boys, as many residents continue searching through the rubble by hand, still waiting for heavy machinery to arrive.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
-      "description": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "3h ago"
+      "title": "Three firefighters killed on Colorado-Utah border as wildfires intensify",
+      "description": "The deaths occurred as crews battled multiple blazes across a parched region. Two other firefighters were also injured.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/28/g-s1-130737/wildfires-utah-colorado-firefighter-deaths-snyder",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
     },
     {
-      "title": "Apple and Audi alumni have made a luxe EV based on the moon buggy",
-      "description": "The Amble One is a street-legal $25,000 electric buggy designed for luxury resorts.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/06/apple-and-audi-alumni-have-made-a-luxe-ev-based-on-the-moon-buggy/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "3h ago"
+      "title": "These church members disagree on politics. Together they're wiping out medical debt",
+      "description": "Trinity Moravian Church, a politically diverse congregation in Winston-Salem, N. C., has been raising money to retire medical debt in the surrounding community.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/28/nx-s1-5847966/medical-debt-politics-republican-democrat",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
     },
     {
-      "title": "Inside the room where the smart home industry is still betting on Matter",
-      "description": "Four years ago, overlooking a canal in Amsterdam, the smart home industry collectively launched Matter, the one interoperability standard to rule them all. Heralded as the solution to the industry's struggles, Matter wa…",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/958008/matter-unify-conference-csa-apple-google-amazon-samsung-smart-home-interoperability",
-      "category": "🤖 TECH & AI",
+      "title": "July 4th fireworks in Washington: What's different for America's 250th?",
+      "description": "This year's fireworks display in Washington, D.C., is scheduled toWhat to know about the massive July 4 firework show for America's 250th",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/28/nx-s1-5869604/dc-fireworks-trump-250-world-record",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "5h ago"
+    },
+    {
+      "title": "Pape: US trying to ‘squeak out of strategic defeat’ after Iran",
+      "description": "Political scientist Robert Pape argues the fallout of Iran war curbs US hubris and challenges Trump’s self-image.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/6/28/pape-us-trying-to-squeak-out-of-strategic-defeat-after-iran?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "World Cup 2026 Round of 32: Biggest takeaways from the group stage",
+      "description": "FIFA World Cup group stage is now behind us with plenty of key talking points as the tournament enters the knockouts.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/6/28/world-cup-2026-round-of-32-biggest-takeaways-from-the-group-stage?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "European heatwave causes 1,000 excess deaths in France",
+      "description": "AFP estimates that at least 191 million people are forecast to experience temperatures of at least 35C in Europe.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/28/european-heatwave-causes-1000-excess-deaths-in-france?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "IRGC doubles down as Iran-US MoU jeopardised by Hormuz strikes",
+      "description": "Markets in Iran react poorly after two nights of military confrontations over transit through the critical strait.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/28/irgc-doubles-down-as-iran-us-mou-jeopardised-by-hormuz-strikes?traffic_source=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "1h ago"
+    },
+    {
+      "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
+      "description": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "10h ago"
     },
     {
       "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
       "description": "Rescue teams are working ceaselessly to reach those trapped under rubble. But as hope fades, anger is growing.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Hundreds of Heathrow and Gatwick flights delayed due to thunderstorms",
-      "description": "More than 800 flights have been delayed at Heathrow and Gatwick, many due to stormy weather south of the UK.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cjwgynnwyw2o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Mahmood announces new refugee sponsorship route into UK",
-      "description": "The home secretary says \"capped safe and legal\" routes would help to restore confidence in the asylum system.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yz952dm74o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Uzbekistan makes its World Cup debut, a first for Central Asia",
-      "description": "The country is the first Central Asian nation to qualify for the World Cup, and Uzbek fans have reveled in showcasing their country and culture. The country's president calls the team a symbol of the \"new Uzbekistan.\"",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/27/g-s1-129705/uzbekistan-world-cup",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Opinion: Ranch dressing is a winner at the World Cup games",
-      "description": "NPR's Scott Simon reflects on the popularity of ranch dressing among international visitors to the U.S. during the World Cup games.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/27/nx-s1-5865082/opinion-ranch-dressing-is-a-winner-at-the-world-cup-games",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Trump administration partially lifts export ban on Anthropic's most advanced AI model",
-      "description": "The U.S. government is asserting a new level of influence over AI, controlling which companies can access Anthropic's new models. OpenAI agreed to let the administration screen users of its new model.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/27/nx-s1-5871245/trump-administration-imposes-restrictions-for-anthropic-to-halt-access-to-2-ai-models",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Bodycam shows driver offering armed police a lift mid-chase",
-      "description": "Bodycam video showing a van driver offering an armed officer a lift to catch a fleeing suspect has gone viral in the UK.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/bodycam-shows-driver-offering-armed-police-a-lift-mid-chase?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "just now"
+      "timeAgo": "1d ago"
     },
     {
-      "title": "Toxic Bielsa leaves ‘nothing good’ behind as Uruguay suffer World Cup shock",
-      "description": "Uruguay's outgoing Argentinian coach Marcelo Bielsa has previously described himself as a 'toxic perfectionist'.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/27/toxic-bielsa-leaves-nothing-good-behind-in-uruguay-shock-world-cup-exit?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Cape Verde break record as smallest nation to reach World Cup knockouts",
-      "description": "Cape Verde set sights on Lionel Messi's Argentina in last 32 as dream run continues at 2026 edition of FIFA's showpiece.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/27/cape-verde-break-record-as-smallest-nation-to-reach-world-cup-knockouts?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Israel-Lebanon deal ties ceasefire to Hezbollah disarmament: Will it work?",
-      "description": "Hezbollah chief calls the deal 'null and void', raising questions if the latest agreement can lead to peace in Lebanon.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/6/27/israel-lebanon-deal-ties-ceasefire-to-hezbollah-disarmament-will-it-work?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "US strikes Iran after attack on cargo ship",
-      "description": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
-      "description": "Hundreds are still feared trapped under the rubble, as families desperate for news.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "6h ago"
-    },
-    {
-      "title": "After losing my son, would it be a mistake to sell my recently purchased house and move to my hometown?",
-      "description": "“I raised my children there as a single mother, and it was the last home my son lived in before he passed away unexpectedly.”",
+      "title": "I had gallbladder surgery. After I got home, the hospital asked me for a financial donation. Is this ethical?",
+      "description": "“The letter asked whether I had a favorite caregiver and if I would like to make a contribution in their honor.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-son-passed-away-am-i-crazy-to-move-to-my-former-home-and-sell-a-house-i-bought-in-september-f1f5f41a?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/i-had-my-gallbladder-removed-after-i-got-home-the-hospital-asked-me-for-a-donation-is-this-ethical-ad12a8e1?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "U.S. strikes Iran after Trump accuses Tehran of ceasefire violation in Strait of Hormuz",
-      "description": "The attack comes as the United States and Iran are supposed to be engaging in a 60-period of no hostilities as they hold talks to end their war.",
+      "title": "Your health insurer shouldn’t decide your treatment plan. That’s what your doctor — and AI — should be doing.",
+      "description": "With a digital health record, clinicians and AI-driven diagnostic tools would be able to see your full health history, and then make better decisions.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/your-health-insurer-shouldnt-decide-your-treatment-plan-thats-what-your-doctor-and-possibly-ai-should-be-doing-45152d6a?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "‘It feels like a medical miracle’: How did a single QR code coupon cut my $618 Walgreens prescription to $15?",
+      "description": "“This medication was generic.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/it-feels-like-a-medical-miracle-how-did-a-single-qr-code-coupon-cut-my-618-walgreens-prescription-to-15-524a1151?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Micron is about to be more profitable than any U.S. company except Nvidia and Google",
+      "description": "Big Tech companies are willing to pay astronomical prices for AI memory components, helping spark a dramatic turnaround in Micron’s finances.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/micron-is-about-to-be-more-profitable-than-any-u-s-company-except-nvidia-and-google-3a83e343?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "If you think China needs to dethrone U.S. dollar, you don't understand how it is waging global currency war",
+      "description": "It's misguided to focus on China's renminbi replacing the U.S. dollar. Beijing is already successfully reducing dependence on a dollar-centric global system.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/26/us-strikes-iran-strait-of-hormuz-ceasefire.html",
+      "url": "https://www.cnbc.com/2026/06/28/china-doesnt-need-to-de-throne-dollar-to-win-global-currency-war.html",
       "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "The memory shortage shaking Apple and Microsoft is 'existential crisis' for smaller players",
-      "description": "While Apple and Microsoft raise prices on key devices to help cover the soaring costs of memory, smaller consumer electronics companies are in dire straits.",
+      "title": "Trump again threatens Iran with annihilation as Kuwait and Bahrain report attacks",
+      "description": "Iran says it targeted U.S. military facilities in Kuwait and Bahrain following U.S. strikes on targets in and around the Strait of Hormuz.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/27/memory-crunch-shaking-apple-and-microsoft-existential-for-small-guys.html",
+      "url": "https://www.cnbc.com/2026/06/28/trump-threatens-iran-with-annihilation-kuwait-bahrain-report-attacks.html",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "‘She is retired’: Do I dip into my 401(k) to pay my mother’s $30,000 credit-card debt?",
-      "description": "“I want her to live on her Social Security instead of using it to pay off her credit-card debt.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/she-is-retired-do-i-dip-into-my-401-k-to-pay-my-mothers-30-000-credit-card-debt-dc97569b?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
+      "title": "2026 FIFA World Cup Bracket: Where are teams seeded from the round of 32 and who will they play",
+      "description": "The group stage is over, who will teams face in the knockouts once they qualify?",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/soccer/news/2026-fifa-world-cup-bracket-knockout-stage/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Canada vs. South Africa odds, prediction, time: 2026 World Cup Round of 32 picks by expert on 18-8 roll",
+      "description": "SportsLine's Martin Green reveals his South Africa vs. Canada best bets for their FIFA World Cup 2026 match as the knockout round begins",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/soccer/news/canada-south-africa-odds-prediction-time-2026-world-cup-round-32-picks/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Yankees vs. Red Sox prediction, odds, time: 2026 MLB picks for Sunday Night Baseball from advanced model",
+      "description": "SportsLine's model simulated New York Yankees vs. Boston Red Sox 10,000 times and revealed its MLB predictions and Sunday Night Baseball picks",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/mlb/news/yankees-red-sox-prediction-odds-time-2026-mlb-picks-sunday-night-baseball/",
+      "category": "🏀 SPORTS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "I’m a CPA and tell my clients to claim Social Security early. Am I giving them bad advice?",
-      "description": "“Only 8% to 10% of people wait until age 70 to claim.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/take-the-money-while-you-can-im-a-cpa-and-tell-my-clients-to-take-their-social-security-early-am-i-wrong-a50e55e8?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "AI turbocharged the stock market. Now it’s firing up the economy.",
-      "description": "A modern-day gold rush is giving a big boost to U.S. GDP.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/ai-turbocharged-the-stock-market-now-its-firing-up-the-economy-193d2eb1?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "World Cup Group K scenarios: Colombia and Portugal battle for first place; Uzbekistan and DR Congo for third",
-      "description": "Both Colombia and Portugal have already clinched a spot for the knockout phase",
+      "title": "Use DraftKings promo code for $200 in bonus bets by targeting Canada-South Africa, Red Sox-Yankees on Sunday",
+      "description": "DraftKings offers $200 in bonus bets instantly after your first $5 wager for 2026 World Cup betting and MLB betting",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/world-cup-group-k-scenarios-colombia-portugal-uzbekistan-dr-congo-third/",
+      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-200-in-bonus-bets-by-targeting-canada-south-africa-red-sox-yankees-sunday/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Xander Zayas vs. Jaron Ennis odds, prediction, time: Boxing picks for June 27 fight card by top expert",
-      "description": "SportsLine's Josh Nagel reveals his Jaron Ennis vs. Xander Zayas best bets for Saturday in Brooklyn, N.Y.",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/boxing/news/xander-zayas-vs-jaron-ennis-odds-prediction-time-boxing-picks-for-june-27-fight-card/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Yankees vs. Red Sox prediction, odds, line, time: 2026 MLB picks for Saturday, June 27 by proven model",
-      "description": "SportsLine's model simulated Boston Red Sox vs. New York Yankees 10,000 times and revealed its MLB picks for Saturday's matchup",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/mlb/news/yankees-red-sox-prediction-odds-line-time-2026-mlb-picks-for-saturday-june-27/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Use DraftKings promo code for $200 in bonus bets by targeting England-Panama, Portugal-Colombia for World Cup",
-      "description": "DraftKings offers $200 in bonus bets instantly after your first $5 wager for 2026 World Cup betting",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-200-in-bonus-bets-by-targeting-england-panama-portugal-colombia-world-cup/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     }
   ]
 }
