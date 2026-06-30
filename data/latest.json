@@ -1,249 +1,233 @@
 {
-  "date": "2026-06-29T16:45:24.994228+00:00",
-  "edition": "#146",
-  "totalStories": 30,
+  "date": "2026-06-30T16:07:32.631837+00:00",
+  "edition": "#147",
+  "totalStories": 28,
   "podcast": {
     "show": "The Daily",
     "description": "The New York Times' daily news podcast — today's top story in 20 minutes."
   },
   "stories": [
     {
-      "title": "TIDAL cracks down on AI music by cutting off monetization",
-      "description": "TIDAL's new policy will prevent AI-generated music from making money on its service.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage",
-      "description": "Article URL: https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/ Comments URL: https://news.ycombinator.com/item?id=48721072 Points: 22 # Comments: 2",
+      "title": "Scammers Sell Seeds for Exotic AI-Generated Flowers That Don't Exist",
+      "description": "Article URL: https://www.404media.co/scammers-sell-seeds-for-exotic-ai-generated-flowers-that-dont-exist/ Comments URL: https://news.ycombinator.com/item?id=48734389 Points: 4 # Comments: 1",
       "source": "Hacker News",
-      "url": "https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/",
+      "url": "https://www.404media.co/scammers-sell-seeds-for-exotic-ai-generated-flowers-that-dont-exist/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "In major privacy win, Supreme Court rules geofence warrants are protected by privacy rights",
-      "description": "The Supreme Court's decision to limit geofence warrants is a win for privacy advocates, who called their use unconstitutional but sought an outright ban.",
+      "title": "Claude Code Is Steganographically Marking Requests",
+      "description": "Article URL: https://thereallo.dev/blog/claude-code-prompt-steganography Comments URL: https://news.ycombinator.com/item?id=48734373 Points: 90 # Comments: 3",
+      "source": "Hacker News",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "The labor share of income in the US is at its lowest post-war level",
+      "description": "Article URL: https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/ Comments URL: https://news.ycombinator.com/item?id=48734234 Points: 152 # Comments: 52",
+      "source": "Hacker News",
+      "url": "https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Tesla starts testing Cybercab without pedals or a steering wheel in Austin",
+      "description": "The company may finally be ready to try to deliver on Elon Musk's years-long promise of launching a robotaxi network of its own.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/29/in-major-privacy-win-supreme-court-rules-geofence-warrants-are-protected-by-privacy-rights/",
+      "url": "https://techcrunch.com/2026/06/30/tesla-starts-testing-cybercab-without-pedals-or-a-steering-wheel-in-austin/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "F1 in Austria: Starts off exciting, then goes the opposite way",
-      "description": "A heatwave, engine upgrades, plus power levels for the next two seasons.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/06/f1-in-austria-starts-off-exciting-then-does-the-opposite/",
+      "title": "We moved our Bluesky data to Eurosky",
+      "description": "Article URL: https://waag.org/en/article/why-we-moved-our-bluesky-data-eurosky/ Comments URL: https://news.ycombinator.com/item?id=48733937 Points: 32 # Comments: 15",
+      "source": "Hacker News",
+      "url": "https://waag.org/en/article/why-we-moved-our-bluesky-data-eurosky/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "WhatsApp now lets you reserve usernames",
-      "description": "WhatsApp username can be between 3 to 35 characters length",
+      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+      "description": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/06/29/whatsapp-now-lets-you-reserve-usernames/",
+      "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Wildwood featurette lifts the veil on building its stop-motion world",
-      "description": "Director Travis Knight is also the creative mind behind 2016's Oscar-nominated Kubo and the Two Strings .",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/culture/2026/06/wildwood-featurette-lifts-the-veil-on-building-its-stop-motion-world/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Resident doctors in England accept pay deal and end strikes",
-      "description": "It brings to an end three years of strike action by the British Medical Association.",
+      "title": "O'Donoghue: Court ruling is major blow to president",
+      "description": "The BBC’s Gary O’Donoghue explains what the court's landmark ruling means for the US president.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwy01n5z48qo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "New 'No 10 North' plan will rebalance power in Britain, Burnham promises",
-      "description": "The man most likely to be the next prime minister says his devolution plans would \"drive good growth in every postcode\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2jw5q5pdzo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Henry Zeffman: Andy Burnham offers a blueprint for his premiership",
-      "description": "Burnham offered a sense of what his time as prime minister would mean, but he did not lay out many details.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpq3yy48zglo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "They were world-class tennis rivals. Now friends, they've teamed up against cancer",
-      "description": "They were the women's tennis champions of their generation. Now, Chris Evert and Martina Navratilova open up about friendship, cancer and retirement in the documentary Chris & Martina: The Final Set .",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/29/nx-s1-5874696/chris-evert-martina-navratilova-tennis-cancer",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Supreme Court restricts use of geofence warrants",
-      "description": "Writing for the 6-3 majority, Justice Elena Kagan said that the technique, known as geofencing, violates the Fourth Amendment's prohibition against unreasonable searches.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/29/nx-s1-5844697/supreme-court-restricts-use-of-geofence-warrants",
+      "url": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Supreme Court says Fed's Lisa Cook can stay in her job for now",
-      "description": "The court's decision means Cook can stay in her position as her challenge to her dismissal plays out in the lower courts.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/29/nx-s1-5557955/supreme-court-fed-lisa-cook",
+      "title": "Government promises to act on maternity care failings which 'shame our society'",
+      "description": "An independent inquiry has found \"unacceptable racism and discrimination\" is affecting patient safety.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cddlgqpg7mzo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Manhunt after bomb injures Ukrainian oligarch in Monaco",
+      "description": "The blast was caused by an explosive device which appeared to contain bolts and pellets, the head of Monaco's government said.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Sixth person dies after shooting at youth welfare centre in Germany",
-      "description": "Four women and a man were shot dead at the scene while a sixth person died in hospital, police say.",
+      "title": "Government 'cannot deport' grooming gang ringleader",
+      "description": "A 55-year-old law means the government has no legal powers to remove Shabir Ahmed from the UK.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
+      "url": "https://www.bbc.co.uk/news/articles/cx2wl6ynn2no?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
     },
     {
-      "title": "Afghan families mourn loved ones as border tensions with Pakistan rise",
-      "description": "Afghan officials say Pakistani attacks killed at least 36 civilians, while Pakistan says its forces killed 29 fighters.",
+      "title": "Editor's note: NPR retracts Justice Samuel Alito story",
+      "description": "",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/30/nx-s1-4622951/samuel-alito-retires",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Supreme Court upholds birthright citizenship on constitutional grounds",
+      "description": "The decision firmly rejected the executive order that Trump issued on the first day of his second term.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/30/nx-s1-5839358/birthright-citizenship-decision-scotus-trump",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "SCOTUS rules against Trump’s order limiting birthright citizenship",
+      "description": "The US Supreme Court has blocked President Donald Trump's executive order to end birthright citizenship.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/29/afghan-families-mourn-loved-ones-as-border-tensions-with-pakistan-rise?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/scotus-rules-against-trumps-order-limiting-birthright-citizenship?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "US petrol prices ease despite ongoing uncertainties with Iran",
-      "description": "US–Iran peace talks ease market volatility, but uncertainty keeps oil prices hovering, complicating recovery efforts.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/29/us-petrol-prices-ease-despite-ongoing-uncertainties-with-iran?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "US Supreme Court rebuffs Trump’s appeal in E Jean Carroll case",
-      "description": "The US Supreme Court has rejected a push by President Trump to throw out a jury's findings of sexual assault.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/29/us-supreme-court-rebuffs-trumps-appeal-in-e-jean-carroll-case?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Iraq’s corruption crackdown is a start, not a solution",
-      "description": "New PM Ali al-Zaidi's arrest of 47 officials is welcome, but the rot runs through the system that put him in power.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/6/29/iraqs-corruption-crackdown-is-a-start-not-a-solution?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Supreme Court rejects Trump's appeal of E Jean Carroll's sexual abuse case",
-      "description": "The decision means the US president will now have to pay her the $5m (£3.6m) in damages she had been awarded.",
+      "title": "US Supreme Court upholds bans on transgender women in female school and college sports",
+      "description": "It rules that states can ban transgender athletes from competing in women's and girls' sports.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn8q2z5wpn2o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Monaco prosecutors say no ‘terror’ evidence after blast, suspect at large",
+      "description": "Search under way for suspect who fled scene after explosive device placed at entrance to building wounded three.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/30/monaco-prosecutors-say-no-terror-evidence-after-blast-suspect-at-large?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Supreme Court rules Trump cannot fire Fed Governor Lisa Cook for now",
-      "description": "The ruling by the Supreme Court means that Lisa Cook will remain as a Federal Reserve governor as her lawsuit challenging Trump's effort to fire her proceeds.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/29/supreme-court-lisa-cook-trump-federal-reserve.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "‘It feels like a medical miracle’: How did a single QR code coupon cut my $618 Walgreens prescription to $15?",
-      "description": "“This medication was generic.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/it-feels-like-a-medical-miracle-how-did-a-single-qr-code-coupon-cut-my-618-walgreens-prescription-to-15-524a1151?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Fed’s Lisa Cook can stay on at central bank while challenging Trump’s attempt to fire her, Supreme Court rules",
-      "description": "The Supreme Court has refused to allow President Donald Trump to fire Federal Reserve governor Lisa Cook, in a move that strengthens the independence of the central bank.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/supreme-court-allows-lisa-cook-to-stay-on-at-fed-for-now-whats-next-as-trump-tries-to-fire-her-06bfb9ee?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Alphabet stock pops 4% on Dow debut, but the tech giant faces major AI questions",
-      "description": "Alphabet shares rose Monday as the company joined the Dow, but the blue-chip milestone comes as the stock remains under pressure.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/29/alphabet-googl-stock-dow-average.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "I’m a CPA and tell my clients to claim Social Security early. Am I giving them bad advice?",
-      "description": "“Only 8% to 10% of people wait until age 70 to claim.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/take-the-money-while-you-can-im-a-cpa-and-tell-my-clients-to-take-their-social-security-early-am-i-wrong-a50e55e8?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "This insurance stock is on an impressive run. How to ride the momentum with less risk",
-      "description": "MetLife (MET) is well-positioned in the life insurance and benefits sector, exhibiting fundamental momentum that the broader market hasn't fully priced in.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/29/this-insurance-stock-is-on-an-impressive-run-how-to-ride-the-momentum-with-less-risk.html",
-      "category": "📈 MARKETS",
+      "title": "Iran to hold talks with Qatar on MoU deal with US, frozen assets",
+      "description": "Iran says it will hold indirect talks with mediator Qatar, to discuss implementing its MoU deal with the US.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/iran-to-hold-talks-with-qatar-on-mou-deal-with-us-frozen-assets?traffic_source=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Motor sports betting guide: Best NASCAR betting strategies, F1 betting tips, more",
-      "description": "Motor sports betting has become a significant market for sportsbooks in the last few years, so here's a look at what to know when wagering on racing events",
+      "title": "US Supreme Court rules against Trump order to end birthright citizenship",
+      "description": "Top court's 6-3 ruling major blow to Trump, affirms nearly all infants born on US soil automatically become citizens.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/30/us-supreme-court-rules-against-trump-order-to-end-birthright-citizenship?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Angry Venezuelans accuse government of negligence over earthquake response",
+      "description": "People in areas devastated by twin earthquakes say they need more support from the government.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "12h ago"
+    },
+    {
+      "title": "‘She is retired’: Do I dip into my 401(k) to pay my mother’s $30,000 credit-card debt?",
+      "description": "“I want her to live on her Social Security instead of using it to pay off her credit-card debt.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/she-is-retired-do-i-dip-into-my-401-k-to-pay-my-mothers-30-000-credit-card-debt-dc97569b?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "‘I claimed Social Security at 62’: At 76, I’m working at Walmart. Why do I still owe payroll taxes?",
+      "description": "“It seems like half of the workforce at our local Walmart is over 65.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-claimed-social-security-at-62-at-76-im-working-at-walmart-why-do-i-still-owe-payroll-taxes-8e22a97c?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Even Wall Street bulls are worried about a stock-market pullback after dazzling second quarter",
+      "description": "The first half of 2026 is coming to a close on Tuesday, and with it, another rollicking stretch for the U.S. equity market.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/even-wall-street-bulls-are-worried-about-a-stock-market-pullback-after-dazzling-second-quarter-d4799f26?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Job openings rise to 2-year high, but good luck actually getting one",
+      "description": "A prolonged decline in job openings in the U.S. appears to be over, but it doesn’t mean businesses are ready to do lots of hiring or make it easier for people to find work.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/job-openings-rise-to-2-year-high-but-good-luck-actually-getting-one-5dddb3f6?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Cleveland Fed President Hammack sees AI fueling inflation, says rate hikes may be necessary",
+      "description": "\"We've got inflation that's too high, and it's been too high for the past five years,\" Beth Hammack told CNBC's Sara Eisen.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/30/cleveland-fed-president-hammack-sees-ai-fueling-inflation-says-rate-hikes-may-be-necessary.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Supreme Court upholds birthright citizenship, blocks Trump order",
+      "description": "President Donald Trump attended oral arguments in the case, underscoring his staunch opposition to granting automatic citizenship to many immigrants' babies.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/30/supreme-court-birthright-citizenship-ruling.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Free 2026 World Cup anytime goalscorer picks, odds: France's Dembele among best bets for Tuesday's games",
+      "description": "There are three knockout games on Tuesday and that means plenty of options when it comes to locking in goalscorer picks",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/motor-sports/",
+      "url": "https://www.cbssports.com/soccer/news/free-2026-world-cup-anytime-goalscorer-picks-odds-frances-dembele-among-best-bets-for-tuesdays-games/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Three up, three down: Junior Caminero's power surge looks completely legitimate",
-      "description": "Sean Burke, Trevor Rogers and Chase DeLauter headline this week's top waiver-wire pickups",
+      "title": "2026 World Cup parlay, best bets: Top picks for matches on Tuesday include France, Mexico",
+      "description": "SportsLine's team of experts have revealed their World Cup parlay and soccer predictions for Tuesday's matches",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/fantasy/baseball/news/three-up-three-down-junior-camineros-power-surge/",
+      "url": "https://www.cbssports.com/soccer/news/2026-world-cup-parlay-best-bets-top-picks-for-matches-on-tuesday-include-france-mexico/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "SportsLine Newsletter Monday, June 29, 2026",
-      "description": "Today's best bets + Parlay of the Day + Giants-Diamondbacks + Caleb Williams",
+      "title": "10 College Football Playoff guarantees for 2026: Notre Dame embraces villain role, 2 ACC teams get in",
+      "description": "The College Football Playoff is infamously hard to predict, CBS Sports bowl expert Brad Crawford is standing by these 10 guarantees for the fall",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/",
+      "url": "https://www.cbssports.com/college-football/news/college-football-playoff-predictions-2026-notre-dame-acc/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Sources: Warriors eyeing LeBron, AD reunion",
-      "description": "The Warriors are prepared to pursue a reunion of LeBron James and Anthony Davis in Golden State, with Draymond Green declining his player option to open up the flexibility for such a possibility, league sources told ESP…",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/49215931/sources-warriors-eye-lebron-ad-moves-green-declines-option",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Sources: Clips, Raptors in talks on Kawhi trade",
-      "description": "The LA Clippers and Toronto Raptors are in serious trade talks for forward Kawhi Leonard, sources told ESPN's Shams Charania.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/49214664/clippers-raptors-trade-talks-kawhi-leonard",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Bobby Marks' NBA free agency preview: Biggest deal...",
-      "description": "Bobby Marks gets you ready for the start of free agency with priorities, financial decisions and players to watch on all 30 teams.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/49211486/nba-free-agency-preview-2026-30-team-lakers-lebron-celtics-jaylen-brown-clippers-kawhi-bobby-marks",
+      "title": "WNBA Commissioner's Cup: Aces and Liberty meet in historic title rematch, A'ja Wilson out with leg injury",
+      "description": "The prize pool for the championship game is $500,000",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/wnba/news/2026-wnba-commissioners-cup-championship-aces-liberty-preview-prize-pool/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
