@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-01T16:06:35.636419+00:00",
-  "edition": "#148",
+  "date": "2026-07-02T15:41:51.209165+00:00",
+  "edition": "#149",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Lime raises $167M in IPO after years of teasing a public debut",
-      "description": "The nine-year-old scooter and bike-share company has said it needs the funds to help pay down around $1 billion in liabilities.",
+      "title": "Melinda Gates’ venture firm backs Magnify Ventures’ $46.6M Fund II",
+      "description": "Early-stage firm Magnify Ventures has raised a $46.6 million Fund II from LPs including Melinda French Gates’ Pivotal Ventures",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/01/lime-raises-167m-in-ipo-after-years-of-teasing-a-public-debut/",
+      "url": "https://techcrunch.com/2026/07/02/melinda-gates-venture-firm-backs-magnify-ventures-46-6m-fund-ii/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "SpudCell: The first synthetic cell with a complete cell cycle",
-      "description": "Article URL: https://biotic.org/research/spudcell/ Comments URL: https://news.ycombinator.com/item?id=48747916 Points: 48 # Comments: 2",
-      "source": "Hacker News",
-      "url": "https://biotic.org/research/spudcell/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "The Anti-Palantir Manifesto",
-      "description": "Article URL: https://nym.com/blog/anti-palantir-manifesto Comments URL: https://news.ycombinator.com/item?id=48747772 Points: 63 # Comments: 24",
-      "source": "Hacker News",
-      "url": "https://nym.com/blog/anti-palantir-manifesto",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Ray Tracer in SQL",
-      "description": "Article URL: https://github.com/ClickHouse/RayTracer Comments URL: https://news.ycombinator.com/item?id=48747407 Points: 7 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://github.com/ClickHouse/RayTracer",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
-      "description": "Article URL: https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for Comments URL: https://news.ycombinator.com/item?id=48747389 Points: 92 # Comments: 35",
-      "source": "Hacker News",
-      "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
-      "description": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
+      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+      "description": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+      "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Popular TV-tracking app TV Time is shutting down as company focuses on AI",
+      "description": "TV Time, the popular TV tracking app, is shutting down on July 15 as parent company Whip Media pivots toward enterprise AI products.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/02/popular-tv-tracking-app-tv-time-is-shutting-down-as-company-focuses-on-ai/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
+      "description": "Hi HN, we are Pietro and Luigi, cofounders of Manufact ( https://manufact.com ), a cloud for MCP apps and servers. We used to be called mcp-use, and still build open source SDKs for MCP under that name: https://github.c…",
+      "source": "Hacker News",
+      "url": "https://manufact.com",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Lucid Motors’ CFO is out as its new CEO continues leadership shakeup",
+      "description": "The company announced a new slate of executive hires meant to help turn things around, as Gravity SUV sales are not taking off as expected.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/02/lucid-motors-cfo-is-out-as-its-new-ceo-continues-leadership-shakeup/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Show HN: CLI tool for detecting non-exact code duplication with embedding models",
+      "description": "Article URL: https://github.com/rafal-qa/slopo Comments URL: https://news.ycombinator.com/item?id=48762038 Points: 14 # Comments: 4",
+      "source": "Hacker News",
+      "url": "https://github.com/rafal-qa/slopo",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Badenoch accuses Starmer of leaving defence spending 'mess' for Burnham",
-      "description": "Conservative leader Kemi Badenoch criticised what she called a missing £5bn in the defence investment plan.",
+      "title": "Married at First Sight UK star arrested on suspicion of rape",
+      "description": "It follows a BBC Panorama investigation, broadcast in May, into the hit Channel 4 reality TV show.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy9rgg9ddw2o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cn8k774pm3jo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Survivor pulled from rubble eight days after Venezuela earthquakes",
+      "description": "Hernán Gil was trapped under a collapsed multi-storey car park, and encouraged them as they inched closer to him.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Is Burnham facing a £5bn defence 'black hole'?",
-      "description": "BBC Verify investigates whether a shortfall in funding for the government's defence investment plan is a \"black hole\".",
+      "title": "Labour failed to prepare for power, admits PM's former top aide",
+      "description": "In his first-ever interview, Morgan McSweeney tells the BBC the party did not deliver quickly enough in office.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c14ymy41v5go?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/ce8j2e38zzgo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "Judge 'wrong' to spare boy rapists from custody, court told",
-      "description": "Three teenage boys convicted of rape should have been detained, the Court of Appeal hears.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clye2enp0lxo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "England's warmest June on record following historic heatwave",
-      "description": "England saw its warmest June since records began in 1865 and the second warmest for the whole of the UK according to data just released by the Met Office.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/weather/articles/cjdg98g8lg8o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Americans are showing up for the World Cup in record-breaking numbers",
-      "description": "While the U.S. isn't a bona fide soccer nation yet, the past three weeks have perhaps shown what it would feel like if it were.",
+      "title": "Trump denies conflict of interest over crypto. And, Vatican excommunicates rebel group",
+      "description": "Trump and his family earned over $1 billion last year through cryptocurrency ventures and other businesses. And, the Vatican declared that the traditionalist Society of St. Pius X has entered schism.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/07/01/nx-s1-5876297/world-cup-viewership-fox-telemundo",
+      "url": "https://www.npr.org/2026/07/02/g-s1-131702/up-first-newsletter-trump-crypto-earnings-society-pope-pius-venezuela-world-cup",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "4h ago"
     },
     {
-      "title": "Funerals held for 14 Pakistani children killed in tutoring center collapse",
-      "description": "Police are investigating whether negligence during construction work caused the collapse in the eastern city of Lahore on Tuesday.",
+      "title": "Going outside in this heat? Follow these guidelines to stay safe",
+      "description": "Man, it's a hot one! Don't go out in this summer's heat wave before you arm yourself with these tips and a really big water bottle.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/07/01/g-s1-131537/funerals-held-for-14-pakistani-children-killed-in-tutoring-center-collapse",
+      "url": "https://www.npr.org/2026/07/02/nx-s1-5878429/heat-wave-stroke-exhaustion-prevention-safety",
       "category": "🌎 TOP NEWS",
+      "timeAgo": "5h ago"
+    },
+    {
+      "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
+      "description": "Once described as \"the godfather\" of French migrant camps, he has been working in a Leicestershire village.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "10h ago"
+    },
+    {
+      "title": "Into the Darkness",
+      "description": "Fault Lines investigates allegations of systematic torture of Palestinian prisoners and detainees in Israeli custody.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/fault-lines/2026/7/2/into-the-darkness?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "US job growth slows in June; hospitality sheds roles despite World Cup",
+      "description": "Labour force participation dropped to its lowest level since March 2021, reaching 61.5 percent in June.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/7/2/us-job-growth-slows-in-june-hospitality-sheds-roles-despite-world-cup?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "'Most massive' Russian attack on Kyiv kills at least 20",
+      "description": "Kyiv's mayor declares a day of mourning after the major drone and missile attack on the Ukrainian capital.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "UK’s Starmer apologises for the state’s role in decades of forced adoptions",
+      "description": "UK government and Christian churches oversaw system that separated 185,000 babies from their mothers from 1949 to 1976.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/2/uks-starmer-apologises-for-the-states-role-in-decades-of-forced-adoptions?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Who is Iranian oil tycoon Shamkhani whose ship is stranded in Hormuz?",
+      "description": "Iranian oil shipping magnate Mohammad Hossein Shamkhani has been sanctioned by the West over his shadow fleet.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/2/who-is-iranian-oil-tycoon-shamkhani-whose-ship-is-stranded-in-hormuz?traffic_source=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Trump made more than $1bn from crypto in first year back in office",
-      "description": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.",
+      "title": "Canadian boy, 11, dies of rabies after waking to bat on his face",
+      "description": "Rabies infections are rare in Canada. There have been 28 human deaths due to rabies in the country since 1924.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c982m1m95q9o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "just now"
+      "timeAgo": "12h ago"
     },
     {
-      "title": "Cape Verde: All to know before FIFA World Cup knockout against Argentina",
-      "description": "An island nation of just over half a million inhabitants, Cape Verde pulled off the unthinkable by reaching the last 32.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/1/cape-verde-fifa-world-cup-2026-vozinha-argentina-round-of-32-knockouts?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Is Ukraine’s campaign of targeting Russian refineries working?",
-      "description": "Fuel shortages in the country are unlikely to force Putin into concessions for peace.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/7/1/is-ukraines-campaign-of-targeting-russian-refineries-working?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "‘Will not leave’: Is Israel killing the US-Iran MoU by staying in Lebanon?",
-      "description": "Analysts say both sides want the MOU to succeed but Israel's actions in Lebanon will prove a formidable obstacle.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/1/will-not-leave-is-israel-killing-the-us-iran-mou-by-staying-in-lebanon?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "First Syrian parliament since al-Assad’s ousting begins legislative duties",
-      "description": "The new 210-member parliament takes shape, marking a historic shift after decades of Assad family rule.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/1/first-syrian-parliament-since-al-assads-ousting-begins-legislative-duties?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Fire at Antwerp apartment block kills at least six",
-      "description": "A man is seen clambering through a window to escape black smoke in the block where some 200 people live.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c621dx0vl7xo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Millions of Americans can get Medicare to cover GLP-1s for weight loss starting this week. Here’s how much it costs.",
-      "description": "Until this week, Medicare only covered GLP-1 drugs for conditions like Type 2 diabetes, sleep apnea, and stroke or heart-attack risk.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/millions-of-americans-can-get-medicare-to-cover-glp-1s-for-weight-loss-starting-this-week-heres-how-much-it-costs-805f86e1?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Trump’s energy secretary says global warming is ‘no big deal.’ Meanwhile, a heat emergency is striking the U.S.",
-      "description": "Government scientists warn people to stay indoors this weekend as temperatures in many areas could reach triple digits",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/trumps-energy-secretary-says-global-warming-is-no-big-deal-meanwhile-a-heat-emergency-is-striking-the-u-s-5f9674c3?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "CoreWeave, Nebius shares tumble as Meta stands to become a fresh threat in the cloud",
-      "description": "Meta’s reported interest in monetizing its AI infrastructure is leading investors to question the sustainability of neocloud business models.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/coreweave-nebius-shares-tumble-as-meta-stands-to-become-a-fresh-threat-in-the-cloud-a47c3616?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Trump administration's limits on student loan forgiveness program are blocked. What to know",
-      "description": "Trump's policy that narrowed eligibility for a popular student loan forgiveness program will not go into effect, after two federal judges blocked the rule.",
+      "title": "Tesla stock sinks 7% despite strong deliveries report",
+      "description": "Tesla is trying to recover from consecutive annual declines in vehicle sales that were partly caused by a consumer backlash against CEO Elon Musk.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/01/trumps-limits-on-student-loan-forgiveness-program-blocked.html",
+      "url": "https://www.cnbc.com/2026/07/02/tesla-tsla-q2-2026-vehicle-delivery-production.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong'",
-      "description": "Karp says skyrocketing token costs are forcing companies to choose open weight models and prioritize efficiency over so-called tokenmaxxing",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/01/palantir-karp-open-ai-anthropic-tokens.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "‘I don’t think I’ll make it to 80’: I’m 70 and single. Do I take out a reverse mortgage or a home-equity agreement?",
-      "description": "“I’m torn between these two options.”",
+      "title": "Palantir’s stock bounces back as analyst cheers company’s unique AI advantage",
+      "description": "The software company’s shares have gotten off to a strong start this month following a weak run in June.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-dont-think-ill-make-it-to-80-im-70-and-single-do-i-take-out-a-reverse-mortgage-or-a-home-equity-agreement-3b623ee8?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/palantirs-stock-bounces-back-as-analyst-cheers-companys-unique-ai-advantage-2f28698d?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Betting the Chargers in 2026: See how Los Angeles' win total, Super Bowl odds are trending and our best bets",
-      "description": "We're breaking down Chargers futures in our 2026 betting preview, featuring odds, trends, schedule and more",
+      "title": "Treasury says Trump Account investment options will include State Street, BlackRock and Vanguard ETFs",
+      "description": "The Treasury Department said the investment lineup for Trump ‌Accounts includes ETFs from State Street, BlackRock and Vanguard.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/02/trump-account-investment-picks-are-state-street-blackrock-vanguard-etfs.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "My doctor friend objected to his hospital’s fundraising tactics. Did management go too far?",
+      "description": "“This shocking program was exploiting doctors and the trust inherent in their relationships with patients.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/there-was-a-catch-my-doctor-friend-was-outraged-by-his-hospitals-fundraising-tactics-where-do-we-draw-the-line-797b9fff?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "How you as an investor can get ahead of the next AI investment wave",
+      "description": "Also in Weekend Reads: Eldercare and family relationships, stock-market prospects for the second half of 2026, and how to set your summer streaming budget.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-you-as-an-investor-can-get-ahead-of-the-next-ai-investment-wave-ffc6512a?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Where can I invest my kid’s ‘Trump account’ money? The Treasury Department just answered that question.",
+      "description": "The money in “Trump accounts” has to be invested in low-cost index funds — and now parents and investors are learning which funds they can actually use.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/where-can-i-invest-my-kids-trump-account-money-the-treasury-department-just-answered-that-question-4f656574?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Phillies vs. Pirates prediction, odds, line, time: 2026 MLB picks for Thursday, July 2, by proven model",
+      "description": "SportsLine's model simulated Pittsburgh Pirates vs. Philadelphia Phillies 10,000 times and revealed its MLB picks for Thursday's matchup",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/betting-the-chargers-in-2026-see-how-los-angeles-win-total-super-bowl-odds-are-trending-and-our-best-bets/",
+      "url": "https://www.cbssports.com/mlb/news/phillies-pirates-prediction-odds-line-time-2026-mlb-picks-thursday-july-2-best-bets/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Betting the Raiders in 2026: See how Las Vegas' win total, Super Bowl odds are trending and our best bets",
-      "description": "We're breaking down Raiders futures in our 2026 betting preview, featuring odds, trends, schedule and more",
+      "title": "College football's 5-star flip candidates: 2027 recruits most likely to switch before Signing Day",
+      "description": "While most of the elite recruits in the 2027 class have already made their decisions, it's still five months before their commitments can become official",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/betting-the-raiders-in-2026-see-how-las-vegas-win-total-super-bowl-odds-are-trending-and-our-best-bets/",
+      "url": "https://www.cbssports.com/college-football/news/college-football-recruiting-5-star-flip-candidates-2027/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Betting the Chiefs in 2026: See how Kansas City's win total, Super Bowl odds are trending and our best bets",
-      "description": "We're breaking down Chiefs futures in our 2026 betting preview, featuring odds, trends, schedule and more",
+      "title": "2026 NBA free agency rankings, tracker: Resetting the market with most of top 40 signed",
+      "description": "Most players have agreed to new deals, but big names -- like LeBron James and Jalen Duren -- remain on the market",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/betting-the-chiefs-in-2026-see-how-kansas-citys-win-total-super-bowl-odds-are-trending-and-our-best-bets/",
+      "url": "https://www.cbssports.com/nba/news/2026-nba-free-agency-rankings-tracker/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Betting the Broncos in 2026: See how Denver's win total, Super Bowl odds are trending and our best bets",
-      "description": "We're breaking down Broncos futures in our 2026 betting preview, featuring odds, trends, schedule and more",
+      "title": "Dynasty Fantasy Football Wide Receiver Rankings: Buy Quentin Johnston and Xavier Worthy",
+      "description": "Updated wide receiver rankings for Dynasty leagues",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/betting-the-broncos-in-2026-see-how-denvers-win-total-super-bowl-odds-are-trending-and-our-best-bets/",
+      "url": "https://www.cbssports.com/fantasy/football/news/dynasty-fantasy-football-wide-receiver-rankings-july-2026/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
