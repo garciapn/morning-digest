@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-02T15:41:51.209165+00:00",
-  "edition": "#149",
+  "date": "2026-07-03T15:33:59.798406+00:00",
+  "edition": "#150",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Melinda Gates’ venture firm backs Magnify Ventures’ $46.6M Fund II",
-      "description": "Early-stage firm Magnify Ventures has raised a $46.6 million Fund II from LPs including Melinda French Gates’ Pivotal Ventures",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/02/melinda-gates-venture-firm-backs-magnify-ventures-46-6m-fund-ii/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-      "description": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Popular TV-tracking app TV Time is shutting down as company focuses on AI",
-      "description": "TV Time, the popular TV tracking app, is shutting down on July 15 as parent company Whip Media pivots toward enterprise AI products.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/02/popular-tv-tracking-app-tv-time-is-shutting-down-as-company-focuses-on-ai/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
-      "description": "Hi HN, we are Pietro and Luigi, cofounders of Manufact ( https://manufact.com ), a cloud for MCP apps and servers. We used to be called mcp-use, and still build open source SDKs for MCP under that name: https://github.c…",
+      "title": "It Still Can't Do My Job: Four Years of Moving Goalposts (2022–2026)",
+      "description": "Article URL: https://publicznyprofil.github.io/ai_cant_do_your_work/ Comments URL: https://news.ycombinator.com/item?id=48775909 Points: 11 # Comments: 5",
       "source": "Hacker News",
-      "url": "https://manufact.com",
+      "url": "https://publicznyprofil.github.io/ai_cant_do_your_work/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Lucid Motors’ CFO is out as its new CEO continues leadership shakeup",
-      "description": "The company announced a new slate of executive hires meant to help turn things around, as Gravity SUV sales are not taking off as expected.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/02/lucid-motors-cfo-is-out-as-its-new-ceo-continues-leadership-shakeup/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Show HN: CLI tool for detecting non-exact code duplication with embedding models",
-      "description": "Article URL: https://github.com/rafal-qa/slopo Comments URL: https://news.ycombinator.com/item?id=48762038 Points: 14 # Comments: 4",
-      "source": "Hacker News",
-      "url": "https://github.com/rafal-qa/slopo",
+      "title": "Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone",
+      "description": "NASA awarded Rocket Lab deals for three dedicated launches using the company's Electron rocket.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Married at First Sight UK star arrested on suspicion of rape",
-      "description": "It follows a BBC Panorama investigation, broadcast in May, into the hit Channel 4 reality TV show.",
+      "title": "Hackers shoveled snow for company, were rewarded with network admin access",
+      "description": "Article URL: https://www.theregister.com/security/2026/07/02/hackers-shoveled-snow-for-company-were-rewarded-with-network-admin-access/5265240 Comments URL: https://news.ycombinator.com/item?id=48774704 Points: 32 # Com…",
+      "source": "Hacker News",
+      "url": "https://www.theregister.com/security/2026/07/02/hackers-shoveled-snow-for-company-were-rewarded-with-network-admin-access/5265240",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Valve open source the Steam Machine e-ink screen so you can make your own",
+      "description": "Article URL: https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/ Comments URL: https://news.ycombinator.com/item?id=48774518 Points: 186 # Comments: 24",
+      "source": "Hacker News",
+      "url": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit",
+      "description": "Article URL: https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit Comments URL: https://news.ycombinator.com/item?id=48774509 Points: 62 # Comments: 12",
+      "source": "Hacker News",
+      "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Inside the Luddite festival harnessing Gen Z’s rage against Big Tech",
+      "description": "New York City’s Summer of Ludd festival is teaching people how to live offline.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
+      "description": "Officials believe the suspect may not have acted alone and spent days casing out scene of the attack.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn8k774pm3jo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Survivor pulled from rubble eight days after Venezuela earthquakes",
-      "description": "Hernán Gil was trapped under a collapsed multi-storey car park, and encouraged them as they inched closer to him.",
+      "title": "Three men found not guilty of journalist Lyra McKee's murder",
+      "description": "The 29-year-old was shot while observing rioting in Londonderry in April 2019.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cpd357j7020o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Police criticise timing of decision on pubs staying open for England match",
+      "description": "The \"late announcement\" extending opening hours to 05:00 on Monday means taking officers away from other duties, the National Police Chiefs' Council says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd95v388k5jo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Labour failed to prepare for power, admits PM's former top aide",
-      "description": "In his first-ever interview, Morgan McSweeney tells the BBC the party did not deliver quickly enough in office.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce8j2e38zzgo?at_medium=RSS&at_campaign=rss",
+      "title": "July 4th events threatened by heat wave. And, Russia strikes on Ukraine's capital",
+      "description": "July 4th events for America's milestone birthday are being threatened by a brutal heat wave. And, Russia has struck Ukraine's capital, killing several people in what it calls retaliatory attacks.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/03/g-s1-131920/up-first-newsletter-america-250-heat-wave-ukraine-russia-democratic-party",
       "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Trump denies conflict of interest over crypto. And, Vatican excommunicates rebel group",
-      "description": "Trump and his family earned over $1 billion last year through cryptocurrency ventures and other businesses. And, the Vatican declared that the traditionalist Society of St. Pius X has entered schism.",
+      "title": "Just gave birth or are about to? Share your story and questions about costs",
+      "description": "The costs of having a baby in the U.S. can be hard to predict and budget for. We want to hear your stories and questions about how to navigate the system.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/07/02/g-s1-131702/up-first-newsletter-trump-crypto-earnings-society-pope-pius-venezuela-world-cup",
+      "url": "https://www.npr.org/2026/07/03/nx-s1-5879531/birth-pregnancy-costs-healthcare-us",
       "category": "🌎 TOP NEWS",
       "timeAgo": "4h ago"
     },
     {
-      "title": "Going outside in this heat? Follow these guidelines to stay safe",
-      "description": "Man, it's a hot one! Don't go out in this summer's heat wave before you arm yourself with these tips and a really big water bottle.",
+      "title": "Former USAID head grieves its closure while hoping for its future",
+      "description": "Former USAID administrator reflects on a year since USAID's shutdown and the new direction of US foreign aid.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/07/02/nx-s1-5878429/heat-wave-stroke-exhaustion-prevention-safety",
+      "url": "https://www.npr.org/2026/07/03/nx-s1-5877408/former-usaid-head-grieves-its-closure-while-hoping-for-its-future",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "5h ago"
+      "timeAgo": "4h ago"
     },
     {
-      "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
-      "description": "Once described as \"the godfather\" of French migrant camps, he has been working in a Leicestershire village.",
+      "title": "German row over plan for workers to need sick note on first day of illness",
+      "description": "A doctors' group says it \"borders on madness\" that patients will have to obtain the note in person.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "10h ago"
-    },
-    {
-      "title": "Into the Darkness",
-      "description": "Fault Lines investigates allegations of systematic torture of Palestinian prisoners and detainees in Israeli custody.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/fault-lines/2026/7/2/into-the-darkness?traffic_source=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyxnj38m1o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "US job growth slows in June; hospitality sheds roles despite World Cup",
-      "description": "Labour force participation dropped to its lowest level since March 2021, reaching 61.5 percent in June.",
+      "title": "Why is the UK mired in a maternity and neonatal deaths scandal?",
+      "description": "An inquiry found that more than 500 mothers and babies either came to harm or died due to poor care.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/2/us-job-growth-slows-in-june-hospitality-sheds-roles-despite-world-cup?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/7/3/why-is-the-uk-mired-in-a-maternity-and-neonatal-deaths-scandal?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "'Most massive' Russian attack on Kyiv kills at least 20",
-      "description": "Kyiv's mayor declares a day of mourning after the major drone and missile attack on the Ukrainian capital.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+      "title": "Gaza sports community pledges to continue legacy of killed goalkeeper",
+      "description": "Slain seeking cooking gas, Gaza goalkeeper Saleem al-Ashqar joins more than 1,000 Palestinian athletes killed in war.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/7/3/gaza-sports-community-pledges-to-continue-legacy-of-killed-goalkeeper?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "UK’s Starmer apologises for the state’s role in decades of forced adoptions",
-      "description": "UK government and Christian churches oversaw system that separated 185,000 babies from their mothers from 1949 to 1976.",
+      "title": "Mourners bury victims of Damascus cafe bombing with six lawyers among dead",
+      "description": "Syrian Bar Association mourns six lawyers amid international condemnation of Thursday's attack in Damascus.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/2/uks-starmer-apologises-for-the-states-role-in-decades-of-forced-adoptions?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Who is Iranian oil tycoon Shamkhani whose ship is stranded in Hormuz?",
-      "description": "Iranian oil shipping magnate Mohammad Hossein Shamkhani has been sanctioned by the West over his shadow fleet.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/2/who-is-iranian-oil-tycoon-shamkhani-whose-ship-is-stranded-in-hormuz?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/7/3/mourners-bury-victims-of-damascus-cafe-bombing-with-six-lawyers-among-dead?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Canadian boy, 11, dies of rabies after waking to bat on his face",
-      "description": "Rabies infections are rare in Canada. There have been 28 human deaths due to rabies in the country since 1924.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c982m1m95q9o?at_medium=RSS&at_campaign=rss",
+      "title": "Election wins prove pro-Palestine US campus protests didn’t fail: Activists",
+      "description": "With Columbia University set to be represented in Congress by former protester, advocates see 'new wave of hope'.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/3/election-wins-prove-pro-palestine-us-campus-protests-didnt-fail-activists?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "12h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Tesla stock sinks 7% despite strong deliveries report",
-      "description": "Tesla is trying to recover from consecutive annual declines in vehicle sales that were partly caused by a consumer backlash against CEO Elon Musk.",
+      "title": "Nasa launches mission to save falling space telescope",
+      "description": "A Nasa-funded robot has blasted off to catch a falling telescope in mid-orbit and blast it back to safety before it burns up.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "5h ago"
+    },
+    {
+      "title": "A looming AI disappointment and rising yields. Why one research firm is hitting the brakes on U.S. stocks.",
+      "description": "In a market dominated by tech stocks, a big test is facing investors in the next 12 months, warns MacroResearchBoard",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/a-looming-ai-disappointment-and-rising-yields-why-one-research-firm-is-hitting-the-brakes-on-u-s-stocks-4bfaa67b?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "‘We were stunned’: My daughter, 39, said her mother-in-law gives her more money than we do. Do I call her out?",
+      "description": "“She thanked us for the $100 birthday gift and then announced that her mother-in-law had sent her $400.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "U.S. stocks have delivered 8.7% a year since independence was declared in 1776",
+      "description": "What 250 years of independence have meant for America’s investors.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/u-s-stocks-have-delivered-8-7-a-year-since-independence-was-declared-in-1776-7513ae04?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "‘She wants him gone’: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?",
+      "description": "“He lived rent-free, helping her with health-related issues and other tasks.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/she-wants-him-gone-my-friend-took-in-a-homeless-man-as-a-caretaker-after-10-years-how-can-she-evict-him-01672de2?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Ford achieves quality milestone, as CEO targets flawless new vehicle launches",
+      "description": "Ford CEO Jim Farley told CNBC that the automaker has learned from its past quality and recall issues, which have hurt its earnings and stained its reputation.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/02/tesla-tsla-q2-2026-vehicle-delivery-production.html",
+      "url": "https://www.cnbc.com/2026/07/03/ford-achieves-quality-milestone-targets-flawless-new-vehicle-launches.html",
       "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "Palantir’s stock bounces back as analyst cheers company’s unique AI advantage",
-      "description": "The software company’s shares have gotten off to a strong start this month following a weak run in June.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/palantirs-stock-bounces-back-as-analyst-cheers-companys-unique-ai-advantage-2f28698d?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Treasury says Trump Account investment options will include State Street, BlackRock and Vanguard ETFs",
-      "description": "The Treasury Department said the investment lineup for Trump ‌Accounts includes ETFs from State Street, BlackRock and Vanguard.",
+      "title": "Trump’s Freedom 250 draws corporate sponsors with business before his administration",
+      "description": "Companies with federal interests — including Boeing, Lockheed Martin and Oracle — are sponsoring a Trump-aligned effort celebrating America’s 250th birthday.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/02/trump-account-investment-picks-are-state-street-blackrock-vanguard-etfs.html",
+      "url": "https://www.cnbc.com/2026/07/03/trump-freedom-250-america250-corporate-sponsors-access.html",
       "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "My doctor friend objected to his hospital’s fundraising tactics. Did management go too far?",
-      "description": "“This shocking program was exploiting doctors and the trust inherent in their relationships with patients.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/there-was-a-catch-my-doctor-friend-was-outraged-by-his-hospitals-fundraising-tactics-where-do-we-draw-the-line-797b9fff?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "How you as an investor can get ahead of the next AI investment wave",
-      "description": "Also in Weekend Reads: Eldercare and family relationships, stock-market prospects for the second half of 2026, and how to set your summer streaming budget.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-you-as-an-investor-can-get-ahead-of-the-next-ai-investment-wave-ffc6512a?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Where can I invest my kid’s ‘Trump account’ money? The Treasury Department just answered that question.",
-      "description": "The money in “Trump accounts” has to be invested in low-cost index funds — and now parents and investors are learning which funds they can actually use.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/where-can-i-invest-my-kids-trump-account-money-the-treasury-department-just-answered-that-question-4f656574?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Phillies vs. Pirates prediction, odds, line, time: 2026 MLB picks for Thursday, July 2, by proven model",
-      "description": "SportsLine's model simulated Pittsburgh Pirates vs. Philadelphia Phillies 10,000 times and revealed its MLB picks for Thursday's matchup",
+      "title": "Seven MLB teams with something to prove in July with the trade deadline looming",
+      "description": "It's put up or shut up time for teams like the Blue Jays and Mariners, while others have to decide on a path forward",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/mlb/news/phillies-pirates-prediction-odds-line-time-2026-mlb-picks-thursday-july-2-best-bets/",
+      "url": "https://www.cbssports.com/mlb/news/mlb-teams-july-trade-deadline-mariners-blue-jays-cardinals-tigers/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "College football's 5-star flip candidates: 2027 recruits most likely to switch before Signing Day",
-      "description": "While most of the elite recruits in the 2027 class have already made their decisions, it's still five months before their commitments can become official",
+      "title": "2026 NHL free agent tracker: Maple Leafs sign Sergei Bobrovsky, Alex Ovechkin returns to Capitals",
+      "description": "Where will the NHL's top free agents land in free agency?",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/college-football-recruiting-5-star-flip-candidates-2027/",
+      "url": "https://www.cbssports.com/nhl/news/nhl-free-agency-tracker-2026-rankings/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "2026 NBA free agency rankings, tracker: Resetting the market with most of top 40 signed",
-      "description": "Most players have agreed to new deals, but big names -- like LeBron James and Jalen Duren -- remain on the market",
+      "title": "Rich Paul breaks down LeBron James' free agency: What The King's agent said about 10 teams in the hunt",
+      "description": "James' longtime friend and agent detailed the pros and cons of each team pursuing the NBA's all-time leading scorer",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nba/news/2026-nba-free-agency-rankings-tracker/",
+      "url": "https://www.cbssports.com/nba/news/lebron-james-free-agency-rich-paul-details-teams-under-consideration/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Dynasty Fantasy Football Wide Receiver Rankings: Buy Quentin Johnston and Xavier Worthy",
-      "description": "Updated wide receiver rankings for Dynasty leagues",
+      "title": "Newsletter 7/3/26",
+      "description": "Newsletter 7/3/26",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/fantasy/football/news/dynasty-fantasy-football-wide-receiver-rankings-july-2026/",
+      "url": "https://www.cbssports.com/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
