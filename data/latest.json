@@ -1,233 +1,249 @@
 {
-  "date": "2026-07-03T15:33:59.798406+00:00",
-  "edition": "#150",
-  "totalStories": 28,
+  "date": "2026-07-04T14:49:43.530661+00:00",
+  "edition": "#151",
+  "totalStories": 30,
   "podcast": {
     "show": "The Daily",
     "description": "The New York Times' daily news podcast — today's top story in 20 minutes."
   },
   "stories": [
     {
-      "title": "It Still Can't Do My Job: Four Years of Moving Goalposts (2022–2026)",
-      "description": "Article URL: https://publicznyprofil.github.io/ai_cant_do_your_work/ Comments URL: https://news.ycombinator.com/item?id=48775909 Points: 11 # Comments: 5",
+      "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+      "description": "Article URL: https://github.com/anthropics/claude-code/issues/74066 Comments URL: https://news.ycombinator.com/item?id=48785485 Points: 31 # Comments: 9",
       "source": "Hacker News",
-      "url": "https://publicznyprofil.github.io/ai_cant_do_your_work/",
+      "url": "https://github.com/anthropics/claude-code/issues/74066",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone",
-      "description": "NASA awarded Rocket Lab deals for three dedicated launches using the company's Electron rocket.",
+      "title": "How working memory could give rise to consciousness",
+      "description": "Article URL: https://www.scientificamerican.com/article/how-working-memory-could-give-rise-to-consciousness/ Comments URL: https://news.ycombinator.com/item?id=48785478 Points: 10 # Comments: 9",
+      "source": "Hacker News",
+      "url": "https://www.scientificamerican.com/article/how-working-memory-could-give-rise-to-consciousness/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Explanation of everything you can see in htop/top on Linux",
+      "description": "Article URL: https://peteris.rocks/blog/htop/ Comments URL: https://news.ycombinator.com/item?id=48784777 Points: 72 # Comments: 10",
+      "source": "Hacker News",
+      "url": "https://peteris.rocks/blog/htop/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "When the ability to smell goes away",
+      "description": "Disturbances in this critical sense are often linked to problems with brain health.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Hackers shoveled snow for company, were rewarded with network admin access",
-      "description": "Article URL: https://www.theregister.com/security/2026/07/02/hackers-shoveled-snow-for-company-were-rewarded-with-network-admin-access/5265240 Comments URL: https://news.ycombinator.com/item?id=48774704 Points: 32 # Com…",
-      "source": "Hacker News",
-      "url": "https://www.theregister.com/security/2026/07/02/hackers-shoveled-snow-for-company-were-rewarded-with-network-admin-access/5265240",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Valve open source the Steam Machine e-ink screen so you can make your own",
-      "description": "Article URL: https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/ Comments URL: https://news.ycombinator.com/item?id=48774518 Points: 186 # Comments: 24",
-      "source": "Hacker News",
-      "url": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit",
-      "description": "Article URL: https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit Comments URL: https://news.ycombinator.com/item?id=48774509 Points: 62 # Comments: 12",
-      "source": "Hacker News",
-      "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Inside the Luddite festival harnessing Gen Z’s rage against Big Tech",
-      "description": "New York City’s Summer of Ludd festival is teaching people how to live offline.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/",
+      "url": "https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/",
       "category": "🤖 TECH & AI",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
-      "description": "Officials believe the suspect may not have acted alone and spent days casing out scene of the attack.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Three men found not guilty of journalist Lyra McKee's murder",
-      "description": "The 29-year-old was shot while observing rioting in Londonderry in April 2019.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpd357j7020o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Police criticise timing of decision on pubs staying open for England match",
-      "description": "The \"late announcement\" extending opening hours to 05:00 on Monday means taking officers away from other duties, the National Police Chiefs' Council says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd95v388k5jo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "July 4th events threatened by heat wave. And, Russia strikes on Ukraine's capital",
-      "description": "July 4th events for America's milestone birthday are being threatened by a brutal heat wave. And, Russia has struck Ukraine's capital, killing several people in what it calls retaliatory attacks.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/03/g-s1-131920/up-first-newsletter-america-250-heat-wave-ukraine-russia-democratic-party",
-      "category": "🌎 TOP NEWS",
+      "title": "A martian rock has lots of carbon on it, and it's not clear why",
+      "description": "Biology could explain the find, but there are other potential explanations.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/",
+      "category": "🤖 TECH & AI",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Just gave birth or are about to? Share your story and questions about costs",
-      "description": "The costs of having a baby in the U.S. can be hard to predict and budget for. We want to hear your stories and questions about how to navigate the system.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/03/nx-s1-5879531/birth-pregnancy-costs-healthcare-us",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
+      "title": "Qi fan fan",
+      "description": "Despite my initial skepticism, I'm now sold on wireless Qi chargers that add integrated fans to keep your phone cool while charging. I figured they'd be too loud, or too weak, or too gimmicky, but I'm a convert after sp…",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/961332/qi-active-cooling-really-works",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "5h ago"
     },
     {
-      "title": "Former USAID head grieves its closure while hoping for its future",
-      "description": "Former USAID administrator reflects on a year since USAID's shutdown and the new direction of US foreign aid.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/03/nx-s1-5877408/former-usaid-head-grieves-its-closure-while-hoping-for-its-future",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "German row over plan for workers to need sick note on first day of illness",
-      "description": "A doctors' group says it \"borders on madness\" that patients will have to obtain the note in person.",
+      "title": "Prince Harry will not be joined by Meghan and children on London trip",
+      "description": "The plans changed after it was confirmed they would not have taxpayer funded security, it is understood.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyxnj38m1o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cr5jpzn2814o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "The massive scramble behind the scenes before the new PM arrives",
+      "description": "As Starmer gets ready to pack his bags, there's a \"bunfight for jobs\" in Whitehall, one MP tells Laura Kuenssberg.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj4g0n0p15xo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Pubs and police brace for England-Mexico 1am kick-off after Fifa U-turn",
+      "description": "England's last-16 World Cup tie will kick off at 01:00BST on Monday, after Fifa reconsidered bringing it forward.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy9r2x4pz1wo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Dior dress and a man of honour: What we know about Taylor Swift and Travis Kelce's wedding",
+      "description": "The couple tied the knot in New York on Friday, after months of speculation about when, where and how it would happen.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvg5zn58nj2o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "China's military promotes 2 new generals after anti-corruption purge thins ranks",
+      "description": "The shake-up is believed to be an effort to ensure the military's loyalty to the Communist Party and its leader, Xi Jinping.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/04/g-s1-131994/chinas-military-promotes-2-new-generals-after-anti-corruption-purge-thins-ranks",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Opinion: America is still a work in progress",
+      "description": "Poets like Walt Whitman and Langston Hughes have written movingly about America.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/04/nx-s1-5871128/opinion-america-is-still-a-work-in-progress",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Canada vs Morocco LIVE: FIFA World Cup 2026 last 16",
+      "description": "Live coverage and text updates as cohosts Canada play Morocco in the round of 16 knockout stage.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/7/4/canada-vs-morocco-live-fifa-world-cup-2026-last-16?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Why is the UK mired in a maternity and neonatal deaths scandal?",
-      "description": "An inquiry found that more than 500 mothers and babies either came to harm or died due to poor care.",
+      "title": "Brain drain leaves Yemen’s health sector in tatters and millions helpless",
+      "description": "Yemen's health professionals have been leaving the country in search of higher income and a safer working environment.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/3/why-is-the-uk-mired-in-a-maternity-and-neonatal-deaths-scandal?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Gaza sports community pledges to continue legacy of killed goalkeeper",
-      "description": "Slain seeking cooking gas, Gaza goalkeeper Saleem al-Ashqar joins more than 1,000 Palestinian athletes killed in war.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/3/gaza-sports-community-pledges-to-continue-legacy-of-killed-goalkeeper?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Mourners bury victims of Damascus cafe bombing with six lawyers among dead",
-      "description": "Syrian Bar Association mourns six lawyers amid international condemnation of Thursday's attack in Damascus.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/3/mourners-bury-victims-of-damascus-cafe-bombing-with-six-lawyers-among-dead?traffic_source=rss",
+      "url": "https://www.aljazeera.com/features/2026/7/4/brain-drain-leaves-yemens-health-sector-in-tatters-and-millions-helpless?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Election wins prove pro-Palestine US campus protests didn’t fail: Activists",
-      "description": "With Columbia University set to be represented in Congress by former protester, advocates see 'new wave of hope'.",
+      "title": "Why closure matters at the end of life",
+      "description": "A peaceful, supported end-of-life experience — focused on family and closure — can transform both dying and grieving.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/3/election-wins-prove-pro-palestine-us-campus-protests-didnt-fail-activists?traffic_source=rss",
+      "url": "https://www.aljazeera.com/features/longform/2026/7/4/why-closure-matters-at-the-end-of-life?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Nasa launches mission to save falling space telescope",
-      "description": "A Nasa-funded robot has blasted off to catch a falling telescope in mid-orbit and blast it back to safety before it burns up.",
+      "title": "Nabatieh recovery begins amid ongoing southern Lebanon tensions",
+      "description": "Nabatieh recovery begins amid ongoing southern Lebanon tensions",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/nabatieh-recovery-begins-amid-ongoing-southern-lebanon-tensions?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
+      "description": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla until Monday, before travelling across Iran and Iraq.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "5h ago"
     },
     {
-      "title": "A looming AI disappointment and rising yields. Why one research firm is hitting the brakes on U.S. stocks.",
-      "description": "In a market dominated by tech stocks, a big test is facing investors in the next 12 months, warns MacroResearchBoard",
+      "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
+      "description": "The daughter of disgraced president Alberto Fujimori is declared winner of tight race nearly a month after voting took place.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "6h ago"
+    },
+    {
+      "title": "When it comes to beating the stock market, no news really is good news",
+      "description": "A new study has found a flaw in how people interpret the very headlines they are seeing.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/a-looming-ai-disappointment-and-rising-yields-why-one-research-firm-is-hitting-the-brakes-on-u-s-stocks-4bfaa67b?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/when-it-comes-to-beating-the-stock-market-no-news-really-is-good-news-43328bf0?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "‘We were stunned’: My daughter, 39, said her mother-in-law gives her more money than we do. Do I call her out?",
-      "description": "“She thanked us for the $100 birthday gift and then announced that her mother-in-law had sent her $400.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "U.S. stocks have delivered 8.7% a year since independence was declared in 1776",
-      "description": "What 250 years of independence have meant for America’s investors.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/u-s-stocks-have-delivered-8-7-a-year-since-independence-was-declared-in-1776-7513ae04?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "‘She wants him gone’: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?",
-      "description": "“He lived rent-free, helping her with health-related issues and other tasks.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/she-wants-him-gone-my-friend-took-in-a-homeless-man-as-a-caretaker-after-10-years-how-can-she-evict-him-01672de2?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Ford achieves quality milestone, as CEO targets flawless new vehicle launches",
-      "description": "Ford CEO Jim Farley told CNBC that the automaker has learned from its past quality and recall issues, which have hurt its earnings and stained its reputation.",
+      "title": "The World Cup sends prediction market volumes soaring to record highs",
+      "description": "Trading volumes on Kalshi and Polymarket both hit record highs in June. Rothera, a new prediction market platform, was also able to manage $2 billion in volume.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/03/ford-achieves-quality-milestone-targets-flawless-new-vehicle-launches.html",
+      "url": "https://www.cnbc.com/2026/07/04/2026-fifa-world-cup-boosts-prediction-market-volumes.html",
       "category": "📈 MARKETS",
-      "timeAgo": "3h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Trump’s Freedom 250 draws corporate sponsors with business before his administration",
-      "description": "Companies with federal interests — including Boeing, Lockheed Martin and Oracle — are sponsoring a Trump-aligned effort celebrating America’s 250th birthday.",
+      "title": "UK and France agree with Oman to ensure safety of its territorial waters",
+      "description": "France said it has deployed mine countermeasures to the Middle East, including two mine-hunting ships.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/03/trump-freedom-250-america250-corporate-sponsors-access.html",
+      "url": "https://www.cnbc.com/2026/07/04/uk-france-agree-with-oman-to-ensure-safety-of-its-territorial-waters.html",
       "category": "📈 MARKETS",
-      "timeAgo": "3h ago"
+      "timeAgo": "4h ago"
     },
     {
-      "title": "Seven MLB teams with something to prove in July with the trade deadline looming",
-      "description": "It's put up or shut up time for teams like the Blue Jays and Mariners, while others have to decide on a path forward",
+      "title": "Iran begins six-day funeral for Ayatollah Khamenei nearly four months after his death",
+      "description": "Iran plans a six-day funeral for Ayatollah Ali Khamenei, with ceremonies across Iran and Iraq before burial in Mashhad.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/04/-khamenei-funeral-procession-route.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "9h ago"
+    },
+    {
+      "title": "Here’s what’s worth streaming in July 2026 on Netflix, Hulu, HBO Max and more",
+      "description": "Why it’s a good month to save on streaming, despite the return of ‘Enola Holmes’ to Netflix and ‘Silo’ to Apple",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-july-2026-on-netflix-hulu-hbo-max-and-more-58d07528?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "18h ago"
+    },
+    {
+      "title": "Record beef imports are flooding the U.S. — so why is your Fourth of July BBQ so expensive?",
+      "description": "Beef prices are sizzling and Washington’s recipe for high costs — import more meat — only grills your wallet.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/your-fourth-of-july-hamburger-meat-was-likely-imported-and-youre-right-to-have-a-beef-with-that-c25d7c31?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "19h ago"
+    },
+    {
+      "title": "Could this be the best World Cup Ever? Cinderella runs, biggest stars shining, and a blockbuster round of 16",
+      "description": "From Cabo Verde's heroic effort to the North American hosts making deep runs, the drama on the pitch is making a strong case for tournament history",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/mlb/news/mlb-teams-july-trade-deadline-mariners-blue-jays-cardinals-tigers/",
+      "url": "https://www.cbssports.com/soccer/news/best-world-cup-ever-cinderella-runs-biggest-stars-shining-and-a-blockbuster-round-of-16/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "2026 NHL free agent tracker: Maple Leafs sign Sergei Bobrovsky, Alex Ovechkin returns to Capitals",
-      "description": "Where will the NHL's top free agents land in free agency?",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nhl/news/nhl-free-agency-tracker-2026-rankings/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Rich Paul breaks down LeBron James' free agency: What The King's agent said about 10 teams in the hunt",
-      "description": "James' longtime friend and agent detailed the pros and cons of each team pursuing the NBA's all-time leading scorer",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nba/news/lebron-james-free-agency-rich-paul-details-teams-under-consideration/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Newsletter 7/3/26",
-      "description": "Newsletter 7/3/26",
+      "title": "SportsLine Newsletter July 4, 2026",
+      "description": "Saturday betting guide: How to pick the 2026 World Cup and Nathan's Hot Dog Eating Contest",
       "source": "CBS Sports",
       "url": "https://www.cbssports.com/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Yankees vs. Twins odds, prediction: 2026 MLB picks for Saturday, July 4 from proven model",
+      "description": "SportsLine's projection model, which is on a sizzling 25-14 run on all top-rated MLB picks, has locked in its predictions for Minnesota Twins vs. New York Yankees on the 4th of July",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/mlb/news/yankees-twins-odds-prediction-time-2026-mlb-picks-for-fourth-of-july/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "2026 FIFA World Cup bracket, results, scores: Round of 32 results, round of 16 matchups, path to the final",
+      "description": "The first phase of the tournament is over and the teams will now meet for the round of 32",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/soccer/news/2026-fifa-world-cup-bracket-round-of-32-results-round-of-16-matchups-final/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "World Cup 2026 Power Rankings before round of 16: Who's No. 1?",
+      "description": "In the blink of an eye, we're down to the final 16 nations left competing for the 2026 World Cup. What do our writers and experts think the field looks like from worst to best of the teams remaining?",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/49251656/fifa-world-cup-power-rankings-spain-brazil-germany-usa-mexico-england-argentina-france",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Agent: LeBron eyeing Heat, Cavs, Sixers, others",
+      "description": "Rich Paul, LeBron James' agent, says his client is considering a host of teams for his next destination, including the Heat, Cavaliers and 76ers.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/49259789/agent-lebron-eyeing-host-teams-including-heat-cavs-76ers",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
