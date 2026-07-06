@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-05T14:58:26.573486+00:00",
-  "edition": "#152",
+  "date": "2026-07-06T16:38:36.457565+00:00",
+  "edition": "#153",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Organic Maps",
-      "description": "Article URL: https://organicmaps.app/ Comments URL: https://news.ycombinator.com/item?id=48794446 Points: 44 # Comments: 7",
+      "title": "Stealth robotics startup (YC S26) is hiring principal engineers (Palo Alto)",
+      "description": "Comments URL: https://news.ycombinator.com/item?id=48806976 Points: 0 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://organicmaps.app/",
+      "url": "https://news.ycombinator.com/item?id=48806976",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public",
-      "description": "Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people.",
+      "title": "Apple brings back card payments for Apple Account purchases in India after a four-year hiatus",
+      "description": "Apple has started a phased rollout of card payments for Apple Account purchases in India after adapting to the country's payments framework.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
+      "url": "https://techcrunch.com/2026/07/06/apple-brings-back-card-payments-for-apple-account-purchases-in-india-after-a-four-year-hiatus/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Should DayQuil Be Legal?",
+      "description": "Article URL: https://www.theargumentmag.com/p/should-dayquil-be-legal Comments URL: https://news.ycombinator.com/item?id=48806289 Points: 28 # Comments: 20",
+      "source": "Hacker News",
+      "url": "https://www.theargumentmag.com/p/should-dayquil-be-legal",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Car touchscreens are cheap, not good",
+      "description": "Article URL: https://ben.stolovitz.com/posts/car-touchscreens-are-cheap-not-good/ Comments URL: https://news.ycombinator.com/item?id=48806151 Points: 32 # Comments: 24",
+      "source": "Hacker News",
+      "url": "https://ben.stolovitz.com/posts/car-touchscreens-are-cheap-not-good/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Phosh 0.56.0",
-      "description": "Article URL: https://phosh.mobi/releases/rel-0.56.0/ Comments URL: https://news.ycombinator.com/item?id=48794179 Points: 75 # Comments: 13",
-      "source": "Hacker News",
-      "url": "https://phosh.mobi/releases/rel-0.56.0/",
+      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+      "description": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sales the hardest.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Almost 90 new unicorns have been minted so far this year — here they are",
-      "description": "With AI igniting an investor frenzy, more startups are achieving unicorn status every month.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Show HN: KiCad in the Browser",
-      "description": "KiCad, a PCB EDA suite is now working in a browser, you can try it at the link, there's a demo project or you can bring your own. Firefox is best, Chrome is good, Safari is \"working\". We’re Emergence Engineering, a dev…",
+      "title": "1k Words: A Writing Contest",
+      "description": "Article URL: https://writingclub.world/1picture1000words Comments URL: https://news.ycombinator.com/item?id=48806073 Points: 24 # Comments: 7",
       "source": "Hacker News",
-      "url": "https://demo.pcbjam.com/",
+      "url": "https://writingclub.world/1picture1000words",
       "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Cannabis Users Face Substantially Higher Risk of Heart Attack (2025)",
-      "description": "Article URL: https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cannabis-users-face-substantially-higher-risk Comments URL: https://news.ycombinator.com/item?id=48793492 Points: 60 # Comments: 43",
-      "source": "Hacker News",
-      "url": "https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cannabis-users-face-substantially-higher-risk",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Reform denies rules broken by Farage after benefits from ally not declared",
-      "description": "The Sunday Times says the Reform UK leader failed to register the support supplied by a cryptocurrency entrepreneur who had been convicted of fraud.",
+      "title": "'The spectacle Iran wants the world to see': Lyse Doucet in Tehran for Ayatollah Ali Khamenei's funeral",
+      "description": "Huge crowds have lined the streets of Tehran for the funeral procession of Iran's late supreme leader, Ayatollah Ali Khamenei.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy0424end7vo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/videos/c78yyyl2ev4o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
-      "description": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the onset of the US-Israel war with Iran.",
+      "title": "All-nighters, phone bans and school screenings - how you watched England's epic win",
+      "description": "Fans powered through a 02:00 BST kick-off gathering in packed pubs, watching from home, or later on at school.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c9q22p2v9dxo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "England battling history as well as Mexican nation in Azteca cauldron",
-      "description": "England will be battling against history as well as entire nation when the face Mexico in the World Cup last 16 at The Azteca, says chief football writer Phil McNulty.",
+      "title": "Trump confirms he asked Fifa boss for review of US striker's ban",
+      "description": "The US president says Fifa \"made the right decision\" to suspend Folarin Balogun's one-match ban, adding that otherwise, it would have left a \"big stain\" on the World Cup.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg7z7zxkw9o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Buckingham Palace says Prince Harry will not stay there despite his team announcing he would",
+      "description": "Royal sources say the Duke of Sussex had not responded to the offer of accommodation at a Royal residence by the deadline last week.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c77yykl87yno?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Construction is a man's game. These women are demolishing the barriers",
-      "description": "Women make up a miniscule 3% of construction workers in Kenya. But a nonprofit group is offering them a way to get into the game ... and to get ahead.",
+      "title": "Man sues DHS after agents tracked him down for sending a scathing email to ICE",
+      "description": "Federal agents tried to track David Streever to his home and hotel, and left him a warning notice that a critical email he sent the former head of ICE may have been illegal. Now he's suing.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/07/05/g-s1-129643/construction-business-women-kenya",
+      "url": "https://www.npr.org/2026/07/06/nx-s1-5883784/dhs-ice-critic-lawsuit-free-speech",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "A new law in California will clarify 'sell by' dates to reduce food waste",
-      "description": "NPR's Ayesha Rascoe speaks with Nick Lapis of Californians Against Waste about the new law that standardizes food label \"use by\" dates and how that reduces consumer confusion and tons of food waste.",
+      "title": "Militant LGBTQ+ rights group 'the Lavender Panthers' was founded on this day in 1973",
+      "description": "\"Reverend Ray\" Broshears founded the queer vigilante group the Lavender Panthers in 1973. The group's impact is still felt today.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/07/05/nx-s1-5879284/a-new-law-in-california-will-clarify-sell-by-dates-to-reduce-food-waste",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Pennsylvania's proposed data centers are bringing strangers together in protest",
-      "description": "Proposals to build six data centers in the small community of Archbald, Pennsylvania, have brought strangers together to fight the plans there — and elsewhere in the state.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/05/nx-s1-5804732/proposed-data-centers-in-pennsylvania-are-leading-strangers-to-mobilize-in-protest",
+      "url": "https://www.npr.org/sections/the-picture-show/2026/07/06/g-s1-131803/lgbtqia-group-lavender-panthers-founded-1973",
       "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Cape Verde celebrates team’s return after historic World Cup",
-      "description": "Cape Verde's football team is getting a hero's welcome on its return home after a historic World Cup run.",
+      "title": "Lebanon latest: Teacher killed by Israeli airstrike",
+      "description": "Al Jazeera’s Heidi Pett brings you the latest from Lebanon, where Israeli strikes continue despite a ‘ceasefire’.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/cape-verde-celebrates-teams-return-after-historic-world-cup?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/lebanon-latest-teacher-killed-by-israeli-airstrike-2?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Extreme weather disrupts US’s 250th anniversary celebrations",
-      "description": "Extreme weather disrupted the US’s 250th anniversary celebrations, forcing evacuations, cancellations and delays.",
+      "title": "Portugal vs Spain LIVE: FIFA World Cup 2026 round of 16",
+      "description": "Live coverage and text updates of the World Cup last-16 clash between Portugal and Spain in Dallas in the US.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/extreme-weather-disrupts-uss-250th-anniversary-celebrations?traffic_source=rss",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/7/6/portugal-vs-spain-live-fifa-world-cup-2026-round-of-16?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Millions attend funeral prayers for Iran’s Khamenei and family",
-      "description": "Millions of people have attended funeral prayers in Tehran for Iran's late Supreme Leader Ayatollah Ali Khamenei.",
+      "title": "Netanyahu says his ties with Trump are ‘fine’, takes aim at Turkiye",
+      "description": "In Fox News interview, Israeli prime minister lauds US alliance and argues that Ankara should not receive F-35 jets.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/millions-attend-funeral-prayers-for-irans-khamenei-and-family?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/7/6/netanyahu-says-his-ties-with-trump-are-fine-takes-aim-at-turkiye?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "UN discusses prevention of genocide: Six times it failed to do just that",
+      "description": "The UN General Assembly meets amid Israel's genocide on Gaza, Myanmar's genocide against the Rohingya, and other crises.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/6/un-discusses-prevention-of-genocide-six-times-it-failed-to-do-just-that?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "At least 15 Yemeni government troops killed in Hodeidah fighting",
-      "description": "Yemeni minister says more than 50 Houthi fighters were killed in the Hodeidah clashes.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/5/at-least-15-yemeni-government-troops-killed-in-hodeidah-fighting?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Australia probes mystery space balls that washed up on beach",
-      "description": "Officials are searching for the origins of six pieces of space debris discovered on Forrest Beach in Queensland.",
+      "title": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
+      "description": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "2h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Evacuations in Guam as super typhoon Bavi approaches",
-      "description": "The storm is forecast to bring winds in excess of 160mph and waves nearly 11m high when it makes landfall on Monday.",
+      "title": "Wildfire in southern France forces evacuation of 10,000 people",
+      "description": "Tour de France organisers ban spectators from stage three as a wildfire hits the Pyrénées-Orientales region.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/crlwweye9glo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "5h ago"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "I have no kids. Will I cause family drama by leaving different amounts to my nieces and nephews?",
-      "description": "“Part of me would prefer to leave more to those for whom the money could make a meaningful difference.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-have-no-kids-will-i-cause-family-drama-by-leaving-different-amounts-to-my-nieces-and-nephews-14c0fdda?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Trump Accounts for kids launched July 4: What parents need to know",
-      "description": "Here's a breakdown of how Trump Accounts work, who qualifies for free money and when the funds can be withdrawn.",
+      "title": "Trump defends call urging Balogun red card review: 'It wasn't a foul'",
+      "description": "\"I didn't know what the hell a red card was,\" said Trump, who called FIFA President Gianni Infantino about the suspension of Folarin Balogun.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/01/trump-accounts-launch-july-4.html",
+      "url": "https://www.cnbc.com/2026/07/06/trump-balogun-fifa-world-cup-us-belgium.html",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Hybrids are the breakout star of the U.S. car market as EV demand fades",
-      "description": "Hybrids aren’t a bridge to EVs anymore — instead, they’re winning on function and price.",
+      "title": "‘I’ve plenty of time on my hands’: Advisers bombard me with offers of free steak dinners. Is it wrong to go for the food?",
+      "description": "“I get hungry for a meal at a good restaurant.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/hybrids-are-the-breakout-star-of-the-u-s-car-market-as-ev-demand-fades-96dce1c3?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/ive-plenty-of-time-on-my-hands-advisers-bombard-me-with-offers-for-free-steak-is-it-wrong-to-go-for-the-food-1b139f98?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Why the stock market’s red-hot momentum trade might be headed for a violent unwind this month",
-      "description": "Momentum trades tend to struggle in July — but this year may be particularly volatile, says one strategist. The rumblings have already started.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-the-stock-markets-red-hot-momentum-trade-might-be-headed-for-a-violent-unwind-this-month-78a45397?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Cargo vessel in Red Sea reports coming under attack, UK maritime body says",
-      "description": "The incident was reported in one of the world's most crucial trade transit routes amid a fragile ceasefire between Iran and the U.S.",
+      "title": "Rivian, Tesla and the 'Holly Index': How to trade the new EV Main Street battle",
+      "description": "Mike Khouw gives a trade on Rivian and Tesla, informed by his wife's recent auto purchase.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/05/cargo-vessel-in-red-sea-reports-attack-uk-maritime-body-says.html",
+      "url": "https://www.cnbc.com/2026/07/06/rivian-tesla-and-the-holly-index-how-to-trade-the-new-ev-main-street-battle.html",
       "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "‘We were stunned’: My daughter, 39, said her mother-in-law gives her more money than we do. Should I confront her?",
-      "description": "“She thanked us for the $100 birthday gift and then announced that her mother-in-law had sent her $400.”",
+      "title": "Silver has plunged 50% from its January peak to $60. Why it could hit $130 next year.",
+      "description": "After its dramatic plunge, silver may be experiencing a huge disconnect between its traded value and its importance as a critical material.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/silver-has-plunged-50-from-its-january-peak-to-60-why-it-could-hit-130-next-year-4fe57e45?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "England vs. Mexico odds, prediction: 2026 World Cup Round of 16 picks by expert on 16-6 run",
-      "description": "SportsLine's Martin Green reveals his England vs. Mexico best bets for their knockout stage match in the FIFA World Cup 2026 on Sunday at",
+      "title": "Micron’s stock gains, signaling a ‘return to optimism’ about the chip sector",
+      "description": "Investors are looking forward to Samsung’s earnings and SK Hynix’s ADR listing, experts say.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/microns-stock-gains-signaling-a-return-to-optimism-about-the-chip-sector-0b7f6a8c?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Microsoft cuts 4,800 jobs, as Xbox unit downsizes and plans to spin off four gaming studios",
+      "description": "Microsoft is cutting jobs in its commercial business and its Xbox gaming group, where revenue has been shrinking.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/06/microsoft-cuts-2point1percent-of-employees-as-xbox-unit-plans-to-spin-studios.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "2026 NFL free agency tracker: Rasul Douglas to join Commanders, eight of top 100 free agents still unsigned",
+      "description": "Several notable veterans remain on the market as the NFL offseason continues through the summer months",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/england-mexico-odds-prediction-2026-world-cup-round-16-picks/",
+      "url": "https://www.cbssports.com/nfl/news/nfl-free-agency-tracker-best-unsigned-free-agents-2026/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "SportsLine Newsletter July 5, 2026",
-      "description": "Sunday Betting Guide: Top predictions for Sunday's Round of 16 World Cup matches, NASCAR at Chicago, and a look ahead to USMNT vs. Belgium on Monday",
+      "title": "WNBA Power Rankings: The Dream's offense craters during five-game losing streak, as Valkyries rise to the top",
+      "description": "Elsewhere, the New York Liberty are also on the rise and Breanna Stewart is playing like an MVP",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/",
+      "url": "https://www.cbssports.com/wnba/news/wnba-power-rankings-dream-offense-craters-valkyries-top/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "2026 World Cup parlay, best bets: Top picks for matches on Sunday include Brazil, Mexico",
-      "description": "SportsLine's team of experts have revealed their World Cup parlay and soccer predictions for Sunday's matches",
+      "title": "Best horse racing betting sites: Where to bet on 2026 horse racing",
+      "description": "Learn where to bet on horse racing online. Discover top horse racing betting sites and tips.",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/2026-world-cup-parlay-best-bets-top-picks-for-matches-on-sunday-include-brazil-mexico/",
+      "url": "https://www.cbssports.com/betting/news/horse-racing/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Use DraftKings promo code for $200 in bonus bets by targeting Brazil-Norway, England-Mexico, 2026 World Cup",
-      "description": "DraftKings offers $200 in bonus bets instantly after your first $5 wager for 2026 World Cup betting",
+      "title": "Portugal vs. Spain live stream: How to watch FIFA World Cup, odds, prediction, pick, lineups, channel",
+      "description": "The Iberian neighbors meet on Monday in the round of 16",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-200-bonus-bets-brazil-norway-england-mexico-2026-world-cup-sunday/",
+      "url": "https://www.cbssports.com/soccer/news/portugal-spain-world-cup-2026-preview-predictions-watch/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
