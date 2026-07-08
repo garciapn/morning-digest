@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-07T16:03:07.249120+00:00",
-  "edition": "#154",
+  "date": "2026-07-08T15:50:24.413358+00:00",
+  "edition": "#155",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Better Auth is joining Vercel",
-      "description": "Article URL: https://better-auth.com/blog/better-auth-joins-vercel Comments URL: https://news.ycombinator.com/item?id=48819512 Points: 5 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://better-auth.com/blog/better-auth-joins-vercel",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Microsoft Fire IdTech Team at Id Software",
-      "description": "Article URL: https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/ Comments URL: https://news.ycombinator.com/item?id=48819244 Points: 45 # Comments: 6",
-      "source": "Hacker News",
-      "url": "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "X adds a video editor to encourage creators to post original content, not stolen reposts",
-      "description": "X is rolling out a new video editor and recorder for iOS with multilingual captions, green-screen effects, and other editing tools.",
+      "title": "These AI startups are growing  revenue at faster and faster rates",
+      "description": "There are a lot of fast-growing AI startups, but some are growing even faster, they say.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/07/x-adds-a-video-editor-to-encourage-creators-to-post-original-content-not-stolen-reposts/",
+      "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Chat Control passed first round in EU Parliament",
-      "description": "Article URL: https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html Comments URL: https://news.ycombinator.com/item?id=48819008 Points: 81 # Comments: 28",
+      "title": "Show HN: Kastor – Terraform-style specs for AI agents",
+      "description": "Article URL: https://github.com/weirdGuy/kastor Comments URL: https://news.ycombinator.com/item?id=48833183 Points: 3 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
+      "url": "https://github.com/weirdGuy/kastor",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Chemistry Ventures is raising $500M for its second fund",
-      "description": "Chemistry Ventures, the VC firm launched by Bessemer, Index Ventures, and Andreessen Horowitz alums, is raising $500M for its second fund.",
+      "title": "Chatto is now Open Source",
+      "description": "Article URL: https://www.hmans.dev/blog/chatto-is-open-source Comments URL: https://news.ycombinator.com/item?id=48833116 Points: 13 # Comments: 2",
+      "source": "Hacker News",
+      "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Answering \"why do you want to relocate?\" during interviews",
+      "description": "Article URL: https://relocateme.substack.com/p/a-mistake-to-avoid-during-relocation Comments URL: https://news.ycombinator.com/item?id=48833071 Points: 8 # Comments: 0",
+      "source": "Hacker News",
+      "url": "https://relocateme.substack.com/p/a-mistake-to-avoid-during-relocation",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more",
+      "description": "Vermilion Cliffs Ventures announced Wednesday the close of a $25 million Fund II.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/07/chemistry-ventures-is-raising-500m-for-its-second-fund/",
+      "url": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Apple to produce Made in America wireless chips with Broadcom",
+      "description": "Apple has signed a $30 billion+ multiyear deal with Broadcom to design and produce more than 15 billion U.S.-made custom wireless connectivity chips for Apple products.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/08/apple-to-produce-made-in-america-wireless-chips-with-broadcom/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "The Revenge of the Philosophy Majors",
-      "description": "Article URL: https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html Comments URL: https://news.ycombinator.com/item?id=48818544 Points: 45 # Comments: 47",
-      "source": "Hacker News",
-      "url": "https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Harry loses High Court privacy case against Daily Mail publisher",
-      "description": "Judge Mr Justice Nicklin says the claimants had failed to prove the allegations.",
+      "title": "Bowen: For all his bluster, Trump has no better option than talks with Iran",
+      "description": "The negotiating process is fragile and recent US strikes show how hard it will be to reach agreement, writes BBC's International Editor Jeremy Bowen.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9324nyqwjno?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cy8we3j14ndo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Marine Le Pen found guilty, but court clears way for presidential run if she wears tag",
-      "description": "The National Rally leader now has to decide whether she will run with an electronic tag and will speak on TV later.",
+      "title": "Police name man wanted over murders of wife and daughters",
+      "description": "An international manhunt is under way for Ndodana Mkhanyisi Tshuma, who left the country via Heathrow Airport.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cly85qjg45no?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Woman suspected of Monaco bomb attack found dead in Ukraine",
-      "description": "Police had been hunting Anastasiia Berezovska after a Ukrainian millionaire was injured in the blast.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "One million more UK homeowners set  to face higher mortgages",
-      "description": "Homeowners face paying £45 a month more on average when they move onto a new deal over the next two years.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cze9kpxx6d8o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "New lawsuit alleges U.S. shared asylum application details with Iran",
-      "description": "A lawsuit alleges the Trump administration is divulging details of Iranian asylum seekers to the government of Iran.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/07/g-s1-132294/lawsuit-asylum-iran",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2njxnn7jo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "There's no treatment designed for the Ebola strain ravaging DRC. But now there's hope",
-      "description": "The strain of the virus that's responsible for the current outbreak has no specific treatments or preventive measures. Three new clinical trials could provide possible breakthroughs.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/07/g-s1-132218/theres-no-treatment-designed-for-the-ebola-strain-ravaging-drc-but-now-theres-hope",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Nigel Farage resigns as MP, will run in UK by-election",
-      "description": "Reform UK leader Nigel Farage says he will resign as an MP to trigger a by-election and stand again.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/nigel-farage-resigns-as-mp-will-run-in-uk-by-election?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "How much does playing in the World Cup pay?",
-      "description": "How much does playing in the World Cup pay?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/money-works/2026/7/7/how-much-does-playing-in-the-world-cup-pay?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Netanyahu’s Christian comments ‘aimed at sowing strife’: Lebanese analysts",
-      "description": "After Netanyahu's statements on Lebanese Christians were denounced in Lebanon, analysts call Israel's PM a liar.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/7/netanyahus-christian-comments-aimed-at-sowing-strife-lebanese-analysts?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Reform UK’s Farage resigns as MP amid funding scandal, forcing by-election",
-      "description": "Nigel Farage says he's 'done nothing wrong' as parliament investigates undeclared benefits he accepted from a fraudster.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/7/reform-uks-farage-resigns-as-mp-amid-funding-scandal-forcing-by-election?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Zelensky presses Nato for air defence systems after intense Russian strikes",
-      "description": "The Ukrainian president says \"decisions for air defence\" should be \"one of the key outcomes\" of this week's summit in Turkey.",
+      "title": "Ruth Ellis, last woman to be hanged in UK, gets conditional posthumous pardon",
+      "description": "Ruth Ellis was hanged at London's Holloway Prison in 1955 after being convicted of murdering her lover David Blakely.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
+      "url": "https://www.bbc.co.uk/news/articles/crel4rj801do?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
-      "description": "Former prisoners accuse the men of abuse in detention centres and want to see them brought to trial.",
+      "title": "Mason: It's far from certain whether by-election will strengthen Farage",
+      "description": "The Reform UK leader faces a challenge from Count Binface as the main parties rule out standing in Clacton.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c9d2882jj3yo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "Here are the 2026 Emmy nominations",
+      "description": "Liza Colón-Zayas and Jeff Hiller are presenting the nominees Wednesday morning. Winners will be announced at the 78th Emmy Awards on September 14.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/08/nx-s1-5883885/2026-emmy-nominations",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Greetings from a Syrian church, infused with a mix of sweet fruit and diverse faiths",
+      "description": "Syria's Mar Musa monastery provides the tastiest mulberries, and its services draw from Eastern Orthodox Christian and Sufi customs.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/08/nx-s1-5884694/syria-church-interfaith-fruit",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "FIFA World Cup: Quarterfinal brackets, match schedule and game previews",
+      "description": "Talking points as France, Morocco, Spain, Belgium, Norway, England, Argentina and Switzerland aim for World Cup glory.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/7/8/fifa-world-cup-2026-quarterfinal-fixtures-match-previews-schedule?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "16h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Rivian’s stock sale triggers worst rout for the shares in nearly two years",
-      "description": "Rivian’s stock is down 13% as Wall Street frets about the EV maker’s cash troubles.",
+      "title": "Zelenskyy seeks NATO support as Russia continues attacks",
+      "description": "At the NATO summit, Ukrainian President Volodymyr Zelenskyy had urged European allies to build missiles.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/zelenskyy-seeks-nato-support-as-russia-continues-attacks?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Why have 100,000 people been signed off work with ADHD in the UK?",
+      "description": "New government statistics find four million people claimed disability benefits in April.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/8/why-have-100000-people-been-signed-off-work-with-adhd-in-the-uk?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "German doctor jailed for murder of 15 patients and suspected of more",
+      "description": "The German palliative care doctor has been sentenced to life imprisonment for killing 15 of his patients.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq819jyp2g7o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Trump on Iran: ‘We’ll probably hit them hard again tonight’",
+      "description": "US President Donald Trump says the US will ‘probably’ carry out another round of strikes on Iran on Wednesday night.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-on-iran-well-probably-hit-them-hard-again?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Trump says ceasefire is 'over' after US and Iran trade strikes",
+      "description": "Speaking ahead of a Nato summit, the president says US negotiators can keep talking with the Iranians \"if they want\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "Oil prices touch two-week highs  after Trump suggests U.S.-Iran cease-fire is over",
+      "description": "Oil prices touched their highest levels in more than two weeks on Wednesday after President Donald Trump said he believed the cease-fire with Iran was over.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/rivians-stock-sale-triggers-worst-rout-for-the-shares-in-nearly-two-years-6791789e?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/oil-prices-jump-by-the-most-in-two-months-after-trump-suggests-u-s-iran-cease-fire-is-over-9fa7caee?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Stellantis to sell small Fiat Topolino EV for $13,995 in U.S.",
-      "description": "While the Topolino resembles a small car such as the Fiat 500, the EV is actually a quadricycle that functions more like a golf cart.",
+      "title": "Delta launches 'basic business' fares without lounge access, seat selection",
+      "description": "Delta is launching basic business and other stripped-down premium classes that come with fewer perks.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/07/stellantis-fiat-topolino-ev.html",
+      "url": "https://www.cnbc.com/2026/07/08/delta-basic-business-fares.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "NATO announces billions in defense deals. What investors should watch for now.",
-      "description": "A number of major defense companies, including Rheinmetall and Lockheed Martin have announced billions of dollars worth of backlogs",
+      "title": "Why the stock market’s biggest laggards might be your best defense against a summer selloff",
+      "description": "Low-volatility stocks are having a moment after a long stretch of underperformance.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nato-announces-billions-in-defense-deals-what-investors-should-watch-for-now-d7f3c4be?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/why-the-stock-markets-biggest-laggards-might-be-your-best-defense-against-a-summer-selloff-be079d8e?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "‘Our family is broken beyond repair’: My brother took over my parents’ finances. What can I do?",
-      "description": "“Without telling me, my brother petitioned for sole guardianship of our mother.”",
+      "title": "Insurance giant says it’s turning to AI to replace as many as 1,800 jobs",
+      "description": "Allianz Partners will axe between 1,500 and 1,800 roles from its workforce of close to 23,000",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/our-family-is-broken-beyond-repair-my-brother-took-over-my-parents-finances-what-can-i-do-95239fb9?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/insurance-giant-says-its-turning-to-ai-to-replace-as-many-as-1-800-jobs-13e60de2?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Trump renews Greenland threats at NATO summit, says U.S. could remove troops from Europe",
-      "description": "NATO fell into a crisis earlier this year as Trump demanded that the U.S. must take control of Greenland on national security grounds.",
+      "title": "Kentucky Gov. Beshear presses McConnell to provide health update as speculation grows",
+      "description": "McConnell, the former longtime Senate leader who declined to seek an eighth term following a series of health scares, was admitted to a hospital on June 14.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/07/trump-nato-summit-greenland-us-troops-europe.html",
+      "url": "https://www.cnbc.com/2026/07/08/mcconnell-health-update-beshear-hospitalization-kentucky.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Fed meeting minutes to show 'family fight' over rates. The squabble could drag on for a while",
+      "description": "There have been few instances over the past 35 years or so when the Fed has only made one rate move, be it up or down.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/08/with-minutes-due-feds-family-fight-over-interest-rates-could-drag-on.html",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "I found a simple way to save money on frozen pizza. What’s your best money-saving trick?",
-      "description": "“I changed my approach to cooking.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-make-my-own-pizza-whats-the-best-way-youve-found-to-save-money-25412399?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Argentina-Egypt, Colombia-Switzerland, World Cup",
-      "description": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for 2026 World Cup betting",
+      "title": "LeBron James next team predictions: Four-time MVP highly likely to go back to Cavaliers after leaving Lakers",
+      "description": "James says he's moving on, and Kalshi prediction markets think he'll end up in a familiar city",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-argentina-egypt-messi-colombia-switzerland-world-cup-tuesday/",
+      "url": "https://www.cbssports.com/prediction/news/lebron-james-next-team-predictions-four-time-mvp-highly-likely-to-go-back-to-cavaliers-after-leaving-lakers/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "UFC 329 fight card: Paddy Pimblett, Gable Steveson among top undercard bouts to watch in Las Vegas",
-      "description": "The undercard for Conor McGregor vs. Max Holloway 2 is deep",
+      "title": "In WNBA broadcast return, Geno Auriemma lauds rival Notre Dame alum Jessica Shepard as 'best player' on court",
+      "description": "'Take my temperature,' the UConn coach joked",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/ufc/news/ufc-329-fight-card-paddy-pimblett-gable-steveson-undercard-bouts/",
+      "url": "https://www.cbssports.com/wnba/news/geno-auriemma-wnba-broadcast-return-jessica-shepard-uconn-notre-dame/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Argentina vs. Egypt odds, prediction, preview, picks, start time for World Cup match on Tuesday",
-      "description": "Lionel Messi and Mohamed Salah face off on Tuesday and you can bet on Argentina vs. Egypt at the 2026 World Cup now on FanDuel",
+      "title": "World Cup 2026 futures odds: France remain favorites, Spain ahead of defending champions Argentina",
+      "description": "Here's a look at the latest World Cup title odds ahead of the quarterfinals",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/argentina-vs-egypt-odds-prediction-preview-picks-start-time-for-world-cup-match-on-tuesday/",
+      "url": "https://www.cbssports.com/betting/news/world-cup-2026-futures-odds-france-remain-favorites-spain-ahead-of-defending-champions-argentina/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Switzerland vs Colombia live stream: How to watch FIFA World Cup, odds, prediction, pick, lineups, channel",
-      "description": "The winners move on to face either Argentina or Egypt",
+      "title": "UFC 329 -- Conor McGregor vs. Max Holloway: Fight card, date, odds and more for International Fight Week",
+      "description": "The sport's biggest star returns for the first time in five years on Saturday in Las Vegas",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/switzerland-colombia-world-cup-2026-preview-predictions-watch/",
+      "url": "https://www.cbssports.com/ufc/news/ufc-329-conor-mcgregor-max-holloway-fight-card-date-odds-location/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
