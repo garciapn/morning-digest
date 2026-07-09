@@ -1,233 +1,249 @@
 {
-  "date": "2026-07-08T15:50:24.413358+00:00",
-  "edition": "#155",
-  "totalStories": 28,
+  "date": "2026-07-09T16:12:40.689464+00:00",
+  "edition": "#156",
+  "totalStories": 30,
   "podcast": {
     "show": "The Daily",
     "description": "The New York Times' daily news podcast — today's top story in 20 minutes."
   },
   "stories": [
     {
-      "title": "These AI startups are growing  revenue at faster and faster rates",
-      "description": "There are a lot of fast-growing AI startups, but some are growing even faster, they say.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Show HN: Kastor – Terraform-style specs for AI agents",
-      "description": "Article URL: https://github.com/weirdGuy/kastor Comments URL: https://news.ycombinator.com/item?id=48833183 Points: 3 # Comments: 0",
+      "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
+      "description": "Hi Hacker News, I’m Yahia. I built Context.dev ( https://www.context.dev/ ) to make it really easy to integrate web data into your products and agents. Here’s a demo video: https://www.tella.tv/video/build-faster-with-c…",
       "source": "Hacker News",
-      "url": "https://github.com/weirdGuy/kastor",
+      "url": "https://www.context.dev",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Chatto is now Open Source",
-      "description": "Article URL: https://www.hmans.dev/blog/chatto-is-open-source Comments URL: https://news.ycombinator.com/item?id=48833116 Points: 13 # Comments: 2",
+      "title": "Hy3",
+      "description": "Article URL: https://hy.tencent.com/research/hy3 Comments URL: https://news.ycombinator.com/item?id=48847552 Points: 11 # Comments: 1",
       "source": "Hacker News",
-      "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+      "url": "https://hy.tencent.com/research/hy3",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Answering \"why do you want to relocate?\" during interviews",
-      "description": "Article URL: https://relocateme.substack.com/p/a-mistake-to-avoid-during-relocation Comments URL: https://news.ycombinator.com/item?id=48833071 Points: 8 # Comments: 0",
+      "title": "How to Write an Email",
+      "description": "Article URL: https://blog.dannycastonguay.com/how-to-write-an-email/ Comments URL: https://news.ycombinator.com/item?id=48847536 Points: 6 # Comments: 2",
       "source": "Hacker News",
-      "url": "https://relocateme.substack.com/p/a-mistake-to-avoid-during-relocation",
+      "url": "https://blog.dannycastonguay.com/how-to-write-an-email/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more",
-      "description": "Vermilion Cliffs Ventures announced Wednesday the close of a $25 million Fund II.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
+      "title": "A Possible Future for Damn Interesting",
+      "description": "Article URL: https://www.damninteresting.com/a-possible-future/ Comments URL: https://news.ycombinator.com/item?id=48847511 Points: 7 # Comments: 0",
+      "source": "Hacker News",
+      "url": "https://www.damninteresting.com/a-possible-future/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Apple to produce Made in America wireless chips with Broadcom",
-      "description": "Apple has signed a $30 billion+ multiyear deal with Broadcom to design and produce more than 15 billion U.S.-made custom wireless connectivity chips for Apple products.",
+      "title": "Block reaches $45M settlement with 46 states over Cash App fraud probe",
+      "description": "State attorneys general said they found that Block misled users by falsely advertising that Cash App provided bank-like protections, including advanced fraud detection.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/08/apple-to-produce-made-in-america-wireless-chips-with-broadcom/",
+      "url": "https://techcrunch.com/2026/07/09/block-reaches-45m-settlement-with-46-states-over-cash-app-fraud-probe/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Anthropic’s new Claude feature is quietly selling you on AI",
+      "description": "Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Bowen: For all his bluster, Trump has no better option than talks with Iran",
-      "description": "The negotiating process is fragile and recent US strikes show how hard it will be to reach agreement, writes BBC's International Editor Jeremy Bowen.",
+      "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
+      "description": "The attacks appear to be the latest phase of Ukraine's bid to choke off supplies and routes into and out of occupied Crimea.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8we3j14ndo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Police name man wanted over murders of wife and daughters",
-      "description": "An international manhunt is under way for Ndodana Mkhanyisi Tshuma, who left the country via Heathrow Airport.",
+      "title": "Restore Britain leader describes Dunblane school shooting as 'one murder'",
+      "description": "Rupert Lowe criticised the ban of handguns in the UK, saying it was \"because there was a murder in Dunblane\".",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8e2njxnn7jo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cj3gdj300lyo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Ruth Ellis, last woman to be hanged in UK, gets conditional posthumous pardon",
-      "description": "Ruth Ellis was hanged at London's Holloway Prison in 1955 after being convicted of murdering her lover David Blakely.",
+      "title": "Big drop in oil, gas and cargo ships crossing Strait of Hormuz after new strikes",
+      "description": "Data shows a decline in the number of ships - many carrying oil and gas - going through the waterway after attacks this week.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crel4rj801do?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "No contact from UK about on-the-run murder suspect, say Zimbabwe police",
+      "description": "Ndodana Mkhanyisi Tshuma left the country via Heathrow Airport on a British passport on Saturday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyr4l1p6d4o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Mason: It's far from certain whether by-election will strengthen Farage",
-      "description": "The Reform UK leader faces a challenge from Count Binface as the main parties rule out standing in Clacton.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9d2882jj3yo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "Here are the 2026 Emmy nominations",
-      "description": "Liza Colón-Zayas and Jeff Hiller are presenting the nominees Wednesday morning. Winners will be announced at the 78th Emmy Awards on September 14.",
+      "title": "'Solo agers' are a growing group. Changes that would help them could help everyone",
+      "description": "Many older adults navigate aging on their own — without children or a spouse. An expert says this is \"a reality to be supported\" rather than a crisis to be solved.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/07/08/nx-s1-5883885/2026-emmy-nominations",
+      "url": "https://www.npr.org/2026/07/09/nx-s1-5886348/solo-agers-demographics-caregiving-family-aging",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Greetings from a Syrian church, infused with a mix of sweet fruit and diverse faiths",
-      "description": "Syria's Mar Musa monastery provides the tastiest mulberries, and its services draw from Eastern Orthodox Christian and Sufi customs.",
+      "title": "Former Olympian pleads not guilty in reflecting pool vandalism charges",
+      "description": "Canoeist David Hearn plead not guilty in D.C. Superior Court Thursday to a charge of destruction of property causing more than $1,000 in damage to the Lincoln Memorial Reflecting Pool.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/07/08/nx-s1-5884694/syria-church-interfaith-fruit",
+      "url": "https://www.npr.org/2026/07/09/nx-s1-5887308/reflecting-pool-vandalism-charges-plea-olympian-canoeist-david-hearn",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "FIFA World Cup: Quarterfinal brackets, match schedule and game previews",
-      "description": "Talking points as France, Morocco, Spain, Belgium, Norway, England, Argentina and Switzerland aim for World Cup glory.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/8/fifa-world-cup-2026-quarterfinal-fixtures-match-previews-schedule?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Zelenskyy seeks NATO support as Russia continues attacks",
-      "description": "At the NATO summit, Ukrainian President Volodymyr Zelenskyy had urged European allies to build missiles.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/zelenskyy-seeks-nato-support-as-russia-continues-attacks?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Why have 100,000 people been signed off work with ADHD in the UK?",
-      "description": "New government statistics find four million people claimed disability benefits in April.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/8/why-have-100000-people-been-signed-off-work-with-adhd-in-the-uk?traffic_source=rss",
-      "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "German doctor jailed for murder of 15 patients and suspected of more",
-      "description": "The German palliative care doctor has been sentenced to life imprisonment for killing 15 of his patients.",
+      "title": "Chemical weapons watchdog restores Syria’s voting rights, citing progress",
+      "description": "Syria regains voting rights in the OPCW as new leadership makes progress in addressing chemical weapons issues.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/9/chemical-weapons-watchdog-restores-syrias-voting-rights-citing-progress?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Lebanon Latest: concerns about latest escalation in regional fighting",
+      "description": "Al Jazeera’s Robert McBride has the latest from Beirut with concerns on how renewed fighting could impact Lebanon.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/lebanon-latest-concerns-about-latest-escalation-in-regional-fighting-2?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Strait of Hormuz: What has happened since the US-Iran MoU on June 17?",
+      "description": "More than 500 ships have passed through the strait since June 17, but many remain stuck.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/9/strait-of-hormuz-what-has-happened-since-the-us-iran-mou-on-june-17?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Erdogan gifts NATO leaders engraved revolvers with live ammunition",
+      "description": "NATO’s leaders left the Ankara summit with guns and live ammunition gifted to them by Turkiye’s President.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/erdogan-gifts-nato-leaders-engraved-revolvers-with-live-ammunition?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
+      "description": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\".",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq819jyp2g7o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Trump on Iran: ‘We’ll probably hit them hard again tonight’",
-      "description": "US President Donald Trump says the US will ‘probably’ carry out another round of strikes on Iran on Wednesday night.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-on-iran-well-probably-hit-them-hard-again?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Trump says ceasefire is 'over' after US and Iran trade strikes",
-      "description": "Speaking ahead of a Nato summit, the president says US negotiators can keep talking with the Iranians \"if they want\".",
+      "title": "Tehran launches more strikes after explosions reported in southern Iran",
+      "description": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "4h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Oil prices touch two-week highs  after Trump suggests U.S.-Iran cease-fire is over",
-      "description": "Oil prices touched their highest levels in more than two weeks on Wednesday after President Donald Trump said he believed the cease-fire with Iran was over.",
+      "title": "This is why paper checks refuse to die",
+      "description": "While some retailers still accept checks, an attempt to pay with anything other than cash or card is likely to result in a blank stare from a Gen Z cashier.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/oil-prices-jump-by-the-most-in-two-months-after-trump-suggests-u-s-iran-cease-fire-is-over-9fa7caee?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/this-is-why-paper-checks-refuse-to-die-12e06864?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Delta launches 'basic business' fares without lounge access, seat selection",
-      "description": "Delta is launching basic business and other stripped-down premium classes that come with fewer perks.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/08/delta-basic-business-fares.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Why the stock market’s biggest laggards might be your best defense against a summer selloff",
-      "description": "Low-volatility stocks are having a moment after a long stretch of underperformance.",
+      "title": "Only 5% of U.S. adults can ace this 8-question financial-literacy test. Can you?",
+      "description": "Financial literacy just hit a 10-year low — and it is devastating bank accounts.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-the-stock-markets-biggest-laggards-might-be-your-best-defense-against-a-summer-selloff-be079d8e?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/only-5-of-u-s-adults-can-ace-this-8-question-financial-literacy-test-can-you-93a57cc6?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Insurance giant says it’s turning to AI to replace as many as 1,800 jobs",
-      "description": "Allianz Partners will axe between 1,500 and 1,800 roles from its workforce of close to 23,000",
+      "title": "The dot-com crash was a $5 trillion blip. Why the next financial crisis could hit 4 times harder.",
+      "description": "The next global financial crisis is already under way. Here is how it will unfold.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/insurance-giant-says-its-turning-to-ai-to-replace-as-many-as-1-800-jobs-13e60de2?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/the-dot-com-crash-was-a-5-trillion-blip-why-the-next-financial-crisis-could-hit-4-times-harder-29f4aa57?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Kentucky Gov. Beshear presses McConnell to provide health update as speculation grows",
-      "description": "McConnell, the former longtime Senate leader who declined to seek an eighth term following a series of health scares, was admitted to a hospital on June 14.",
+      "title": "Micron shares rise 7% after announcing billions more in U.S. chipmaking investments",
+      "description": "Micron announced a new round of investments aimed at boosting the U.S. semiconductor supply chain.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/08/mcconnell-health-update-beshear-hospitalization-kentucky.html",
+      "url": "https://www.cnbc.com/2026/07/09/micron-stock-us-chipmaking.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Fed meeting minutes to show 'family fight' over rates. The squabble could drag on for a while",
-      "description": "There have been few instances over the past 35 years or so when the Fed has only made one rate move, be it up or down.",
+      "title": "Oil prices fall as market bets U.S.-Iran fighting won't escalate into wider war",
+      "description": "Oil prices turned lower on Thursday after the U.S. carried out fresh strikes on Iran, renewing concerns about supply disruptions in the Middle East.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/08/with-minutes-due-feds-family-fight-over-interest-rates-could-drag-on.html",
+      "url": "https://www.cnbc.com/2026/07/09/oil-rises-as-iran-us-tensions-raise-concerns-over-supply-disruptions-.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "‘I’ve plenty of time on my hands’: Advisers bombard me with offers of free steak dinners. Is it wrong to go for the food?",
+      "description": "“I get hungry for a meal at a good restaurant.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/ive-plenty-of-time-on-my-hands-advisers-bombard-me-with-offers-for-free-steak-is-it-wrong-to-go-for-the-food-1b139f98?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "LeBron James next team predictions: Four-time MVP highly likely to go back to Cavaliers after leaving Lakers",
-      "description": "James says he's moving on, and Kalshi prediction markets think he'll end up in a familiar city",
+      "title": "College football's top 10 RB rooms: Miami, Texas Tech boast the country's most dangerous backfields",
+      "description": "These 10 teams have college football's most lethal ground games heading into the 2026 college football season",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/prediction/news/lebron-james-next-team-predictions-four-time-mvp-highly-likely-to-go-back-to-cavaliers-after-leaving-lakers/",
+      "url": "https://www.cbssports.com/college-football/news/college-footballs-top-10-rb-rooms-miami-texas-tech/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "In WNBA broadcast return, Geno Auriemma lauds rival Notre Dame alum Jessica Shepard as 'best player' on court",
-      "description": "'Take my temperature,' the UConn coach joked",
+      "title": "Novak Djokovic vs. Jannik Sinner odds, prediction: 2026 Wimbledon men's semifinal picks by proven expert",
+      "description": "SportsLine's Jose Onorato reveals his picks for the 2026 Wimbledon men's semifinal featuring Novak Djokovic vs. Jannik Sinner on Friday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/wnba/news/geno-auriemma-wnba-broadcast-return-jessica-shepard-uconn-notre-dame/",
+      "url": "https://www.cbssports.com/tennis/news/novak-djokovic-jannik-sinner-odds-prediction-2026-wimbledon-mens-semifinal-picks/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "World Cup 2026 futures odds: France remain favorites, Spain ahead of defending champions Argentina",
-      "description": "Here's a look at the latest World Cup title odds ahead of the quarterfinals",
+      "title": "UFC 329 odds, lines, predictions, time: Conor McGregor vs. Max Holloway picks by elite MMA expert",
+      "description": "SportsLine's Kyle Marley reveals his picks for the UFC 329: McGregor vs. Holloway card on Saturday on Paramount+",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/world-cup-2026-futures-odds-france-remain-favorites-spain-ahead-of-defending-champions-argentina/",
+      "url": "https://www.cbssports.com/mma/news/ufc-329-odds-lines-predictions-time-conor-mcgregor-max-holloway-picks/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "UFC 329 -- Conor McGregor vs. Max Holloway: Fight card, date, odds and more for International Fight Week",
-      "description": "The sport's biggest star returns for the first time in five years on Saturday in Las Vegas",
+      "title": "France vs. Morocco odds, prediction, preview, picks, start time for World Cup match on Thursday",
+      "description": "Kylian Mbappe and Les Blues are back in action and you can bet on France vs. Morocco at the 2026 World Cup now on FanDuel",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/ufc/news/ufc-329-conor-mcgregor-max-holloway-fight-card-date-odds-location/",
+      "url": "https://www.cbssports.com/soccer/news/france-vs-morocco-odds-prediction-preview-picks-start-time-for-world-cup-match-on-thursday/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Sources: Pulisic has microfracture, bone bruise",
+      "description": "United States international and AC Milan attacker Christian Pulisic sustained a bone bruise and microfracture in his lower leg and will be sidelined for several weeks, sources confirmed to ESPN.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/story/_/id/49315041/usa-christian-pulisic-suffered-microfracture-belgium-sources",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Muchova ends Gauff's run at Wimbledon in semis",
+      "description": "Karolina Muchova ended Coco Gauff's run at Wimbledon with a 6-2, 2-6, 7-6 (10) victory Thursday that ended with a drama-filled tiebreaker, to become the fourth Czech woman in the past six years to reach the final of the…",
+      "source": "ESPN",
+      "url": "https://www.espn.com/tennis/story/_/id/49315220/muchova-ends-gauff-run-wimbledon-semifinals",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
