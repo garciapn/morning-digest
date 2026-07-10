@@ -1,249 +1,233 @@
 {
-  "date": "2026-07-09T16:12:40.689464+00:00",
-  "edition": "#156",
-  "totalStories": 30,
+  "date": "2026-07-10T15:56:26.497443+00:00",
+  "edition": "#157",
+  "totalStories": 28,
   "podcast": {
     "show": "The Daily",
     "description": "The New York Times' daily news podcast — today's top story in 20 minutes."
   },
   "stories": [
     {
-      "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
-      "description": "Hi Hacker News, I’m Yahia. I built Context.dev ( https://www.context.dev/ ) to make it really easy to integrate web data into your products and agents. Here’s a demo video: https://www.tella.tv/video/build-faster-with-c…",
+      "title": "A Love Letter to Flashcards",
+      "description": "Article URL: https://lesleylai.info/en/flashcards/ Comments URL: https://news.ycombinator.com/item?id=48861319 Points: 12 # Comments: 1",
       "source": "Hacker News",
-      "url": "https://www.context.dev",
+      "url": "https://lesleylai.info/en/flashcards/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Hy3",
-      "description": "Article URL: https://hy.tencent.com/research/hy3 Comments URL: https://news.ycombinator.com/item?id=48847552 Points: 11 # Comments: 1",
-      "source": "Hacker News",
-      "url": "https://hy.tencent.com/research/hy3",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "How to Write an Email",
-      "description": "Article URL: https://blog.dannycastonguay.com/how-to-write-an-email/ Comments URL: https://news.ycombinator.com/item?id=48847536 Points: 6 # Comments: 2",
-      "source": "Hacker News",
-      "url": "https://blog.dannycastonguay.com/how-to-write-an-email/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "A Possible Future for Damn Interesting",
-      "description": "Article URL: https://www.damninteresting.com/a-possible-future/ Comments URL: https://news.ycombinator.com/item?id=48847511 Points: 7 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://www.damninteresting.com/a-possible-future/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Block reaches $45M settlement with 46 states over Cash App fraud probe",
-      "description": "State attorneys general said they found that Block misled users by falsely advertising that Cash App provided bank-like protections, including advanced fraud detection.",
+      "title": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits",
+      "description": "The massive round was co-led by ARCH Venture Partners, Spark Capital, and Khosla Ventures.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/09/block-reaches-45m-settlement-with-46-states-over-cash-app-fraud-probe/",
+      "url": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Anthropic’s new Claude feature is quietly selling you on AI",
-      "description": "Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot.",
+      "title": "Netflix could be planning ‘always-on’ live TV channels",
+      "description": "Amid signs of slowing engagement, Netflix is reportedly considering launching \"always-on\" live channels, giving subscribers something to tune into 24/7.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+      "url": "https://techcrunch.com/2026/07/10/netflix-could-be-planning-always-on-live-tv-channels/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
-      "description": "The attacks appear to be the latest phase of Ukraine's bid to choke off supplies and routes into and out of occupied Crimea.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Restore Britain leader describes Dunblane school shooting as 'one murder'",
-      "description": "Rupert Lowe criticised the ban of handguns in the UK, saying it was \"because there was a murder in Dunblane\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj3gdj300lyo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
+      "title": "EU threatens Meta with fines over addictive features on Facebook and Instagram",
+      "description": "The tech giant is in breach of the Digital Services Act by focusing on features like infinite scroll, autoplay, push notifications, and the highly personalized recommendation algorithms, the European Commission said.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/",
+      "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Big drop in oil, gas and cargo ships crossing Strait of Hormuz after new strikes",
-      "description": "Data shows a decline in the number of ships - many carrying oil and gas - going through the waterway after attacks this week.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
+      "title": "Florida ransomware negotiator convicted for helping ransomware gang extort US companies",
+      "description": "A third ransomware negotiator has been jailed for helping a notorious ransomware group extort American victim companies into paying the hackers.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/10/florida-ransomware-negotiator-convicted-for-helping-ransomware-gang-extort-us-companies/",
+      "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "No contact from UK about on-the-run murder suspect, say Zimbabwe police",
-      "description": "Ndodana Mkhanyisi Tshuma left the country via Heathrow Airport on a British passport on Saturday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyr4l1p6d4o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
+      "title": "VW Group and unions disagree on plan to streamline the automaker",
+      "description": "VW's plan calls for half as many models but didn't mention closures or job cuts.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/07/vw-group-and-unions-disagree-on-plan-to-streamline-the-automaker/",
+      "category": "🤖 TECH & AI",
       "timeAgo": "2h ago"
     },
     {
-      "title": "'Solo agers' are a growing group. Changes that would help them could help everyone",
-      "description": "Many older adults navigate aging on their own — without children or a spouse. An expert says this is \"a reality to be supported\" rather than a crisis to be solved.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/09/nx-s1-5886348/solo-agers-demographics-caregiving-family-aging",
+      "title": "Ann Widdecombe murder probe: what we know so far",
+      "description": "Police say they are searching for a suspect in connection with the former MP's death at her home on Dartmoor.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3vyqkqkvr9o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Former Olympian pleads not guilty in reflecting pool vandalism charges",
-      "description": "Canoeist David Hearn plead not guilty in D.C. Superior Court Thursday to a charge of destruction of property causing more than $1,000 in damage to the Lincoln Memorial Reflecting Pool.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/09/nx-s1-5887308/reflecting-pool-vandalism-charges-plea-olympian-canoeist-david-hearn",
+      "title": "Arthur Fery's Wimbledon run ended by Alexander Zverev in semi-finals",
+      "description": "Arthur Fery's unforgettable Wimbledon run comes to an end as Alexander Zverev beats the British wildcard to secure a place in the final.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/ckg475qdnd7o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Top Boy actor Micheal Ward found not guilty of rape",
+      "description": "Micheal Ward told the jury the encounter with his accuser was \"wholly consensual\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cewq9vznzz5o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Chemical weapons watchdog restores Syria’s voting rights, citing progress",
-      "description": "Syria regains voting rights in the OPCW as new leadership makes progress in addressing chemical weapons issues.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/9/chemical-weapons-watchdog-restores-syrias-voting-rights-citing-progress?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Lebanon Latest: concerns about latest escalation in regional fighting",
-      "description": "Al Jazeera’s Robert McBride has the latest from Beirut with concerns on how renewed fighting could impact Lebanon.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/lebanon-latest-concerns-about-latest-escalation-in-regional-fighting-2?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Strait of Hormuz: What has happened since the US-Iran MoU on June 17?",
-      "description": "More than 500 ships have passed through the strait since June 17, but many remain stuck.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/9/strait-of-hormuz-what-has-happened-since-the-us-iran-mou-on-june-17?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Erdogan gifts NATO leaders engraved revolvers with live ammunition",
-      "description": "NATO’s leaders left the Ankara summit with guns and live ammunition gifted to them by Turkiye’s President.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/erdogan-gifts-nato-leaders-engraved-revolvers-with-live-ammunition?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
-      "description": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
+      "title": "A major housing bill is set to become law at midnight — even though Trump says he won't sign",
+      "description": "President Trump says he is refusing to sign the bill without Congress first passing his sweeping voter ID bill.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/10/nx-s1-5885027/housing-bill-without-trump-signature",
+      "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Tehran launches more strikes after explosions reported in southern Iran",
-      "description": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.",
+      "title": "U.S.-Iran fighting appears to pause. And, life inside Israel's military zones in Gaza",
+      "description": "Fighting between the U.S. and Iran appears to have paused after two days of clashing amid a shaky ceasefire. And, a look at what life is like inside Israel's expanding zone of control in Gaza.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/10/g-s1-132943/up-first-newsletter-iran-us-tps-haitians-syrians-eac-gaza-israel-hamas",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "Taliban declares war on smartphones",
+      "description": "A newly announced ban on smartphones for government workers, police and military personnel is spilling over into healthcare and educational facilities. Ordinary citizens worry they'll be next.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/10/g-s1-132396/smartphones-taliban-afghanistan-ban",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "Spain vs Belgium LIVE: FIFA World Cup 2026 quarterfinal",
+      "description": "Live coverage and text updates as Lamine Yamal's Spain face Belgium for the right to meet France in the semifinals.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/7/10/spain-vs-belgium-live-fifa-world-cup-2026-quarterfinal?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "US declassifies even more UFO videos",
+      "description": "The US government published a fourth instalment of unresolved cases, promising to release more files on a rolling basis.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/videos/c8x2zez8qwzo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Trump refuses to sign US housing bill over voting act standoff",
+      "description": "The housing legislation will become US law at midnight with or without President Donald Trump's signature.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/7/10/trump-refuses-to-sign-us-housing-bill-over-voting-act-standoff?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Family mourns baby after Israeli forces blocked journey to hospital",
+      "description": "Three-month-old Ahmad Zaid’s family received his birth certificate and death certificate on the same day.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/family-mourns-baby-after-israeli-forces-blocked-journey-to-hospital?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "The search for Gaza’s missing brings heartbreak and closure for loved ones",
+      "description": "Thousands of bodies remain trapped under the rubble of their homes in Gaza, with retrieval a long and difficult task.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/7/10/the-search-for-gazas-missing-brings-heartbreak-and-closure-for-loved-ones?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
+      "description": "Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "2h ago"
     },
     {
-      "title": "This is why paper checks refuse to die",
-      "description": "While some retailers still accept checks, an attempt to pay with anything other than cash or card is likely to result in a blank stare from a Gen Z cashier.",
+      "title": "My doctor friend objected to his hospital’s fundraising tactics. Did management go too far?",
+      "description": "“This shocking program was exploiting doctors and the trust inherent in their relationships with patients.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-is-why-paper-checks-refuse-to-die-12e06864?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/there-was-a-catch-my-doctor-friend-was-outraged-by-his-hospitals-fundraising-tactics-where-do-we-draw-the-line-797b9fff?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Only 5% of U.S. adults can ace this 8-question financial-literacy test. Can you?",
-      "description": "Financial literacy just hit a 10-year low — and it is devastating bank accounts.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/only-5-of-u-s-adults-can-ace-this-8-question-financial-literacy-test-can-you-93a57cc6?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "The dot-com crash was a $5 trillion blip. Why the next financial crisis could hit 4 times harder.",
-      "description": "The next global financial crisis is already under way. Here is how it will unfold.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-dot-com-crash-was-a-5-trillion-blip-why-the-next-financial-crisis-could-hit-4-times-harder-29f4aa57?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Micron shares rise 7% after announcing billions more in U.S. chipmaking investments",
-      "description": "Micron announced a new round of investments aimed at boosting the U.S. semiconductor supply chain.",
+      "title": "SK Hynix stock opens at $170 on Nasdaq, as trillion-dollar chip company welcomes U.S. investors",
+      "description": "SK Hynix has soared to a trillion-dollar market cap by serving some of the biggest names in technology, including Nvidia and Apple.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/09/micron-stock-us-chipmaking.html",
+      "url": "https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Oil prices fall as market bets U.S.-Iran fighting won't escalate into wider war",
-      "description": "Oil prices turned lower on Thursday after the U.S. carried out fresh strikes on Iran, renewing concerns about supply disruptions in the Middle East.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/09/oil-rises-as-iran-us-tensions-raise-concerns-over-supply-disruptions-.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "‘I’ve plenty of time on my hands’: Advisers bombard me with offers of free steak dinners. Is it wrong to go for the food?",
-      "description": "“I get hungry for a meal at a good restaurant.”",
+      "title": "All entry-level jobs require 3-5 years of experience. How am I supposed to get that if no one will hire me?",
+      "description": "How to get experience if no one is willing to be your first employer.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/ive-plenty-of-time-on-my-hands-advisers-bombard-me-with-offers-for-free-steak-is-it-wrong-to-go-for-the-food-1b139f98?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/all-entry-level-jobs-require-3-5-years-of-experience-how-am-i-supposed-to-get-that-if-no-one-will-hire-me-e1bc4b0a?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "College football's top 10 RB rooms: Miami, Texas Tech boast the country's most dangerous backfields",
-      "description": "These 10 teams have college football's most lethal ground games heading into the 2026 college football season",
+      "title": "Stablecoin issuer Circle just got the greenlight to operate as a bank. The shares are up 5%",
+      "description": "Stablecoin issuer Circle surged in premarket trading after the U.S. Office of the Comptroller of the Currency granted it approval to operate as a trust bank.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/10/circle-gets-an-occ-bank-charter-as-stablecoin-competition-heats-up-shares-surge-14percent.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Trump says U.S. to continue talks with Iran despite scrapped ceasefire",
+      "description": "The ceasefire signed last month came under serious strain in recent days as the U.S. and Iranian forces exchanged attacks for consecutive days this week.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/10/us-iran-war-strikes-strait-of-hormuz-technical-talks-progress-.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "The space race is on as China takes a big step toward rivaling SpaceX",
+      "description": "A Chinese company demonstrated controlled recovery of a rocket’s bottom portion, which is critical in helping to drive down launch costs.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-space-race-is-on-as-china-takes-a-big-step-toward-rivaling-spacex-851e935f?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Kalshi World Cup 2026: How to trade on 2026 World Cup",
+      "description": "You can use Kalshi prediction markets to trade event contracts during the 2026 World Cup in the United States, Canada and Mexico, including the match between Belgium and Spain.",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/college-footballs-top-10-rb-rooms-miami-texas-tech/",
+      "url": "https://www.cbssports.com/prediction/news/kalshi-world-cup-2026/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Novak Djokovic vs. Jannik Sinner odds, prediction: 2026 Wimbledon men's semifinal picks by proven expert",
-      "description": "SportsLine's Jose Onorato reveals his picks for the 2026 Wimbledon men's semifinal featuring Novak Djokovic vs. Jannik Sinner on Friday",
+      "title": "Vahn Lackey, a likely top-five MLB Draft pick, knows he can be an inspiration as a Black catcher",
+      "description": "Black catchers have become a rarity in MLB, and Lackey -- the 'best player in the country' at Georgia Tech -- wants to help change that",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/tennis/news/novak-djokovic-jannik-sinner-odds-prediction-2026-wimbledon-mens-semifinal-picks/",
+      "url": "https://www.cbssports.com/mlb/news/vahn-lackey-mlb-draft-inspiration-black-catcher/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "UFC 329 odds, lines, predictions, time: Conor McGregor vs. Max Holloway picks by elite MMA expert",
-      "description": "SportsLine's Kyle Marley reveals his picks for the UFC 329: McGregor vs. Holloway card on Saturday on Paramount+",
+      "title": "2026 FIFA World Cup odds: Complete odds for soccer's biggest tournament",
+      "description": "Here's everything bettors need to know about World Cup odds 2026 for this summer's soccer event in North America",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/mma/news/ufc-329-odds-lines-predictions-time-conor-mcgregor-max-holloway-picks/",
+      "url": "https://www.cbssports.com/betting/news/world-cup-odds/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "France vs. Morocco odds, prediction, preview, picks, start time for World Cup match on Thursday",
-      "description": "Kylian Mbappe and Les Blues are back in action and you can bet on France vs. Morocco at the 2026 World Cup now on FanDuel",
+      "title": "Former Lions CB Terrion Arnold worked out for Texans, received interest from three other teams",
+      "description": "Arnold is still fielding interest despite potentially facing life behind bars",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/france-vs-morocco-odds-prediction-preview-picks-start-time-for-world-cup-match-on-thursday/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Sources: Pulisic has microfracture, bone bruise",
-      "description": "United States international and AC Milan attacker Christian Pulisic sustained a bone bruise and microfracture in his lower leg and will be sidelined for several weeks, sources confirmed to ESPN.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/49315041/usa-christian-pulisic-suffered-microfracture-belgium-sources",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Muchova ends Gauff's run at Wimbledon in semis",
-      "description": "Karolina Muchova ended Coco Gauff's run at Wimbledon with a 6-2, 2-6, 7-6 (10) victory Thursday that ended with a drama-filled tiebreaker, to become the fourth Czech woman in the past six years to reach the final of the…",
-      "source": "ESPN",
-      "url": "https://www.espn.com/tennis/story/_/id/49315220/muchova-ends-gauff-run-wimbledon-semifinals",
+      "url": "https://www.cbssports.com/nfl/news/terrion-arnold-worked-out-for-texans-received-interest-from-other-teams/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
