@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-12T14:41:12.297998+00:00",
-  "edition": "#159",
+  "date": "2026-07-13T16:04:46.745370+00:00",
+  "edition": "#160",
   "totalStories": 30,
   "podcast": {
     "show": "The Daily",
@@ -8,242 +8,242 @@
   },
   "stories": [
     {
-      "title": "AI Boosts Research Careers but Flattens Scientific Discovery",
-      "description": "Article URL: https://spectrum.ieee.org/ai-science-research-flattens-discovery Comments URL: https://news.ycombinator.com/item?id=48881043 Points: 11 # Comments: 3",
-      "source": "Hacker News",
-      "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Making Crash Bandicoot (2011)",
-      "description": "Article URL: https://all-things-andy-gavin.com/2011/02/02/making-crash-bandicoot-part-1/ Comments URL: https://news.ycombinator.com/item?id=48880987 Points: 16 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://all-things-andy-gavin.com/2011/02/02/making-crash-bandicoot-part-1/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?",
-      "description": "Article URL: https://theconversation.com/the-real-mystery-behind-moana-after-1-700-years-why-did-polynesians-suddenly-sail-east-287226 Comments URL: https://news.ycombinator.com/item?id=48880564 Points: 7 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://theconversation.com/the-real-mystery-behind-moana-after-1-700-years-why-did-polynesians-suddenly-sail-east-287226",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Understanding the Odin Programming Language",
-      "description": "Article URL: https://odinbook.com/ Comments URL: https://news.ycombinator.com/item?id=48880499 Points: 41 # Comments: 8",
-      "source": "Hacker News",
-      "url": "https://odinbook.com/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "The real mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?",
-      "description": "New climate evidence adds context to these long voyages.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Reed Jobs would rather talk about curing cancer than his last name",
-      "description": "When we last sat down with Jobs at TechCrunch Disrupt nearly three years ago, his firm Yosemite was brand new and biotech was still reeling from its post-pandemic crash. Now, the venture outfit has a team of 17; a clust…",
+      "title": "As TV-tracking app TV Time shuts down, its founder builds Bingers, a new home for fans",
+      "description": "The creator of TV Time is building a successor app that will let users import their watch histories and preserve the community that formed around discussing their favorite shows.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
+      "url": "https://techcrunch.com/2026/07/13/as-tv-tracking-app-tv-time-shuts-down-its-founder-builds-bingers-a-new-home-for-fans/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "14h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "McCullum sacked as England Test head coach",
-      "description": "England are now without a Test head coach and captain as Brendon McCullum leaves after four years in the role.",
+      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+      "description": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "LAPD lets contract with surveillance giant Flock expire",
+      "description": "Article URL: https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/ Comments URL: https://news.ycombinator.com/item?id=4889394…",
+      "source": "Hacker News",
+      "url": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "The art and engineering of Sega CD Silpheed",
+      "description": "Article URL: https://fabiensanglard.net/silpheed/index.html Comments URL: https://news.ycombinator.com/item?id=48893639 Points: 51 # Comments: 6",
+      "source": "Hacker News",
+      "url": "https://fabiensanglard.net/silpheed/index.html",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Precursor",
+      "description": "Article URL: https://blog.cloudflare.com/introducing-precursor/ Comments URL: https://news.ycombinator.com/item?id=48893446 Points: 76 # Comments: 70",
+      "source": "Hacker News",
+      "url": "https://blog.cloudflare.com/introducing-precursor/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "SpaceX cleared to fly Starship again after booster failure in May",
+      "description": "This will be the first Starship test flight for SpaceX as a public company, testing the market's appetite for the company's \"fly, fail, fix\" approach to rocket development, which often ends in fireballs.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Counter terrorism police take over investigation into Ann Widdecombe's death",
+      "description": "The man in custody has since been re-arrested on suspicion of commission, preparation or instigation of acts of terrorism, police say.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c8028vm2g9ro?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c0mydjl12mwo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
-      "description": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, local media reports.",
+      "title": "Twelve arrested over alleged right-wing terror threat to UK Islamic event, police say",
+      "description": "Home Secretary Shabana Mahmood says the police's response \"undoubtedly saved lives\".",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cvgl20x1ggpo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Police say no suggestion of political motive in Widdecombe killing after new arrest",
-      "description": "Police say they are not looking for anyone else after a 28-year-old man was arrested in Rotherham, South Yorkshire.",
+      "title": "A versatile actor whose roles went far beyond Jurassic Park - Sam Neill dies aged 78",
+      "description": "The actor, who has died aged 78, built up a long string of screen credits over a five-decade career.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8628q3eqdeo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "A Bible passage is at the center of a debate over how the U.S. should treat immigrants",
-      "description": "A debate over the Bible verse Matthew 25 is pitting mainline pastors, Black protestants and the pope against evangelical politicians put on the defensive over President Trump's policies.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/12/nx-s1-5885947/a-bibe-passage-is-at-the-center-of-a-debate-over-how-the-u-s-should-treat-immigrants",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Could fish be a secret ingredient for rice farmers to avoid disease and make more money?",
-      "description": "Farmers in Senegal are welcoming fish into their rice paddies. The hope is they'll fertilize the crop, be a source of food ... and eat the snails that carry parasitic worms.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/12/nx-s1-5803170/farmers-fish-rice-snails-tropical-disease",
+      "url": "https://www.bbc.co.uk/news/articles/cx2wrvqq9rlo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Getting campaign text messages ahead of midterms? There could be an AI bot behind it",
-      "description": "Taught to sound like a candidate, bots are engaging voters with personalized text messages making AI-generated texting conversations the latest tool political campaigns are using to connect.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/12/nx-s1-5867763/ai-artificial-intelligence-data-texts-bots-voters-campaigns",
+      "title": "Heatwave to intensify in second week as wildfires burn across UK",
+      "description": "After a brief drop in temperature many areas will see heat and humidity build again this week",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/weather/articles/c0jyx16ww8jo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "5h ago"
+      "timeAgo": "6h ago"
     },
     {
-      "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-      "description": "Donald Trump paid tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
+      "title": "The U.S.-Iran ceasefire grows more distant. And, Congress faces a consequential week",
+      "description": "The U.S. and Iran exchanged fire over the weekend amid tensions over the Strait of Hormuz. And, Congress returns from recess facing tight deadlines.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/13/g-s1-133269/up-first-newsletter-us-iran-war-congress-lindsey-graham-gaza-israel-hussam-abu-safiya",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "Pythons' extreme biology may hold clues for treating human disease",
+      "description": "These snakes can go for months without eating, grow and shrink the size of their hearts and jump start their metabolism on a dime.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/13/nx-s1-5887668/pythons-metabolism-digestion-human-disease-treatment",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "6h ago"
+    },
+    {
+      "title": "Iraqi PM heads to US seeking balance between security and economy",
+      "description": "PM Ali al-Zaidi to hold talks with Trump, with energy investment and role of pro-Iran groups likely to dominate agenda.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/13/iraqi-pm-heads-to-us-seeking-balance-between-security-and-economy?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "At least 28 killed, 25 critically injured after fire engulfs Bangkok bar",
+      "description": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Friends turned foes: The split reshaping Senegal",
-      "description": "Ousmane Sonko reveals what ended his political partnership with the president, sparking a constitutional standoff.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/7/12/friends-turned-foes-the-split-reshaping-senegal?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Marc Marquez dominates Germany MotoGP to close in on championship lead",
-      "description": "Reigning champion won his 10th German Grand Prix and moves to within 18 points of the riders' championship lead.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/12/marc-marquez-dominates-germany-motogp-to-close-in-on-championship-lead?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Ukraine’s Zelenskyy announces cabinet reshuffle, replaces PM Svyrydenko",
-      "description": "Yulia Svyrydenko to step down amid government shake-up aimed at prioritising foreign policy and security goals.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/12/ukraines-zelenskyy-announces-cabinet-reshuffle-replaces-pm-svyrydenko?traffic_source=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Pape Thiaw fired as Senegal coach after disappointing FIFA World Cup",
-      "description": "Senegal part ways with their head coach after the national side's elimination from the tournament at the last-32 stage.",
+      "title": "Iraq seizes 375kg of gold in sweeping anti-corruption crackdown",
+      "description": "In a massive corruption crackdown, Iraqi authorities have uncovered 375kg of gold linked to a high-profile case.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/12/pape-thiaw-fired-as-senegal-coach-after-disappointing-fifa-world-cup?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/7/13/iraq-seizes-375kg-of-gold-in-sweeping-anti-corruption-crackdown?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "China evacuates nearly two million people as powerful typhoon makes landfall",
-      "description": "Schools, work and outdoor activities have been suspended in Zhejiang province and many transport services cancelled.",
+      "title": "FIFA World Cup: Key players to watch as France play Spain in semifinal",
+      "description": "Spain-France clash is filled with superstars like Kylian Mbappe, Ousmane Dembele and Lamine Yamal, among others.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/7/13/fifa-world-cup-key-players-to-watch-as-france-take-on-spain-in-2026-semifinal?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Trump says US will become ‘guardian’ of Strait of Hormuz and collect tolls",
+      "description": "Iran rejects any US control over strait as both sides trade attacks in major threat to negotiations to end their war.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/13/trump-says-us-will-become-guardian-of-strait-of-hormuz-and-collect-tolls?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
+      "description": "Friends, politicians and fellow film stars remember Neill following his \"sudden and unexpected\" death.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "7h ago"
+      "timeAgo": "4h ago"
     },
     {
-      "title": "Sen. Lindsey Graham, influential lawmaker and Trump ally,  dies at 71 after a brief illness",
-      "description": "Graham, a prominent Republican senator from South Carolina, had just returned from a trip to Ukraine.",
+      "title": "Trump calls for Congress to pass Clarity Act crypto bill to honor Lindsey Graham",
+      "description": "The Senate Banking Committee approved the bill 15-9 in May, with two Democrats joining Republicans to advance the legislation.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/12/senator-lindsey-graham-has-died-after-a-brief-illness-his-office-says.html",
+      "url": "https://www.cnbc.com/2026/07/13/trump-congress-clarity-act-crypto-bill-lindsey-graham.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Earnings estimates have been following an unusual pattern this time around",
-      "description": "Analysts generally lower their estimates in the months before earnings. But thanks to the energy and tech sectors, expectations have actually climbed heading into second-quarter results.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/earnings-estimates-have-been-following-an-unusual-pattern-this-time-around-fbebfb62?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "The No. 1 decision for aging retirees: Stay at home or move into a senior community?",
-      "description": "Why staying in your longtime home requires more planning than you think.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-no-1-decision-for-aging-retirees-stay-at-home-or-move-into-a-senior-community-4ea23d02?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "U.S. launches airstrikes against Iran after Tehran attacks container ship in Hormuz, Pentagon says",
-      "description": "Iran has attacked ships using a route along Oman's coast protected by the U.S. military. Tehran demands vessels use a northern route through its waters.",
+      "title": "Trump recommends Lindsey Graham's sister serve as interim senator for South Carolina",
+      "description": "The death of Sen. Lindsey Graham ignited a scramble among South Carolina Republicans to prepare for a special primary election to replace him on the GOP ticket.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html",
+      "url": "https://www.cnbc.com/2026/07/13/trump-lindsey-graham-darline-south-carolina-senator.html",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "The stock-market rally now hinges more on AI than oil",
-      "description": "As earnings season kicks off, AI investment remains front and center.",
+      "title": "Micron and other chip stocks feel the pain of imported volatility — blame SK Hynix",
+      "description": "The SOX chip index was suffering a unanimous selloff, after SK Hynix’s stock had its worst day in 18 years in South Korea trading.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-stock-market-rally-now-hinges-more-on-ai-than-oil-1292260a?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-feel-the-pain-of-imported-volatility-blame-sk-hynix-f705a0fd?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds",
-      "description": "A majority of U.S. employees now want an AI sovereign wealth fund to hold corporations more accountable, according to a recent survey, as tech layoffs rise.",
+      "title": "Can big banks’ ‘cheap’ stocks keep rising? We’ll find out when JPMorgan and an unusual number of others report earnings Tuesday",
+      "description": "Among the largest U.S. banks, Citigroup is expected to show the greatest improvement by one important measure. But it still has a long way to go to reach its own performance target.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/as-five-big-u-s-banks-report-earnings-on-the-same-day-citigroup-is-the-one-to-watch-683c3707?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Global oil prices top $80 a barrel after Trump reimposes Strait of Hormuz blockade and charges 20% fee for cargo shipped through",
+      "description": "The week is kicking off with fresh spikes for oil prices after President Donald Trump reimposed the naval blockage on the Strait of Hormuz.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/oil-prices-surge-as-much-as-5-after-iran-declares-strait-of-hormuz-is-closed-6905599b?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Trump proposes 20% toll on cargo through Strait of Hormuz; restarts Iran blockade",
+      "description": "The Strait of Hormuz is a major oil-shipping route and the epicenter of the U.S. and Israel's ongoing war with Iran.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/12/majority-of-us-workers-support-ai-fund-amid-tech-layoffs-survey.html",
+      "url": "https://www.cnbc.com/2026/07/13/trump-iran-hormuz-strait-charge-reimburse.html",
       "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "France vs. Spain odds, prediction, time: 2026 World Cup semifinal picks from expert on 19-7 run",
-      "description": "SportsLine's Martin Green reveals his picks for Spain vs. France in the World Cup 2026 semifinals on Tuesday",
+      "title": "Footy Fix: And then there were four; Argentina, England, France, Spain fight for World Cup title",
+      "description": "For the first time ever, FIFA's top four teams have all made the semifinals",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/france-spain-odds-prediction-time-2026-world-cup-semifinal-picks/",
+      "url": "https://www.cbssports.com/soccer/news/footy-fix-and-then-there-were-four-argentina-england-france-spain-fight-for-world-cup-title/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "2026 Quaker State 400 predictions, odds, time: NASCAR at Atlanta picks, best bets from proven model",
-      "description": "Mike McClure's computer model reveals its surprising picks and NASCAR Atlanta props for the Quaker 400 2026 on Sunday in the third race of the NASCAR In-Season Challenge",
+      "title": "Newsletter 7/13/26",
+      "description": "Newsletter 7/13/26",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nascar/news/2026-quaker-state-400-predictions-odds-time-nascar-atlanta-picks-best-bets/",
+      "url": "https://www.cbssports.com/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Conor McGregor releases statement on UFC 329 loss, denies entering fight with injury: 'I am beyond dark here'",
-      "description": "McGregor said he had no issues with his leg throughout training camp ahead of his showdown with Max Holloway",
+      "title": "Baker Mayfield details injury-riddled 2025: Buccaneers QB had knee, bicep, AC joint ailments",
+      "description": "Tampa Bay went from 5-1 to 8-9 and missing the playoffs",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/ufc/news/conor-mcgregor-ufc-329-loss-injury-statement/",
+      "url": "https://www.cbssports.com/nfl/news/buccaneers-baker-mayfield-details-injury-riddled-2025/",
       "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "2026 Open Championship odds, picks, date: Surprising predictions by golf model that's nailed 17 majors",
-      "description": "SportsLine's model simulated the British Open 2026 10,000 times and revealed surprising golf picks for Royal Birkdale",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/golf/news/2026-open-championship-odds-picks-golf-predictions-field-date-course-pga-best-bets/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "McGregor injures leg on opening kick; fight called...",
-      "description": "Conor McGregor's much-anticipated UFC return lasted just 69 seconds Saturday, as he injured his right leg during his fight with Max Holloway and was forced to retire.",
+      "title": "McGregor to have surgery, plans to fight again",
+      "description": "Conor McGregor will undergo surgery following his first-round loss to Max Holloway at UFC 329, and then he will fight again.",
       "source": "ESPN",
-      "url": "https://www.espn.com/mma/story/_/id/49340329/mcgregor-injures-leg-opening-kick-vs-holloway-ufc-329",
+      "url": "https://www.espn.com/mma/story/_/id/49350613/conor-mcgregor-undergo-surgery-plans-fight-again",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Wheeler rejects ASG nod, 'disrespected' by snubs",
-      "description": "Phillies ace Zack Wheeler said he declined an invitation to be added to the NL All-Star roster, adding that he felt \"disrespected\" by being snubbed multiple times.",
+      "title": "Sources: U-M regents to decide on AD Manuel soon",
+      "description": "The University of Michigan regents are expected to discuss an investigation into the culture of its athletic department on Thursday, sources told ESPN, and as part of the review, a decision on the future of AD Warde Man…",
       "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/49342179/zack-wheeler-rejects-all-star-game-invite-snubs-not-gonna-fifth-option",
+      "url": "https://www.espn.com/college-sports/story/_/id/49346524/michigan-regents-discuss-investigation-thursday",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Ex-Kansas player charged with attempted murder",
+      "description": "Lagerald Vick, a member of the Kansas Jayhawks' Final Four basketball team in 2018, has been charged with attempted first-degree murder in Tennessee.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mens-college-basketball/story/_/id/49350117/ex-kansas-player-lagerald-vick-charged-attempted-murder",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
