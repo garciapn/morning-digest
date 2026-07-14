@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-13T16:04:46.745370+00:00",
-  "edition": "#160",
+  "date": "2026-07-14T15:08:54.994931+00:00",
+  "edition": "#161",
   "totalStories": 30,
   "podcast": {
     "show": "The Daily",
@@ -8,242 +8,242 @@
   },
   "stories": [
     {
-      "title": "As TV-tracking app TV Time shuts down, its founder builds Bingers, a new home for fans",
-      "description": "The creator of TV Time is building a successor app that will let users import their watch histories and preserve the community that formed around discussing their favorite shows.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/13/as-tv-tracking-app-tv-time-shuts-down-its-founder-builds-bingers-a-new-home-for-fans/",
+      "title": "Taco Bell eyed in explosive diarrheal outbreak; leafy greens suspected",
+      "description": "Health officials have not confirmed a source yet—and there may be multiple sources.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/07/taco-bell-eyed-in-explosive-diarrheal-outbreak-leafy-greens-suspected/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
-      "description": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
+      "title": "I’m de-influencing you from buying the RingConn 3 (even though it’s pretty)",
+      "description": "The RingConn 3 actually looks like real jewelry, not a wearable -- but its fitness tracking and headache detection features are disappointing.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "url": "https://techcrunch.com/2026/07/14/ringconn-3-review/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "LAPD lets contract with surveillance giant Flock expire",
-      "description": "Article URL: https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/ Comments URL: https://news.ycombinator.com/item?id=4889394…",
-      "source": "Hacker News",
-      "url": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
+      "title": "Reflection inks $1B compute deal with Nebius",
+      "description": "Reflection AI has signed a $1 billion deal to access Nebius's compute. Reflection was founded in 2024 and is developing open source AI technology.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "The art and engineering of Sega CD Silpheed",
-      "description": "Article URL: https://fabiensanglard.net/silpheed/index.html Comments URL: https://news.ycombinator.com/item?id=48893639 Points: 51 # Comments: 6",
-      "source": "Hacker News",
-      "url": "https://fabiensanglard.net/silpheed/index.html",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Precursor",
-      "description": "Article URL: https://blog.cloudflare.com/introducing-precursor/ Comments URL: https://news.ycombinator.com/item?id=48893446 Points: 76 # Comments: 70",
-      "source": "Hacker News",
-      "url": "https://blog.cloudflare.com/introducing-precursor/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "SpaceX cleared to fly Starship again after booster failure in May",
-      "description": "This will be the first Starship test flight for SpaceX as a public company, testing the market's appetite for the company's \"fly, fail, fix\" approach to rocket development, which often ends in fireballs.",
+      "title": "The real AI race may no longer be at the frontier",
+      "description": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models?",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
+      "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Counter terrorism police take over investigation into Ann Widdecombe's death",
-      "description": "The man in custody has since been re-arrested on suspicion of commission, preparation or instigation of acts of terrorism, police say.",
+      "title": "New York becomes the first state to impose a data center moratorium",
+      "description": "Article URL: https://www.reuters.com/world/new-york-becomes-first-state-impose-data-center-moratorium-2026-07-14/ Comments URL: https://news.ycombinator.com/item?id=48907296 Points: 25 # Comments: 3",
+      "source": "Hacker News",
+      "url": "https://www.reuters.com/world/new-york-becomes-first-state-impose-data-center-moratorium-2026-07-14/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Agnes Callard’s theory of the uni-context",
+      "description": "Article URL: https://www.derekthompson.org/p/a-philosophers-one-word-theory-to Comments URL: https://news.ycombinator.com/item?id=48907290 Points: 19 # Comments: 12",
+      "source": "Hacker News",
+      "url": "https://www.derekthompson.org/p/a-philosophers-one-word-theory-to",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "MPs expected to approve long-delayed Hillsborough Law",
+      "description": "The legislation has returned to the Commons in Sir Keir Starmer's final days as prime minister.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0mydjl12mwo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c9q2qwnvd75o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Twelve arrested over alleged right-wing terror threat to UK Islamic event, police say",
-      "description": "Home Secretary Shabana Mahmood says the police's response \"undoubtedly saved lives\".",
+      "title": "Scott Mills was highest-paid BBC star before sacking",
+      "description": "The former Radio 2 breakfast host earned about £745,000 from the BBC in the last financial year.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgl20x1ggpo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c4gynyz4wqpo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "A versatile actor whose roles went far beyond Jurassic Park - Sam Neill dies aged 78",
-      "description": "The actor, who has died aged 78, built up a long string of screen credits over a five-decade career.",
+      "title": "UK wasted £10bn on PPE that left NHS staff poorly protected, Covid inquiry finds",
+      "description": "Healthcare staff were unable to properly protect themselves, or those in their care, from dangerous infections, says the latest inquiry report.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2wrvqq9rlo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/czrxrlydyzzo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Wildfires burn in parts of UK as fire chiefs warn of extreme pressure",
+      "description": "Major incidents were declared in North Wales and in Glossop, Derbyshire in the Peak District on Sunday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwyey14r4wzo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Heatwave to intensify in second week as wildfires burn across UK",
-      "description": "After a brief drop in temperature many areas will see heat and humidity build again this week",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/weather/articles/c0jyx16ww8jo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "6h ago"
-    },
-    {
-      "title": "The U.S.-Iran ceasefire grows more distant. And, Congress faces a consequential week",
-      "description": "The U.S. and Iran exchanged fire over the weekend amid tensions over the Strait of Hormuz. And, Congress returns from recess facing tight deadlines.",
+      "title": "Why your favorite international artist might be reconsidering their next U.S. tour",
+      "description": "The visa process for visiting artists has always been complicated and expensive. Under the current administration, it's gotten significantly worse.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/07/13/g-s1-133269/up-first-newsletter-us-iran-war-congress-lindsey-graham-gaza-israel-hussam-abu-safiya",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5783845/visa-process-artists-us",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Pythons' extreme biology may hold clues for treating human disease",
-      "description": "These snakes can go for months without eating, grow and shrink the size of their hearts and jump start their metabolism on a dime.",
+      "title": "Inflation slowed sharply -- but it may not last",
+      "description": "Annual inflation hit 3.5% in June, down from May's more than three-year high — but the resumption of the conflict with Iran threaten to push up inflation as energy costs once again spike.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5887668/pythons-metabolism-digestion-human-disease-treatment",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5893379/inflation-economy-consumer-prices-federal-reserve",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "6h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Iraqi PM heads to US seeking balance between security and economy",
-      "description": "PM Ali al-Zaidi to hold talks with Trump, with energy investment and role of pro-Iran groups likely to dominate agenda.",
+      "title": "India summons Iranian diplomat over missile killing of seafarer",
+      "description": "India summoned Iran's deputy ambassador after an Indian crew member was killed in the Strait of Hormuz.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/13/iraqi-pm-heads-to-us-seeking-balance-between-security-and-economy?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/india-summons-iranian-diplomat-over-missile-killing-of-seafarer?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "At least 28 killed, 25 critically injured after fire engulfs Bangkok bar",
-      "description": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.",
+      "title": "Olympic funding questioned by nine EU nations over Russia readmission",
+      "description": "Nine EU nations urge funding cuts for sports bodies including International Olympic Committee over readmitting Russians.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/7/14/olympic-funding-questioned-by-nine-eu-nations-over-russia-readmission?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "‘Piracy’: Will Trump’s 20 percent Hormuz toll find takers?",
+      "description": "Trump says the US will start charging a cargo fee for ships passing through the Strait of Hormuz.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/7/14/piracy-will-trumps-20-percent-hormuz-toll-find-takers?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Russia-Ukraine war: What is Europe’s new ballistic missile shield plan?",
+      "description": "Nine European countries and Ukraine have launched a coalition to build Europe's own defence against ballistic missiles.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/14/russia-ukraine-war-what-is-europes-new-ballistic-missile-shield-plan?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
+      "description": "Svetlana Grković told Serbian media that her husband is \"seriously injured and in shock\".",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Iraq seizes 375kg of gold in sweeping anti-corruption crackdown",
-      "description": "In a massive corruption crackdown, Iraqi authorities have uncovered 375kg of gold linked to a high-profile case.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/13/iraq-seizes-375kg-of-gold-in-sweeping-anti-corruption-crackdown?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "FIFA World Cup: Key players to watch as France play Spain in semifinal",
-      "description": "Spain-France clash is filled with superstars like Kylian Mbappe, Ousmane Dembele and Lamine Yamal, among others.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/13/fifa-world-cup-key-players-to-watch-as-france-take-on-spain-in-2026-semifinal?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Trump says US will become ‘guardian’ of Strait of Hormuz and collect tolls",
-      "description": "Iran rejects any US control over strait as both sides trade attacks in major threat to negotiations to end their war.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/13/trump-says-us-will-become-guardian-of-strait-of-hormuz-and-collect-tolls?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
-      "description": "Friends, politicians and fellow film stars remember Neill following his \"sudden and unexpected\" death.",
+      "title": "Israeli strike on police post in north Gaza kills seven, officials say",
+      "description": "A senior officer in the Hamas-run police force was among those killed in the strike, which Israel's military says targeted \"terrorists\".",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "4h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Trump calls for Congress to pass Clarity Act crypto bill to honor Lindsey Graham",
-      "description": "The Senate Banking Committee approved the bill 15-9 in May, with two Democrats joining Republicans to advance the legislation.",
+      "title": "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people",
+      "description": "Warsh pledged Tuesday to \"get monetary policy right\" and defeat the inflation that has bedeviled the central bank for the past five years.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/13/trump-congress-clarity-act-crypto-bill-lindsey-graham.html",
+      "url": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Trump recommends Lindsey Graham's sister serve as interim senator for South Carolina",
-      "description": "The death of Sen. Lindsey Graham ignited a scramble among South Carolina Republicans to prepare for a special primary election to replace him on the GOP ticket.",
+      "title": "Supreme Court Justice Barrett says 'the threat level is really high' in budget testimony",
+      "description": "Supreme Court Justices Amy Coney Barrett and Elena Kagan are testifying about the high court's budget request, which includes higher spending for security.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/13/trump-lindsey-graham-darline-south-carolina-senator.html",
+      "url": "https://www.cnbc.com/2026/07/14/supreme-court-budget-congress-kagan-barrett.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Micron and other chip stocks feel the pain of imported volatility — blame SK Hynix",
-      "description": "The SOX chip index was suffering a unanimous selloff, after SK Hynix’s stock had its worst day in 18 years in South Korea trading.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-feel-the-pain-of-imported-volatility-blame-sk-hynix-f705a0fd?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Can big banks’ ‘cheap’ stocks keep rising? We’ll find out when JPMorgan and an unusual number of others report earnings Tuesday",
-      "description": "Among the largest U.S. banks, Citigroup is expected to show the greatest improvement by one important measure. But it still has a long way to go to reach its own performance target.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/as-five-big-u-s-banks-report-earnings-on-the-same-day-citigroup-is-the-one-to-watch-683c3707?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Global oil prices top $80 a barrel after Trump reimposes Strait of Hormuz blockade and charges 20% fee for cargo shipped through",
-      "description": "The week is kicking off with fresh spikes for oil prices after President Donald Trump reimposed the naval blockage on the Strait of Hormuz.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/oil-prices-surge-as-much-as-5-after-iran-declares-strait-of-hormuz-is-closed-6905599b?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Trump proposes 20% toll on cargo through Strait of Hormuz; restarts Iran blockade",
-      "description": "The Strait of Hormuz is a major oil-shipping route and the epicenter of the U.S. and Israel's ongoing war with Iran.",
+      "title": "Chamath Palihapitiya says soaring AI token spend will hit companies' earnings",
+      "description": "Palihapitiya is part of a growing chorus of investors and tech executives who are cautioning that the tokenmaxxing era is coming to an end.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/13/trump-iran-hormuz-strait-charge-reimburse.html",
+      "url": "https://www.cnbc.com/2026/07/14/chamath-palihapitiya-ai-tokenmaxxing.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Footy Fix: And then there were four; Argentina, England, France, Spain fight for World Cup title",
-      "description": "For the first time ever, FIFA's top four teams have all made the semifinals",
+      "title": "IBM’s stock is having its worst day ever after the surprise release of an earnings miss",
+      "description": "IBM’s stock plunges after a preliminary release of profit and revenue that were well below expectations.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/ibms-stock-dives-toward-worst-day-in-nearly-40-years-after-the-surprise-release-of-an-earnings-miss-8519741e?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Jamie Dimon says ‘booming’ markets and a ‘fine’ consumer fueled JPMorgan’s blowout profits",
+      "description": "JPMorgan blew past earnings expectations for the second quarter, as CEO Jamie Dimon said markets are booming.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/jpmorgan-beats-profit-expectations-by-the-most-in-five-years-as-equity-markets-revenue-surges-9a0d8805?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Social Security says it’s handling disability claims better. But it may just be pushing more people  away.",
+      "description": "The rate of denials has increased in disability cases, research shows",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/social-security-says-its-handling-disability-claims-better-but-it-may-just-be-pushing-more-people-away-413a6b61?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "MLB rumors: Suitors for Tarik Skubal emerge; Luis Arraez unwilling to change positions; Phillies eye arm help",
+      "description": "The market for Skubal, the back-to-back AL Cy Young winner, seems to be taking shape",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/footy-fix-and-then-there-were-four-argentina-england-france-spain-fight-for-world-cup-title/",
+      "url": "https://www.cbssports.com/mlb/news/mlb-rumors-trade-deadline-tarik-skubal-luis-arraez-cubs-braves-rays-phillies/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Newsletter 7/13/26",
-      "description": "Newsletter 7/13/26",
+      "title": "NCAA women's tournament unveils big bracket rule change: What it means for top 16 seeds, why it's happening",
+      "description": "Selection Sunday will look different for contenders in 2027",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/",
+      "url": "https://www.cbssports.com/womens-college-basketball/news/ncaa-womens-tournament-rule-change-top-16-seeds/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Baker Mayfield details injury-riddled 2025: Buccaneers QB had knee, bicep, AC joint ailments",
-      "description": "Tampa Bay went from 5-1 to 8-9 and missing the playoffs",
+      "title": "The Open Championship 2026 odds, picks, predictions: Proven golf expert avoiding DeChambeau at Royal Birkdale",
+      "description": "SportsLine golf expert David Bearman just locked in his predictions for the 2026 Open Championship at Royal Birkdale Golf Club in Southport, England",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/buccaneers-baker-mayfield-details-injury-riddled-2025/",
+      "url": "https://www.cbssports.com/golf/news/the-open-championship-2026-odds-picks-predictions-expert-avoids-dechambeau-at-royal-birkdale/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "McGregor to have surgery, plans to fight again",
-      "description": "Conor McGregor will undergo surgery following his first-round loss to Max Holloway at UFC 329, and then he will fight again.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mma/story/_/id/49350613/conor-mcgregor-undergo-surgery-plans-fight-again",
+      "title": "Use DraftKings promo code for $200 bonus bets by targeting France-Spain in 2026 World Cup, MLB All-Star Game",
+      "description": "DraftKings offers $200 in bonus bets instantly after your first $5 wager for betting Spain vs. France in the 2026 World Cup, MLB All-Star Game on Tuesday",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-200-bonus-bets-france-spain-2026-world-cup-mlb-all-star-game/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Sources: U-M regents to decide on AD Manuel soon",
-      "description": "The University of Michigan regents are expected to discuss an investigation into the culture of its athletic department on Thursday, sources told ESPN, and as part of the review, a decision on the future of AD Warde Man…",
+      "title": "Herro wants to 'move on' from Bam altercation",
+      "description": "Bucks guard Tyler Herro said he wants to \"move on\" from his physical altercation with former teammate Bam Adebayo last week in Las Vegas and is \"focused on the next chapter in Milwaukee.\"",
       "source": "ESPN",
-      "url": "https://www.espn.com/college-sports/story/_/id/49346524/michigan-regents-discuss-investigation-thursday",
+      "url": "https://www.espn.com/nba/story/_/id/49357704/tyler-herro-wants-move-bam-adebayo-altercation",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Ex-Kansas player charged with attempted murder",
-      "description": "Lagerald Vick, a member of the Kansas Jayhawks' Final Four basketball team in 2018, has been charged with attempted first-degree murder in Tennessee.",
+      "title": "Sources: MLB in LA28 facing hurdles with MLBPA",
+      "description": "Though support is growing for MLB to participate in the Olympics in 2028, it's complicated by disagreements with the MLBPA, according to sources.",
       "source": "ESPN",
-      "url": "https://www.espn.com/mens-college-basketball/story/_/id/49350117/ex-kansas-player-lagerald-vick-charged-attempted-murder",
+      "url": "https://www.espn.com/mlb/story/_/id/49357692/issues-tickets-rooms-complicate-mlb-playing-olympics",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
