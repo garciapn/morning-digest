@@ -1,249 +1,233 @@
 {
-  "date": "2026-07-15T15:08:12.878611+00:00",
-  "edition": "#162",
-  "totalStories": 30,
+  "date": "2026-07-16T15:17:17.780192+00:00",
+  "edition": "#163",
+  "totalStories": 28,
   "podcast": {
     "show": "The Daily",
     "description": "The New York Times' daily news podcast — today's top story in 20 minutes."
   },
   "stories": [
     {
-      "title": "Spotify expands parent-managed accounts to users on its free tier",
-      "description": "The feature was previously only available to paid subscribers.",
+      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+      "description": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one…",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/15/spotify-expands-parent-managed-accounts-to-users-on-its-free-tier/",
+      "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "India bets billions on breaking China’s grip on smartphone manufacturing",
-      "description": "New Delhi announced a $6.5 billion smartphone manufacturing program and a $13.3 billion semiconductor push to deepen India's electronics supply chain.",
+      "title": "Sheryl Sandberg leads $10 million investment in AI-powered vehicle inspection service",
+      "description": "The startup, founded in 2021, lets enterprise customers use smartphones to scan and spot vehicle damage.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/15/india-bets-billions-on-breaking-chinas-grip-on-smartphone-manufacturing/",
+      "url": "https://techcrunch.com/2026/07/16/sheryl-sandberg-leads-10-million-investment-in-ai-powered-vehicle-inspection-service/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "My Midlife Crisis Corolla Is Fast, Furious, and Modded",
-      "description": "Article URL: https://www.zocalopublicsquare.org/my-midlife-crisis-corolla-fast-furious-fully-modded/ Comments URL: https://news.ycombinator.com/item?id=48921303 Points: 9 # Comments: 2",
+      "title": "Kimi K3 is now live",
+      "description": "Article URL: https://www.kimi.com/en Comments URL: https://news.ycombinator.com/item?id=48935342 Points: 41 # Comments: 6",
       "source": "Hacker News",
-      "url": "https://www.zocalopublicsquare.org/my-midlife-crisis-corolla-fast-furious-fully-modded/",
+      "url": "https://www.kimi.com/en",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "US charges Russian ‘bulletproof’ web hosts over cyberattacks that netted $62M from cybercrime victims",
-      "description": "The 2024 indictment, now unsealed, accuses three Russians and two web hosts of aiding hackers and profiting from cybercrime.",
+      "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
+      "description": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/15/us-charges-russian-bulletproof-web-hosts-over-cyberattacks-that-netted-62m-from-cybercrime-victims/",
+      "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "The well-calibrated Bayesian [pdf]",
-      "description": "Article URL: https://fitelson.org/seminar/dawid.pdf Comments URL: https://news.ycombinator.com/item?id=48921121 Points: 14 # Comments: 2",
+      "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
+      "description": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Goes-19 weather satellite enters Safe Hold mode",
+      "description": "Article URL: https://www.spaceweather.gov/news/goes-19-safe-hold Comments URL: https://news.ycombinator.com/item?id=48934286 Points: 53 # Comments: 26",
       "source": "Hacker News",
-      "url": "https://fitelson.org/seminar/dawid.pdf",
+      "url": "https://www.spaceweather.gov/news/goes-19-safe-hold",
       "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Towards a Harness That Can Do Anything",
-      "description": "Article URL: https://eardatasci.github.io/c/ambiance/index.html Comments URL: https://news.ycombinator.com/item?id=48921077 Points: 32 # Comments: 4",
-      "source": "Hacker News",
-      "url": "https://eardatasci.github.io/c/ambiance/index.html",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Man arrested over social media post threatening to shoot Farage",
-      "description": "Met Police says a man in his 20s was held in south London this week on suspicion of sending threatening communications to an MP.",
+      "title": "Teenagers from 15 should be given free MenB vaccine, say UK experts",
+      "description": "Advisers are asking the government to consider introducing MenB jabs following concerns over an outbreak in Kent earlier this year, in which two people died.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8r2r76vnd1o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c74glj9zkzko?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Starmer says it's the 'end of my political journey' at his final Prime Minister's Questions",
-      "description": "MPs on all sides of the House of Commons paid tribute to the departing PM, traded jokes and shared anecdotes.",
+      "title": "UK says Falkland Islands 'definitely ours' after Argentina banner",
+      "description": "Argentina could be disciplined by Fifa for the celebrations after the World Cup win over England.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzynxwk05o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/clyen1ned7no?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Watch Starmer sign off final PMQs to standing ovation",
-      "description": "The prime minister received applause and cheers from his party and other MPs after giving his final answer.",
+      "title": "Why you should care about the third-place play-off between England and France",
+      "description": "It might feel like the last thing anyone wants right now - but here is why, actually, you do want to watch the World Cup's third-place play-off.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c07y74d8y51o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly5we2lgq4o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
+      "timeAgo": "4h ago"
     },
     {
-      "title": "Iran threatens to block more trade routes as US launches fresh strikes",
-      "description": "US President Donald Trump vowed to strike Iran's bridges and power plants next week if the country does not return to talks.",
+      "title": "Feeling gutted? Five ways to cope with England's World Cup defeat",
+      "description": "After England’s loss, fans and experts share their tips for managing the disappointment.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c4gy5jwjvz7o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
+      "timeAgo": "4h ago"
     },
     {
-      "title": "China's economy grows 4.3% in Q2, slowest since late 2022",
-      "description": "Lagging consumer spending and business investment offset the boost from strong exports thanks partly to the boom in artificial intelligence.",
+      "title": "Hong Kong official warns booksellers on security risks after raids",
+      "description": "The police operation marks the third round of arrests targeting independent bookstores in four months.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/07/15/g-s1-133672/chinas-economy-grows-4-3-in-q2-slowest-since-late-2022",
+      "url": "https://www.npr.org/2026/07/16/g-s1-133931/hong-kong-official-warns-booksellers-on-security-risks-after-raids",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Old rivals, new battle: Argentina and England clash in World Cup Semifinal",
-      "description": "Old rivals. New stakes. A World Cup final spot on the line. Argentina vs. England.",
+      "title": "Trump wants to fence off the park closest to the White House, a popular protest spot",
+      "description": "The Trump administration wants to install permanent fencing around Lafayette Park, directly outside the White House. It's long been a popular spot for protesters, who worry barriers will change that.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/07/15/nx-s1-5893686/old-rivals-new-battle-argentina-and-england-clash-in-world-cup-semifinal",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "My Twitter, not X",
-      "description": "As Twitter, then X, marks 20 years since its launch, a journalist journeys through revolutions and wars.",
+      "title": "UK urges FIFA to investigate Argentina over World Cup Falklands banner",
+      "description": "The United Kingdom and Argentina fought a brief war over the British Overseas Territory in 1982.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/15/my-twitter-not-x?traffic_source=rss",
+      "url": "https://www.aljazeera.com/sports/2026/7/16/uk-urges-fifa-to-investigate-argentina-over-world-cup-falklands-banner?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Legal challenge says Trump ICC sanctions tread on US citizens’ rights",
-      "description": "Groups charge that sanctions against ICC, Palestinian rights organisations stifle freedom of speech and expression.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/15/legal-challenge-says-trump-icc-sanctions-tread-on-us-citizens-rights?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Iraq’s prime minister carries the title, but not the power",
-      "description": "Al-Zaidi’s Washington visit exposed the pressure reshaping Baghdad’s politics, security and economy.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/7/15/iraqs-prime-minister-carries-the-title-but-not-the-power?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "What DOGE saved, and what it cost",
-      "description": "The US government project that slashed foreign aid died on July 4. AJLabs looks at the cost in lives around the world.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/7/15/what-doge-saved-and-what-it-cost?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Russian attacks kill eight as Ukraine hits Black Sea oil tankers",
-      "description": "Civilian casualties are reported in four Ukrainian regions, while Kyiv hits 20 Russian vessels in the Black Sea.",
+      "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
+      "description": "The ex-head of Italy's motorway operator Giovanni Castellucci was handed a 12-year term over the 2018 bridge collapse.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
-      "description": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.",
+      "title": "What happens if Mitch McConnell is unable to finish his US Senate term?",
+      "description": "The longtime party leader's absence from the Senate is likely to have repercussions for the Republican agenda.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/16/what-happens-if-mitch-mcconnell-is-unable-to-finish-his-us-senate-term?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Data breach reportedly targets India’s Kudankulam nuclear power plant",
+      "description": "Purported blueprints of parts of India's largest plant exposed by World Leaks ransomware group, Reuters reports.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/16/data-breach-reportedly-targets-indias-kudankulam-nuclear-power-plant?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Has Bali’s Melukat ritual turned into a commodified religious ceremony?",
+      "description": "With the world in chaos, many travellers are seeking healing experiences during the summer holidays.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/has-balis-melukat-ritual-turned-into-a-commodified-religious-ceremony?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Protests in Ukrainian cities against Zelensky's removal of defence minister",
+      "description": "Ukraine's president has not explained Mykhailo Fedorov's dismissal, which is causing great upset among civil society and the military.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "15h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "DTCC, Wall Street’s post-trade powerhouse, tests tokenized markets with industry heavy hitters",
-      "description": "The DTCC is pushing to bring tokenization of real world assets from concept to reality using existing financial infrastructure.",
+      "title": "These cities are blanketed with wildfire smoke. Here’s what to know about bad air quality.",
+      "description": "“It is a growing cardiovascular threat”: Chicago, Detroit, Minneapolis and New York City are considered some of the world’s most polluted cities Thursday.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/these-cities-are-blanketed-with-wildfire-smoke-heres-what-to-know-about-bad-air-quality-cd3a8fa7?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "‘Respect is important’: If my financial adviser said, ‘Hey,’ my wife and I would walk out. Where do you draw the line?",
+      "description": "“I met with a financial representative who was not aware that AT&T was the shortened form of American Telephone and Telegraph.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/respect-is-important-if-my-financial-adviser-said-hey-my-wife-and-i-would-walk-out-where-do-you-draw-the-line-5fbf5879?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Truth Social launches service to give Wall Street traders an edge with real-time service",
+      "description": "Trump Media launched an API to give paying customers real-time access to market-moving Truth Social posts.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/15/dtcc-wall-streets-post-trade-powerhouse-tests-tokenized-markets-with-industry-heavy-hitters.html",
+      "url": "https://www.cnbc.com/2026/07/16/trump-truth-social-wall-street-traders-api.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "You are missing the bond deal of the decade — and it is guaranteed to beat inflation",
-      "description": "TIPS are offering a rare gift — and it is time to lock in a generous payout.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/you-are-missing-the-bond-deal-of-the-decade-and-it-is-guaranteed-to-beat-inflation-0f1d6cf8?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Buying a house is getting easier by one measure. Here’s why it doesn’t feel like it.",
-      "description": "Home prices are growing much slower than they did during the pandemic-era buying frenzy.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/homes-are-getting-more-affordable-so-how-come-you-still-cant-afford-to-buy-one-f2d69d02?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "PayPal’s battered stock is getting a record boost from a report of buyout interest",
-      "description": "Shares of PayPal, the struggling payments processor, were having their best day ever on Wednesday, after the release of a report that rival Stripe is teaming up with private-equity group Advent International on a bid.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/a-53-billion-lifeline-stripe-and-advent-reportedly-team-up-to-bid-for-battered-paypal-3bc6fcc2?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Paychecks are rising faster than prices for a change — but when will consumers feel the relief?",
-      "description": "Wage growth in June outpaced inflation, after falling behind during April and May.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/your-paycheck-is-rising-faster-than-prices-for-a-change-but-when-will-you-feel-the-relief-cbbcb8bd?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "New York Fed President Williams says inflation has peaked, rates 'well positioned'",
-      "description": "Williams cited five reasons why he expects the latest price surge has run its course.",
+      "title": "Short sellers load up against SpaceX as stock retreats back to IPO price",
+      "description": "About 185 million SpaceX shares are now sold short, representing roughly 29% of the company's publicly tradable float, according to S3.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/15/new-york-fed-president-williams-says-inflation-has-peaked-rates-well-positioned.html",
+      "url": "https://www.cnbc.com/2026/07/16/short-sellers-load-up-against-spacex-as-stock-retreats-back-to-ipo-price.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "2026 Hot Seat Rankings: Luke Fickell, Dave Aranda among six college football coaches with jobs on the line",
-      "description": "These college football coaches could find themselves in hot water in 2026",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/college-football-coaches-hottest-seats-entering-2026/",
-      "category": "🏀 SPORTS",
+      "title": "Oil is facing a supply crunch — and the war in Iran isn’t the only problem",
+      "description": "Constraints on Russia’s refining system have added to the existing crisis, strategists at J.P. Morgan said.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/oil-is-facing-a-supply-crunch-and-the-war-in-iran-isnt-the-only-problem-60ce7e74?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Bold predictions for MLB's second half: More history for Shohei Ohtani, a blockbuster trade and more",
-      "description": "Mike Axisa uses his crystal ball to predict what's coming up in the rest of the regular season",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/mlb/news/mlb-second-half-bold-predictions-shohei-ohtani-no-hitter-tarik-skubal-trade-aaron-judge-home-runs/",
-      "category": "🏀 SPORTS",
+      "title": "Sen. Warren says Trump's CFPB overhaul has cost Americans $26.5 billion",
+      "description": "Sen. Elizabeth Warren says the Trump administration's rollback of CFPB rules and enforcement has cost Americans up to $26.5 billion so far.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/16/trumps-cfpb-overhaul-cost-americans-26point5-billion-sen-warren-says.html",
+      "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "2026 College Football Hot Seat Rankings: Evaluating job security of all 138 FBS coaches",
-      "description": "From 'win or be fired' to 'untouchable,' every coach gets rated by our panel of CBS Sports college football experts",
+      "title": "Free MLB home run odds, picks for July 16: Expert delivers best Thursday HR player props for Mets vs. Phillies",
+      "description": "SportsLine MLB expert Adam Thompson shares his best home run props for Mets vs. Phillies on Thursday, July 16",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/college-football-hot-seat-coaches-rankings-2026/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Kamaru Usman has sympathy for Conor McGregor following injury at UFC 329: 'It's a dark place to be'",
-      "description": "The former welterweight champion knows how debilitating an injury like that can be to a career",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/ufc/news/kamaru-usman-conor-mcgregor-injury-ufc-329/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "The top 10 wideouts in the NFL, per league execs: ...",
-      "description": "Ja'Marr Chase or Justin Jefferson or someone else at No. 1? Which teams' WR1 and WR2 both made the top 10? See how NFL decision-makers stacked the position.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nfl/story/_/id/49252915/ranking-nfl-top-10-wide-receivers-2026-execs-coaches-scouts",
+      "url": "https://www.cbssports.com/betting/news/free-mlb-home-run-odds-picks-for-july-16-expert-delivers-best-thursday-hr-player-props-for-mets-vs-phillies/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Yzerman abruptly steps down as Red Wings GM",
-      "description": "Steve Yzerman abruptly stepped down as general manager of the Red Wings on Wednesday.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nhl/story/_/id/49366494/steve-yzerman-abruptly-steps-red-wings-gm",
+      "title": "Cowboys' George Pickens will play the 2026 season under $27.3 million franchise tag, per report",
+      "description": "The star wideout will play the 2026 season under a $27.3 million franchise tag after Wednesday’s deadline passed without a long-term agreement",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/nfl/news/cowboys-george-pickens-will-play-2026-season-27-million-franchise-tag/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Three MLB teams just drafted their new No. 1 prospect -- and three more 2026 picks have a strong case",
+      "description": "No. 1 draft pick Roch Cholowsky immediately jumps to the top of the White Sox system; who else is raising the bar?",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/mlb/news/mlb-draft-no-1-prospect-orioles-white-sox-rockies-marlins-twins-rays/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Fantasy football rankings 2026: Sleepers, breakouts, busts by computer that predicted Daniel Jones' big season",
+      "description": "SportsLine simulated the upcoming NFL season 10,000 times to help form your early 2026 Fantasy football draft strategy",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-busts-by-computer-that-predicted-daniel-jones-big-season/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
