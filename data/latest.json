@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-18T14:34:54.031214+00:00",
-  "edition": "#165",
+  "date": "2026-07-19T14:38:49.762019+00:00",
+  "edition": "#166",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
-      "description": "A recent road trip in an EV revealed just how much faster and more reliable DC Fast charging has become in the U.S.",
+      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "description": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/",
+      "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "description": "Article URL: https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/ Comments URL: https://news.ycombinator.com/item?id=48957779 Points: 123 # Comments: 62",
+      "title": "DRIVE – Operational Excellence for AI-accelerated engineering",
+      "description": "Article URL: https://www.cortex.io/drive Comments URL: https://news.ycombinator.com/item?id=48968067 Points: 7 # Comments: 2",
       "source": "Hacker News",
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "url": "https://www.cortex.io/drive",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Will AI fix prior authorization—or make it worse?",
-      "description": "The government is piloting a program that uses AI for insurance-coverage decisions.",
+      "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
+      "description": "Article URL: https://www.bbc.com/news/articles/cvg8edqq5g5o Comments URL: https://news.ycombinator.com/item?id=48968063 Points: 9 # Comments: 2",
+      "source": "Hacker News",
+      "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "I burned all my tokens researching how to save tokens",
+      "description": "Article URL: https://quesma.com/blog/custom-deep-research-pipeline/ Comments URL: https://news.ycombinator.com/item?id=48967355 Points: 57 # Comments: 35",
+      "source": "Hacker News",
+      "url": "https://quesma.com/blog/custom-deep-research-pipeline/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Minecraft: Java Edition now uses SDL3",
+      "description": "Article URL: https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4 Comments URL: https://news.ycombinator.com/item?id=48967256 Points: 69 # Comments: 36",
+      "source": "Hacker News",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "As mosquito ranges expand, better monitoring is key to preventing disease",
+      "description": "Monitoring is expensive and labor intensive. But it helps public health officials stop outbreaks.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+      "url": "https://arstechnica.com/science/2026/07/as-mosquito-ranges-expand-better-monitoring-is-key-to-preventing-disease/",
       "category": "🤖 TECH & AI",
       "timeAgo": "3h ago"
     },
     {
-      "title": "What AI did to stackoverflow in a graph",
-      "description": "Article URL: https://data.stackexchange.com/stackoverflow/query/1953768#graph Comments URL: https://news.ycombinator.com/item?id=48956949 Points: 126 # Comments: 146",
-      "source": "Hacker News",
-      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Why do AI company logos look like buttholes? (2025)",
-      "description": "Article URL: https://velvetshark.com/ai-company-logos-that-look-like-buttholes Comments URL: https://news.ycombinator.com/item?id=48956924 Points: 327 # Comments: 105",
-      "source": "Hacker News",
-      "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-      "description": "Article URL: https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/ Comments URL: https://news.ycombinator.com/item?id=48956879 Points: 75 # Comments: 31",
-      "source": "Hacker News",
-      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Ruthless plotter? Flip-flopper? Dad dancer? Insiders reveal the real Andy Burnham",
-      "description": "Who is the real Andy Burnham? Laura Kuenssberg talks to more than 20 people who know him to work it out",
+      "title": "Burnham will be bolder but stick to Labour manifesto, deputy leader says",
+      "description": "Meanwhile Conservative leader Kemi Badenoch says Burnham is a \"people pleaser\", ahead of him becoming prime minister on Monday.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3043vl2l7zo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k76gydreo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Burnham to announce plans for new North Sea oil and gas drilling",
-      "description": "Drilling has become a controversial topic for the Labour party after the 2024 manifesto pledged to not issue new licences.",
+      "title": "Tate brothers arrested in US as further UK charges take total to 59",
+      "description": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c935yx2z9d4o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "The Bronze Final - the unwanted tie or a match with a 'golden layer'?",
-      "description": "Why does the Fifa World Cup Bronze Final still exist?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gk5jq2lj1o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
-      "description": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\".",
+      "title": "Messi on the brink of history - will it be his last World Cup game?",
+      "description": "Argentina captain Lionel Messi will play his 34th World Cup match in Sunday's final, but will it be his last appearance?",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cql1xxxpndlo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "4h ago"
     },
     {
-      "title": "Why is it so hard for the U.S. to win wars?",
-      "description": "U.S. presidents have promised short, decisive wars in Afghanistan, Iraq and Iran. All have proved much more difficult than advertised and fallen far short of the political goals set at the beginning.",
+      "title": "Digital ID plan to be scrapped in Burnham's first major policy pledge",
+      "description": "A spokesperson for the incoming prime minister says his government would “put its focus where people need it right now”.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5y08z25q8eo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "5h ago"
+    },
+    {
+      "title": "Violence repeatedly erupts in dementia care despite warnings, inspections show",
+      "description": "Nursing homes and assisted living facilities can be fertile ground for violence between residents with dementia, including fatal assaults. Court records and inspecitions how safeguards fall short.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/07/18/g-s1-134037/why-is-it-so-hard-for-the-u-s-to-win-wars",
+      "url": "https://www.npr.org/2026/07/19/nx-s1-5894692/dementia-violence-warning-supervision-nursing-homes-assisted-living-facility",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "Opinion: The continued courage of Captain Sully",
-      "description": "Retired pilot Chesley \"Sully\" Sullenberger is known for safely landing an airplane on the Hudson River in 2009. This week, he announced that he has Alzheimer's disease.",
+      "title": "An Israeli paraglider tries to save migrating swifts that nest in the Western Wall",
+      "description": "Swifts have nested in Jerusalem's Western Wall since biblical times. Now one Israeli paraglider is trying to save them.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/07/18/nx-s1-5882194/opinion-the-continued-courage-of-captain-sully",
+      "url": "https://www.npr.org/2026/07/19/nx-s1-5870684/israel-swift-birds-jerusalem",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
+      "timeAgo": "4h ago"
     },
     {
-      "title": "China warns UK over British Steel nationalisation, demands fair resolution",
-      "description": "Jingye seeks compensation after UK's move to fully nationalise loss-making British Steel, citing security risks.",
+      "title": "Lebanon convicts influencer of smuggling drugs in biscuits",
+      "description": "Lebanese food influencer Georges Dib, known as Dr Food, has been sentenced in absentia to life with hard labour.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/18/china-warns-uk-over-british-steel-nationalisation-demands-fair-resolution?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/lebanon-convicts-influencer-of-smuggling-drugs-in-biscuits?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Top German conservative quits after surrogacy sparks backlash within party",
-      "description": "Jens Spahn steps down after party criticism over surrogacy, highlighting tensions in Germany's conservative coalition.",
+      "title": "Why were Andrew and Tristan Tate arrested? Will they be extradited to UK?",
+      "description": "Influencer brothers arrested in Miami, as UK seeks extradition to face new charges of rape, sex trafficking and assault.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/18/top-german-conservative-quits-after-surrogacy-sparks-backlash-within-party?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "FIFA World Cup: Spain vs Argentina – What to know ahead of the final",
-      "description": "Lamine Yamal and Lionel Messi meet in a clash of generations in Sunday's blockbuster Spain vs Argentina World Cup final.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/18/spain-argentina-fifa-world-cup-final-prediction-head-to-head-messi-yamal-prediction-venue?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Death toll from Uganda school bus crash rises to 24",
-      "description": "Three more pupils died after Uganda’s school bus crash, raising the death toll to 23 students and one adult.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/18/death-toll-from-uganda-school-bus-crash-rises-to-24?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/7/19/why-were-andrew-and-tristan-tate-arrested-will-they-be-extradited-to-uk?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "US strikes hit Iran for seventh consecutive night",
-      "description": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.",
+      "title": "US and Iran trade fire after two US soldiers killed in Jordan",
+      "description": "Kuwait says an electricity and water plant is on fire after the second such attack in two days. Iran says US strikes hit an under-construction nuclear power plant.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Why have India’s Gen Z protesters called for a march to parliament?",
+      "description": "After a prominent activist on hunger strike is forcibly removed, organisers announce a march to parliament.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/7/19/why-have-indias-gen-z-protesters-called-for-a-march-to-parliament?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Indian court rejects bid to release hunger-striking activist from hospital",
+      "description": "The wife of 59-year-old Sonam Wangchuk says his enforced hospitalisation is 'illegal detention'.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/19/indian-court-rejects-bid-to-release-hunger-striking-activist-from-hospital?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
-      "description": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
+      "title": "Russia launches major ballistic missile attack on Ukrainian cities",
+      "description": "Five people are killed and at least 35 injured as Ukraine's two largest cities are targeted, as Kyiv continues its own assault on Russian infrastructure.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "13h ago"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "Small-cap outperformance is persisting — and these 15 quality stocks pay rich dividends",
-      "description": "Think large caps are still the best bet? The data say you are looking in the wrong place.",
+      "title": "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?",
+      "description": "“I’m also considering working with a credit-counseling agency or enrolling in a hardship program.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/small-cap-outperformance-is-persisting-and-these-15-quality-stocks-pay-rich-dividends-5a814386?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Look on the bright side: Energy companies are booming",
-      "description": "You can’t beat them. Maybe you should join them.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/look-on-the-bright-side-energy-companies-are-booming-546164fb?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "U.S. military says it has completed the latest round of strikes against Iran, amid more disruptions to shipping",
-      "description": "U.S. Central Command says it continues to enforce a naval blockade against Iran, while Kuwait and Bahrain say they have intercepted more Iranian projectiles.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/18/us-military-says-it-completed-latest-round-of-strikes-against-iran.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Billionaires are loading up on these superior stocks. Why it pays to follow their money.",
-      "description": "The second quarter was a six-year best for U.S. stocks — here are the three sectors poised to lead the next leg higher.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/billionaires-are-loading-up-on-these-superior-stocks-why-it-pays-to-follow-their-money-9120c242?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "This overlooked index is a better investment than the S&P 500",
-      "description": "We did the math over a 30-year period, and it’s not even close.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-overlooked-index-is-a-better-investment-than-the-s-p-500-74c7e698?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "World Cup audience stayed bipartisan despite Trump's prominent role, CNBC survey finds",
-      "description": "Nearly half of registered voters watched the 2026 World Cup, with income and education shaping viewership more than party affiliation, the survey found.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/18/world-cup-viewership-trump-democrats-republicans-poll.html",
+      "url": "https://www.marketwatch.com/story/i-have-racked-up-35-000-in-credit-card-debt-should-i-file-for-bankruptcy-4c92d9e5?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "UFC Fight Night odds, lines, predictions, time: Dricus du Plessis vs. Kamaru Usman picks by elite MMA expert",
-      "description": "SportsLine's Kyle Marley reveals his picks for the UFC Fight Night: du Plessis vs. Usman card on Saturday on Paramount+",
+      "title": "American Airlines CEO lays out his vision to close a more than $3 billion profit gap",
+      "description": "The carrier is working on improving reliability, investing in more premium seats and lounges, and considering Boeing and Airbus for a new wide-body plane order.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/19/american-airlines-ceo.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Housing costs is the top political issue for young voters, CNBC survey finds",
+      "description": "The cost of housing is the top priority for voters ages 18 to 34, besting food and healthcare cost concerns, the CNBC All-America Economic Survey found.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/19/housing-costs-election-young-voters-cnbc-survey-finds.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Can the ‘Magnificent Seven’ save a stock market that might be doomed without them?",
+      "description": "Apple, Amazon, Nvidia and peers are quietly coming back to life, and that could easily jolt this sleepy stock market back into gear.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/can-the-magnificent-seven-save-a-stock-market-that-might-be-doomed-without-them-f88988f3?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "U.S. says it targeted Iranian forces after attacks that killed two American service members",
+      "description": "Centcom says it hit Iran's coastal surveillance and air defense facilities a day after two U.S. troops were killed in an Iranian strike on Jordan.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/19/us-says-it-targeted-iran-forces-after-deaths-of-two-american-troops.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "‘I am at a loss’: My brother is dying. We are not close. What responsibility do I have to help him?",
+      "description": "“He is now no longer able to think clearly or communicate his wishes.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-am-at-a-loss-my-brother-is-dying-we-are-not-close-what-responsibility-do-i-have-to-help-him-08af705a?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "Fantasy football rankings 2026: Busts via model that called Terry McLaurin's down season",
+      "description": "SportsLine simulated the new NFL season 10,000 times and identified Fantasy football busts 2026 to fade during your Fantasy football draft prep",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/ufc-fight-night-odds-lines-predictions-time-dricus-du-plessis-kamaru-usman-picks-best-bets/",
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-busts-via-model-that-called-terry-mclaurins-down-season/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Spain vs. Argentina: Who has the edge in World Cup final in goal, defense, midfield and attack?",
-      "description": "The two sides will meet on Sunday for the most awaited soccer game in years, but who has the edge?",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/spain-vs-argentina-who-has-the-edge-world-cup-final/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "SportsLine Newsletter July 18, 2026",
-      "description": "Saturday betting guide: How to pick England-France, UFC, The Open weekend",
+      "title": "SportsLine Newsletter July 19, 2026",
+      "description": "Sunday Betting Guide: Top picks for the World Cup Final of Argentina vs. Spain, plus Yankees vs. Dodgers on Sunday Night Baseball",
       "source": "CBS Sports",
       "url": "https://www.cbssports.com/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Kylian Mbappe odds, picks, predictions: Best bets for France vs. England in 2026 World Cup third-place match",
-      "description": "SportsLine soccer expert Brandt Sutton has analyzed the Kylian Mbappe odds, and locked in his picks and predictions for England vs. France",
+      "title": "2026 SEC Media Days schedule, where to watch: When coaches, teams take stage during four-day kickoff event",
+      "description": "The rundown for the unofficial kickoff to SEC football season ahead of fall camp",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/kylian-mbappe-odds-picks-predictions-best-bets-france-vs-england-2026-world-cup-third-place-match/",
+      "url": "https://www.cbssports.com/college-football/news/2026-sec-media-days-schedule-where-to-watch/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Use DraftKings promo code for $200 bonus bets by targeting Spain vs. Argentina, Messi in 2026 World Cup Final",
+      "description": "DraftKings offers $200 in bonus bets instantly after your first $5 wager for Argentina vs. Spain in 2026 World Cup betting on Sunday",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-200-bonus-bets-spain-argentina-messi-2026-world-cup-final/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
