@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-19T14:38:49.762019+00:00",
-  "edition": "#166",
+  "date": "2026-07-20T15:29:26.495576+00:00",
+  "edition": "#167",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
-      "description": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
+      "title": "YouTube clarifies policies around AI slop and upsetting videos",
+      "description": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "DRIVE – Operational Excellence for AI-accelerated engineering",
-      "description": "Article URL: https://www.cortex.io/drive Comments URL: https://news.ycombinator.com/item?id=48968067 Points: 7 # Comments: 2",
-      "source": "Hacker News",
-      "url": "https://www.cortex.io/drive",
+      "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Athropic researchers",
+      "description": "AI infrastructure company Infinity announced Monday a $15 million raise at a $100 million valuation from investors including Touring Capital, Principal VC, and researchers from companies such as OpenAI and Anthropic.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
-      "description": "Article URL: https://www.bbc.com/news/articles/cvg8edqq5g5o Comments URL: https://news.ycombinator.com/item?id=48968063 Points: 9 # Comments: 2",
+      "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion",
+      "description": "Article URL: https://nothings.org/gamedev/ssao/ Comments URL: https://news.ycombinator.com/item?id=48979931 Points: 4 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
+      "url": "https://nothings.org/gamedev/ssao/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "I burned all my tokens researching how to save tokens",
-      "description": "Article URL: https://quesma.com/blog/custom-deep-research-pipeline/ Comments URL: https://news.ycombinator.com/item?id=48967355 Points: 57 # Comments: 35",
-      "source": "Hacker News",
-      "url": "https://quesma.com/blog/custom-deep-research-pipeline/",
+      "title": "Hackers stole ‘significant’ amount of data from tech firm relied on by thousands of US hospitals and pharmacies",
+      "description": "Edinburgh-based tech firm Craneware said customer data was stolen during a cyberattack. The company makes software that thousands of U.S. hospitals, pharmacies, and clinics rely on for billing patients, potentially expo…",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/20/hackers-stole-significant-amount-of-data-from-tech-firm-relied-on-by-thousands-of-us-hospitals-and-pharmacies/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Minecraft: Java Edition now uses SDL3",
-      "description": "Article URL: https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4 Comments URL: https://news.ycombinator.com/item?id=48967256 Points: 69 # Comments: 36",
-      "source": "Hacker News",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "As mosquito ranges expand, better monitoring is key to preventing disease",
-      "description": "Monitoring is expensive and labor intensive. But it helps public health officials stop outbreaks.",
+      "title": "The first trailer for Avengers: Doomsday is finally here",
+      "description": "\"Something's coming. Something we may not be able to deter.\"",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/07/as-mosquito-ranges-expand-better-monitoring-is-key-to-preventing-disease/",
+      "url": "https://arstechnica.com/culture/2026/07/the-first-trailer-for-avengers-doomsday-is-finally-here/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "3h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Burnham will be bolder but stick to Labour manifesto, deputy leader says",
-      "description": "Meanwhile Conservative leader Kemi Badenoch says Burnham is a \"people pleaser\", ahead of him becoming prime minister on Monday.",
+      "title": "Watch Flock Safety CEO Garrett Langley discuss the future of surveillance at TechCrunch Disrupt 2026",
+      "description": "Flock Safety sits right at the center of the debate over where the line should be drawn between privacy and public safety. That’s why we’re bringing Flock’s founder and CEO Garrett Langley to the stage to speak about th…",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/20/watch-flock-safety-ceo-garrett-langley-discuss-the-future-of-surveillance-at-techcrunch-disrupt-2026/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Burnham promises help with your money. How could it affect you?",
+      "description": "The new PM says he will look at how much people can earn before paying tax but admitted changing it would be difficult.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2k76gydreo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Tate brothers arrested in US as further UK charges take total to 59",
-      "description": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
+      "title": "Burnham's policy choices reveal what kind of PM he wants to be",
+      "description": "The new prime minister has begun to set out key policies - starting with a vow to end rough sleeping.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c3r0x5nzg0eo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Messi on the brink of history - will it be his last World Cup game?",
-      "description": "Argentina captain Lionel Messi will play his 34th World Cup match in Sunday's final, but will it be his last appearance?",
+      "title": "Key takeaways as Andy Burnham becomes PM",
+      "description": "The new Labour leader has formally taken office and set out his priorities for power in No 10.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cql1xxxpndlo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c80nln7zgp7o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Digital ID plan to be scrapped in Burnham's first major policy pledge",
-      "description": "A spokesperson for the incoming prime minister says his government would “put its focus where people need it right now”.",
+      "title": "Watch: Starmer resigns, Burnham becomes PM... the day so far",
+      "description": "Andy Burnham has become the UK's prime minister after being appointed by the King at Buckingham Palace.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y08z25q8eo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/videos/cd0xgxgz135o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "5h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Violence repeatedly erupts in dementia care despite warnings, inspections show",
-      "description": "Nursing homes and assisted living facilities can be fertile ground for violence between residents with dementia, including fatal assaults. Court records and inspecitions how safeguards fall short.",
+      "title": "Putin meets North Korean foreign minister in diplomatic push",
+      "description": "The visit by North Korean Foreign Minister Choe Son Hui comes without an obvious occasion, such as a multilateral diplomatic event or state anniversary, and has raised speculation that she may be coordinating a possible…",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/07/19/nx-s1-5894692/dementia-violence-warning-supervision-nursing-homes-assisted-living-facility",
+      "url": "https://www.npr.org/2026/07/20/g-s1-134555/putin-meets-north-korean-foreign-minister-in-diplomatic-push",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "An Israeli paraglider tries to save migrating swifts that nest in the Western Wall",
-      "description": "Swifts have nested in Jerusalem's Western Wall since biblical times. Now one Israeli paraglider is trying to save them.",
+      "title": "3 U.S. personnel killed in Iran conflict. And, Hunter Biden opens up to NPR",
+      "description": "Three U.S. service members have been killed since Friday amid rising tension between the U.S. and Iran. And, Hunter Biden talks to NPR's Newsmakers about addiction and public scrutiny.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/07/19/nx-s1-5870684/israel-swift-birds-jerusalem",
+      "url": "https://www.npr.org/2026/07/20/g-s1-134553/up-first-newsletter-iran-us-service-members-hunter-biden",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "Lebanon convicts influencer of smuggling drugs in biscuits",
-      "description": "Lebanese food influencer Georges Dib, known as Dr Food, has been sentenced in absentia to life with hard labour.",
+      "title": "Ebola death toll in DRC surges to at least 930 as outbreak gathers pace",
+      "description": "Ebola spreading faster than any previous outbreak in DRC, with 37 new deaths recorded over just 24 hours at the weekend.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/lebanon-convicts-influencer-of-smuggling-drugs-in-biscuits?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/7/20/ebola-death-toll-in-drc-surges-to-at-least-930-as-outbreak-gathers-pace?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Why were Andrew and Tristan Tate arrested? Will they be extradited to UK?",
-      "description": "Influencer brothers arrested in Miami, as UK seeks extradition to face new charges of rape, sex trafficking and assault.",
+      "title": "Andy Burnham pledges end to political instability as he becomes UK PM",
+      "description": "Britain's seventh PM in a decade pledged major changes in bid to see off populist forces that are making large gains.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/19/why-were-andrew-and-tristan-tate-arrested-will-they-be-extradited-to-uk?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/7/20/andy-burnham-pledges-end-to-political-instability-as-he-becomes-uk-pm?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "US and Iran trade fire after two US soldiers killed in Jordan",
-      "description": "Kuwait says an electricity and water plant is on fire after the second such attack in two days. Iran says US strikes hit an under-construction nuclear power plant.",
+      "title": "What are ‘civilian’ sites in international law and where have US, Iran hit?",
+      "description": "The US has escalated attacks on Iranian roads, bridges and power plants, and Iran too, has responded.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/20/what-are-civilian-sites-in-international-law-and-where-have-us-iran-hit?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "What we know about US soldiers killed in Iran war, and Iranian casualties",
+      "description": "Trump has expressed sadness and vowed to hit Iran 'very hard' to honour killed US soldiers.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/20/what-we-know-about-us-soldiers-killed-in-iran-war-and-iranian-casualties?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
+      "description": "Russian strikes on the Odesa region have killed 28 people in July alone, local authorities say.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Why have India’s Gen Z protesters called for a march to parliament?",
-      "description": "After a prominent activist on hunger strike is forcibly removed, organisers announce a march to parliament.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/19/why-have-indias-gen-z-protesters-called-for-a-march-to-parliament?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Indian court rejects bid to release hunger-striking activist from hospital",
-      "description": "The wife of 59-year-old Sonam Wangchuk says his enforced hospitalisation is 'illegal detention'.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/19/indian-court-rejects-bid-to-release-hunger-striking-activist-from-hospital?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Russia launches major ballistic missile attack on Ukrainian cities",
-      "description": "Five people are killed and at least 35 injured as Ukraine's two largest cities are targeted, as Kyiv continues its own assault on Russian infrastructure.",
+      "title": "Hamas names Khalil al-Hayya as new overall leader",
+      "description": "The Palestinian armed group's Qatar-based chief negotiator replaces Yahya Sinwar, who was killed by Israeli forces in Gaza in 2024.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "3h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?",
-      "description": "“I’m also considering working with a credit-counseling agency or enrolling in a hardship program.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-have-racked-up-35-000-in-credit-card-debt-should-i-file-for-bankruptcy-4c92d9e5?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "American Airlines CEO lays out his vision to close a more than $3 billion profit gap",
-      "description": "The carrier is working on improving reliability, investing in more premium seats and lounges, and considering Boeing and Airbus for a new wide-body plane order.",
+      "title": "Oil prices turn lower after Iran says U.S. talks could be pursued based on national interests",
+      "description": "The U.S. has bombed Iran for nine consecutive nights in retaliation for repeated attacks on oil tankers transiting the Strait of Hormuz.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/19/american-airlines-ceo.html",
+      "url": "https://www.cnbc.com/2026/07/20/oil-prices-today-brent-wti-crude-us-iran-centcom-hormuz.html",
       "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Housing costs is the top political issue for young voters, CNBC survey finds",
-      "description": "The cost of housing is the top priority for voters ages 18 to 34, besting food and healthcare cost concerns, the CNBC All-America Economic Survey found.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/19/housing-costs-election-young-voters-cnbc-survey-finds.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Can the ‘Magnificent Seven’ save a stock market that might be doomed without them?",
-      "description": "Apple, Amazon, Nvidia and peers are quietly coming back to life, and that could easily jolt this sleepy stock market back into gear.",
+      "title": "I will claim Social Security early. Why do so few people talk about the elephant in the room?",
+      "description": "“The strongest argument for claiming benefits earlier goes beyond the traditional break-even analyses.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/can-the-magnificent-seven-save-a-stock-market-that-might-be-doomed-without-them-f88988f3?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "U.S. says it targeted Iranian forces after attacks that killed two American service members",
-      "description": "Centcom says it hit Iran's coastal surveillance and air defense facilities a day after two U.S. troops were killed in an Iranian strike on Jordan.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/19/us-says-it-targeted-iran-forces-after-deaths-of-two-american-troops.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "‘I am at a loss’: My brother is dying. We are not close. What responsibility do I have to help him?",
-      "description": "“He is now no longer able to think clearly or communicate his wishes.”",
+      "title": "Detecting cyclospora is ‘notoriously difficult.’ Here’s what the FDA’s apology to Taylor Farms means.",
+      "description": "The FDA and CDC are investigating iceberg lettuce sold by Taylor Farms to confirm the source of the cyclospora outbreak",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-am-at-a-loss-my-brother-is-dying-we-are-not-close-what-responsibility-do-i-have-to-help-him-08af705a?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/detecting-cyclospora-is-notoriously-difficult-heres-what-the-fdas-apology-to-taylor-farms-means-cafd3a2a?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "3h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Fantasy football rankings 2026: Busts via model that called Terry McLaurin's down season",
-      "description": "SportsLine simulated the new NFL season 10,000 times and identified Fantasy football busts 2026 to fade during your Fantasy football draft prep",
+      "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?",
+      "description": "“We would rather pay taxes upfront than pay mortgage interest.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "South Korean stocks weren’t a big deal in your emerging-markets fund. Artificial intelligence changed that.",
+      "description": "Is your emerging-markets fund an accidental bet on AI? Returns for these two ETFs show why it might be.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/south-korean-stocks-werent-a-big-deal-in-your-emerging-markets-fund-artificial-intelligence-changed-that-21308089?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "JetBlue wins Spirit slots at LaGuardia Airport, eyes move to Marine Air Terminal as airlines fight for space",
+      "description": "JetBlue Airways won takeoff and landing slots for up to 12 roundtrip flights at LaGuardia Airport.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/20/jetblue-spirit-airlines-laguardia-airport-new-york.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "MLB trade deadline buyers and sellers guide: Where all 30 teams stand two weeks away",
+      "description": "Thanks to muddled standings, most of the league is in the playoff hunt (even if they probably shouldn't be)",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-busts-via-model-that-called-terry-mclaurins-down-season/",
+      "url": "https://www.cbssports.com/mlb/news/mlb-trade-deadline-buyers-sellers-july-20/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "SportsLine Newsletter July 19, 2026",
-      "description": "Sunday Betting Guide: Top picks for the World Cup Final of Argentina vs. Spain, plus Yankees vs. Dodgers on Sunday Night Baseball",
+      "title": "Michigan AD Warde Manuel to step down at the end of calendar year after internal investigation",
+      "description": "The change at the top comes on the heels of a months-long investigation into the culture within the Michigan athletics department",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/",
+      "url": "https://www.cbssports.com/college-football/news/warde-manuel-michigan-ad-step-down-investigation/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "2026 SEC Media Days schedule, where to watch: When coaches, teams take stage during four-day kickoff event",
-      "description": "The rundown for the unofficial kickoff to SEC football season ahead of fall camp",
+      "title": "2026 3M Open odds, picks, field: Surprising predictions from golf model that's nailed 17 majors",
+      "description": "SportsLine's model simulated the 3M Open 2026 10,000 times and revealed surprising golf picks for TPC Twin Cities",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/2026-sec-media-days-schedule-where-to-watch/",
+      "url": "https://www.cbssports.com/betting/news/2026-3m-open-odds-picks-field-golf-predictions/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Use DraftKings promo code for $200 bonus bets by targeting Spain vs. Argentina, Messi in 2026 World Cup Final",
-      "description": "DraftKings offers $200 in bonus bets instantly after your first $5 wager for Argentina vs. Spain in 2026 World Cup betting on Sunday",
+      "title": "A united front: Brent Venables, Oklahoma's new AD face the SEC's hardest questions together",
+      "description": "After Oklahoma turned things around with a run to the CFP last season, Venables and his new AD are embracing the future in Norman",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-for-200-bonus-bets-spain-argentina-messi-2026-world-cup-final/",
+      "url": "https://www.cbssports.com/college-football/news/brent-venables-oklahoma-new-sec-hardest-questions/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
