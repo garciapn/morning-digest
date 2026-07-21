@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-20T15:29:26.495576+00:00",
-  "edition": "#167",
+  "date": "2026-07-21T15:22:29.306546+00:00",
+  "edition": "#168",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,228 +8,228 @@
   },
   "stories": [
     {
-      "title": "YouTube clarifies policies around AI slop and upsetting videos",
-      "description": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
+      "title": "Light made a flip phone. It’s colorful and it’s cheap.",
+      "description": "Light co-founder Kaiwei Tang helped create the Motorola Razr, and he's as surprised as anyone that over twenty years later, the flip phone is relevant again.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+      "url": "https://techcrunch.com/2026/07/21/light-is-modernizing-the-flip-phone-with-light-flip/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Athropic researchers",
-      "description": "AI infrastructure company Infinity announced Monday a $15 million raise at a $100 million valuation from investors including Touring Capital, Principal VC, and researchers from companies such as OpenAI and Anthropic.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion",
-      "description": "Article URL: https://nothings.org/gamedev/ssao/ Comments URL: https://news.ycombinator.com/item?id=48979931 Points: 4 # Comments: 0",
+      "title": "Gemini 3.6 Flash",
+      "description": "Article URL: https://console.cloud.google.com/agent-platform/publishers/google/model-garden/gemini-3.6-flash Comments URL: https://news.ycombinator.com/item?id=48993130 Points: 9 # Comments: 4",
       "source": "Hacker News",
-      "url": "https://nothings.org/gamedev/ssao/",
+      "url": "https://console.cloud.google.com/agent-platform/publishers/google/model-garden/gemini-3.6-flash",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Hackers stole ‘significant’ amount of data from tech firm relied on by thousands of US hospitals and pharmacies",
-      "description": "Edinburgh-based tech firm Craneware said customer data was stolen during a cyberattack. The company makes software that thousands of U.S. hospitals, pharmacies, and clinics rely on for billing patients, potentially expo…",
+      "title": "After TikTok, Snap settles social media addiction case",
+      "description": "Snap is the latest big tech company to settle a lawsuit that claimed social media platforms are harmful to children and young adults. The company has reached a “tentative” agreement in a case that was set to go to trial…",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/20/hackers-stole-significant-amount-of-data-from-tech-firm-relied-on-by-thousands-of-us-hospitals-and-pharmacies/",
+      "url": "https://techcrunch.com/2026/07/21/after-tiktok-snap-settles-social-media-addiction-case/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "The first trailer for Avengers: Doomsday is finally here",
-      "description": "\"Something's coming. Something we may not be able to deter.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/culture/2026/07/the-first-trailer-for-avengers-doomsday-is-finally-here/",
+      "title": "Claude Is Not a Compiler",
+      "description": "Article URL: https://blog.exe.dev/claude-is-not-a-compiler Comments URL: https://news.ycombinator.com/item?id=48993059 Points: 12 # Comments: 2",
+      "source": "Hacker News",
+      "url": "https://blog.exe.dev/claude-is-not-a-compiler",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Watch Flock Safety CEO Garrett Langley discuss the future of surveillance at TechCrunch Disrupt 2026",
-      "description": "Flock Safety sits right at the center of the debate over where the line should be drawn between privacy and public safety. That’s why we’re bringing Flock’s founder and CEO Garrett Langley to the stage to speak about th…",
+      "title": "AI music generator Suno breach affects 55M users, per Have I Been Pwned",
+      "description": "A hacker took names, phone numbers, and physical addresses of millions of customers who used AI music generator Suno.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/20/watch-flock-safety-ceo-garrett-langley-discuss-the-future-of-surveillance-at-techcrunch-disrupt-2026/",
+      "url": "https://techcrunch.com/2026/07/21/ai-music-generator-suno-breach-affects-55m-users-per-have-i-been-pwned/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Burnham promises help with your money. How could it affect you?",
-      "description": "The new PM says he will look at how much people can earn before paying tax but admitted changing it would be difficult.",
+      "title": "Sarah's Wager",
+      "description": "Article URL: https://colossus.com/article/sarah-guo-conviction/ Comments URL: https://news.ycombinator.com/item?id=48992960 Points: 10 # Comments: 0",
+      "source": "Hacker News",
+      "url": "https://colossus.com/article/sarah-guo-conviction/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "London-based civil servants offered move to No 10 North in Manchester",
+      "description": "London-based civil servants willing to move north have been told they will be offered relocation packages, the BBC understands.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8p0l29pxo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Burnham's policy choices reveal what kind of PM he wants to be",
-      "description": "The new prime minister has begun to set out key policies - starting with a vow to end rough sleeping.",
+      "title": "Ann Widdecombe was hit on head 21 times with hammer, prosecutors say",
+      "description": "Joshua Kerry, 28, attacked Widdecombe while she was eating lunch at her home in Devon before stealing her wallet, prosecutors say.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3r0x5nzg0eo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cj03r77n07jo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Key takeaways as Andy Burnham becomes PM",
-      "description": "The new Labour leader has formally taken office and set out his priorities for power in No 10.",
+      "title": "Row escalates in Ukraine over army chief's future",
+      "description": "Protesters are demanding Oleksandr Syrskyi be removed and former defence minister Mykhailo Fedorov reinstated by Friday.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c80nln7zgp7o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Watch: Starmer resigns, Burnham becomes PM... the day so far",
-      "description": "Andy Burnham has become the UK's prime minister after being appointed by the King at Buckingham Palace.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cd0xgxgz135o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c7vgel8374yo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Putin meets North Korean foreign minister in diplomatic push",
-      "description": "The visit by North Korean Foreign Minister Choe Son Hui comes without an obvious occasion, such as a multilateral diplomatic event or state anniversary, and has raised speculation that she may be coordinating a possible…",
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "description": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "5h ago"
+    },
+    {
+      "title": "The best games of 2026 so far, picked by NPR's staff",
+      "description": "Titans like Resident Evil Requiem and Crimson Desert dominated in the first half of the gaming year, with early-access sequels like Slay the Spire 2 and Subnautica 2 not far behind.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/07/20/g-s1-134555/putin-meets-north-korean-foreign-minister-in-diplomatic-push",
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5897567/best-games-2026-npr",
       "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "3 U.S. personnel killed in Iran conflict. And, Hunter Biden opens up to NPR",
-      "description": "Three U.S. service members have been killed since Friday amid rising tension between the U.S. and Iran. And, Hunter Biden talks to NPR's Newsmakers about addiction and public scrutiny.",
+      "title": "India's youth-led Cockroach movement vows to continue protest after police crackdown",
+      "description": "The movement, which began as a satirical protest, has evolved into a nationwide challenge to Prime Minister Narendra Modi's government.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/07/20/g-s1-134553/up-first-newsletter-iran-us-service-members-hunter-biden",
+      "url": "https://www.npr.org/2026/07/21/g-s1-134722/indias-youth-led-cockroach-movement-vows-to-continue-protest-after-police-crackdown",
       "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Ebola death toll in DRC surges to at least 930 as outbreak gathers pace",
-      "description": "Ebola spreading faster than any previous outbreak in DRC, with 37 new deaths recorded over just 24 hours at the weekend.",
+      "title": "Israel has ‘no interest’ in joining US war on Iran, says Smotrich",
+      "description": "Israeli Finance Minister says Israel has \"no interest\" in joining the renewed US military campaign against Iran.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/20/ebola-death-toll-in-drc-surges-to-at-least-930-as-outbreak-gathers-pace?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/israel-has-no-interest-in-joining-us-war-on-iran-says-smotrich?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Andy Burnham pledges end to political instability as he becomes UK PM",
-      "description": "Britain's seventh PM in a decade pledged major changes in bid to see off populist forces that are making large gains.",
+      "title": "Saudi condemns Houthi blockade: How will the rest of the world be impacted?",
+      "description": "Saudi Arabia has condemned the Houthi naval blockade that could impact oil flow to importers of Saudi oil.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/20/andy-burnham-pledges-end-to-political-instability-as-he-becomes-uk-pm?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/7/21/saudi-condemns-houthi-blockade-how-will-the-rest-of-the-world-be-impacted?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "What are ‘civilian’ sites in international law and where have US, Iran hit?",
-      "description": "The US has escalated attacks on Iranian roads, bridges and power plants, and Iran too, has responded.",
+      "title": "Searching for closure: Venezuela families refuse to give up after quakes",
+      "description": "Weeks after earthquakes, relatives are still searching for bodies of loved ones who disappeared beneath the rubble.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/20/what-are-civilian-sites-in-international-law-and-where-have-us-iran-hit?traffic_source=rss",
+      "url": "https://www.aljazeera.com/features/2026/7/21/searching-for-closure-venezuela-families-refuse-to-give-up-after-quakes?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "What we know about US soldiers killed in Iran war, and Iranian casualties",
-      "description": "Trump has expressed sadness and vowed to hit Iran 'very hard' to honour killed US soldiers.",
+      "title": "Japan’s AI gamble: Can technology offset the cost of an ageing society?",
+      "description": "From underground networks to emerging AI start-ups, Japan is testing whether its greatest issue can be an opportunity.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/20/what-we-know-about-us-soldiers-killed-in-iran-war-and-iranian-casualties?traffic_source=rss",
+      "url": "https://www.aljazeera.com/features/2026/7/21/japan-ai-gamble-can-technology-offset-the-cost-of-an-ageing-society?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
-      "description": "Russian strikes on the Odesa region have killed 28 people in July alone, local authorities say.",
+      "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+      "description": "The duties mark a major escalation in trade tensions between the North American neighbours.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "Hamas names Khalil al-Hayya as new overall leader",
-      "description": "The Palestinian armed group's Qatar-based chief negotiator replaces Yahya Sinwar, who was killed by Israeli forces in Gaza in 2024.",
+      "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+      "description": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "Pro stock pickers cannot beat simple math — war in the Middle East is proving it",
+      "description": "Active stock pickers almost always lose against the broad market. They can’t beat simple math.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/if-timing-the-stock-market-were-easy-the-iran-war-would-have-proven-it-its-done-the-opposite-ac090ad3?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Novo Nordisk’s lawsuit against Eli Lilly over ads highlights intense competition in GLP-1 market",
+      "description": "The Danish company Novo Nordisk says U.S.-based Lilly isn’t including the most up-to-date clinical information about its drugs.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/novo-nordisk-sues-eli-lilly-over-ads-comparing-glp-1-medications-6b223080?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Think this stock market is in a bubble? These earnings numbers say otherwise.",
+      "description": "Stay with the AI trade and overweight technology stocks, according to one earnings expert.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/welcome-to-the-roaring-20s-heres-how-this-earnings-season-will-keep-the-bull-market-strong-4a70be72?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Nvidia details its next-generation Vera CPU for AI, setting up challenge to AMD and Intel",
+      "description": "Nvidia released new information about its data center CPU, called Vera, that prospective customers need to fully evaluate the chip.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/21/nvidia-vera-cpu-ai-amd-intel.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Why Paramount could win if it loses the Warner Bros. Discovery deal",
+      "description": "States are trying to block Paramount’s mega-merger. Shareholders should root for them.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-paramount-could-win-if-it-loses-the-warner-bros-discovery-deal-5f174963?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "SpaceX sets earnings date, triggering first lock-up expiration for millions of shares",
+      "description": "SpaceX's stock gained on Tuesday and looked to snap a seven-day losing streak after announcing Aug. 4 as its maiden earnings report",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/21/spacex-spcx-earnings-lock-up-expiration.html",
+      "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Oil prices turn lower after Iran says U.S. talks could be pursued based on national interests",
-      "description": "The U.S. has bombed Iran for nine consecutive nights in retaliation for repeated attacks on oil tankers transiting the Strait of Hormuz.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/20/oil-prices-today-brent-wti-crude-us-iran-centcom-hormuz.html",
-      "category": "📈 MARKETS",
+      "title": "Peach Jam takeaways: Beckham Black, Lewis Uvwo deliver; latest buzz as college coaches evaluate top recruits",
+      "description": "The top standouts and how big-name recruits for Arkansas, Kentucky, Duke, Gonzaga, Iowa State and Vanderbilt fared at Peach Jam",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-basketball/news/peach-jam-takeaways-beckham-black-lewis-uvwo-college-basketball-recruiting/",
+      "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "I will claim Social Security early. Why do so few people talk about the elephant in the room?",
-      "description": "“The strongest argument for claiming benefits earlier goes beyond the traditional break-even analyses.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
+      "title": "Jon Rahm shrugs off question about playing on LIV Golf in 2027 amid league's uncertain future",
+      "description": "Rahm would not divulge much about his future or that of LIV Golf ahead of the circuit's latest stop in the United Kingdom",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/golf/news/jon-rahm-playing-liv-golf-2027-uncertain-future/",
+      "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Detecting cyclospora is ‘notoriously difficult.’ Here’s what the FDA’s apology to Taylor Farms means.",
-      "description": "The FDA and CDC are investigating iceberg lettuce sold by Taylor Farms to confirm the source of the cyclospora outbreak",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/detecting-cyclospora-is-notoriously-difficult-heres-what-the-fdas-apology-to-taylor-farms-means-cafd3a2a?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
+      "title": "Snyder's Soapbox: Please, stop expanding the MLB playoffs",
+      "description": "We already have too many postseason teams as it is",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/mlb/news/snyders-soapbox-mlb-playoff-expansion/",
+      "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?",
-      "description": "“We would rather pay taxes upfront than pay mortgage interest.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "South Korean stocks weren’t a big deal in your emerging-markets fund. Artificial intelligence changed that.",
-      "description": "Is your emerging-markets fund an accidental bet on AI? Returns for these two ETFs show why it might be.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/south-korean-stocks-werent-a-big-deal-in-your-emerging-markets-fund-artificial-intelligence-changed-that-21308089?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "JetBlue wins Spirit slots at LaGuardia Airport, eyes move to Marine Air Terminal as airlines fight for space",
-      "description": "JetBlue Airways won takeoff and landing slots for up to 12 roundtrip flights at LaGuardia Airport.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/20/jetblue-spirit-airlines-laguardia-airport-new-york.html",
-      "category": "📈 MARKETS",
+      "title": "Use DraftKings promo code to get $150 in bonus bets by targeting Dodgers vs. Phillies, MLB betting on Tuesday",
+      "description": "DraftKings offers $150 in bonus bets, paid within 14 days, after your first $5 wager for Phillies vs. Dodgers, MLB betting on Tuesday",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-150-bonus-bets-dodgers-phillies-mlb-betting-tuesday/",
+      "category": "🏀 SPORTS",
       "timeAgo": "1h ago"
-    },
-    {
-      "title": "MLB trade deadline buyers and sellers guide: Where all 30 teams stand two weeks away",
-      "description": "Thanks to muddled standings, most of the league is in the playoff hunt (even if they probably shouldn't be)",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/mlb/news/mlb-trade-deadline-buyers-sellers-july-20/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Michigan AD Warde Manuel to step down at the end of calendar year after internal investigation",
-      "description": "The change at the top comes on the heels of a months-long investigation into the culture within the Michigan athletics department",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/warde-manuel-michigan-ad-step-down-investigation/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "2026 3M Open odds, picks, field: Surprising predictions from golf model that's nailed 17 majors",
-      "description": "SportsLine's model simulated the 3M Open 2026 10,000 times and revealed surprising golf picks for TPC Twin Cities",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/2026-3m-open-odds-picks-field-golf-predictions/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "A united front: Brent Venables, Oklahoma's new AD face the SEC's hardest questions together",
-      "description": "After Oklahoma turned things around with a run to the CFP last season, Venables and his new AD are embracing the future in Norman",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/brent-venables-oklahoma-new-sec-hardest-questions/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
     }
   ]
 }
