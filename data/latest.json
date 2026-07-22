@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-21T15:22:29.306546+00:00",
-  "edition": "#168",
+  "date": "2026-07-22T15:19:53.295148+00:00",
+  "edition": "#169",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,228 +8,228 @@
   },
   "stories": [
     {
-      "title": "Light made a flip phone. It’s colorful and it’s cheap.",
-      "description": "Light co-founder Kaiwei Tang helped create the Motorola Razr, and he's as surprised as anyone that over twenty years later, the flip phone is relevant again.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/21/light-is-modernizing-the-flip-phone-with-light-flip/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Gemini 3.6 Flash",
-      "description": "Article URL: https://console.cloud.google.com/agent-platform/publishers/google/model-garden/gemini-3.6-flash Comments URL: https://news.ycombinator.com/item?id=48993130 Points: 9 # Comments: 4",
+      "title": "I Built a Private Genomics Study with Stoffel MPC",
+      "description": "Article URL: https://vishakh.blog/2026/07/21/i-built-a-private-genomics-study-with-stoffel-mpc/ Comments URL: https://news.ycombinator.com/item?id=49007546 Points: 11 # Comments: 1",
       "source": "Hacker News",
-      "url": "https://console.cloud.google.com/agent-platform/publishers/google/model-garden/gemini-3.6-flash",
+      "url": "https://vishakh.blog/2026/07/21/i-built-a-private-genomics-study-with-stoffel-mpc/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "After TikTok, Snap settles social media addiction case",
-      "description": "Snap is the latest big tech company to settle a lawsuit that claimed social media platforms are harmful to children and young adults. The company has reached a “tentative” agreement in a case that was set to go to trial…",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/21/after-tiktok-snap-settles-social-media-addiction-case/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Claude Is Not a Compiler",
-      "description": "Article URL: https://blog.exe.dev/claude-is-not-a-compiler Comments URL: https://news.ycombinator.com/item?id=48993059 Points: 12 # Comments: 2",
+      "title": "Most Americans Say \"Not in My Backyard\" to AI Data Centers",
+      "description": "Article URL: https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/ Comments URL: https://news.ycombinator.com/item?id=49007525 Points: 15 # Comments: 5",
       "source": "Hacker News",
-      "url": "https://blog.exe.dev/claude-is-not-a-compiler",
+      "url": "https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "AI music generator Suno breach affects 55M users, per Have I Been Pwned",
-      "description": "A hacker took names, phone numbers, and physical addresses of millions of customers who used AI music generator Suno.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/21/ai-music-generator-suno-breach-affects-55m-users-per-have-i-been-pwned/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Sarah's Wager",
-      "description": "Article URL: https://colossus.com/article/sarah-guo-conviction/ Comments URL: https://news.ycombinator.com/item?id=48992960 Points: 10 # Comments: 0",
+      "title": "OpenNode – Bitcoin Payment Processor",
+      "description": "Article URL: https://opennode.com/ Comments URL: https://news.ycombinator.com/item?id=49007524 Points: 28 # Comments: 14",
       "source": "Hacker News",
-      "url": "https://colossus.com/article/sarah-guo-conviction/",
+      "url": "https://opennode.com/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "London-based civil servants offered move to No 10 North in Manchester",
-      "description": "London-based civil servants willing to move north have been told they will be offered relocation packages, the BBC understands.",
+      "title": "How to Read a Painting",
+      "description": "Article URL: https://sheets.works/data-viz/how-to-read-a-painting/ Comments URL: https://news.ycombinator.com/item?id=49007487 Points: 32 # Comments: 12",
+      "source": "Hacker News",
+      "url": "https://sheets.works/data-viz/how-to-read-a-painting/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "What happens when you try to chop a photon in half?",
+      "description": "A mirror that moves mid-photon could release a shower of new photons.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/07/what-happens-when-you-try-to-chop-a-photon-in-half/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Samsung unveils new Galaxy Z8 foldables and Galaxy Watches, available August 7",
+      "description": "Samsung's new foldables are slimmer, faster, and more expensive.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/07/samsung-unveils-new-galaxy-z8-foldables-and-galaxy-watches-available-august-7/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Burnham to review early prisoner release scheme after anger over potential freeing of PC Harper's killers",
+      "description": "Lissie Harper says the possible early release of prisoners is \"deplorable\", after reports that two of PC Harper's killers could be freed early.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9d8p0l29pxo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c0ejwedl1gno?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Ann Widdecombe was hit on head 21 times with hammer, prosecutors say",
-      "description": "Joshua Kerry, 28, attacked Widdecombe while she was eating lunch at her home in Devon before stealing her wallet, prosecutors say.",
+      "title": "Ukrainian drones hit Russian online giant retailer Wildberries for second time",
+      "description": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj03r77n07jo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Row escalates in Ukraine over army chief's future",
-      "description": "Protesters are demanding Oleksandr Syrskyi be removed and former defence minister Mykhailo Fedorov reinstated by Friday.",
+      "title": "US to announce deal allowing Saudi Arabia a nuclear programme",
+      "description": "The agreement would fulfil a long-held Saudi ambition but could attract concern in Israel and from some US lawmakers.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c7vgel8374yo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-      "description": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
+      "title": "Ex-Southern Water boss among four charged over alleged plan to manipulate water quality tests",
+      "description": "Matthew Wright is accused alongside three others of trying to save the firm millions in penalties.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c36d0njy7jjo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Independent autopsy \"inconclusive\" on cause of death for 18-year-old Nolan Wells in Mississippi",
+      "description": "An independent autopsy of the body of Nolan Wells shows that the cause of death is undetermined pending an investigation, according to attorney Ben Crump.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5902909/independent-autopsy-inconclusive-on-cause-of-death-for-18-year-old-nolan-wells-in-mississippi",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Greetings from Jerusalem, whose holy sites host some of the oldest colonies of nesting swifts",
+      "description": "The scythe-winged birds have nested in the cracks of the Western Wall and other holy sites in Jerusalem for thousands of years.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/22/g-s1-134756/jerusalem-swifts-birds-nesting-western-wall",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Why Traore has opened a new front with Burkina Faso’s Muslim community",
+      "description": "New legislation and arrests are driving a rift between Burkina Faso's military government and Muslim scholars.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/22/why-traore-has-opened-a-new-front-with-burkina-fasos-muslim-community?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Tankers make sharp U-turns after Houthi shipping threat",
+      "description": "All of the ships were travelling to or from Saudi ports before changing course, ship-tracking data shows.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Zelenskyy sacks Syrskii: How many generals have Ukraine, Russia fired?",
+      "description": "Several Ukrainian and Russian generals have been sacked from their militaries over the course of the war in Ukraine.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/22/zelenskyy-sacks-syrskii-how-many-generals-have-ukraine-russia-fired?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Nearly 1,000 people have died from Ebola in DR Congo",
+      "description": "According to WHO figures, 999 people have died in DRC and two in Uganda due to the Bundibugyo strain of the virus.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/22/nearly-1000-people-have-died-from-ebola-in-dr-congo?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Open AI says its AI model “went rogue”: What do we know?",
+      "description": "The system hacked into another company without being prompted by a human.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/22/open-ai-says-its-ai-model-went-rogue-what-do-we-know?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
+      "description": "Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "5h ago"
     },
     {
-      "title": "The best games of 2026 so far, picked by NPR's staff",
-      "description": "Titans like Resident Evil Requiem and Crimson Desert dominated in the first half of the gaming year, with early-access sequels like Slay the Spire 2 and Subnautica 2 not far behind.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/21/nx-s1-5897567/best-games-2026-npr",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "India's youth-led Cockroach movement vows to continue protest after police crackdown",
-      "description": "The movement, which began as a satirical protest, has evolved into a nationwide challenge to Prime Minister Narendra Modi's government.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/21/g-s1-134722/indias-youth-led-cockroach-movement-vows-to-continue-protest-after-police-crackdown",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Israel has ‘no interest’ in joining US war on Iran, says Smotrich",
-      "description": "Israeli Finance Minister says Israel has \"no interest\" in joining the renewed US military campaign against Iran.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/israel-has-no-interest-in-joining-us-war-on-iran-says-smotrich?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Saudi condemns Houthi blockade: How will the rest of the world be impacted?",
-      "description": "Saudi Arabia has condemned the Houthi naval blockade that could impact oil flow to importers of Saudi oil.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/21/saudi-condemns-houthi-blockade-how-will-the-rest-of-the-world-be-impacted?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Searching for closure: Venezuela families refuse to give up after quakes",
-      "description": "Weeks after earthquakes, relatives are still searching for bodies of loved ones who disappeared beneath the rubble.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/21/searching-for-closure-venezuela-families-refuse-to-give-up-after-quakes?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Japan’s AI gamble: Can technology offset the cost of an ageing society?",
-      "description": "From underground networks to emerging AI start-ups, Japan is testing whether its greatest issue can be an opportunity.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/21/japan-ai-gamble-can-technology-offset-the-cost-of-an-ageing-society?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
-      "description": "The duties mark a major escalation in trade tensions between the North American neighbours.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
-      "description": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "Pro stock pickers cannot beat simple math — war in the Middle East is proving it",
-      "description": "Active stock pickers almost always lose against the broad market. They can’t beat simple math.",
+      "title": "AMD is investing $5 billion into Anthropic as it seeks to cut into Nvidia’s dominance",
+      "description": "The two companies also struck a chip deal.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/if-timing-the-stock-market-were-easy-the-iran-war-would-have-proven-it-its-done-the-opposite-ac090ad3?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/amd-is-investing-5-billion-into-anthropic-as-it-seeks-to-cut-into-nvidias-dominance-b882654d?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Novo Nordisk’s lawsuit against Eli Lilly over ads highlights intense competition in GLP-1 market",
-      "description": "The Danish company Novo Nordisk says U.S.-based Lilly isn’t including the most up-to-date clinical information about its drugs.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/novo-nordisk-sues-eli-lilly-over-ads-comparing-glp-1-medications-6b223080?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Think this stock market is in a bubble? These earnings numbers say otherwise.",
-      "description": "Stay with the AI trade and overweight technology stocks, according to one earnings expert.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/welcome-to-the-roaring-20s-heres-how-this-earnings-season-will-keep-the-bull-market-strong-4a70be72?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Nvidia details its next-generation Vera CPU for AI, setting up challenge to AMD and Intel",
-      "description": "Nvidia released new information about its data center CPU, called Vera, that prospective customers need to fully evaluate the chip.",
+      "title": "Reddit stock sinks on report it may not renew Google AI content deal",
+      "description": "Google's AI summaries have reduced traffic to websites from the search results page and Reddit is reconsidering the benefits of the deal, the Journal said.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/21/nvidia-vera-cpu-ai-amd-intel.html",
+      "url": "https://www.cnbc.com/2026/07/22/reddit-stock-google-ai-content-deal.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Why Paramount could win if it loses the Warner Bros. Discovery deal",
-      "description": "States are trying to block Paramount’s mega-merger. Shareholders should root for them.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-paramount-could-win-if-it-loses-the-warner-bros-discovery-deal-5f174963?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "SpaceX sets earnings date, triggering first lock-up expiration for millions of shares",
-      "description": "SpaceX's stock gained on Tuesday and looked to snap a seven-day losing streak after announcing Aug. 4 as its maiden earnings report",
+      "title": "Houthis deploy missiles and drones to attack ships in southern Red Sea, naval group says",
+      "description": "Attacks on ships transiting the Bab el-Mandeb threaten to cut off millions of barrels per day of Saudi crude oil exports.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/21/spacex-spcx-earnings-lock-up-expiration.html",
+      "url": "https://www.cnbc.com/2026/07/22/houthis-red-sea-bab-el-mandeb-saudi-oil-iran.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?",
+      "description": "“We would rather pay taxes upfront than pay mortgage interest.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Global oil prices rise above $95 a barrel for the first time in 6 weeks as hopes dim for de-escalation of Iran war",
+      "description": "Oil prices climbed on Wednesday morning to a six-week high after the U.S. struck Iran for the 11th night in a row, and President Trump warned that the U.S. will bomb Iran’s bridges and power plants if Tehran shoots at s…",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/oil-prices-climb-to-six-week-high-as-hopes-of-de-escalation-in-iran-diminish-b5fb0942?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Peach Jam takeaways: Beckham Black, Lewis Uvwo deliver; latest buzz as college coaches evaluate top recruits",
-      "description": "The top standouts and how big-name recruits for Arkansas, Kentucky, Duke, Gonzaga, Iowa State and Vanderbilt fared at Peach Jam",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-basketball/news/peach-jam-takeaways-beckham-black-lewis-uvwo-college-basketball-recruiting/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Jon Rahm shrugs off question about playing on LIV Golf in 2027 amid league's uncertain future",
-      "description": "Rahm would not divulge much about his future or that of LIV Golf ahead of the circuit's latest stop in the United Kingdom",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/golf/news/jon-rahm-playing-liv-golf-2027-uncertain-future/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Snyder's Soapbox: Please, stop expanding the MLB playoffs",
-      "description": "We already have too many postseason teams as it is",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/mlb/news/snyders-soapbox-mlb-playoff-expansion/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Use DraftKings promo code to get $150 in bonus bets by targeting Dodgers vs. Phillies, MLB betting on Tuesday",
-      "description": "DraftKings offers $150 in bonus bets, paid within 14 days, after your first $5 wager for Phillies vs. Dodgers, MLB betting on Tuesday",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-150-bonus-bets-dodgers-phillies-mlb-betting-tuesday/",
-      "category": "🏀 SPORTS",
+      "title": "This ‘incredibly disrespectful’ interview habit could be costing Gen Z jobs",
+      "description": "“This has more to do with the technology they grew up with rather than a sign of respect.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/its-incredibly-disrespectful-to-do-a-virtual-job-interview-by-phone-but-gen-z-is-doing-it-anyway-0d8486d7?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
       "timeAgo": "1h ago"
+    },
+    {
+      "title": "What you missed during World Cup: Jose Mourinho back at Real Madrid, Tottenham's spending spree, Barca moves",
+      "description": "With Jose Mourinho back at Real Madrid and Barcelona retooling their attack, El Clasico looks set to be as intense as ever next season",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/soccer/news/what-you-missed-during-world-cup-jose-mourinho-back-at-real-madrid-tottenhams-spending-spree-barca-moves/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Dave Richard's sleepers 1.0: Patrick Mahomes could be the steal of your draft",
+      "description": "Targeting quarterback and tight end values could win you your league",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/fantasy/football/news/dave-richards-sleepers-1-0-mahomes-could-be-the-steal-of-your-draft/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Jon Jones offers Khamzat Chimaev advice after first UFC loss: 'Go back to the drawing board'",
+      "description": "Jones has technical and psychological advice for Chimaev after his middleweight title loss to Sean Strickland",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/ufc/news/jon-jones-khamzat-chimaev-ufc-loss/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Heath Cummings' 2026 Fantasy football wide receiver tiers: Ja'Marr Chase leads the way",
+      "description": "Get a jump on your dynasty leagues with Heath's 2026 wide receiver tiers",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/fantasy/football/news/heath-cummings-2026-fantasy-football-wide-receiver-tiers/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
     }
   ]
 }
