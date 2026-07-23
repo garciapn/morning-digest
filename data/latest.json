@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-22T15:19:53.295148+00:00",
-  "edition": "#169",
+  "date": "2026-07-23T15:32:18.190507+00:00",
+  "edition": "#170",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,228 +8,228 @@
   },
   "stories": [
     {
-      "title": "I Built a Private Genomics Study with Stoffel MPC",
-      "description": "Article URL: https://vishakh.blog/2026/07/21/i-built-a-private-genomics-study-with-stoffel-mpc/ Comments URL: https://news.ycombinator.com/item?id=49007546 Points: 11 # Comments: 1",
-      "source": "Hacker News",
-      "url": "https://vishakh.blog/2026/07/21/i-built-a-private-genomics-study-with-stoffel-mpc/",
+      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+      "description": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Most Americans Say \"Not in My Backyard\" to AI Data Centers",
-      "description": "Article URL: https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/ Comments URL: https://news.ycombinator.com/item?id=49007525 Points: 15 # Comments: 5",
-      "source": "Hacker News",
-      "url": "https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/",
+      "title": "Edtech platform raises $4.5M to help teach students how to vibe code",
+      "description": "Imagi announced a $4.5 million seed round, with investors including Brighteye Ventures, Day One Capital, and artist Wil.i.am.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/23/edtech-platform-raises-4-5m-to-help-teach-students-how-to-vibe-code/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "OpenNode – Bitcoin Payment Processor",
-      "description": "Article URL: https://opennode.com/ Comments URL: https://news.ycombinator.com/item?id=49007524 Points: 28 # Comments: 14",
-      "source": "Hacker News",
-      "url": "https://opennode.com/",
+      "title": "Nvidia is sending GPUs to the moon",
+      "description": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "How to Read a Painting",
-      "description": "Article URL: https://sheets.works/data-viz/how-to-read-a-painting/ Comments URL: https://news.ycombinator.com/item?id=49007487 Points: 32 # Comments: 12",
-      "source": "Hacker News",
-      "url": "https://sheets.works/data-viz/how-to-read-a-painting/",
+      "title": "Google’s Gemini nears billion-user milestone",
+      "description": "Gemini had over 750 million monthly users in February.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "What happens when you try to chop a photon in half?",
-      "description": "A mirror that moves mid-photon could release a shower of new photons.",
+      "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
+      "description": "Aggressive training techniques sharpens threat of bad behavior by leading models.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/07/what-happens-when-you-try-to-chop-a-photon-in-half/",
+      "url": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Writing by Hand is Good for your Brain",
+      "description": "Article URL: https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your Comments URL: https://news.ycombinator.com/item?id=49022152 Points: 49 # Comments: 2",
+      "source": "Hacker News",
+      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Samsung unveils new Galaxy Z8 foldables and Galaxy Watches, available August 7",
-      "description": "Samsung's new foldables are slimmer, faster, and more expensive.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/07/samsung-unveils-new-galaxy-z8-foldables-and-galaxy-watches-available-august-7/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Burnham to review early prisoner release scheme after anger over potential freeing of PC Harper's killers",
-      "description": "Lissie Harper says the possible early release of prisoners is \"deplorable\", after reports that two of PC Harper's killers could be freed early.",
+      "title": "Oil prices hit $100 for the first time since May",
+      "description": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0ejwedl1gno?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Ukrainian drones hit Russian online giant retailer Wildberries for second time",
-      "description": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight.",
+      "title": "Saudis must recognise Israel for nuclear deal, says Trump",
+      "description": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "US to announce deal allowing Saudi Arabia a nuclear programme",
-      "description": "The agreement would fulfil a long-held Saudi ambition but could attract concern in Israel and from some US lawmakers.",
+      "title": "Pubs cheer business rates relief while other firms 'left out in the cold'",
+      "description": "Pubs welcomed the support package, while other High Street firms asked why they were left out.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Ex-Southern Water boss among four charged over alleged plan to manipulate water quality tests",
-      "description": "Matthew Wright is accused alongside three others of trying to save the firm millions in penalties.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c36d0njy7jjo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/clyvnz4489wo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Independent autopsy \"inconclusive\" on cause of death for 18-year-old Nolan Wells in Mississippi",
-      "description": "An independent autopsy of the body of Nolan Wells shows that the cause of death is undetermined pending an investigation, according to attorney Ben Crump.",
+      "title": "Wildfires and record dry conditions trigger drought in parts of Wales",
+      "description": "Wales has seen about 5% of the average rainfall for July, after a series of back-to-back heatwaves.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c80n5rvx917o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "In a first, Chinese woman wins the prestigious Fields Medal",
+      "description": "Despite criticisms of a brain drain from China to the U.S., the awards come at a time when several high-profile Chinese scholars have returned home, some citing an increasingly hostile academic environment in America.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5902909/independent-autopsy-inconclusive-on-cause-of-death-for-18-year-old-nolan-wells-in-mississippi",
+      "url": "https://www.npr.org/2026/07/23/g-s1-135032/in-a-first-chinese-woman-wins-the-prestigious-fields-medal",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Greetings from Jerusalem, whose holy sites host some of the oldest colonies of nesting swifts",
-      "description": "The scythe-winged birds have nested in the cracks of the Western Wall and other holy sites in Jerusalem for thousands of years.",
+      "title": "Republicans urge Justice Department to investigate former prosecutor Jack Smith",
+      "description": "The former special counsel led two criminal investigations of President Trump and has been a frequent target of Trump's ire on social media.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/07/22/g-s1-134756/jerusalem-swifts-birds-nesting-western-wall",
+      "url": "https://www.npr.org/2026/07/23/g-s1-135121/republicans-justice-department-jack-smith",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Why Traore has opened a new front with Burkina Faso’s Muslim community",
-      "description": "New legislation and arrests are driving a rift between Burkina Faso's military government and Muslim scholars.",
+      "title": "More than 100 UK millionaires ask new PM Andy Burnham to tax them more",
+      "description": "The 'Patriotic Millionaires' say 'wealth and power have been concentrated in a small group for too long'.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/22/why-traore-has-opened-a-new-front-with-burkina-fasos-muslim-community?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/7/23/more-than-100-uk-millionaires-ask-new-pm-andy-burnham-to-tax-them-more?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Tankers make sharp U-turns after Houthi shipping threat",
-      "description": "All of the ships were travelling to or from Saudi ports before changing course, ship-tracking data shows.",
+      "title": "Trump says Saudi nuclear pact hinges on kingdom joining Abraham Accords",
+      "description": "Claim casts further confusion over deal to launch US-supported civilian nuclear programme in Saudi Arabia.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/23/trump-says-saudi-nuclear-pact-hinges-on-kingdom-joining-abraham-accords?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Kuwait-Iraq border crossing hit in drone attack",
+      "description": "Kuwait's Defence Ministry said a drone attack hit the Abdali border crossing with Iraq, causing damage but no casualties",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/kuwait-iraq-border-crossing-hit-in-drone-attack?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "How shipping insurance rates are rising, as Hormuz, Bab al-Mandeb shut down",
+      "description": "Insurance rates through Hormuz are currently four times the five-year average.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/7/23/how-shipping-insurance-rates-are-rising-as-hormuz-bab-al-mandeb-shut-down?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
+      "description": "The Iran-backed group, which previously announced a \"maritime embargo\" against Saudi Arabia, also claims to have hit another vessel.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Zelenskyy sacks Syrskii: How many generals have Ukraine, Russia fired?",
-      "description": "Several Ukrainian and Russian generals have been sacked from their militaries over the course of the war in Ukraine.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/22/zelenskyy-sacks-syrskii-how-many-generals-have-ukraine-russia-fired?traffic_source=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Nearly 1,000 people have died from Ebola in DR Congo",
-      "description": "According to WHO figures, 999 people have died in DRC and two in Uganda due to the Bundibugyo strain of the virus.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/22/nearly-1000-people-have-died-from-ebola-in-dr-congo?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Open AI says its AI model “went rogue”: What do we know?",
-      "description": "The system hacked into another company without being prompted by a human.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/22/open-ai-says-its-ai-model-went-rogue-what-do-we-know?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
-      "description": "Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz.",
+      "title": "France evacuates 20,000 as wildfires spread in south-west",
+      "description": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "5h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "AMD is investing $5 billion into Anthropic as it seeks to cut into Nvidia’s dominance",
-      "description": "The two companies also struck a chip deal.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/amd-is-investing-5-billion-into-anthropic-as-it-seeks-to-cut-into-nvidias-dominance-b882654d?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Reddit stock sinks on report it may not renew Google AI content deal",
-      "description": "Google's AI summaries have reduced traffic to websites from the search results page and Reddit is reconsidering the benefits of the deal, the Journal said.",
+      "title": "Google Cloud CEO Kurian says customers are spending 50% more as segment blows away expectations",
+      "description": "Google Cloud CEO Thomas Kurian told CNBC on Thursday that the company's existing customers are spending \"roughly 50% more\" than they've already committed.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/22/reddit-stock-google-ai-content-deal.html",
+      "url": "https://www.cnbc.com/2026/07/23/google-cloud-kurian-revenue-earnings.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Houthis deploy missiles and drones to attack ships in southern Red Sea, naval group says",
-      "description": "Attacks on ships transiting the Bab el-Mandeb threaten to cut off millions of barrels per day of Saudi crude oil exports.",
+      "title": "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth",
+      "description": "Shares of Alphabet and Tesla dipped after the companies reported massive spending increases in their quarterly earnings reports.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/22/houthis-red-sea-bab-el-mandeb-saudi-oil-iran.html",
+      "url": "https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?",
-      "description": "“We would rather pay taxes upfront than pay mortgage interest.”",
+      "title": "Tesla sees a $200 billion wipeout as investors pan Musk’s plan to spend ‘as fast as we can’",
+      "description": "Tesla’s stock heads for its worst drop in a year after the company’s earnings call leaves Wall Street with more questions than answers.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/tesla-sees-a-200-billion-wipeout-as-investors-pan-musks-plan-to-spend-as-fast-as-we-can-6faee365?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Global oil prices rise above $95 a barrel for the first time in 6 weeks as hopes dim for de-escalation of Iran war",
-      "description": "Oil prices climbed on Wednesday morning to a six-week high after the U.S. struck Iran for the 11th night in a row, and President Trump warned that the U.S. will bomb Iran’s bridges and power plants if Tehran shoots at s…",
+      "title": "House lawmakers grill former JPMorgan executive Jes Staley over Epstein ties",
+      "description": "House oversight Chair James Comer said Jes Staley defended Jeffrey Epstein and encouraged JPMorgan to retain him despite internal red flags.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/23/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Trump says Saudi nuclear deal contingent on relations with Israel, does not include enrichment",
+      "description": "The civilian nuclear cooperation agreement, signed Wednesday, will be sent to Congress for review, the Department of Energy said.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/23/trump-saudi-arabia-nuclear-power.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Alphabet’s massive profit growth is just an illusion, as SpaceX and Anthropic help mask a historic cash drain",
+      "description": "Earnings quadrupled on paper, but an analyst calls that an “illusory” performance propped up by unrealized gains from equity investments.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/oil-prices-climb-to-six-week-high-as-hopes-of-de-escalation-in-iran-diminish-b5fb0942?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/alphabets-massive-profit-growth-is-just-an-illusion-as-spacex-and-anthropic-help-mask-a-historic-cash-drain-ffff172d?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "This ‘incredibly disrespectful’ interview habit could be costing Gen Z jobs",
-      "description": "“This has more to do with the technology they grew up with rather than a sign of respect.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/its-incredibly-disrespectful-to-do-a-virtual-job-interview-by-phone-but-gen-z-is-doing-it-anyway-0d8486d7?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
+      "title": "Fantasy football rankings 2026: Breakouts per model that called Tetairoa McMillan's huge season",
+      "description": "SportsLine simulated the NFL season 10,000 times and revealed its 2026 Fantasy football breakouts for 2026 Fantasy football draft prep",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-breakouts-per-model-that-called-tetairoa-mcmillans-huge-season/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "MLB rumors: Phillies could go bigger than expected; how Aaron Judge's injury may affect Yankees' plans",
+      "description": "The 2026 trade deadline is less than two weeks away",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/mlb/news/mlb-rumors-trade-deadline-phillies-rotation-yankees/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "CFL odds, picks: Edmonton vs. Saskatchewan, Hamilton vs. Montreal highlight expert's best bets for Week 8",
+      "description": "SportsLine football expert Emory Hunt gives his best bets for Week 8 of the 2026 CFL season",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/betting/news/cfl-odds-picks-edmonton-vs-saskatchewan-hamilton-vs-montreal-highlight-experts-best-bets-for-week-8/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Free MLB home run odds, picks for July 23: Expert's best Thursday HR player props include Nolan Arenado",
+      "description": "SportsLine MLB expert Adam Thompson shares his best home run props for Thursday, July 23",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/betting/news/free-mlb-home-run-odds-picks-for-july-23-experts-best-thursday-hr-player-props-include-nolan-arenado/",
+      "category": "🏀 SPORTS",
       "timeAgo": "1h ago"
-    },
-    {
-      "title": "What you missed during World Cup: Jose Mourinho back at Real Madrid, Tottenham's spending spree, Barca moves",
-      "description": "With Jose Mourinho back at Real Madrid and Barcelona retooling their attack, El Clasico looks set to be as intense as ever next season",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/what-you-missed-during-world-cup-jose-mourinho-back-at-real-madrid-tottenhams-spending-spree-barca-moves/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Dave Richard's sleepers 1.0: Patrick Mahomes could be the steal of your draft",
-      "description": "Targeting quarterback and tight end values could win you your league",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/fantasy/football/news/dave-richards-sleepers-1-0-mahomes-could-be-the-steal-of-your-draft/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Jon Jones offers Khamzat Chimaev advice after first UFC loss: 'Go back to the drawing board'",
-      "description": "Jones has technical and psychological advice for Chimaev after his middleweight title loss to Sean Strickland",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/ufc/news/jon-jones-khamzat-chimaev-ufc-loss/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Heath Cummings' 2026 Fantasy football wide receiver tiers: Ja'Marr Chase leads the way",
-      "description": "Get a jump on your dynasty leagues with Heath's 2026 wide receiver tiers",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/fantasy/football/news/heath-cummings-2026-fantasy-football-wide-receiver-tiers/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
     }
   ]
 }
