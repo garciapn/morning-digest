@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-23T15:32:18.190507+00:00",
-  "edition": "#170",
+  "date": "2026-07-24T15:13:21.015144+00:00",
+  "edition": "#171",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
-      "description": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
+      "title": "Midjourney acquired the astrology app Co-Star",
+      "description": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+      "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Edtech platform raises $4.5M to help teach students how to vibe code",
-      "description": "Imagi announced a $4.5 million seed round, with investors including Brighteye Ventures, Day One Capital, and artist Wil.i.am.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/23/edtech-platform-raises-4-5m-to-help-teach-students-how-to-vibe-code/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Nvidia is sending GPUs to the moon",
-      "description": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Google’s Gemini nears billion-user milestone",
-      "description": "Gemini had over 750 million monthly users in February.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
-      "description": "Aggressive training techniques sharpens threat of bad behavior by leading models.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Writing by Hand is Good for your Brain",
-      "description": "Article URL: https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your Comments URL: https://news.ycombinator.com/item?id=49022152 Points: 49 # Comments: 2",
+      "title": "Co-Opting Linux Processes for High-Performance Network Simulation (2022)",
+      "description": "Article URL: https://www.usenix.org/conference/atc22/presentation/jansen Comments URL: https://news.ycombinator.com/item?id=49036224 Points: 5 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+      "url": "https://www.usenix.org/conference/atc22/presentation/jansen",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Mag Computer: A Mag History of RAM (1960–2025)",
+      "description": "Article URL: https://magworld.pw/episodes/computer/ Comments URL: https://news.ycombinator.com/item?id=49036182 Points: 3 # Comments: 0",
+      "source": "Hacker News",
+      "url": "https://magworld.pw/episodes/computer/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "3GPP Version 19",
+      "description": "Article URL: https://www.3gpp.org/specifications-technologies/releases/release-19 Comments URL: https://news.ycombinator.com/item?id=49036136 Points: 10 # Comments: 1",
+      "source": "Hacker News",
+      "url": "https://www.3gpp.org/specifications-technologies/releases/release-19",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Open Weights and American AI Leadership [pdf]",
+      "description": "Article URL: https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf Comments URL: https://news.ycombinator.com/item?id=49035751 Points: 33 # Comments: 9",
+      "source": "Hacker News",
+      "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Oil prices hit $100 for the first time since May",
-      "description": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
+      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+      "description": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
+      "description": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Saudis must recognise Israel for nuclear deal, says Trump",
-      "description": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
+      "title": "'Extremely significant' bomb in car intercepted on way to NI, Irish police say",
+      "description": "Two people are arrested after a vehicle was stopped in County Monaghan in an operation targeting dissident republican activity.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cpq82dg0y3qo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Pubs cheer business rates relief while other firms 'left out in the cold'",
-      "description": "Pubs welcomed the support package, while other High Street firms asked why they were left out.",
+      "title": "Angela Rayner rules out rent controls in England",
+      "description": "The housing secretary tells the BBC that the Renters Rights' Act is already having a significant impact on the market.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyvnz4489wo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cx2dg54vprno?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Wildfires and record dry conditions trigger drought in parts of Wales",
-      "description": "Wales has seen about 5% of the average rainfall for July, after a series of back-to-back heatwaves.",
+      "title": "Southport killer Axel Rudakubana appears to be manipulating the system, families' lawyer says",
+      "description": "On Thursday, Axel Rudakubana was moved from prison to a secure psychiatric hospital in Berkshire.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c80n5rvx917o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cjrvy450jv5o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "In a first, Chinese woman wins the prestigious Fields Medal",
-      "description": "Despite criticisms of a brain drain from China to the U.S., the awards come at a time when several high-profile Chinese scholars have returned home, some citing an increasingly hostile academic environment in America.",
+      "title": "A former nun explains why she ran away from her 'Cloistered' life",
+      "description": "Catherine Coldstream entered a Carmelite monastery at age 24, and lived a life of prayer and obedience for 12 years. Her memoir is C loistered: My Years as a Nun. Originally published March 20, 2024.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/07/23/g-s1-135032/in-a-first-chinese-woman-wins-the-prestigious-fields-medal",
+      "url": "https://www.npr.org/2026/07/24/nx-s1-5904598/a-former-nun-explains-why-she-ran-away-from-her-cloistered-life",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Republicans urge Justice Department to investigate former prosecutor Jack Smith",
-      "description": "The former special counsel led two criminal investigations of President Trump and has been a frequent target of Trump's ire on social media.",
+      "title": "Oil surges to $100 per barrel. And, Trump imposes a new round of tariffs",
+      "description": "Oil surged to $100 per barrel after Iran-backed Houthi rebels attacked two Saudi tankers in the Red Sea. And, President Trump overnight replaced expiring tariffs with a slew of new ones.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/07/23/g-s1-135121/republicans-justice-department-jack-smith",
+      "url": "https://www.npr.org/2026/07/24/g-s1-135418/up-first-newsletter-iran-war-oil-prices-tariffs-wisconsin-corey-ruiz",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "More than 100 UK millionaires ask new PM Andy Burnham to tax them more",
-      "description": "The 'Patriotic Millionaires' say 'wealth and power have been concentrated in a small group for too long'.",
+      "title": "Senegal gets CAS date for appeal to regain AFCON from Morocco",
+      "description": "Senegal given October date by CAS for appeal to regain AFCON title won in chaotic final against Morocco in January.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/23/more-than-100-uk-millionaires-ask-new-pm-andy-burnham-to-tax-them-more?traffic_source=rss",
+      "url": "https://www.aljazeera.com/sports/2026/7/24/senegal-gets-cas-date-for-appeal-to-regain-afcon-from-morocco?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Trump says Saudi nuclear pact hinges on kingdom joining Abraham Accords",
-      "description": "Claim casts further confusion over deal to launch US-supported civilian nuclear programme in Saudi Arabia.",
+      "title": "World Cup hero Rodri to undergo back surgery before Man City’s new season",
+      "description": "Spain and Man City midfielder Rodri will need surgery and rest before returning to the club, new coach Maresca said.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/23/trump-says-saudi-nuclear-pact-hinges-on-kingdom-joining-abraham-accords?traffic_source=rss",
+      "url": "https://www.aljazeera.com/sports/2026/7/24/world-cup-hero-rodri-to-undergo-back-surgery-before-man-citys-new-season?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Kuwait-Iraq border crossing hit in drone attack",
-      "description": "Kuwait's Defence Ministry said a drone attack hit the Abdali border crossing with Iraq, causing damage but no casualties",
+      "title": "What to know about the White House Correspondents’ Dinner, take two",
+      "description": "Perennially controversial dinner is back, with Trump set to attend, after a gunman derailed the proceedings in April.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/kuwait-iraq-border-crossing-hit-in-drone-attack?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "How shipping insurance rates are rising, as Hormuz, Bab al-Mandeb shut down",
-      "description": "Insurance rates through Hormuz are currently four times the five-year average.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/23/how-shipping-insurance-rates-are-rising-as-hormuz-bab-al-mandeb-shut-down?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/7/24/what-to-know-about-the-white-house-correspondents-dinner-take-two?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
-      "description": "The Iran-backed group, which previously announced a \"maritime embargo\" against Saudi Arabia, also claims to have hit another vessel.",
+      "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
+      "description": "At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "France evacuates 20,000 as wildfires spread in south-west",
-      "description": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.",
+      "title": "Indian student protests: What’s next after Modi’s promise on exam leaks?",
+      "description": "Leaders of the Cockroach Janta Party (CJP) insist on the removal of Education Minister Dharmendra Pradhan.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/24/indian-student-protests-whats-next-after-modis-promise-on-exam-leaks?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "US hits dozens of countries with new wave of tariffs",
+      "description": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Google Cloud CEO Kurian says customers are spending 50% more as segment blows away expectations",
-      "description": "Google Cloud CEO Thomas Kurian told CNBC on Thursday that the company's existing customers are spending \"roughly 50% more\" than they've already committed.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/23/google-cloud-kurian-revenue-earnings.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth",
-      "description": "Shares of Alphabet and Tesla dipped after the companies reported massive spending increases in their quarterly earnings reports.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Tesla sees a $200 billion wipeout as investors pan Musk’s plan to spend ‘as fast as we can’",
-      "description": "Tesla’s stock heads for its worst drop in a year after the company’s earnings call leaves Wall Street with more questions than answers.",
+      "title": "U.S. economy had begun to speed up — until Iran peace talks failed and oil prices surged again",
+      "description": "S&P Global surveys find rising inflation and supply woes.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/tesla-sees-a-200-billion-wipeout-as-investors-pan-musks-plan-to-spend-as-fast-as-we-can-6faee365?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/u-s-economy-began-to-speed-up-until-iran-peace-talks-failed-and-oil-prices-surged-again-3fce66b2?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "House lawmakers grill former JPMorgan executive Jes Staley over Epstein ties",
-      "description": "House oversight Chair James Comer said Jes Staley defended Jeffrey Epstein and encouraged JPMorgan to retain him despite internal red flags.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/23/comer-jes-staley-jpmorgan-jeffrey-epstein-red-flags.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Trump says Saudi nuclear deal contingent on relations with Israel, does not include enrichment",
-      "description": "The civilian nuclear cooperation agreement, signed Wednesday, will be sent to Congress for review, the Department of Energy said.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/23/trump-saudi-arabia-nuclear-power.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Alphabet’s massive profit growth is just an illusion, as SpaceX and Anthropic help mask a historic cash drain",
-      "description": "Earnings quadrupled on paper, but an analyst calls that an “illusory” performance propped up by unrealized gains from equity investments.",
+      "title": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
+      "description": "“At that point, they arguably no longer need the government’s retirement safety net.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/alphabets-massive-profit-growth-is-just-an-illusion-as-spacex-and-anthropic-help-mask-a-historic-cash-drain-ffff172d?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "I lost my job, my emergency fund is running out and now I have to move back in with my parents. What did I do wrong?",
+      "description": "I’m 38 and thought I did everything right. What should I do now?",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-lost-my-job-my-emergency-fund-is-running-out-and-now-i-have-to-move-back-in-with-my-parents-what-did-i-do-wrong-cf1c0f9f?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Nvidia, Microsoft, Meta warn against 'premature restrictions' of open-weight models",
+      "description": "Chinese open-weight models are gaining steam against leading offerings from American companies. OpenAI and Anthropic did not sign the letter.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "‘I’m still confused’: I sold $80,000 in shares on June 30, so why didn’t I receive my dividend?",
+      "description": "“To my surprise, the proceeds from the sale were credited to my money-market settlement fund.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-still-confused-i-sold-80-000-in-shares-on-june-30-so-why-didnt-i-receive-my-dividend-d066016c?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Intel rides AI boom to fastest revenue growth in almost 15 years, but shares sink",
+      "description": "Intel's revenue jumped 25%, the most robust growth for any period since the third quarter of 2011.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Fantasy football rankings 2026: Breakouts per model that called Tetairoa McMillan's huge season",
-      "description": "SportsLine simulated the NFL season 10,000 times and revealed its 2026 Fantasy football breakouts for 2026 Fantasy football draft prep",
+      "title": "Rockies vs. Brewers Friday MLB picks, parlay: Disregard Tomoyuki Sugano's profitability in matinee mismatch",
+      "description": "The Rockies and Brewers open a series Friday afternoon in Milwaukee",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-breakouts-per-model-that-called-tetairoa-mcmillans-huge-season/",
+      "url": "https://www.cbssports.com/betting/news/rockies-vs-brewers-friday-mlb-picks-parlay-disregard-tomoyuki-suganos-profitability-in-matinee-mismatch/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "MLB rumors: Phillies could go bigger than expected; how Aaron Judge's injury may affect Yankees' plans",
-      "description": "The 2026 trade deadline is less than two weeks away",
+      "title": "How Red Sox's trade deadline plans completely changed: Targets and needs with Boston in buy mode",
+      "description": "The Red Sox looked like trade deadline sellers, and then they won 15 games in a row for the first time in 80 years",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/mlb/news/mlb-rumors-trade-deadline-phillies-rotation-yankees/",
+      "url": "https://www.cbssports.com/mlb/news/red-sox-trade-deadline-targets-needs-winning-streak/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "CFL odds, picks: Edmonton vs. Saskatchewan, Hamilton vs. Montreal highlight expert's best bets for Week 8",
-      "description": "SportsLine football expert Emory Hunt gives his best bets for Week 8 of the 2026 CFL season",
+      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Dodgers vs. Mets, MLB betting on Friday",
+      "description": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for MLB betting on Friday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/cfl-odds-picks-edmonton-vs-saskatchewan-hamilton-vs-montreal-highlight-experts-best-bets-for-week-8/",
+      "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-dodgers-mets-mlb-betting-friday/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Free MLB home run odds, picks for July 23: Expert's best Thursday HR player props include Nolan Arenado",
-      "description": "SportsLine MLB expert Adam Thompson shares his best home run props for Thursday, July 23",
+      "title": "Free MLB home run picks July 24: Dodgers' Kyle Tucker among expert's best bets for Friday",
+      "description": "SportsLine's Matt Severance shares his best MLB home run props picks for Friday, July 24",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/free-mlb-home-run-odds-picks-for-july-23-experts-best-thursday-hr-player-props-include-nolan-arenado/",
+      "url": "https://www.cbssports.com/betting/news/free-mlb-home-run-picks-july-24-dodgers-kyle-tucker-among-experts-best-bets-for-friday/",
       "category": "🏀 SPORTS",
       "timeAgo": "1h ago"
     }
