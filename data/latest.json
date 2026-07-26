@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-25T14:47:01.281668+00:00",
-  "edition": "#172",
+  "date": "2026-07-26T14:48:53.484017+00:00",
+  "edition": "#173",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "The Silurian Hypothesis (2020)",
-      "description": "Article URL: https://www.theparisreview.org/blog/2020/01/23/the-silurian-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=49047563 Points: 8 # Comments: 3",
+      "title": "Ask HN: What are the most promising RL fields for a new master student?",
+      "description": "i am an incoming msc student thinking about a research direction in reinforcement learning. which rl subfields do you think have the most potential right now? i am particularly interested in emboddied ai and bcis. Comme…",
       "source": "Hacker News",
-      "url": "https://www.theparisreview.org/blog/2020/01/23/the-silurian-hypothesis/",
+      "url": "https://news.ycombinator.com/item?id=49057972",
       "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
-      "description": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+      "title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
+      "description": "Article URL: https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c Comments URL: https://news.ycombinator.com/item?id=49057574 Points: 123 # Comments: 62",
+      "source": "Hacker News",
+      "url": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Go Analysis Framework: modular static analysis by go team",
+      "description": "Article URL: https://pkg.go.dev/golang.org/x/tools/go/analysis Comments URL: https://news.ycombinator.com/item?id=49057398 Points: 61 # Comments: 7",
+      "source": "Hacker News",
+      "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Third Drone Shot Down in Three Days in Romanian Territory",
+      "description": "Article URL: https://english.mapn.ro/ Comments URL: https://news.ycombinator.com/item?id=49057248 Points: 142 # Comments: 130",
+      "source": "Hacker News",
+      "url": "https://english.mapn.ro/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+      "description": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
       "category": "🤖 TECH & AI",
+      "timeAgo": "13h ago"
+    },
+    {
+      "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
+      "description": "The lawsuit will likely renew debates about whether term employment agreements are enforceable under California. law",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "17h ago"
+    },
+    {
+      "title": "Gatwick Airport left without running water after major outage",
+      "description": "Bottled water is being handed out to passengers and staff while the issue is investigated.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "What we know so far about the Berlin Pride ramming attack",
+      "description": "A police manhunt is under way after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "League of Legends designer shares game design field manual",
-      "description": "Article URL: https://areadenial.games/design/preface#00-01 Comments URL: https://news.ycombinator.com/item?id=49047198 Points: 33 # Comments: 20",
-      "source": "Hacker News",
-      "url": "https://areadenial.games/design/preface#00-01",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "title": "Rage-giving, innovation and cuts: How public media has survived without federal funds",
+      "description": "A year after President Trump signed a law ending six decades of federal funding of public media, it's a time of reinvention, innovation and clear anxiety at public tv and radio stations nationwide.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/26/nx-s1-5884022/pbs-npr-public-radio-tv-funding-trump",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
     },
     {
-      "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
-      "description": "Article URL: https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering Comments URL: https://news.ycombinator.com/item?id=49046858 Points: 0 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
+      "title": "Lebanese displaced by war turn to satellites to check their homes",
+      "description": "Unable to return home, some Lebanese displaced by Israel's invasion of southern Lebanon are buying satellite images to see whether their houses survived.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/26/g-s1-124672/lebanon-israel-war-homes-satellite",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
     },
     {
-      "title": "The Fedora 45 Sausage Factory",
-      "description": "Article URL: https://supakeen.com/weblog/the-fedora-45-sausage-factory/ Comments URL: https://news.ycombinator.com/item?id=49046525 Points: 43 # Comments: 2",
-      "source": "Hacker News",
-      "url": "https://supakeen.com/weblog/the-fedora-45-sausage-factory/",
-      "category": "🤖 TECH & AI",
+      "title": "Andy Burnham rules out early election in exclusive BBC interview",
+      "description": "The new prime minister told Laura Kuenssberg that people \"voted for a manifesto\" that he would honour, when pressed on whether there will be an early general election.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c935kzyq6r4o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "9h ago"
+    },
+    {
+      "title": "Burnham says he is prepared to call out Trump 'if right for Britain'",
+      "description": "Speaking exclusively to the BBC, the prime minister says he had a good first conversation with the US president and insists \"you have to defend your own national interest\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clye651yzdjo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "9h ago"
+    },
+    {
+      "title": "Senegal’s Faye launches a new party, formalising his split with Sonko",
+      "description": "Months of tensions between president and ex-ally culminate in split that will reshape Senegal's political landscape.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/26/senegals-faye-launches-a-new-party-formalising-his-split-with-sonko?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Controversial Argentina World Cup banner gets new life in print",
+      "description": "A workshop in Buenos Aires is offering fans free prints of ‘The Malvinas are Argentine’, recreating the divisive banner",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/controversial-argentina-world-cup-banner-gets-new-life-in-print?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Israel and the cost paradox of the Iran war",
+      "description": "Israel instigated the war on Iran and yet it has borne few of its costs.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/7/26/israel-and-the-cost-paradox-of-the-iran-war?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Israeli air strike on a vehicle in Gaza kills two Hamas security officials",
+      "description": "The head of internal security for Hamas in central Gaza was among the dead.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/26/israeli-air-strike-on-a-vehicle-in-gaza-kills-two-hamas-security-officials?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+      "description": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "3h ago"
     },
     {
-      "title": "With help from data, art museums are reframing the visitor experience",
-      "description": "Museums are embracing data-driven curation and a shifting technology landscape.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "3h ago"
+      "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+      "description": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two Israelis dead.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "4h ago"
     },
     {
-      "title": "Tourists tell BBC how their holiday turned into race to escape fires",
-      "description": "Families visiting France have told the BBC how their holidays have become evacuation missions.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c80ny93xlrvo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
+      "title": "Inside the S&P 500 AI boom, industrials are getting as rich as tech stocks",
+      "description": "The industrials sector of the stock market is benefitting from the AI infrastructure boom with its P/E ratio up close to tech levels and investor flows strong.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/26/best-ai-stocks-market-sp500.html",
+      "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Police declare 'major incident' over Cairngorms wildfire",
-      "description": "Some residents in the village of Nethy Bridge have left their homes over the threat the wildfire spreading.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c2k7g15v3epo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
+      "title": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'",
+      "description": "The latest attacks by Ukraine, combined with Saudi military strikes on Iran-backed Houthi targets in Yemen, represent a widening of the Middle East conflict.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/26/ukraine-strikes-iranian-vessels-tehran-accuses-kyiv-of-hostile-act.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "How AI wealth could be distributed to all Americans",
+      "description": "AI riches are already concentrated among a handful of powerful companies, but there are plenty of new, some radical, ideas about how to spread the wealth.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/26/how-can-ai-wealth-be-shared-with-all-americans.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "The S&P 500’s earnings growth has gone bonkers thanks to one company",
+      "description": "Markets are gearing up for the busiest week of second-quarter earnings season.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-s-p-500s-earnings-growth-has-gone-bonkers-thanks-to-one-company-1c45b2ba?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "‘We are not romantically involved’: I’m marrying my platonic best friend of 20 years. Should I leave him my home?",
+      "description": "“I own my home outright, have no children or other dependents.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-are-not-romantically-involved-im-marrying-my-platonic-best-friend-of-20-years-should-i-leave-him-my-home-3faa0a77?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Sean McCann, Madeleine's brother, makes Commonwealths final",
-      "description": "Sean McCann, the younger brother of Madeleine McCann, reaches the 400m freestyle final at Commonwealth Games.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/swimming/articles/c4gw7pzg70yo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Laura Kuenssberg goes behind the scenes with Andy Burnham in his first week as PM",
-      "description": "See inside Andy Burnham's first week in charge, with an exclusive behind the scenes look with Laura Kuenssberg.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c0l51y7k0wwo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "COMIC: Temps are predicted to hit 106 in Egypt this week. How do people stay cool?",
-      "description": "Back in the '90s, I learned the art of staying cool in Egypt. At that time, air conditioning was not common. In the extremely hot summer of 2026, how are people managing?",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/25/g-s1-135194/summer-heat-egypt-cairo-air-conditioning",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Opinion: New Jersey pizza, the fuel of world champions",
-      "description": "What do World Cup champions crave after a win? Pizza from an Orange, N.J., bagel shop. BXJ made 46 pies for the Spanish team after their victory.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/25/nx-s1-5898450/opinion-new-jersey-pizza-the-fuel-of-world-champions",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "The Global South is being forced to choose creditors over children",
-      "description": "The education of millions of children is at risk because of the current global financial order. We need change",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/7/25/the-global-south-is-being-forced-to-choose-creditors-over-children?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Atletico Madrid sign South Korea World Cup star Lee Kang-In from PSG",
-      "description": "Lee Kang-In makes the switch to Atletico after helping Paris Saint-Germain to consecutive Champions League titles.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/25/atletico-madrid-sign-south-korea-world-cup-star-lee-kang-in-from-psg?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Trump takes swipes at press during White House Correspondents' Dinner",
-      "description": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "War on Iran: Phase II: Day 14",
-      "description": "War on Iran: Phase II: Day 14",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/war-on-iran-phase-ii-day-14?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "F1 needs better balance between business and sport, says Norris",
-      "description": "Lando Norris speaks up ahead of Hungarian Grand Prix with drivers feeling new regulations have cramped their speed.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/25/f1-needs-better-balance-between-business-and-sport-says-norris?traffic_source=rss",
-      "category": "🌍 WORLD",
+      "title": "There’s a technical ‘triple threat’ for stocks, but also places investors can hide",
+      "description": "Treasury yields and oil prices surged, and the dollar confirmed the breakout toward a longer-term uptrend, to push the S&P 500 below key chart support.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/theres-a-technical-triple-threat-for-stocks-but-also-places-investors-can-hide-59108c6b?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-      "description": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "8h ago"
-    },
-    {
-      "title": "Imax 70 mm screenings become the biggest star for Christopher Nolan’s ‘The Odyssey’",
-      "description": "Moviegoers are traveling, lining up and paying premiums to see Christopher Nolan’s ‘The Odyssey’ in scarce Imax 70 mm screenings.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/25/the-odyssey-imax-70mm-screenings.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "A ‘generational buying opportunity’ guarantees inflation plus 3% a year, says this hedge-fund manager",
-      "description": "Bob Elliott sparks buzz highlighting the bargain level of TIPS.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/a-generational-buying-opportunity-guarantees-inflation-plus-3-a-year-says-this-hedge-fund-manager-eb4cd29c?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Trump sued hours after new tariffs take effect, as experts say they may not hold up",
-      "description": "President Donald Trump has renewed a flurry of tariffs, including slapping 25% duties on Brazilian imports and vowing 50% tariffs on goods from Canada.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/24/trump-tariffs-lawsuit-301-ieepa.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "S&P 500 flashes sell signals — options traders are bracing for wild swings in Apple, Meta and Microsoft",
-      "description": "Nervous investors set the stage for massive post-earnings moves in Wall Street’s biggest stocks.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/s-p-500-flashes-sell-signals-options-traders-are-bracing-for-wild-swings-in-apple-meta-and-microsoft-83ff7d65?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Are 7% mortgage rates next? The Treasury market is flashing a warning sign for home buyers.",
-      "description": "The 30-year fixed-rate mortgage edged up to its highest level of 2026.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-treasury-market-is-flashing-a-warning-sign-for-home-buyers-are-7-mortgage-rates-next-58b5b3b1?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation",
-      "description": "Distillation has long been a topic for AI wonks, but it's become a hot-button issue of late as techies and lawmakers debate how it should be regulated.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Why Johnny Keefer is comfortable on FedEx Cup Playoffs bubble as PGA Tour season winds down",
-      "description": "Keefer is one of many hoping to secure a spot in the postseason over these next three weeks",
+      "title": "WNBA to launch replay center in 2027: What we know about the facility and how it will impact officiating woes",
+      "description": "'This is one of the most significant investments we've ever made in our basketball operations,' commissioner Cathy Engelbert said before Saturday's All-Star Game",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/golf/news/why-johnny-keefer-is-comfortable-on-fedex-cup-playoffs-bubble-as-pga-tour-season-winds-down/",
+      "url": "https://www.cbssports.com/wnba/news/wnba-replay-center-officiating/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Fantasy football rankings 2026: Sleepers, breakouts, busts via simulation that predicted Daniel Jones' season",
-      "description": "SportsLine simulated the upcoming NFL season 10,000 times to help form your early 2026 Fantasy football draft strategy",
+      "title": "College football's rebound teams: Florida, Penn State among squads poised to improve win totals in 2026",
+      "description": "Whether it's through a new coach, rebuilt roster or easier schedule, these teams all have a chance to significantly improve their win totals from 2025",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-busts-via-simulation-that-predicted-daniel-jones-season/",
+      "url": "https://www.cbssports.com/college-football/news/college-footballs-rebound-teams-florida-penn-state-among-squads-poised-to-improve-win-totals-in-2026/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "UFC Fight Night start time for Magomed Ankalaev vs. Bogdan Guskov: Where to watch live on Paramount+",
-      "description": "Light heavyweight collide in the main event from Abu Dhabi",
+      "title": "Curtis Mead-Connelly Early trade grades: Nationals ace low-cost flip, Red Sox add much-needed length",
+      "description": "Both parties found exactly what they needed and made subtractions from an area of strength",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/ufc/news/ufc-fight-night-start-time-magomed-ankalaev-bogdan-guskov-where-to-watch-paramount/",
+      "url": "https://www.cbssports.com/mlb/news/curtis-mead-connelly-early-trade-grades-red-sox-nationals/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Errol Spence Jr. vs. Tim Tszyu fight predictions, odds, date, start time, location and more for return",
-      "description": "The former welterweight champion makes his debut at middleweight three years after his last appearance",
+      "title": "Use DraftKings promo code to get $150 in bonus bets by targeting Phillies vs. Yankees, MLB betting on Sunday",
+      "description": "DraftKings offers $150 in bonus bets after your first $5 wager for Yankees vs. Phillies, MLB betting on Sunday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/boxing/news/errol-spence-jr-vs-tim-tszyu-predictions-odds-card-date-start-time-location/",
+      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-150-bonus-bets-phillies-yankees-mlb-betting-sunday/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
