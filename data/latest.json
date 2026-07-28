@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-27T15:58:59.911939+00:00",
-  "edition": "#174",
+  "date": "2026-07-28T15:50:32.854778+00:00",
+  "edition": "#175",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,228 +8,228 @@
   },
   "stories": [
     {
-      "title": "Google’s AI search is rapidly becoming the default, new data shows",
-      "description": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
+      "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
+      "description": "The largest grid operator in the U.S. says it will cut power to large data centers to prevent blackouts starting next year.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+      "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
-      "description": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "This $9 key physically locks your most addictive apps",
-      "description": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Kimi-K3 Technical Report [pdf]",
-      "description": "Article URL: https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf Comments URL: https://news.ycombinator.com/item?id=49070985 Points: 96 # Comments: 9",
+      "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
+      "description": "Article URL: https://arxiv.org/abs/1202.4212 Comments URL: https://news.ycombinator.com/item?id=49085280 Points: 9 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf",
+      "url": "https://arxiv.org/abs/1202.4212",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Minecraft Java raises recommended memory to 16GB ahead of Vulkan transition",
-      "description": "Article URL: https://videocardz.com/newz/minecraft-java-edition-raises-recommended-memory-to-16gb-ahead-of-vulkan-transition Comments URL: https://news.ycombinator.com/item?id=49070820 Points: 16 # Comments: 15",
+      "title": "GrapheneOS Defends Data-Wiping Function That Blocked US Border Search",
+      "description": "Article URL: https://www.pcmag.com/news/grapheneos-defends-data-wiping-function-that-blocked-us-border-search Comments URL: https://news.ycombinator.com/item?id=49085236 Points: 24 # Comments: 4",
       "source": "Hacker News",
-      "url": "https://videocardz.com/newz/minecraft-java-edition-raises-recommended-memory-to-16gb-ahead-of-vulkan-transition",
+      "url": "https://www.pcmag.com/news/grapheneos-defends-data-wiping-function-that-blocked-us-border-search",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
-      "description": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
+      "title": "PayPal leaves the door open to a higher takeover offer following earnings beat",
+      "description": "After reporting better-than-expected Q2 results, PayPal said it remains focused on its AI-driven turnaround, but would consider a deal that creates more value for shareholders.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+      "url": "https://techcrunch.com/2026/07/28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Devastating European wildfires in maps - and how they're being tackled",
-      "description": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever.",
+      "title": "Elon Musk’s X Money app is rolling out in the U.S.",
+      "description": "The app is currently available to X Premium and Premium+ subscribers in the U.S.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/28/elon-musks-x-money-app-is-rolling-out-in-the-u-s/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "WhatsApp now lets you make calls using its web app",
+      "description": "Similar to the smartphone and desktop apps, the web app will support the calling features such as screen-sharing and reactions.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/28/whatsapp-now-lets-you-make-calls-using-its-web-app/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Uefa reacts with fury to Infantino World Cup plan",
+      "description": "European football's governing body Uefa reacts furiously to proposals from Fifa to seek private investment in its competitions, including the World Cup.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "The moment Tuesday's powerful earthquake hit Japan",
+      "description": "Video shows locations across the region where a strong earthquake struck Japan's Kyushu island on 28 July.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Powell says student loan system at top of in-tray",
+      "description": "She says she stands by past comments that the interest charged on Plan 2 loans is \"egregious\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce8l064xe52o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Man jailed for abduction and rape of girl, 15, in Edinburgh basement",
-      "description": "Aaron Strachan was told he may never be released from prison after abducting and raping the girl in Edinburgh last year.",
+      "title": "French Navy carries out 'shooting drill' during MP's BBC interview",
+      "description": "Shadow Home Secretary Chris Philp says the vessel fired 17 shots as he was giving a BBC interview.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c141x6lp8p4o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "NHS 'will collapse' without social care reform, PM tells BBC",
-      "description": "The prime minister says he would not want to leave office without bringing in \"substantial change\" to the social care system.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn0n5xpzlz2o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "UK's iconic Jodrell Bank telescope faces axe in science cuts",
-      "description": "Astronomers warn it would tear the heart out of UK science, and leave a generation untrained.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y6r9rdxygo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
-      "description": "A mass shooting at a Seattle festival has left three people dead. And, the U.S. and Iran have been exchanging diplomatic messages after nearly tw weeks of intense fighting.",
+      "title": "Photos: Spain and France's battle record wildfires",
+      "description": "Hundreds of thousands of people have been forced from their homes as powerful wildfires sweep across Spain and France, revealing the growing scale of a climate crisis already reshaping the continent.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/07/27/g-s1-135621/up-first-newsletter-mass-shooting-seattle-iran-us-war-democrats-senate-midterms",
+      "url": "https://www.npr.org/2026/07/28/g-s1-135880/photos-spain-france-wildfires-climate-change",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "France continues to fight devastating wildfires, while progress is made in Spain",
-      "description": "In southern France a wildfire in the region of Gironde is still active, while two major fires in central Spain are finally coming under control, ahead of the fourth heat wave of the summer.",
+      "title": "'Ricochet' explores how the right to bear arms expands -- while gun laws contract",
+      "description": "The New York Times reporter Mike McIntire says gun companies and the NRA are broadening the scope of the Second Amendment, socializing kids to appreciate guns and marketing a new brand of masculinity.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/07/27/nx-s1-5909107/france-spain-wildfires-updates",
+      "url": "https://www.npr.org/2026/07/28/nx-s1-5910517/ricochet-explores-how-the-right-to-bear-arms-expands-while-gun-laws-contract",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "5h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Israeli raid sparks fire at UN Palestinian refugee centre",
-      "description": "Israeli forces raided a United Nations Relief and Works Agency for Palestine Refugees training centre.",
+      "title": "Trump expresses frustration with Netanyahu before White House meeting",
+      "description": "US president says Iran talks progressing, reups threats if diplomacy fails before sit down with Israeli prime minister.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/israeli-raid-sparks-fire-at-un-palestinian-refugee-centre?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/7/28/trump-expresses-frustration-with-netanyahu-before-white-house-meeting?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Mapping Israeli settler violence in the West Bank",
-      "description": "Israeli settlers have set fire to a mosque in the West Bank village of Qusra, and continued violent attacks.",
+      "title": "German investigators find apparent motive after Berlin Pride attack",
+      "description": "Prosecutors say they uncover video of accused Berlin Pride attacker pledging allegiance to ISIL (ISIS).",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/27/mapping-israeli-settler-violence-in-the-west-bank?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/7/28/german-investigators-find-apparent-motive-after-berlin-pride-attack?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "How Israel uses settler-soldier terror to colonise the West Bank",
-      "description": "Settler attacks are not isolated incidents. They are all part of a strategy to grab land and colonise.",
+      "title": "FIFA World Cup: For India, qualification is still just a distant dream",
+      "description": "India failed to qualify for next year's Asian Cup, making a FIFA World Cup 2030 or 2034 appearance unlikely.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/7/27/how-israel-uses-settler-soldier-terror-to-colonise-the-west-bank?traffic_source=rss",
+      "url": "https://www.aljazeera.com/sports/2026/7/28/fifa-world-cup-for-india-football-qualification-is-still-just-a-distant-dream?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Why Venezuela is leaving the ICC",
-      "description": "Venezuela is withdrawing from the International Criminal Court, accusing it of bias against the Global South.",
+      "title": "Iraqi PM visits Turkiye to boost ties despite complex challenges",
+      "description": "Discussions to focus on 'strategic cooperation', as well as issues related to security, water and the economy.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/why-venezuela-is-leaving-the-icc?traffic_source=rss",
+      "url": "https://www.aljazeera.com/economy/2026/7/28/iraqi-pm-visits-turkiye-to-boost-ties-despite-complex-challenges?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Oil price dives as US and Iran pause attacks",
-      "description": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict.",
+      "title": "Gironde wildfires pick up as French region braces for new 40C heatwave",
+      "description": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "More than 600 US military service members injured since Iran War began in February",
-      "description": "The latest figure includes casualties from Operation Fury and a new category called \"Overseas Operations\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Amazon seeks federal approval to launch 5,105 satellites for direct-to-device network",
-      "description": "The proposed network will partly rely on assets from Globalstar, which Amazon announced plans to acquire in April for roughly $11.6 billion.",
+      "title": "US walks out of UN Security Council meeting during France's remarks",
+      "description": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "6h ago"
+    },
+    {
+      "title": "Visa is cutting 7% of employees in efficiency push as AI reshapes work",
+      "description": "Visa plans to cut about 7% of its workforce, or roughly 2,600 employees, as CEO Ryan McInerney seeks to streamline the payments giant.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/27/amazon-satellite-internet-network.html",
+      "url": "https://www.cnbc.com/2026/07/28/visa-is-cutting-7percent-of-employees-in-efficiency-push-as-ai-reshapes-work.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "CME launches single stock futures enabling investors to trade SpaceX, Micron and others 23 hours a day",
-      "description": "CME Group on Monday launched cash-settled single-stock futures on 55 U.S. equities, along with micro-sized contracts on 22 names.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/27/cme-launches-single-stock-futures-enabling-investors-to-trade-spacex-micron-23-hours-a-day.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Consolidated food supply may be worsening cyclospora outbreaks, experts say",
-      "description": "Experts say food industry consolidation may be amplifying the cyclospora outbreak, allowing contaminated produce to spread farther.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/27/cyclospora-outbreak-food-industry-consolidation.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Your retirement math may have a surprising flaw",
-      "description": "Stress-test your retirement plan against late-life healthcare and housing shocks.",
+      "title": "This is the ideal retirement strategy if you want to keep your healthcare costs down",
+      "description": "Plus, more ways to lower how much you pay out of pocket for medical care in retirement.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/your-retirement-math-may-have-a-surprising-flaw-2d8f58d8?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/heres-how-to-time-your-retirement-to-keep-your-healthcare-costs-down-b1a4d427?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Should you get paid to care for a family member?",
-      "description": "Serving as a family caregiver isn’t just exhausting. It can be financially devastating, as well.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/should-you-get-paid-to-care-for-a-family-member-70958828?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Sam Altman to meet with Trump administration, senators this week. Here's what he plans to say",
-      "description": "Altman will preview the capabilities of the company's upcoming family of AI models and answer questions about cybersecurity and open-weight models.",
+      "title": "AMD, Micron and Nvidia extend losses as chip stocks get clobbered",
+      "description": "Semiconductor stocks fell on Tuesday, extending a rout in chipmakers after another weak session on Wall Street.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/27/altman-trump-china-open-weight-ai.html",
+      "url": "https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "MLB rumors: Dodgers may be out on Skubal, who's scouting Foster Griffin, Mets could be in for deeper teardown",
-      "description": "The 2026 trade deadline is exactly a week away",
+      "title": "Your healthcare could now cost $185,500 in retirement — and that doesn’t include long-term care",
+      "description": "Rising prices for care and managing chronic conditions helped drive up the forecast.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/your-healthcare-could-now-cost-185-500-in-retirement-and-that-doesnt-include-long-term-care-5f4f6da8?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Stop snacking all day: Eating for only 8 or 9 hours a day may keep your mind sharp.",
+      "description": "A new study found cognitive improvements for shorter durations of eating",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/stop-snacking-restricting-eating-for-only-8-or-9-hours-a-day-may-keep-your-mind-sharp-1dc7e495?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "College kids are moving into retirement communities for reasons beyond ‘cheap rent’",
+      "description": "Students are forging intergenerational bonds while planning game nights and teaching gym classes, but “by 7:30 or 8, things get pretty quiet here.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/college-kids-are-moving-into-retirement-communities-for-reasons-beyond-cheap-rent-577dc94b?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Free MLB home run picks, odds for July 28: Bryce Harper in expert's best bets for Tuesday HR player props",
+      "description": "SportsLine's Jacob Fetner reveals his best MLB home run props picks for Tuesday, July 28",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/mlb/news/mlb-rumors-trade-deadline-astros-foster-griffin-phillies-rays-mets-luke-weaver-huascar-brazoban-white-sox/",
+      "url": "https://www.cbssports.com/betting/news/free-mlb-home-run-picks-odds-july-28-bryce-harper-expert-best-bets-for-tuesday-hr-player-props/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "2026 Big Ten predicted order of finish: Ohio State ahead of Oregon, Indiana in unofficial media poll",
-      "description": "Media members have made their unofficial picks as the Big Ten hopes to win its fourth consecutive national championship this season",
+      "title": "USMNT's Tyler Adams aims to improve youth soccer accessibility, ride wave of 2026 World Cup",
+      "description": "USMNT star Tyler Adams is part of an effort to build mini-pitches, aiming to make the game accessible for the next generation of American talent",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/2026-big-ten-predicted-finish-ohio-state-oregon-indiana/",
+      "url": "https://www.cbssports.com/soccer/news/usmnts-tyler-adams-youth-soccer-accessibility-2026-world-cup/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Wife of Chiefs OC Eric Bieniemy reportedly shot at Virginia home, son arrested and charged",
-      "description": "Elijah Zion Bieniemy of Ashburn faces multiple charges",
+      "title": "Fantasy Baseball Trade Deadline: The 31 players who could be most impacted, from Kade Anderson to Mason Miller",
+      "description": "The players who could gain or lose value as a result of deadline deals may not be who you expect",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/chiefs-oc-eric-bieniemy-wife-shot/",
+      "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-trade-deadline-the-31-players-who-could-be-most-impacted/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "How to build Fantasy Football league winner at No. 5 overall in PPR leagues; full results, winning picks, more",
-      "description": "Here's how it played out picking from the fifth slot",
+      "title": "Ohio State's uniforms are an iconic part of college football lore -- now, they also sell you credit cards",
+      "description": "Scarlet, Gray and mortgages? Ohio State's new Chase Bank logo patches are the latest reminder that no college football tradition is sacred anymore",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/fantasy/football/news/how-to-build-fantasy-football-league-winner-at-no-5-overall/",
+      "url": "https://www.cbssports.com/college-football/news/ohio-states-uniforms-college-football-jersey-patch/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     }
   ]
 }
