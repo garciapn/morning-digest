@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-29T15:30:31.261381+00:00",
-  "edition": "#176",
+  "date": "2026-07-30T15:32:32.658778+00:00",
+  "edition": "#177",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-      "description": "Hi HN, I built a specialized inference engine for running 4-bit Gemma 4 26B-A4B-IT on any M-series Mac using about 2 GB of RAM. It is called TurboFieldfare and is written in Swift and Metal. I have always adored on-devi…",
-      "source": "Hacker News",
-      "url": "https://github.com/drumih/turbo-fieldfare",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
-      "description": "Polar has come out with an AI-first browser aimed at knowledge workers, and it has now raised a $5.7 million seed round led by Madrona.",
+      "title": "Netflix lands global streaming deal for ‘The Walking Dead’",
+      "description": "Netflix just signed a massive new licensing agreement worth $500 million to bring The Walking Dead Universe to international markets.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
+      "url": "https://techcrunch.com/2026/07/30/netflix-lands-global-streaming-deal-for-the-walking-dead/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands",
-      "description": "Article URL: https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html Comments URL: https://news.ycombinator.com/item?id=49098198 Points: 13 # Comments: 4",
-      "source": "Hacker News",
-      "url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-      "description": "The startup analyzes calls, messages and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
+      "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+      "description": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+      "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Choose DuckDB rather than SQLite",
-      "description": "Article URL: https://tracewayapp.com/blog/sqlite-vs-duckdb Comments URL: https://news.ycombinator.com/item?id=49097730 Points: 65 # Comments: 36",
+      "title": "Fusion power darling Commonwealth Fusion Systems raises another $1B",
+      "description": "Commonwealth Fusion Systems raised $1 billion as the startup moves toward its first commercial fusion power plant.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "description": "Article URL: https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/ Comments URL: https://news.ycombinator.com/item?id=49111237 Points: 7 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://tracewayapp.com/blog/sqlite-vs-duckdb",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Show HN: A verification browser for AI agents – 13ms windows, one-call checks",
-      "description": "Article URL: https://github.com/hongnoul/hwatu Comments URL: https://news.ycombinator.com/item?id=49097727 Points: 7 # Comments: 1",
+      "title": "The Economic Benefit of Refactoring",
+      "description": "Article URL: https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html Comments URL: https://news.ycombinator.com/item?id=49111176 Points: 4 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://github.com/hongnoul/hwatu",
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Serial killer given whole life orders for murders of two men as police investigate four more deaths",
-      "description": "Police are reviewing four unexplained deaths at a homeless shelter where James Desborough stayed.",
+      "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
+      "description": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "European nations to boycott World Cup if Fifa goes ahead with investment plan",
+      "description": "Uefa's 55 member associations vote to boycott the World Cup if Fifa proceeds with its plan to sell stakes in its competitions.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cddjz02d8jgo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "More than half of England in drought, Environment Agency declares",
-      "description": "The drought declarations follow an exceptionally hot and dry period, which has hit rivers, crops and nature.",
+      "title": "Drought declared across whole of Wales as conditions 'deteriorate'",
+      "description": "Wales is on course for its driest July on record in almost 190 years.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c8jn1v37znvo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Bank holds interest rates but says it is ready to raise them if Iran war escalates",
+      "description": "The Bank also expects the economy to grow more than previously forecast this year, although uncertainties remain because of the Iran war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Thousands evacuated in Crete as Europe battles wildfires",
+      "description": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "The economy slowed a bit -- but Americans continued to spend",
+      "description": "The U.S. economy grew at an annual rate of 1.5% in the spring, according to the Commerce Department. That's a modest slowdown from the previous quarter — but consumer spending picked up steam.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/30/nx-s1-5913230/economy-gdp-inflation",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Burnham doesn't rule out tax rises to fix social care",
-      "description": "The prime minister holds cross-party talks as he speeds up review of social care in England.",
+      "title": "Alien Terrorist Removal Court to hold its first-ever hearing after 30 years",
+      "description": "Congress created the Alien Terrorist Removal Court in 1996 to make it easier for the Justice Department to use classified evidence to deport people from U.S. soil.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/30/g-s1-136289/alien-terrorist-removal-court-isis-terror-plot",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Smoke rises over southern Iran after renewed US attacks",
+      "description": "A large plume of smoke was seen rising over the southwestern Iranian city of Ahvaz following renewed US strikes.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/smoke-rises-over-southern-iran-after-renewed-us-attacks?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "War on Iran: Phase II: Day 19",
+      "description": "The US resumes bombing Iran, with a family of three killed in Qeshm Island.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/war-on-iran-phase-ii-day-19?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Police arrest dozens at London rally supporting Palestine Action",
+      "description": "The protest is the first in support of the proscribed group since Andy Burnham became prime minister.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/30/police-arrest-dozens-at-london-rally-supporting-palestine-action?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "El Salvador sentences gang members to 1,000 years in prison",
+      "description": "El Salvador sentences gang members to 1,000 years in prison",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/el-salvador-sentences-gang-members-to-1000-years-in-prison?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+      "description": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg6d21zdyro?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
+      "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Greetings from an isolated region in northern Pakistan's Hindu Kush mountains",
-      "description": "Chitral borders Afghanistan and isn't easy to reach. Breathtaking views abound in this remote mountainous region — as do rockslides and avalanches.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/29/g-s1-135641/pakistan-chitral-hindu-kush-mountains",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic",
-      "description": "The U.S. and Iran have resumed fighting after Iran attacked U.S. forces in the Middle East yesterday. And, a Senate committee will question Anthony Fauci about the COVID-19 pandemic.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/29/g-s1-136076/up-first-newsletter-iran-benjamin-netanyahu-trump-iowa-water-anthony-fauci-fed-rates",
-      "category": "🌎 TOP NEWS",
+      "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+      "description": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "4h ago"
     },
     {
-      "title": "New York school pauses plan to deploy humanlike AI robot teacher after backlash",
-      "description": "A school district in upstate New York is pausing plans to deploy an AI-powered, humanoid robot in the classroom after state education officials, teachers and local residents raised concerns.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/29/g-s1-136072/ai-robot-teacher",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "6h ago"
-    },
-    {
-      "title": "Anthony Fauci refuses to answer questions during US Senate hearing about Covid origins",
-      "description": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Why Saudi Arabia holds the key to Palestinian statehood",
-      "description": "Riyadh’s position in the Arab and Islamic worlds bears significant weight in the prospect of normalisation with Israel.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/7/29/why-saudi-arabia-holds-the-key-to-palestinian-statehood?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Indian student in Russia says he’s been wrongly charged over Bihar protests",
-      "description": "An Indian student from Bihar says he has been charged over ‘Cockroach’ protests despite being in Russia.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/29-07-sv-india-student-arrests-in?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "US and Israeli leaders expected ‘swift outcome’ in Iran",
-      "description": "New details are emerging of how US and Israeli officials believed the war on Iran would be straightforward and short.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-israeli-leaders-expected-swift-outcome-in-iran?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Thousands in Spain return home but new heatwave raises wildfire fears",
-      "description": "Spain and France are both braced for the start of the fourth heatwave so far this summer and some fires have continued to burn.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "‘There is no ceasefire’ say Palestinians in Gaza after new Israeli strikes",
-      "description": "'There is no ceasefire' say Palestinians in Gaza after new Israeli strikes",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/there-is-no-ceasefire-say-palestinians-in-gaza-after-new-israeli-strikes?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Oil prices jump more than 7% after Trump says U.S. will hit Iran hard",
-      "description": "Oil rose sharply amid renewed tensions in the Middle East after Iran launched an attack on U.S. forces using ballistic missiles.",
+      "title": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
+      "description": "While the GDP number was below expectations, the miss appeared to come from a decline in federal government spending and inventories.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html",
+      "url": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "I got an unexpected $1,000 medical bill. Here’s why I’m not paying it yet.",
-      "description": "Before you pay any medical bill, take these steps to check it — and possibly lower it.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-got-an-unexpected-1-000-medical-bill-heres-why-im-not-paying-it-yet-67265caf?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "‘We already have wills’: We’re in our 60s with $1.5 million. Should we set up a trust to prevent conflict among our heirs?",
-      "description": "“I realize that probate can be lengthy, public and expensive.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-already-have-wills-were-in-our-60s-with-1-5-million-how-do-we-prevent-family-drama-among-our-heirs-bf7b0eb1?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Nike was once China's sneaker king. Here's why its sales have fallen 30%",
-      "description": "China was once Nike's fastest-growing region but the company has lost relevance among young consumers and ceded market share to smaller, domestic brands.",
+      "title": "AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say",
+      "description": "Leopold Aschenbrenner's hedge fund has sold all of its public stock holdings, according to people familiar with the matter.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/29/nike-china-sales-decline.html",
+      "url": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Medicare is about to change a drug program that held down the cost of premiums. Here’s what to know.",
-      "description": "Experts say this could mean that more seniors will switch to Medicare Advantage plans",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/medicare-is-about-to-change-a-program-that-held-down-the-cost-of-premiums-heres-what-to-know-42c0612e?mod=mw_rss_topstories",
+      "title": "Meta tanks 9%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits",
+      "description": "Microsoft posted strong Azure and Copilot growth, while Meta missed revenue guidance forecasts as free cash flow plunged leading to diverging stock moves.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
-      "description": "“Her husband passed away 10 years ago. They had been married for more than 20 years.”",
+      "title": "Americans are spending plenty — but they’re saving much less",
+      "description": "Consumer spending rose again in June to cap off a strong second quarter, but households had to dig deep into their savings to pay for their purchases after a recent surge in inflation.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/americans-are-spending-plenty-but-theyre-saving-much-less-ffb995d2?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "People from this country are buying up the most homes in America right now, even as international sales dry up",
+      "description": "International buyers only bought about 67,000 homes in the U.S. over the last 12 months ending in March, a near-record low, according to the National Association of Realtors.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/this-country-is-buying-up-the-most-homes-in-america-right-now-even-as-international-sales-dry-up-c8b2afbb?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Dave Richard's 12 players to avoid will save your 2026 Fantasy Football season: Do not draft these busts!",
-      "description": "Try not to reach for some of the names you've come to know and love.",
+      "title": "‘Don’t get suckered like I did’: I paid $185 to the wrong passport website. Can I get my money back?",
+      "description": "“I will file a complaint with the Better Business Bureau.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/dont-get-suckered-like-i-did-i-paid-185-to-the-wrong-passport-website-can-i-get-my-money-back-3a781412?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "2026 Fantasy football draft prep: Elite NFL experts reveal rankings, top 150, strategy, rookies to target",
+      "description": "SportsLine's 2026 Fantasy football draft guide includes Fantasy football auction values, keeper advice, top rookies, mock drafts and more",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-busts-2026/",
+      "url": "https://www.cbssports.com/fantasy/football/news/2026-fantasy-football-draft-prep-elite-nfl-experts-reveal-rankings-top-150-strategy-rookies-to-target/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "WNBA trade deadline: Three possible landing spots for Kelsey Plum as Los Angeles Sparks sit at crossroads",
-      "description": "Ahead of the trade deadline on August 2, the Sparks have franchise-altering decisions to make",
+      "title": "PrizePicks promo code and app review: Play $5, Get $50",
+      "description": "Here's a look at the latest PrizePicks promo code and review of the app",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/wnba/news/wnba-trade-deadline-three-spots-sparks-kelsey-plum/",
+      "url": "https://www.cbssports.com/betting/news/prizepicks/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for White Sox-Yankees, MLB betting on Wednesday",
-      "description": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for MLB betting on Wednesday",
+      "title": "SportsLine Newsletter Thursday, July 30, 2026 WORKING",
+      "description": "Today's best bets + Parlay of the Day + Liberty-Aces + Baker Mayfield",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-white-sox-yankees-mlb-betting-wednesday/",
+      "url": "https://www.cbssports.com/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "2026 UFC event schedule: Uros Medic vs. Daniel Rodriguez, Islam Makhachev vs. Ian Machado Garry on tap",
-      "description": "Check out a complete list of UFC pay-per-view and Fight Night events scheduled for 2026",
+      "title": "Use DraftKings promo code to get $150 in bonus bets by targeting Braves-Nationals, Padres-Giants, MLB Thursday",
+      "description": "DraftKings offers $150 in bonus bets after your first $5 wager for MLB betting on Thursday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/ufc/news/2026-ufc-event-schedule-islam-makhachev-ian-machado-garry/",
+      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-150-bonus-bets-braves-nationals-padres-giants-mlb-thursday/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
