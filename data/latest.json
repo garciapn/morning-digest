@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-30T15:32:32.658778+00:00",
-  "edition": "#177",
+  "date": "2026-07-31T15:37:51.116716+00:00",
+  "edition": "#178",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,228 +8,228 @@
   },
   "stories": [
     {
-      "title": "Netflix lands global streaming deal for ‘The Walking Dead’",
-      "description": "Netflix just signed a massive new licensing agreement worth $500 million to bring The Walking Dead Universe to international markets.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/30/netflix-lands-global-streaming-deal-for-the-walking-dead/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
-      "description": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Fusion power darling Commonwealth Fusion Systems raises another $1B",
-      "description": "Commonwealth Fusion Systems raised $1 billion as the startup moves toward its first commercial fusion power plant.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "description": "Article URL: https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/ Comments URL: https://news.ycombinator.com/item?id=49111237 Points: 7 # Comments: 0",
+      "title": "Is AI Reasoning Right for the Wrong Reasons?",
+      "description": "Article URL: https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/ Comments URL: https://news.ycombinator.com/item?id=49124358 Points: 6 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "The Economic Benefit of Refactoring",
-      "description": "Article URL: https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html Comments URL: https://news.ycombinator.com/item?id=49111176 Points: 4 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
-      "description": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
+      "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+      "description": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+      "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "European nations to boycott World Cup if Fifa goes ahead with investment plan",
-      "description": "Uefa's 55 member associations vote to boycott the World Cup if Fifa proceeds with its plan to sell stakes in its competitions.",
+      "title": "Reddit is testing a new way to watch — and listen to — its viral posts",
+      "description": "Reddit is developing a new video experience that lets users watch — or simply listen to — its most popular posts, taking inspiration from the viral TikTok videos that pair Reddit stories with gameplay or other footage.…",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+      "description": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "WhatsApp is testing a new folder for messages from large businesses",
+      "description": "WhatsApp will automatically move messages from large businesses to a new folder a few hours after you receive them.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/31/whatsapp-is-testing-a-new-folder-for-messages-from-large-businesses/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Detect Dark Matter's Mark from Your Backyard",
+      "description": "Article URL: https://spectrum.ieee.org/dark-matter Comments URL: https://news.ycombinator.com/item?id=49123579 Points: 22 # Comments: 1",
+      "source": "Hacker News",
+      "url": "https://spectrum.ieee.org/dark-matter",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "England and Wales on course for driest July on record",
+      "description": "Met Office records indicate England and Wales are likely to have had their driest July since records began 190 years ago.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/weather/articles/cddjznv86p3o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Drought declared across whole of Wales as conditions 'deteriorate'",
-      "description": "Wales is on course for its driest July on record in almost 190 years.",
+      "title": "Disgraced funeral boss who failed to bury bodies jailed for 20 years",
+      "description": "Robert Bush also failed to cremate people and gave bereaved relatives the ashes of strangers.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8jn1v37znvo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/ckg35errde5o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
+      "description": "Spain's prime minister described the situation as an \"attack\" on its North African territory and said all illegal migrants would be returned to Morocco.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Bank holds interest rates but says it is ready to raise them if Iran war escalates",
-      "description": "The Bank also expects the economy to grow more than previously forecast this year, although uncertainties remain because of the Iran war.",
+      "title": "Burnham says Infantino 'wrong man' to lead Fifa as third confederation opposes World Cup plan",
+      "description": "Prime Minister Andy Burnham says Gianni Infantino is \"the wrong man\" to lead Fifa as criticism grows of the controversial investment plan.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "Thousands evacuated in Crete as Europe battles wildfires",
-      "description": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
+      "title": "Keeping cool without AC: Our readers share their tips",
+      "description": "We asked our readers to tell us how they've fended off heat without the refrigerant blasts of an air conditioner. Here's what they shared.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/31/g-s1-136442/extreme-heat-air-conditioning-keeping-cool",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "In Nebraska, Americans begin to lose Medicaid under Trump's work rules",
+      "description": "Nebraska's Medicaid director, in an exclusive interview with nonprofit news organization Tradeoffs, said roughly 200 people will lose health coverage on Aug. 1.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/31/nx-s1-5913947/medicaid-trump-work-requirements-big-beautiful-bill-nebraska",
       "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "The economy slowed a bit -- but Americans continued to spend",
-      "description": "The U.S. economy grew at an annual rate of 1.5% in the spring, according to the Commerce Department. That's a modest slowdown from the previous quarter — but consumer spending picked up steam.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/30/nx-s1-5913230/economy-gdp-inflation",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Alien Terrorist Removal Court to hold its first-ever hearing after 30 years",
-      "description": "Congress created the Alien Terrorist Removal Court in 1996 to make it easier for the Justice Department to use classified evidence to deport people from U.S. soil.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/30/g-s1-136289/alien-terrorist-removal-court-isis-terror-plot",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Smoke rises over southern Iran after renewed US attacks",
-      "description": "A large plume of smoke was seen rising over the southwestern Iranian city of Ahvaz following renewed US strikes.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/smoke-rises-over-southern-iran-after-renewed-us-attacks?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "War on Iran: Phase II: Day 19",
-      "description": "The US resumes bombing Iran, with a family of three killed in Qeshm Island.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/war-on-iran-phase-ii-day-19?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Police arrest dozens at London rally supporting Palestine Action",
-      "description": "The protest is the first in support of the proscribed group since Andy Burnham became prime minister.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/30/police-arrest-dozens-at-london-rally-supporting-palestine-action?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "El Salvador sentences gang members to 1,000 years in prison",
-      "description": "El Salvador sentences gang members to 1,000 years in prison",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/el-salvador-sentences-gang-members-to-1000-years-in-prison?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-      "description": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
+      "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+      "description": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "World Cup: FIFA studying impact of expanding to 64 teams for 2030 edition",
+      "description": "FIFA's World Cup 2026 expansion was their first since 1998, but the 2030 edition could rise to 64 teams.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/7/31/world-cup-fifa-studying-impact-of-expanding-to-64-teams-for-2030-edition?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Police chief resigns days after deadly shooting in US city of Seattle",
+      "description": "Shon Barnes steps down amid questions over authorities’ handling of the shooting at a popular food festival.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/31/police-chief-resigns-days-after-deadly-shooting-in-us-city-of-seattle?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Chelsea fined $13.5m for FA breaches, avoid Premier League points deduction",
+      "description": "Chelsea rule breaches that led to action were self-reported following takeover by Todd ⁠⁠Boehly and Clearlake Capital.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/7/31/chelsea-fined-13-5m-for-fa-breaches-avoid-premier-league-points-deduction?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-      "description": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
+      "title": "Russia and Ukraine report casualties as they continue to trade attacks",
+      "description": "Ukraine hit Russian oil refineries several times, while Russia struck Dnipropetrovsk and a cargo vessel near Odesa.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/31/russia-and-ukraine-report-casualties-as-they-continue-to-trade-attacks?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
+      "description": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "4h ago"
+      "timeAgo": "5h ago"
     },
     {
-      "title": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
-      "description": "While the GDP number was below expectations, the miss appeared to come from a decline in federal government spending and inventories.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say",
-      "description": "Leopold Aschenbrenner's hedge fund has sold all of its public stock holdings, according to people familiar with the matter.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Meta tanks 9%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits",
-      "description": "Microsoft posted strong Azure and Copilot growth, while Meta missed revenue guidance forecasts as free cash flow plunged leading to diverging stock moves.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Americans are spending plenty — but they’re saving much less",
-      "description": "Consumer spending rose again in June to cap off a strong second quarter, but households had to dig deep into their savings to pay for their purchases after a recent surge in inflation.",
+      "title": "Corporate insiders are sending warning signals about the stock market",
+      "description": "Corporate insiders haven’t been this bearish in more than 20 years.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/americans-are-spending-plenty-but-theyre-saving-much-less-ffb995d2?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/the-warning-signal-insiders-are-sending-f0538ddf?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "People from this country are buying up the most homes in America right now, even as international sales dry up",
-      "description": "International buyers only bought about 67,000 homes in the U.S. over the last 12 months ending in March, a near-record low, according to the National Association of Realtors.",
+      "title": "HSAs can be a great retirement tool – if you’re healthy or wealthy",
+      "description": "Health savings accounts can offset healthcare costs in your old age. But most people can’t afford to wait.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-country-is-buying-up-the-most-homes-in-america-right-now-even-as-international-sales-dry-up-c8b2afbb?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/hsas-can-be-a-great-retirement-tool-if-youre-healthy-or-wealthy-5a3e2991?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "I’m 75 and afraid to let my retirement fund dip below $1 million. Am I being too conservative?",
+      "description": "Spending down assets can be unsettling after a lifetime of saving.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-75-and-afraid-to-let-my-retirement-fund-dip-below-1-million-am-i-being-too-aggressive-6b780ef9?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "6 crucial money lessons Gen Z isn’t getting from their parents",
+      "description": "Your parents may have shared advice that was fine when they were 30, but “the world has changed significantly” since then.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/congrats-gen-z-youre-turning-30-here-are-the-most-important-money-moves-to-make-next-9e30bb0a?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
+      "description": "Leopold Aschenbrenner, a former OpenAI researcher-turned-hedge fund manager, saw a dramatic decline this week in his AI-focused fund, Situational Awareness.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Fed officials who voted to hike rates say action is needed now against inflation",
+      "description": "Kashkari and Hammack joined Dallas Fed President Lorie Logan in dissenting against holding the Fed's key overnight borrowing rate steady.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/31/fed-officials-who-voted-to-hike-rates-say-action-is-needed-now-against-inflation.html",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "‘Don’t get suckered like I did’: I paid $185 to the wrong passport website. Can I get my money back?",
-      "description": "“I will file a complaint with the Better Business Bureau.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/dont-get-suckered-like-i-did-i-paid-185-to-the-wrong-passport-website-can-i-get-my-money-back-3a781412?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
+      "title": "Best horse racing betting sites: Where to bet on 2026 horse racing",
+      "description": "Discover the best horse racing betting sites for 2026, plus how to bet on horse racing online, bet types, and expert tips.",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/betting/news/horse-racing/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Nationals vs. Braves MLB picks: Foster Griffin likely making final Washington start before trade deadline",
+      "description": "No pitcher has been more profitable for bettors than Washington's Foster Griffin",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/betting/news/nationals-vs-braves-mlb-picks-foster-griffin-likely-making-final-washington-start-before-trade-deadline/",
+      "category": "🏀 SPORTS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "2026 Fantasy football draft prep: Elite NFL experts reveal rankings, top 150, strategy, rookies to target",
-      "description": "SportsLine's 2026 Fantasy football draft guide includes Fantasy football auction values, keeper advice, top rookies, mock drafts and more",
+      "title": "Use DraftKings promo code to get $150 in bonus bets by targeting Reds-Pirates, Astros-Rangers, MLB on Friday",
+      "description": "DraftKings offers $150 in bonus bets after your first $5 wager for MLB betting on Friday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/fantasy/football/news/2026-fantasy-football-draft-prep-elite-nfl-experts-reveal-rankings-top-150-strategy-rookies-to-target/",
+      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-150-bonus-bets-reds-pirates-astros-rangers-mlb-friday/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "PrizePicks promo code and app review: Play $5, Get $50",
-      "description": "Here's a look at the latest PrizePicks promo code and review of the app",
+      "title": "MLB rumors: Mets begin firesale; Dodgers' secondary interest in Tarik Skubal; Red Sox back on the hunt",
+      "description": "We're headed into the final weekend before Monday's trade deadline",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/prizepicks/",
+      "url": "https://www.cbssports.com/mlb/news/mlb-rumors-trade-deadline-mets-aj-minter-dodgers-tarik-skubal-clay-holmes-cardinals-red-sox-astros/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "SportsLine Newsletter Thursday, July 30, 2026 WORKING",
-      "description": "Today's best bets + Parlay of the Day + Liberty-Aces + Baker Mayfield",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Use DraftKings promo code to get $150 in bonus bets by targeting Braves-Nationals, Padres-Giants, MLB Thursday",
-      "description": "DraftKings offers $150 in bonus bets after your first $5 wager for MLB betting on Thursday",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-150-bonus-bets-braves-nationals-padres-giants-mlb-thursday/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     }
   ]
 }
