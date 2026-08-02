@@ -1,227 +1,235 @@
 {
-  "date": "2026-08-01T14:45:09.833219+00:00",
-  "edition": "#179",
-  "totalStories": 27,
+  "date": "2026-08-02T14:47:25.858260+00:00",
+  "edition": "#180",
+  "totalStories": 28,
   "podcast": {
     "show": "The Daily",
     "description": "The New York Times' daily news podcast — today's top story in 20 minutes."
   },
   "stories": [
     {
-      "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
-      "description": "Article URL: https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/ Comments URL: https://news.ycombinator.com/item?id=4913469…",
+      "title": "Twenty Years of RISC OS Open",
+      "description": "Article URL: https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open Comments URL: https://news.ycombinator.com/item?id=49143967 Points: 50 # Comments: 7",
       "source": "Hacker News",
-      "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
+      "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
       "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Apps that help you break free from doomscrolling and get active",
-      "description": "If you’re looking to cut back on screen time and get a little more active, here’s a roundup of the apps that might help.",
+      "title": "F*: A general-purpose proof-oriented programming language",
+      "description": "Article URL: https://fstar-lang.org/ Comments URL: https://news.ycombinator.com/item?id=49143925 Points: 16 # Comments: 2",
+      "source": "Hacker News",
+      "url": "https://fstar-lang.org/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
+      "description": "Article URL: https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager Comments URL: https://news.ycombinator.com/item?id=49143683 Points: 0 # Comments: 0",
+      "source": "Hacker News",
+      "url": "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
+      "description": "Article URL: https://meshdiff.com/ Comments URL: https://news.ycombinator.com/item?id=49143479 Points: 86 # Comments: 11",
+      "source": "Hacker News",
+      "url": "https://meshdiff.com/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "Inside the London hacker house taking a stand against founder burnout",
+      "description": "How one founder house is betting work-life balance can beat burnout .",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/",
+      "url": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
+      "timeAgo": "17h ago"
     },
     {
-      "title": "What’s the best handheld mini fan?",
-      "description": "From premium Shark and Dyson offerings to random Amazon devices, these mini fans will make your sweaty summer a little more managable.",
+      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "description": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/",
+      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "18h ago"
     },
     {
-      "title": "How to Spot AI Writing",
-      "description": "Article URL: https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing Comments URL: https://news.ycombinator.com/item?id=49134310 Points: 6 # Comments: 6",
-      "source": "Hacker News",
-      "url": "https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "RipGrep musl binaries occasionally segfault during very-large searches",
-      "description": "Article URL: https://github.com/BurntSushi/ripgrep/issues/3494 Comments URL: https://news.ycombinator.com/item?id=49133889 Points: 94 # Comments: 49",
-      "source": "Hacker News",
-      "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
-      "description": "Reddit may still be considering ending its licensing deal with Google.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-      "description": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+      "title": "Man admits killing British woman found in suitcase, Greek police say",
+      "description": "The man was arrested on suspicion of killing 38-year-old Elisabeth-Jane Ross, as well as robbery and weapons offences.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
-      "description": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
+      "title": "Prolonged drought could cause shortage of some foods, farmers' union head says",
+      "description": "NFU president Tom Bradshaw calls on the government to take action to prevent extreme weather affecting the UK's food supply.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
-      "description": "The governing body of European football says Fifa president Gianni Infantino has \"failed to deliver\" on promises he made when elected 10 years ago.",
+      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+      "description": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "Sir John Curtice: The 'Burnham bounce' is real but it's not massive",
-      "description": "The governing party's poll ratings have improved but they're only just ahead of Reform",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "5h ago"
-    },
-    {
-      "title": "Opinion: Remembering Margo Howard",
-      "description": "Margo Howard had a lot of life experience and used it to offer advice for years as \"Dear Prudence\" for Slate. She died this week at the age of 86.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/01/nx-s1-5907932/opinion-remembering-margo-howard",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "They call it 'a dream fulfilled' -- new homes designed for (and by) slum residents",
-      "description": "It's a bold new experiment and it's already won a prize. Residents in a jam-packed slum, many of them living in one-room tin shacks, help design their apartments in a brand new building.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/01/g-s1-135362/slum-apartments-india-design",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Israeli strike destroys Gaza hospital warehouse",
-      "description": "Israeli strike destroys medical supplies warehouse at Gaza's Al-Aqsa Martyrs Hospital, staff say.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-israel-strike-gaza-hospital-sv-mp4?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Infantino’s FIFA crisis: What is reaction to World Cup investment U-turn?",
-      "description": "Backlash to FIFA's private investment plan for World Cups and events was huge; now football reacts to U-turn's fallout.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/1/infantinos-fifa-crisis-what-is-reaction-to-world-cup-investment-u-turn?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Is Spain being punished?",
-      "description": "In the months leading up to the crisis in Ceuta, pro-Israel voices conspicuously raised the issue of the enclave",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/8/1/is-spain-being-punished?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Children run marathon to spotlight Gaza’s growing orphan crises",
-      "description": "Children run marathon to spotlight Gaza's growing orphan crisis",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/children-run-marathon-to-spotlight-gazas-growing-orphan-crises?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-      "description": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
+      "title": "Fastest runner to cross the Alps says it was an incredible experience",
+      "description": "Sophie Woods ran the Via Alpina through storms, heat of up to 37C and dodged floods and wildfires across eight countries.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/videos/crk5j6g8lmko?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "Thousands of people under evacuation order from wildfires in Spokane, Wash.",
+      "description": "There are at least three fires in and around the city. Large parts of Spokane are under Level 3 evacuation orders, which read: \"Leave NOW! This may be your only notice.\"",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/02/g-s1-136814/washington-state-wildfires-old-trails-fire-spokane",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "New video evidence upends the unsolved killing of a Black teen at a Seattle protest",
+      "description": "Hours of video analyzed in an 18-month investigation reveal what really happened the night Antonio Mays Jr. was shot at the Capitol Hill Occupied Protest, and how protesters mistook him for a threat.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/02/g-s1-133360/seattle-shooting-capitol-hill-occupied-protest",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "CIA whistleblower John Kiriakou on accountability and CIA’s history",
+      "description": "Marc Lamont Hill speaks to CIA whistleblower John Kiriakou about the agency and US intelligence today.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/upfront/2026/8/2/cia-whistleblower-john-kiriakou-on-accountability-and-cias-history?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "9h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "College kids are moving into retirement communities for reasons beyond ‘cheap rent’",
-      "description": "Students are forging intergenerational bonds while planning game nights and teaching gym classes, but “by 7:30 or 8, things get pretty quiet here.”",
+      "title": "Firefighting helicopters collide near Athens as Greece battles wildfires",
+      "description": "Europe struggles with record-breaking summer heat as wildfires ravage Greece, France, and Spain, sparking evacuations.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/2/firefighting-helicopters-collide-near-athens-as-greece-battles-wildfires?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Deadly ferry fire leaves dozens missing in Indonesia’s Java Sea",
+      "description": "Deadly ferry fire leaves dozens missing in Indonesia's Java Sea",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-ferry-fire-leaves-dozens-missing-in-indonesias-java-sea?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "No breakthrough on Strait of Hormuz as Trump halts attack on Iran",
+      "description": "Iran says Trump's comment on pullback from threatened strikes made 'within the context of psychological operations'.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/2/no-breakthrough-on-strait-of-hormuz-as-trump-halts-attack-on-iran?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
+      "description": "The vessel with at least 250 people on board caught fire off Madura island.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+      "description": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "My ex-husband’s sister died — so why is Fidelity asking me for her death certificate?",
+      "description": "“Part of me jokes that paying for a death certificate would be like buying a lottery ticket.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/college-kids-are-moving-into-retirement-communities-for-reasons-beyond-cheap-rent-577dc94b?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "They spent tens of thousands of dollars on home remodels — only to regret it",
-      "description": "Some homeowners spend big bucks to upgrade their house, only to end up having second thoughts.",
+      "title": "S&P 500 profit growth is getting even wilder as Amazon makes its mark",
+      "description": "Amazon is the latest Big Tech company to report abnormally large earnings growth, thanks to paper gains on Anthropic investments.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/they-spent-tens-of-thousands-of-dollars-on-home-remodels-only-to-regret-it-8cfa23e6?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/s-p-500-profit-growth-is-getting-even-wilder-as-amazon-makes-its-mark-5ddf2082?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Disappointed by your skimpy pay raise? Blame your healthcare benefits.",
-      "description": "It’s been two decades since companies’ health-benefit costs have climbed this fast.",
+      "title": "If Social Security’s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
+      "description": "“Delaying Social Security until 70 results in an increased monthly payment — and that comes with proportionally higher cost-of-living adjustments.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/disappointed-by-your-skimpy-pay-raise-blame-your-healthcare-benefits-8025491b?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Here’s what’s worth streaming in August 2026 on Netflix, Hulu, HBO Max and more",
-      "description": "Turn off your brain and enjoy new seasons of Apple’s ‘Ted Lasso,’ Amazon’s ‘Reacher,’ Netflix’s ‘Outer Banks’ and much more",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-august-2026-on-netflix-hulu-hbo-max-and-more-21b78a08?mod=mw_rss_topstories",
+      "title": "Investors scored on Iran war's oil market boom. Staying long the trade will get trickier",
+      "description": "Oil price volatility caused by U.S.-Iran war created big market winners, but for buy-and-hold investors, there are better long-term energy themes to monitor.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/02/oil-prices-iran-war-energy-market.html",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "As Americans go direct with GLP-1 prescriptions, Walmart, Costco, Amazon will be big weight-loss winners",
-      "description": "As Americans are encouraged to go direct with weight-loss drug prescriptions, retail pharmacy chains are poised to win big.",
+      "title": "‘We have always been civil’: My sister refuses to replace me as executor. Can I step down before she dies?",
+      "description": "“I haven’t seen my sister since our mother’s funeral more than 20 years ago.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Why flights are so expensive and will likely stay that way",
+      "description": "Airlines are paying billions of dollars more in fuel costs this year",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/01/glp-1-prescriptions-weight-loss-walmart-costco-amazon.html",
+      "url": "https://www.cnbc.com/2026/08/02/flights-are-getting-even-more-expensive-as-fuel-prices-rise.html",
       "category": "📈 MARKETS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'",
-      "description": "The wake-up call to the cyber industry comes as industry experts descend on Black Hat, a major cybersecurity conference.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Dodgers-Red Sox, MLB betting on Saturday",
-      "description": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for MLB betting on Saturday",
+      "title": "2026 Rocket Classic TV schedule, coverage, tee times: Where to watch PGA Tour in Detroit",
+      "description": "The final iteration of the Rocket Classic welcomes the strongest field in the tournament's history",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-dodgers-red-sox-mlb-betting-saturday/",
+      "url": "https://www.cbssports.com/golf/news/2026-rocket-classic-tv-schedule-coverage-where-to-watch-tee-times/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Betting the Cardinals in 2026: See how Arizona's win total, Super Bowl odds are trending and our best bets",
-      "description": "We're breaking down Cardinals futures in our 2026 betting preview, featuring odds, trends, schedule and more",
+      "title": "Fantasy football rankings 2026: Sleepers, breakouts, busts by the model that projected Daniel Jones' season",
+      "description": "SportsLine simulated the upcoming NFL season 10,000 times to help form your early 2026 Fantasy football draft strategy",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/betting-the-cardinals-in-2026-see-how-arizonas-win-total-super-bowl-odds-are-trending-and-our-best-bets/",
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-busts-by-the-model-that-projected-daniel-jones-season/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Betting the Buccaneers in 2026: See how Tampa Bay's win total, Super Bowl odds are trending and our best bets",
-      "description": "We're breaking down Buccaneers futures in our 2026 betting preview, featuring odds, trends, schedule and more",
+      "title": "So you missed out on Tarik Skubal: The best starting pitchers still available on the trade market",
+      "description": "Skubal is headed to the Dodgers and now the rest of the league will look elsewhere for rotation help",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/betting-the-buccaneers-in-2026-see-how-tampa-bays-win-total-super-bowl-odds-are-trending-and-our-best-bets/",
+      "url": "https://www.cbssports.com/mlb/news/mlb-trade-deadline-starting-pitchers-casey-mize-reid-detmers-clay-holmes-kevin-gasuman/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Ex-UFC fighter Anthony Smith allegedly attempted to hit wife with car: Dana White addresses incident",
-      "description": "UFC title challenger Smith faces three felony charges, including first-degree domestic assault",
+      "title": "SportsLine Newsletter August 2, 2026",
+      "description": "Sunday Betting Guide: Picks for Red Sox vs. Dodgers on 'Sunday Night Baseball,' plus a look ahead to Fantasy football",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/ufc/news/anthony-smith-three-felony-charges-domestive-violence/",
+      "url": "https://www.cbssports.com/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "3h ago"
     }
   ]
 }
