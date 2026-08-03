@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-02T14:47:25.858260+00:00",
-  "edition": "#180",
+  "date": "2026-08-03T16:03:14.599554+00:00",
+  "edition": "#181",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,148 +8,148 @@
   },
   "stories": [
     {
-      "title": "Twenty Years of RISC OS Open",
-      "description": "Article URL: https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open Comments URL: https://news.ycombinator.com/item?id=49143967 Points: 50 # Comments: 7",
+      "title": "Taylor Farms Has Rewritten Its Cyclospora Statement Four Times in Sixteen Days",
+      "description": "Article URL: https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-t…",
       "source": "Hacker News",
-      "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
+      "url": "https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Flock's CEO Faced Me After Its Cameras Led to My Wrongful Stop",
+      "description": "Article URL: https://www.thedrive.com/podcast/flocks-ceo-wants-zero-wrongful-stops-i-wasnt-the-first Comments URL: https://news.ycombinator.com/item?id=49156650 Points: 53 # Comments: 36",
+      "source": "Hacker News",
+      "url": "https://www.thedrive.com/podcast/flocks-ceo-wants-zero-wrongful-stops-i-wasnt-the-first",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Why does Mail app contact iCloud when sending a non-iCloud email?",
+      "description": "Article URL: https://lapcatsoftware.com/articles/2026/8/2.html Comments URL: https://news.ycombinator.com/item?id=49156299 Points: 31 # Comments: 4",
+      "source": "Hacker News",
+      "url": "https://lapcatsoftware.com/articles/2026/8/2.html",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Devtools must be open source",
+      "description": "Article URL: https://blog.exe.dev/devtools-must-be-open-source Comments URL: https://news.ycombinator.com/item?id=49156111 Points: 93 # Comments: 27",
+      "source": "Hacker News",
+      "url": "https://blog.exe.dev/devtools-must-be-open-source",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Trump wants the power to stop the public from suing polluters",
+      "description": "Trump's DOJ says citizens should no longer be able to enforce environmental laws.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/08/trump-wants-the-power-to-stop-the-public-from-suing-polluters/",
       "category": "🤖 TECH & AI",
       "timeAgo": "2h ago"
     },
     {
-      "title": "F*: A general-purpose proof-oriented programming language",
-      "description": "Article URL: https://fstar-lang.org/ Comments URL: https://news.ycombinator.com/item?id=49143925 Points: 16 # Comments: 2",
-      "source": "Hacker News",
-      "url": "https://fstar-lang.org/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
-      "description": "Article URL: https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager Comments URL: https://news.ycombinator.com/item?id=49143683 Points: 0 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
-      "description": "Article URL: https://meshdiff.com/ Comments URL: https://news.ycombinator.com/item?id=49143479 Points: 86 # Comments: 11",
-      "source": "Hacker News",
-      "url": "https://meshdiff.com/",
+      "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
+      "description": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pen testing.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
       "category": "🤖 TECH & AI",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Inside the London hacker house taking a stand against founder burnout",
-      "description": "How one founder house is betting work-life balance can beat burnout .",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "17h ago"
-    },
-    {
-      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-      "description": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "18h ago"
-    },
-    {
-      "title": "Man admits killing British woman found in suitcase, Greek police say",
-      "description": "The man was arrested on suspicion of killing 38-year-old Elisabeth-Jane Ross, as well as robbery and weapons offences.",
+      "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+      "description": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Prolonged drought could cause shortage of some foods, farmers' union head says",
-      "description": "NFU president Tom Bradshaw calls on the government to take action to prevent extreme weather affecting the UK's food supply.",
+      "title": "Newspaper columnist and broadcaster Rod Liddle dies aged 66",
+      "description": "The columnist died in hospital in Middlsbrough on Sunday.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cly59lwe93po?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-      "description": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Fastest runner to cross the Alps says it was an incredible experience",
-      "description": "Sophie Woods ran the Via Alpina through storms, heat of up to 37C and dodged floods and wildfires across eight countries.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/crk5j6g8lmko?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Thousands of people under evacuation order from wildfires in Spokane, Wash.",
-      "description": "There are at least three fires in and around the city. Large parts of Spokane are under Level 3 evacuation orders, which read: \"Leave NOW! This may be your only notice.\"",
+      "title": "Washington wildfires destroy homes, force thousands to evacuate",
+      "description": "Spokane Mayor Lisa Brown says nearly half of the city's neighborhoods have either been evacuated or are at risk as the fires remain uncontained.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/08/02/g-s1-136814/washington-state-wildfires-old-trails-fire-spokane",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5918018/washington-spokane-wildfires-evacuations",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "New video evidence upends the unsolved killing of a Black teen at a Seattle protest",
-      "description": "Hours of video analyzed in an 18-month investigation reveal what really happened the night Antonio Mays Jr. was shot at the Capitol Hill Occupied Protest, and how protesters mistook him for a threat.",
+      "title": "U.S. men's national team coach Mauricio Pochettino will stay through 2030 World Cup",
+      "description": "Pochettino came on in 2024 to right the ship ahead of this year's World Cup, in which he led the team to a record three wins and helped ignite enthusiasm in millions of fans before a round of 16 exit.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/08/02/g-s1-133360/seattle-shooting-capitol-hill-occupied-protest",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5917999/us-soccer-mauricio-pochettino-coach-2030",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "CIA whistleblower John Kiriakou on accountability and CIA’s history",
-      "description": "Marc Lamont Hill speaks to CIA whistleblower John Kiriakou about the agency and US intelligence today.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/upfront/2026/8/2/cia-whistleblower-john-kiriakou-on-accountability-and-cias-history?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Firefighting helicopters collide near Athens as Greece battles wildfires",
-      "description": "Europe struggles with record-breaking summer heat as wildfires ravage Greece, France, and Spain, sparking evacuations.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/2/firefighting-helicopters-collide-near-athens-as-greece-battles-wildfires?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Deadly ferry fire leaves dozens missing in Indonesia’s Java Sea",
-      "description": "Deadly ferry fire leaves dozens missing in Indonesia's Java Sea",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-ferry-fire-leaves-dozens-missing-in-indonesias-java-sea?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "No breakthrough on Strait of Hormuz as Trump halts attack on Iran",
-      "description": "Iran says Trump's comment on pullback from threatened strikes made 'within the context of psychological operations'.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/2/no-breakthrough-on-strait-of-hormuz-as-trump-halts-attack-on-iran?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
-      "description": "The vessel with at least 250 people on board caught fire off Madura island.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-      "description": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
+      "title": "Todd Blanche rescinds 'anti-weaponization fund'. And, Trump calls off striking Iran",
+      "description": "Acting Attorney General Todd Blanche rescinds President Trump's anti-weaponization fund ahead of his confirmation hearing. And, the president calls off strikes on Iran over a potential deal.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/03/g-s1-136892/up-first-newsletter-iran-war-todd-blanche-capital-one-bank-accounts-trump-conspiracy",
+      "category": "🌎 TOP NEWS",
       "timeAgo": "4h ago"
+    },
+    {
+      "title": "English FA set to withdraw support for Fifa president Infantino",
+      "description": "The English Football Association is set to join Wales in withdrawing backing for Infantino's bid to continue as Fifa president.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "8h ago"
+    },
+    {
+      "title": "How Israel and the European far right tried to exploit Ceuta",
+      "description": "A potent narrative is emerging linking migration to anti-Semitism in an effort to undermine pro-Palestinian solidarity.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/8/3/how-israel-and-the-european-far-right-tried-to-exploit-ceuta?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Australia’s under-16 social media ban failing, study shows: What it means",
+      "description": "Australia's internet regulator revealed in a recent study that teenagers are continuing to use social media despite ban.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/3/australias-under-16-social-media-ban-failing-study-shows-what-it-means?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Tigray refugees flee into Sudan after deadly violence on Ethiopia border",
+      "description": "Ethiopian army accused of attacking Tigray forces in Shererina amid escalating tensions at the Sudan-Ethiopia border.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/3/tigray-refugees-flee-into-sudan-after-deadly-violence-on-ethiopia-border?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Pentagon boosts Patriot, THAAD interceptor output amid stockpile strain",
+      "description": "Defence giants Lockheed and Northrop see billion-dollar deals as Pentagon accelerates missile arsenal production",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/8/3/pentagon-boosts-patriot-thaad-interceptor-output-amid-stockpile-strain?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+      "description": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+      "description": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
     },
     {
       "title": "My ex-husband’s sister died — so why is Fidelity asking me for her death certificate?",
@@ -160,76 +160,76 @@
       "timeAgo": "just now"
     },
     {
-      "title": "S&P 500 profit growth is getting even wilder as Amazon makes its mark",
-      "description": "Amazon is the latest Big Tech company to report abnormally large earnings growth, thanks to paper gains on Anthropic investments.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/s-p-500-profit-growth-is-getting-even-wilder-as-amazon-makes-its-mark-5ddf2082?mod=mw_rss_topstories",
+      "title": "Amazon tops $3 trillion market cap as stock continues post-earnings surge",
+      "description": "Shares of Amazon hit a new all-time high Monday, putting its market cap over $3 trillion.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/03/amazon-amzn-stock-market-cap-earnings.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "If Social Security’s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
-      "description": "“Delaying Social Security until 70 results in an increased monthly payment — and that comes with proportionally higher cost-of-living adjustments.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Investors scored on Iran war's oil market boom. Staying long the trade will get trickier",
-      "description": "Oil price volatility caused by U.S.-Iran war created big market winners, but for buy-and-hold investors, there are better long-term energy themes to monitor.",
+      "title": "Hugging Face CEO says China is winning the AI race and dominating on open models",
+      "description": "Hugging Face CEO Clément Delangue said Chinese AI models could catch up to the U.S. as soon as this year.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/02/oil-prices-iran-war-energy-market.html",
+      "url": "https://www.cnbc.com/2026/08/03/hugging-face-china-ai-race-open-models.html",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "‘We have always been civil’: My sister refuses to replace me as executor. Can I step down before she dies?",
-      "description": "“I haven’t seen my sister since our mother’s funeral more than 20 years ago.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Why flights are so expensive and will likely stay that way",
-      "description": "Airlines are paying billions of dollars more in fuel costs this year",
+      "title": "California's diesel prices have jumped since the Iran war started, with ripple effects across the country",
+      "description": "California has the highest gas prices in the country as well as the busiest containership port, meaning consumers across the country could feel the impact of higher diesel.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/02/flights-are-getting-even-more-expensive-as-fuel-prices-rise.html",
+      "url": "https://www.cnbc.com/2026/08/03/californias-diesel-prices-have-jumped-since-the-iran-war-started-with-ripple-effects-across-the-country.html",
       "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "2026 Rocket Classic TV schedule, coverage, tee times: Where to watch PGA Tour in Detroit",
-      "description": "The final iteration of the Rocket Classic welcomes the strongest field in the tournament's history",
+      "title": "Why the U.S. decided to help Japan by boosting the flailing yen",
+      "description": "The U.S. Treasury Department and Federal Reserve have joined forces with their Japanese counterparts to stage a historic joint intervention to boost the Japanese yen, according to Japan’s Ministry of Finance, which conf…",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/joint-u-s-japanese-intervention-boosts-the-yen-but-will-it-be-enough-069451f5?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Disappointed by your skimpy pay raise? Blame your healthcare benefits.",
+      "description": "It’s been two decades since companies’ health-benefit costs have climbed this fast.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/disappointed-by-your-skimpy-pay-raise-blame-your-healthcare-benefits-8025491b?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Aaron Rodgers credits wife Brittani for helping mend family rift after years of estrangement",
+      "description": "Rodgers said the reunion with his family has been a \"couple-year process\" and credited his wife's support",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/golf/news/2026-rocket-classic-tv-schedule-coverage-where-to-watch-tee-times/",
+      "url": "https://www.cbssports.com/nfl/news/aaron-rodgers-family-wife-steelers/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Fantasy football rankings 2026: Sleepers, breakouts, busts by the model that projected Daniel Jones' season",
-      "description": "SportsLine simulated the upcoming NFL season 10,000 times to help form your early 2026 Fantasy football draft strategy",
+      "title": "MLB trade deadline tracker: Following every move of the 2026 deadline",
+      "description": "The 2026 trade deadline is set for Monday, Aug. 3, and the deals look like they could go right down to the last minute",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-busts-by-the-model-that-projected-daniel-jones-season/",
+      "url": "https://www.cbssports.com/mlb/news/mlb-trade-deadline-tracker-2026/",
       "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "So you missed out on Tarik Skubal: The best starting pitchers still available on the trade market",
-      "description": "Skubal is headed to the Dodgers and now the rest of the league will look elsewhere for rotation help",
+      "title": "Purdue All-American Braden Smith will not explore return to college basketball after new eligibility ruling",
+      "description": "Smith was a second-round draft pick by the Indiana Pacers, but he has not signed a rookie contract yet",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/mlb/news/mlb-trade-deadline-starting-pitchers-casey-mize-reid-detmers-clay-holmes-kevin-gasuman/",
+      "url": "https://www.cbssports.com/college-basketball/news/braden-smith-purdue-new-eligibility-ruling-indiana-pacers/",
       "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "SportsLine Newsletter August 2, 2026",
-      "description": "Sunday Betting Guide: Picks for Red Sox vs. Dodgers on 'Sunday Night Baseball,' plus a look ahead to Fantasy football",
+      "title": "MLB DFS: Top DraftKings, FanDuel daily Fantasy baseball picks include Richie Palacios on Monday, Aug. 3",
+      "description": "SportsLine's Mike McClure, a daily Fantasy pro with more than $2 million in winnings, gives optimal MLB DFS lineup advice for Monday, Aug. 3 ahead of the MLB trade deadline",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/",
+      "url": "https://www.cbssports.com/betting/news/mlb-dfs-top-draftkings-fanduel-daily-fantasy-baseball-picks-include-richie-palacios-on-monday-aug-3/",
       "category": "🏀 SPORTS",
-      "timeAgo": "3h ago"
+      "timeAgo": "just now"
     }
   ]
 }
