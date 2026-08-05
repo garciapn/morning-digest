@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-04T15:56:30.853122+00:00",
-  "edition": "#182",
+  "date": "2026-08-05T15:39:52.910495+00:00",
+  "edition": "#183",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Spotify expands AI remix and covers project with Merlin partnership",
-      "description": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans creat…",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Texas halts new data centers as governor calls for audits",
-      "description": "Texas Governor Greg Abbott has paused new data center development until an audit has been completed.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Walmart completes its acquisition of TV advertising company Vibe.co",
-      "description": "The acquisition, which was first announced in June, brings Vibe.co into Walmart Connect, Walmart's connected TV advertising platform.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/04/walmart-completes-its-acquisition-of-tv-advertising-company-vibe-co/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-      "description": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
-      "description": "Hello HN! I found that picking out plausible but diverse skin tones for my digital art and game development projects was kind of difficult, and I got curious about if there was a way to define a color space that made it…",
+      "title": "Cloudflare OS",
+      "description": "Article URL: https://os.cloudflare.app/ Comments URL: https://news.ycombinator.com/item?id=49184083 Points: 6 # Comments: 4",
       "source": "Hacker News",
-      "url": "https://toneyalexander.github.io/inclusive-color-space/",
+      "url": "https://os.cloudflare.app/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Online ad giant Adform was hacked, proving once again why ad blockers are needed",
-      "description": "Article URL: https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/ Comments URL: https://news.ycombinator.com/item?id=49170001 Points: 28 # Comments…",
+      "title": "Google Assistant is going away on Mobile Devices",
+      "description": "Article URL: https://images.seroundtable.com/google-assistant-going-away-laEdSzU1.png Comments URL: https://news.ycombinator.com/item?id=49184041 Points: 12 # Comments: 2",
       "source": "Hacker News",
-      "url": "https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/",
+      "url": "https://images.seroundtable.com/google-assistant-going-away-laEdSzU1.png",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
-      "description": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+      "title": "Zoox to start charging for robotaxi rides in Las Vegas",
+      "description": "This marks the official launch of Zoox's commercial operations.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/05/zoox-to-start-charging-for-robotaxi-rides-in-las-vegas/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+      "description": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Citigroup, Idaho, and Build-a-Bear Launched a Coordinated Attack on Me",
+      "description": "Article URL: https://knock-knock.net/blog/citigroup-idaho-build-a-bear/ Comments URL: https://news.ycombinator.com/item?id=49183953 Points: 14 # Comments: 1",
+      "source": "Hacker News",
+      "url": "https://knock-knock.net/blog/citigroup-idaho-build-a-bear/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "As Gen Z reconsiders dating apps, Tinder’s IRL events expand to dozens more cities",
+      "description": "Tinder is expanding its in-person events feature from an initial Los Angeles test to 26 cities worldwide by the end of September.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/05/as-gen-z-reconsiders-dating-apps-tinders-irl-events-expand-to-dozens-more-cities/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Police chief considers joining legal action over PC Harper killers' early release",
+      "description": "Two of PC Andrew Harper's killers are set to be included in the government's early release scheme, which begins in October.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cx2v5kj9zzko?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "More than 150 migrants rescued after boat catches fire in Channel",
-      "description": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities.",
+      "title": "Family 'devastated' by death of girl, 9, as man charged with murder",
+      "description": "A 35-year old man has appeared in court charged with the murder of Minnie Merriman, who was found injured in Arbroath on Monday.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c235evj1r04o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
-      "description": "Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on Wednesday.",
+      "title": "Ex-MP urges Tories to block council candidate jailed for antisemitic abuse against her",
+      "description": "Joshua Bonehill-Paine was jailed over neo-Nazi activism, but has been selected to stand in a new Somerset Council seat in 2027.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Top Fifa official Wenger says scrapping World Cup plan 'absolutely necessary'",
-      "description": "Fifa's chief of global football development Arsene Wenger says the decision to scrap the plan to have private investment in Fifa competitions was \"absolutely necessary\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "5h ago"
-    },
-    {
-      "title": "13 new books in August will get you through the dog days of summer",
-      "description": "This month brings riveting novels about dogs, Hollywood stars, small towns and characters with bigger woes than just the sweltering summer heat and humidity.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/04/nx-s1-5905346/new-books-august-2026",
+      "url": "https://www.bbc.co.uk/news/articles/c1l1q6167d3o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "5 states hold primaries today. And, Spokane police arrest man connected to wildfire",
-      "description": "Five state primaries are being held today, and Michigan is a key focus for Democrats who want to see how progressives fare in races. And, a man has been arrested in connection with a Spokane fire.",
+      "title": "Under China's new 'unity' law, Tibetans fight to preserve language and culture",
+      "description": "A 73-year-old retired nurse's decision to learn to write Tibetan language offers a glimpse into how some embrace their language and cultural identity in Tibet.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/08/04/g-s1-137277/up-first-newsetter-michigan-primaries-todd-blanche-spokane-wildfires-chuck-edwards",
+      "url": "https://www.npr.org/2026/08/05/g-s1-137436/under-chinas-new-unity-law-tibetans-fight-to-preserve-language-and-culture",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "More key FIFA staff break ranks as Infantino’s World Cup plan faces mutiny",
-      "description": "Battle lines being drawn within FIFA as key figures break ranks with President Gianni Infantino over failed selloff.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/4/more-key-fifa-staff-break-ranks-as-infantinos-world-cup-plan-faces-mutiny?traffic_source=rss",
-      "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-      "description": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
+      "title": "Progressive Abdul El-Sayed wins Michigan's Democratic primary for Senate",
+      "description": "El-Sayed, an epidemiologist, backs Medicare for all and decries corporate money in politics. He beat Rep. Haley Stevens, whose supporters said she would have had a better chance in the fall.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/05/nx-s1-5920403/michigan-senate-el-sayed-stevens-democrats",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Anthropic AI used fake profiles to target people in hack then hid the evidence",
+      "description": "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "6h ago"
+    },
+    {
+      "title": "UK tribunal confirms professor’s anti-Zionism is legally protected belief",
+      "description": "David Miller has told Al Jazeera the ruling is a victory that will encourage others to speak out against Zionism.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/5/uk-tribunal-confirms-professors-anti-zionism-is-legally-protected-belief?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Qatar says indirect talks continue to reopen Strait of Hormuz",
-      "description": "Qatar FM spokesman Dr. Majed al-Ansari says indirect talks are continuing to avoid further regional escalation.",
+      "title": "War on Iran: US-Iran deal edges closer",
+      "description": "A deal between the US and Iran could be signed within 48 hours, according to US officials.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/aje-onl-nf_qatar-aims-to-avoid-regional-escalation-040826?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/war-on-iran-us-iran-deal-edges-closer?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Drone appears to stalk man before exploding",
-      "description": "A drone was seen following a man at a minibus-turned-market in Kherson, southern Ukraine, before exploding on Tuesday.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/drone-appears-to-stalk-man-before-exploding?traffic_source=rss",
+      "title": "Left-wing political outsider wins Democratic Senate primary in Michigan",
+      "description": "Abdul El-Sayed, the son of Egyptian immigrants, would be the first Muslim US senator if elected in November.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Photos: Thousands in Gaza City join mass funeral for 112 Palestinians",
-      "description": "Bodies wrapped in Palestinian flags carried through the streets in one of the largest funerals since war on Gaza began.",
+      "title": "Germany investigates explosive device attached to drone at Leipzig airport",
+      "description": "An airport employee spotted the object carrying what authorities described as 'an unknown explosive device'.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/8/4/photos-thousands-in-gaza-city-join-mass-funeral-for-112-palestinians?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/8/5/germany-investigates-explosive-device-attached-to-drone-at-leipzig-airport?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Drone carrying explosives found at German airport, police say",
+      "description": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
-      "description": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
+      "title": "Demolition complicates the search for bodies after Venezuela’s earthquakes",
+      "description": "Venezuela has begun tearing down unstable buildings after its deadly earthquakes. But what is the cost to survivors?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/longform/2026/8/5/demolition-complicates-the-search-for-bodies-after-venezuelas-earthquakes?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "4h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Procter & Gamble will acquire supplements brand Thorne for $3.8 billion, CEO tells CNBC",
-      "description": "P&G CEO Shailesh Jejurikar said the acquisition is play to grow the company's health business on CNBC's \"Squawk on the Street.\"",
+      "title": "Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says",
+      "description": "Bank of America was among the prime brokers for the hedge fund, which is run by Leopold Aschenbrenner.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/04/procter-gamble-will-acquire-supplements-brand-thorne.html",
+      "url": "https://www.cnbc.com/2026/08/05/bofa-brian-moynihan-situational-awareness-meltdown-was-a-warning-shot.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Stocks could soar in August. Here are six potential drivers.",
-      "description": "Tom Lee, head of research at Fundstrat, outlined the reasons he thinks stocks could reach a new high this month.",
+      "title": "SpaceX moon crash is a perfect metaphor for rocket maker’s share price, analysts say",
+      "description": "Parts of a SpaceX rocket reportedly crashed into the Moon on Wednesday",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/05/spacex-moon-crash-share-price-elon-musk.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Abdul El-Sayed wins Michigan Democratic Senate primary as voters pivot to the left",
+      "description": "Abdul El-Sayed won the Michigan Democratic Senate primary, setting up a context with former Rep. Mike Rogers in the November general election.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/04/abdul-el-sayed-haley-stevens-michigan-primary.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "U.S. economy keeps up the momentum, but rising costs put a lid on new hiring",
+      "description": "The largest part of the economy grew in July at a robust pace, but scattered shortages of key supplies and dogged inflation raised the cost of doing business. Companies responded by keeping a lid on hiring.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/stocks-could-soar-in-august-here-are-six-potential-drivers-89d91780?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/u-s-economy-keeps-up-the-momentum-but-rising-costs-put-a-cap-on-new-hiring-028d481b?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Palantir is leaving its software peers behind in the AI race",
-      "description": "The company’s focus on sovereign AI is resonating with customers, analysts say.",
+      "title": "If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?",
+      "description": "“She has been living with me for four years.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/palantir-is-leaving-its-software-peers-behind-in-the-ai-race-45280581?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/if-i-marry-my-girlfriend-67-will-she-lose-her-supplemental-security-income-and-divorced-spouse-benefits-9340bab9?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Blanche approved by Judiciary Committee, sending Trump's AG nominee to full Senate vote",
-      "description": "Attorney General nominee Todd Blanche will still need to receive 50 votes on the Senate floor to be confirmed after clearing the Senate Judiciary Committee.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/04/todd-blanche-weaponization-fund-senate-confirmation.html",
+      "title": "Shopify’s stock heads for best day in a year after the company ‘left no doubt’ about its growth trajectory",
+      "description": "The company is keeping costs in check while signaling upbeat growth trends, analysts say.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/shopifys-stock-heads-for-best-day-in-a-year-after-the-company-left-no-doubt-about-its-growth-trajectory-79551270?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "New Jersey sues Amazon on antitrust grounds, alleging it unlawfully wielded its power over delivery contractors",
-      "description": "The complaint alleges Amazon's third-party delivery model leads to lower wages, unfair working conditions and a lack of competition.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/04/nj-amazon-antitrust-lawsuit-delivery-contractors.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling",
-      "description": "The filing came after Amazon climbed to an all-time high on Monday, extending gains sparked by last week's quarterly results.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/04/jeff-bezos-just-filed-to-sell-4-billion-in-amazon-the-shares-are-falling.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Use DraftKings promo code to get $150 bonus bets by targeting Red Sox-White Sox, Mets-Guardians, MLB Tuesday",
-      "description": "DraftKings offers $150 in bonus bets after your first $5 wager for MLB betting on Tuesday",
+      "title": "Browns' HC reveals plan for naming starter as QB battle continues between Deshaun Watson, Shedeur Sanders",
+      "description": "Todd Monken plans to start each QB in one preseason game, before deciding who will start the third",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-150-bonus-bets-red-sox-white-sox-mets-guardians-mlb-tuesday/",
+      "url": "https://www.cbssports.com/nfl/news/browns-qb-battle-todd-monken-reveals-preseason-plan-shedeur-sanders-deshaun-watson/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Boston College AD denies basketball broadcast team's firing was tied to new coach Luke Murray",
-      "description": "Murray reportedly wanted the university to cut ties with everyone associated with Boston College's previous staff",
+      "title": "Kevin Durant fires Klay Thompson stray amid ridiculous Warriors-76ers comparison",
+      "description": "Durant continues to believe that scoring means more than anything else on a basketball court",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-basketball/news/boston-college-radio-broadcast-fired-luke-murray/",
+      "url": "https://www.cbssports.com/nba/news/kevin-durant-klay-thompson-stray-warriors-76ers-comparison/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Fantasy Football: How to draft a winner from No. 10 spot in PPR leagues; full results, favorite picks, more",
-      "description": "Here's how it played out with the tenth overall pick",
+      "title": "Why Mets, Blue Jays are extra incentivized to lose down the stretch",
+      "description": "Both disappointing 2026 teams face what could be franchise-altering draft lottery odds at the end of the year",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-how-to-draft-a-winner-from-no-10-spot/",
+      "url": "https://www.cbssports.com/mlb/news/mets-blue-jays-tanking-draft-lottery-odds-standings/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Arkansas Sports Betting 2026: Best Legal AR Sportsbooks & Betting Apps",
-      "description": "Find the best Arkansas sports betting apps in August 2026, and all you need to know about Arkansas sports betting.",
+      "title": "LIV Golf claims league has secured funding to continue operations beyond 2026 with notable changes",
+      "description": "CEO Scott O'Neil made the announcement on Wednesday ahead of LIV Golf New York",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/arkansas/",
+      "url": "https://www.cbssports.com/golf/news/liv-golf-secured-outside-funding-continue-operations/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
