@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-05T15:39:52.910495+00:00",
-  "edition": "#183",
+  "date": "2026-08-06T15:57:02.824819+00:00",
+  "edition": "#184",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Cloudflare OS",
-      "description": "Article URL: https://os.cloudflare.app/ Comments URL: https://news.ycombinator.com/item?id=49184083 Points: 6 # Comments: 4",
-      "source": "Hacker News",
-      "url": "https://os.cloudflare.app/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Google Assistant is going away on Mobile Devices",
-      "description": "Article URL: https://images.seroundtable.com/google-assistant-going-away-laEdSzU1.png Comments URL: https://news.ycombinator.com/item?id=49184041 Points: 12 # Comments: 2",
-      "source": "Hacker News",
-      "url": "https://images.seroundtable.com/google-assistant-going-away-laEdSzU1.png",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Zoox to start charging for robotaxi rides in Las Vegas",
-      "description": "This marks the official launch of Zoox's commercial operations.",
+      "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
+      "description": "This generation of 20-somethings is so disillusioned with swipe-based dating apps that they'll try literally anything else -- even an AI matchmaker.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/05/zoox-to-start-charging-for-robotaxi-rides-in-las-vegas/",
+      "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
-      "description": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Citigroup, Idaho, and Build-a-Bear Launched a Coordinated Attack on Me",
-      "description": "Article URL: https://knock-knock.net/blog/citigroup-idaho-build-a-bear/ Comments URL: https://news.ycombinator.com/item?id=49183953 Points: 14 # Comments: 1",
+      "title": "Almost no skill required to cook a steak",
+      "description": "Article URL: https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/ Comments URL: https://news.ycombinator.com/item?id=49198069 Points: 21 # Comments: 7",
       "source": "Hacker News",
-      "url": "https://knock-knock.net/blog/citigroup-idaho-build-a-bear/",
+      "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "As Gen Z reconsiders dating apps, Tinder’s IRL events expand to dozens more cities",
-      "description": "Tinder is expanding its in-person events feature from an initial Los Angeles test to 26 cities worldwide by the end of September.",
+      "title": "Tesla and SpaceX will invest $16.8B to start building ‘Terafab’ chip factory in Texas",
+      "description": "After months of speculation, the companies formally announced the massive project will happen just north of Houston.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/05/as-gen-z-reconsiders-dating-apps-tinders-irl-events-expand-to-dozens-more-cities/",
+      "url": "https://techcrunch.com/2026/08/06/tesla-and-spacex-will-invest-16-8b-to-start-building-terafab-chip-factory-in-texas/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Police chief considers joining legal action over PC Harper killers' early release",
-      "description": "Two of PC Andrew Harper's killers are set to be included in the government's early release scheme, which begins in October.",
+      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+      "description": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCl…",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Show HN: I spent 2 years designing a mechanical Magic Keyboard",
+      "description": "Hi HN, today I’m revealing Altar II, an ultra-low profile (4.75mm) mechanical keyboard designed to replace your Magic Keyboard. It’s the keyboard I wish Apple made. Altar II has fully mechanical switches, plus a magneti…",
+      "source": "Hacker News",
+      "url": "https://electronicmaterialsoffice.com/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "eBay continues to bet on live shopping after record quarter",
+      "description": "eBay touted an increase in eBay Live's gross merchandise volume as it plans to expand it to more international markets in the coming weeks and months.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/06/ebay-continues-to-bet-on-live-shopping-after-record-quarter/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Calls for inquiry into Army training college for teenagers after reports of rape and abuse",
+      "description": "Four women told the BBC they were sexually assaulted and harassed while attending the Army Foundation College (AFC) at Harrogate in North Yorkshire.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2v5kj9zzko?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g8pe13x5o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Family 'devastated' by death of girl, 9, as man charged with murder",
-      "description": "A 35-year old man has appeared in court charged with the murder of Minnie Merriman, who was found injured in Arbroath on Monday.",
+      "title": "Two police officers injured during second night of anti-immigration disorder in Norfolk",
+      "description": "Norfolk Police attend two nights of disorder in Thetford as MP condemns \"ugly scenes\".",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c235evj1r04o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Ex-MP urges Tories to block council candidate jailed for antisemitic abuse against her",
-      "description": "Joshua Bonehill-Paine was jailed over neo-Nazi activism, but has been selected to stand in a new Somerset Council seat in 2027.",
+      "title": "Stephen Bear jailed for breaching restraining order",
+      "description": "The reality TV contestant is back in prison after admitting a harassment charge regarding Georgia Harrison.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1l1q6167d3o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cewrjp2gj4ko?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Burnham orders review of grooming gang early releases",
+      "description": "The announcement of the review comes after the Tory leader raised concerns that child sex offenders could leave jail early.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cg5lm3evpzzo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Under China's new 'unity' law, Tibetans fight to preserve language and culture",
-      "description": "A 73-year-old retired nurse's decision to learn to write Tibetan language offers a glimpse into how some embrace their language and cultural identity in Tibet.",
+      "title": "Greetings from a wildlife park in central Sri Lanka that's a haven for elephants",
+      "description": "At a time of increased conflict between elephants and humans, as elephant habitats are converted to intensive agriculture, the Hurulu Eco Park is a place where the animals can graze unimpeded.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/08/05/g-s1-137436/under-chinas-new-unity-law-tibetans-fight-to-preserve-language-and-culture",
+      "url": "https://www.npr.org/2026/08/06/g-s1-137317/sri-lanka-elephants",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Progressive Abdul El-Sayed wins Michigan's Democratic primary for Senate",
-      "description": "El-Sayed, an epidemiologist, backs Medicare for all and decries corporate money in politics. He beat Rep. Haley Stevens, whose supporters said she would have had a better chance in the fall.",
+      "title": "Trump administration moves to deregulate Head Start, opening door for sweeping change",
+      "description": "It would slim regulation of the 60-year-old anti-poverty program and aim to save money. Advocates worry the changes could undermine the early education program's mission.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/08/05/nx-s1-5920403/michigan-senate-el-sayed-stevens-democrats",
+      "url": "https://www.npr.org/2026/08/06/nx-s1-5920386/head-start-regulations-trump",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Anthropic AI used fake profiles to target people in hack then hid the evidence",
-      "description": "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.",
+      "title": "Ukraine hits two oil refineries deep in Russian territory",
+      "description": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "6h ago"
-    },
-    {
-      "title": "UK tribunal confirms professor’s anti-Zionism is legally protected belief",
-      "description": "David Miller has told Al Jazeera the ruling is a victory that will encourage others to speak out against Zionism.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/5/uk-tribunal-confirms-professors-anti-zionism-is-legally-protected-belief?traffic_source=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "War on Iran: US-Iran deal edges closer",
-      "description": "A deal between the US and Iran could be signed within 48 hours, according to US officials.",
+      "title": "Saudi Arabia names commander for maritime defence coalition",
+      "description": "Rear Admiral Abdullah bin Salem Al-Shehri will lead multinational coalition's naval defence to secure vital waterways.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/war-on-iran-us-iran-deal-edges-closer?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/8/6/saudi-arabia-names-commander-for-maritime-defence-coalition?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Left-wing political outsider wins Democratic Senate primary in Michigan",
-      "description": "Abdul El-Sayed, the son of Egyptian immigrants, would be the first Muslim US senator if elected in November.",
+      "title": "Trump vows to find ‘leakers’ after reports of depleted Iran war munitions",
+      "description": "The Trump administration has repeatedly pushed back on reports of shortages of both US offensive and defensive weapons.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/6/trump-vows-to-find-leakers-after-reports-of-depleted-iran-war-munitions?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "UNICEF says one child killed per day in Gaza since ‘ceasefire’",
+      "description": "At least 300 children reported killed in Gaza in 300 days since October 2025 truce between Israel and Hamas was agreed.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/6/unicef-says-one-child-killed-per-day-in-gaza-since-ceasefire-2?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "War on Iran: Iran and Oman agree on Strait of Hormuz deal",
+      "description": "Iran and Oman agree on new coordinates for ships to pass through the Strait of Hormuz.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/aje-onl-nf_aje-onl-nf-iran-omar-hormuz-deal-060826?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "US Senate committee votes to hold Fauci in contempt over Covid hearing",
+      "description": "The committee will now refer him for possible prosecution for refusing to answer questions about his handling of the Covid-19 pandemic.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Germany investigates explosive device attached to drone at Leipzig airport",
-      "description": "An airport employee spotted the object carrying what authorities described as 'an unknown explosive device'.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/5/germany-investigates-explosive-device-attached-to-drone-at-leipzig-airport?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Drone carrying explosives found at German airport, police say",
-      "description": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Demolition complicates the search for bodies after Venezuela’s earthquakes",
-      "description": "Venezuela has begun tearing down unstable buildings after its deadly earthquakes. But what is the cost to survivors?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/longform/2026/8/5/demolition-complicates-the-search-for-bodies-after-venezuelas-earthquakes?traffic_source=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c1m18158my9o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says",
-      "description": "Bank of America was among the prime brokers for the hedge fund, which is run by Leopold Aschenbrenner.",
+      "title": "'AI Kill Switch' bill needs to be passed this year amid ongoing rogue agent hacks, Rep. Lieu says",
+      "description": "Anthropic, Meta and OpenAI have all had incidents of AI models hacking other companies during cybersecurity testing.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/05/bofa-brian-moynihan-situational-awareness-meltdown-was-a-warning-shot.html",
+      "url": "https://www.cnbc.com/2026/08/06/ai-kill-switch-bill-openai-anthropic-meta.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "SpaceX moon crash is a perfect metaphor for rocket maker’s share price, analysts say",
-      "description": "Parts of a SpaceX rocket reportedly crashed into the Moon on Wednesday",
+      "title": "Don’t worry about what other people have saved for retirement. Here’s how to find your perfect number.",
+      "description": "Don’t compare your nest-egg balance to a number that doesn’t actually mean anything. Instead, do this calculation to see if you’re on track for retirement.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/dont-worry-about-what-other-people-have-saved-for-retirement-heres-how-to-find-your-perfect-number-73fc460e?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "‘Her bank accounts were stripped bare by Medicaid’: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?",
+      "description": "“She left behind a 30-year-old son and 32-year-old daughter.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/her-bank-accounts-were-stripped-bare-by-medicaid-my-late-friend-had-20-000-in-credit-card-debt-will-her-life-insurance-pay-for-it-17ee9792?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "SpaceX stock could face further pressure as first batch of shares unlock since IPO",
+      "description": "With the first tranche of SpaceX shares held by insiders unlocking, the stock could see downward pressure.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/05/spacex-moon-crash-share-price-elon-musk.html",
+      "url": "https://www.cnbc.com/2026/08/06/spacex-faces-test-as-shares-unlock-allowing-early-investors-cash-out.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Abdul El-Sayed wins Michigan Democratic Senate primary as voters pivot to the left",
-      "description": "Abdul El-Sayed won the Michigan Democratic Senate primary, setting up a context with former Rep. Mike Rogers in the November general election.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/04/abdul-el-sayed-haley-stevens-michigan-primary.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "U.S. economy keeps up the momentum, but rising costs put a lid on new hiring",
-      "description": "The largest part of the economy grew in July at a robust pace, but scattered shortages of key supplies and dogged inflation raised the cost of doing business. Companies responded by keeping a lid on hiring.",
+      "title": "SpaceX insiders get their first chance to cash out — but the stock’s slide will limit their opportunity",
+      "description": "Up to 911.5 million SpaceX shares will become available for sale Thursday, but a separate tranche of up to 455.8 million shares will stay locked up due to the stock’s weak performance.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/u-s-economy-keeps-up-the-momentum-but-rising-costs-put-a-cap-on-new-hiring-028d481b?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/spacex-insiders-get-their-first-chance-to-cash-out-but-the-stocks-slide-will-limit-their-opportunity-5c94b0f5?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?",
-      "description": "“She has been living with me for four years.”",
+      "title": "As a woman of color who travels alone, is it a waste of money to visit places with zero diversity?",
+      "description": "“I don’t want to spend a bunch of money and have a bad time.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/if-i-marry-my-girlfriend-67-will-she-lose-her-supplemental-security-income-and-divorced-spouse-benefits-9340bab9?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/as-a-woman-of-color-who-travels-alone-is-it-a-waste-of-money-to-visit-places-with-zero-diversity-6de89785?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Shopify’s stock heads for best day in a year after the company ‘left no doubt’ about its growth trajectory",
-      "description": "The company is keeping costs in check while signaling upbeat growth trends, analysts say.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/shopifys-stock-heads-for-best-day-in-a-year-after-the-company-left-no-doubt-about-its-growth-trajectory-79551270?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Browns' HC reveals plan for naming starter as QB battle continues between Deshaun Watson, Shedeur Sanders",
-      "description": "Todd Monken plans to start each QB in one preseason game, before deciding who will start the third",
+      "title": "Use DraftKings promo code to get $150 bonus bets by targeting Cardinals-Panthers, 2026 NFL Hall of Fame Game",
+      "description": "DraftKings offers $150 in bonus bets after your first $5 wager for NFL and MLB betting on Thursday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/browns-qb-battle-todd-monken-reveals-preseason-plan-shedeur-sanders-deshaun-watson/",
+      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-150-bonus-bets-cardinals-panthers-2026-nfl-hall-of-fame-game/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Kevin Durant fires Klay Thompson stray amid ridiculous Warriors-76ers comparison",
-      "description": "Durant continues to believe that scoring means more than anything else on a basketball court",
+      "title": "PrizePicks promo code and app review: Play $5, Get $50",
+      "description": "Here's a look at the latest PrizePicks promo code and review of the app",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nba/news/kevin-durant-klay-thompson-stray-warriors-76ers-comparison/",
+      "url": "https://www.cbssports.com/betting/news/prizepicks/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Why Mets, Blue Jays are extra incentivized to lose down the stretch",
-      "description": "Both disappointing 2026 teams face what could be franchise-altering draft lottery odds at the end of the year",
+      "title": "Dave Richard's tight end tiers 2.0: Brock Bowers, Trey McBride in a league of their own",
+      "description": "A tier-based system for addressing the TE position in your Fantasy drafts",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/mlb/news/mets-blue-jays-tanking-draft-lottery-odds-standings/",
+      "url": "https://www.cbssports.com/fantasy/football/news/dave-richards-tight-end-tiers-2-0-brock-bowers-trey-mcbride-in-a-league-of-their-own/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "LIV Golf claims league has secured funding to continue operations beyond 2026 with notable changes",
-      "description": "CEO Scott O'Neil made the announcement on Wednesday ahead of LIV Golf New York",
+      "title": "Rodri to Barcelona? Catalan side join La Liga rivals Real Madrid in pursuit of Manchester City midfielder",
+      "description": "With the Ballon d'Or winner entering the final year of his deal at Manchester City, Barca could swoop in for an $80 million fee",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/golf/news/liv-golf-secured-outside-funding-continue-operations/",
+      "url": "https://www.cbssports.com/soccer/news/rodri-barcelona-la-liga-real-madrid-manchester-city-midfielder/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
