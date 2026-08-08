@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-07T14:33:07.653930+00:00",
-  "edition": "#185",
+  "date": "2026-08-08T14:06:45.106087+00:00",
+  "edition": "#186",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,228 +8,228 @@
   },
   "stories": [
     {
-      "title": "Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026",
-      "description": "You put together the concept — from a founder mixer, an after-hours panel, a themed party, a morning run, whatever fits your goal — and the TechCrunch team helps put it in front of the attendees already in town for Disr…",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/",
+      "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
+      "description": "About 90 percent of the distance driven by Perseverance has been autonomous.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
-      "description": "In the Kimi test, the sandbox designed to contain the experiment was not properly configured.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
+      "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+      "description": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-      "description": "Airbnb will debut a new AI-powered search experience with a toggle.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "SpaceX’s Terafab will rely on natural gas power plants, not Tesla solar panels",
-      "description": "SpaceX and Tesla are building a massive semiconductor fab in Texas that will depend on natural gas power plants, not Tesla solar panels.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "US's largest newspaper chain partners with Palantir to analyze audience data",
-      "description": "Article URL: https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/ Comments URL: https://news.ycombinator.com/item?id=49210589 Points: 22 # Comm…",
+      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "description": "Article URL: https://simonwillison.net/2026/Aug/7/openai-timeline/ Comments URL: https://news.ycombinator.com/item?id=49220609 Points: 86 # Comments: 99",
       "source": "Hacker News",
-      "url": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "U.S. Lost 23,000 Jobs in July, While Unemployment Ticked Lower",
-      "description": "Article URL: https://www.wsj.com/economy/jobs/july-jobs-report-unemployment-0d7c08a7 Comments URL: https://news.ycombinator.com/item?id=49210240 Points: 22 # Comments: 1",
+      "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
+      "description": "Article URL: https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3 Comments URL: https://news.ycombinator.com/item?id=49220392 Points: 21 # Comments: 16",
       "source": "Hacker News",
-      "url": "https://www.wsj.com/economy/jobs/july-jobs-report-unemployment-0d7c08a7",
+      "url": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
       "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "Serial sex offender guilty of murdering two women and raping third",
-      "description": "Simon Levy was a serial sex offender who was being monitored by the Metropolitan Police.",
+      "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
+      "description": "Article URL: https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html Comments URL: https://news.ycombinator.com/item?id=49220350 Points: 143 # Comments: 145",
+      "source": "Hacker News",
+      "url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "Nitecore’s latest power bank is the lightest and most compact yet",
+      "description": "There's two things you should know about me, your intrepid reviewer: I hate the feature creep associated with modern power banks, and I love shaving grams off the gear I carry when backpacking, bikepacking, and trail ru…",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "6h ago"
+    },
+    {
+      "title": "Victims urged to come forward as police accused of 'litany of failures' over murderer and rapist",
+      "description": "The Met and British Transport Police say the sex offender may have more victims, while criticism of investigators continues.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cewr8egkelwo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "How police let a registered sex offender murder and attack women",
-      "description": "Simon Levy’s second murder victim, Sheryl Wilkins, could have been saved, senior Met officer admits.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8jnrk4xlvdo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Cambridge to review process for hiring senior academics after Jason Arday resignation",
-      "description": "Prof Priyamvada Gopal, who is part of the group, says Cambridge should not be \"marking its own homework\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Officer who led PC Harper investigation 'appalled' killers could be released early",
-      "description": "Former Det Sup Stuart Blaik, who led the investigation into the police officer's death, has publicly shared his views on the case for the first time.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Murkowski will oppose Blanche nomination, narrowing his path to confirmation",
-      "description": "The Alaska Republican said the country needs an Attorney General who will \"check the worst impulses of this administration,\" adding that she doesn't have confidence that Todd Blanche can achieve that.",
+      "title": "K-pop's global wave inspires Chile's next pop stars",
+      "description": "K-pop conquered the world — now Chile's young creatives are remixing the movement and making it their own.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/08/07/g-s1-137773/lisa-murkowski-todd-blanche-attorney-general",
+      "url": "https://www.npr.org/2026/08/08/nx-s1-5899791/k-pop-chile-bts",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Employers unexpectedly cut 23,000 jobs in a sign of a wilting labor market",
-      "description": "U.S. employers cut 23,000 jobs in July, and job gains for the two previous months were weaker than initially reported, according to a report Friday from the Labor Department.",
+      "title": "Opinion: Europe's summer of heat",
+      "description": "Europe is in another brutal heat wave. The summer's earlier record-breaking weather already damaged crops, sparked wildfires and led to increased deaths.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/08/07/nx-s1-5924786/employers-economy-labor-jobs-federal-reserve",
+      "url": "https://www.npr.org/2026/08/08/nx-s1-5916351/opinion-europes-summer-of-heat",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Diego Maradona bloated, bedridden and resigned before death, says masseur",
-      "description": "Seven healthcare professionals have been on trial since mid-April in Argentina for possible negligence.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/7/diego-maradona-bloated-bedridden-and-resigned-before-death-says-masseur?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
+      "title": "Switzerland is a neutral nation but has more nuclear bunkers than any country in the world",
+      "description": "Instead of scrapping its network of bomb shelters after the Cold War, Switzerland kept building them. The country has more than 370,000 nuclear bomb shelters. Some are now used to house migrants.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/08/g-s1-137635/switzerland-nuclear-bunkers",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "3h ago"
     },
     {
-      "title": "Turkiye, Saudi Arabia, Pakistan sign joint defence agreement: What’s in it?",
-      "description": "Pact will 'reshape security architecture' of the region, experts say.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/7/turkiye-saudi-arabi-pakistan-sign-joint-defence-agreement-whats-in-it?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
+      "title": "The Women's Professional Baseball League makes its historic debut",
+      "description": "The Los Angeles Queens, the New York Heights, the Boston Hunters and the San Francisco Firebells take the field in Springfield, Ill., as the Women's Pro Baseball League kicks off its inaugural season.",
+      "source": "NPR",
+      "url": "https://www.npr.org/sections/the-picture-show/2026/08/08/nx-s1-5923371/womens-professional-baseball-league-debut",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "3h ago"
     },
     {
-      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-      "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+      "title": "Widdecombe police reopen investigation into incident at Farage's home, BBC understands",
+      "description": "Counter-terror police investigating the ex-MP's death say they are looking into an \"attempted burglary\" last year.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
+      "url": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "7h ago"
     },
     {
-      "title": "Russia drops record number of glide bombs on Ukraine as casualties pile up",
-      "description": "Moscow's troops suffer high rate of losses as Zelenskyy renews air campaign against Russia.",
+      "title": "Netanyahu mulls Saudi, Turkiye, Pakistan pact as Israeli elections loom",
+      "description": "Saudi Arabia, Turkiye, and Pakistan form a new defence pact, leaving Israel’s response and its implications uncertain",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/7/russia-hits-record-43000-casualties-in-july-as-its-armies-retreat-ukraine?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/8/8/netanyahu-mulls-saudi-turkiye-pakistan-pact-as-israeli-elections-loom?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Armenian Apostolic Church leader faces trial as feud with PM deepens",
-      "description": "Catholicos Karekin II and six other clerics are accused of failing to reinstate a bishop who was defrocked.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/7/armenian-apostolic-church-leader-faces-trial-as-feud-with-pm-deepens?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Meta fined $567m in largest child safety ruling against social media giant",
-      "description": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
+      "title": "Child among three killed in Russian missile attacks near Kyiv",
+      "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "5h ago"
-    },
-    {
-      "title": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'",
-      "description": "Some companies plan to shun the cheapest business- and premium- economy fares from their executives.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/07/business-business-premium-fares.html",
-      "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "‘I’m easing into retirement’: I’m getting an $80,000 pension payout. Where can I invest it safely?",
-      "description": "“I expect to have several years before I take distributions from my 401(k) account.”",
+      "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+      "description": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Ivory Coast’s ‘talking drum’ returns to home village after 110 years",
+      "description": "Ivory Coast's 'talking drum' returns to home village after 110 years",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/ivory-coasts-talking-drum-returns-to-home-village-after-110-years?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Drones spotted in Bulgaria and Germany raise concerns of Russian escalation",
+      "description": "The drone incidents in Europe have ignited fears that Moscow's war on Kyiv is now entangling NATO nations.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Police bodycam and CCTV catches Idaho mall shooting as it unfolds",
+      "description": "Police bodycam and CCTV catches Idaho mall shooting as it unfolds",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/police-bodycam-and-cctv-catches-idaho-mall-shooting-as-it-unfolds?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Berkshire Hathaway profit doubles, fueled by a near $13 billion investment gain",
+      "description": "Berkshire Hathaway booked a near $13 billion gain on investments in the latest quarter, and has put $32 billion of its cash pile to work.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-easing-into-retirement-im-getting-an-80-000-pension-payout-where-can-i-invest-it-safely-6653d810?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/berkshire-hathaway-profit-doubles-fueled-by-a-near-13-billion-investment-gain-26982ecf?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Shares of this digital medical platform jumped more than 100% overnight. Here’s why",
-      "description": "The company is seeing huge profitability potential and a larger addressable market as a result of AI search.",
+      "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
+      "description": "Strength across its energy, railroad and manufacturing businesses more than offset weaker insurance results.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/07/doximity-shares-double-heres-whats-driving-it-.html",
+      "url": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "I’m an unemployed software developer who is skeptical of AI. Can I still find a job in tech?",
-      "description": "“I was approached by one company who wants to use AI to dispatch ambulances.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-an-unemployed-software-developer-who-is-skeptical-of-ai-can-i-still-find-a-job-in-tech-4413875e?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Iran's chief negotiator accuses Trump of 'theater diplomacy' with Hormuz traffic near standstill",
-      "description": "The conflict is broadening across the region, with Gulf energy infrastructure and key shipping choke points under renewed threat.",
+      "title": "UAE says one of its ships was targeted by missile as U.S.-Iran tensions over Strait of Hormuz remain high",
+      "description": "Iran's military stressed that the crucial waterway would only be reopened when the U.S. accepts Iran's conditions.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/07/us-iran-war-trump-hormuz-diplomacy-oil-.html",
+      "url": "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html",
       "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?",
-      "description": "“She has been living with me for four years.”",
+      "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
+      "description": "The Black Hat cybersecurity conference in Las Vegas couldn't have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Cyclospora fears lead consumers to lose their appetite for salads",
+      "description": "Traffic to salad chains has fallen as consumers avoid greens due to the ongoing cyclospora outbreaks across the U.S.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
+      "description": "“My father placed his $600,000 Wisconsin home into a revocable trust, naming my brother as beneficiary.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/if-i-marry-my-girlfriend-67-will-she-lose-her-supplemental-security-income-and-divorced-spouse-benefits-9340bab9?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Free MLB picks, predictions for Friday, Aug. 7: Yankees, Red Sox among expert's best bets",
-      "description": "SportsLine expert Adam Thompson gives out his best MLB bets for Friday's games",
+      "title": "Zuffa Boxing 10 start time -- Aaron McKenna vs. Etinosa Oliha: Fight card, predictions for event in Ireland",
+      "description": "A pair of top middleweights will battle it out in Dublin on Saturday night",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/free-mlb-picks-predictions-for-friday-aug-7-yankees-red-sox-among-experts-best-bets/",
+      "url": "https://www.cbssports.com/boxing/news/zuffa-boxing-10-aaron-mckenna-vs-etinosa-oliha-start-time-fight-card-date-predictions/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "North Dakota State college football futures: Former FCS powerhouse set at 8.5 wins in first FBS season",
-      "description": "SportsLine expert Matt Severance breaks down his expectations for the Bison in their first FBS season",
+      "title": "Protect College Sports Act fails to reach Senate floor for vote, as lawmakers recess until September",
+      "description": "The college sports bill could pass the Senate as early as September, but with midterm elections coming, its passage is anything but certain",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/north-dakota-state-college-football-futures-former-fcs-powerhouse-set-at-8-5-wins-in-first-fbs-season/",
+      "url": "https://www.cbssports.com/college-football/news/protect-college-sports-act-fails-senate-vote-recess/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Hall of Fame locks: Active NFL players bound for enshrinement include Aaron Rodgers, Myles Garrett",
-      "description": "Football immortality awaits these legends",
+      "title": "Fantasy football rankings 2026: Sleepers, breakouts, busts from model that nailed Daniel Jones' big year",
+      "description": "SportsLine simulated the upcoming NFL season 10,000 times to help form your early 2026 Fantasy football draft strategy",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/hall-of-fame-active-nfl-players-aaron-rodgers-myles-garrett/",
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-busts-from-model-that-nailed-daniel-jones-big-year/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Free MLB home run picks August 7: Astros' Jose Altuve among expert's best bets for Friday",
-      "description": "SportsLine's Matt Severance shares his best MLB home run props picks for Friday, August 7",
+      "title": "UFC Fight Night odds, predictions, time: Mateusz Gamrot vs. Quillan Salkilld picks by elite MMA expert",
+      "description": "SportsLine's Kyle Marley reveals his picks for the UFC Fight Night: Gamrot vs. Salkilld card Saturday on Paramount+",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/mlb/news/free-mlb-home-run-picks-august-7-astros-jose-altuve-among-experts-best-bets-for-friday/",
+      "url": "https://www.cbssports.com/betting/news/ufc-fight-night-odds-predictions-fight-card-time-mateusz-gamrot-vs-quillan-salkilld-picks-bets/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     }
   ]
 }
