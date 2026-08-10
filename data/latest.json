@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-09T14:07:12.722528+00:00",
-  "edition": "#187",
+  "date": "2026-08-10T14:37:30.731147+00:00",
+  "edition": "#188",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,228 +8,228 @@
   },
   "stories": [
     {
-      "title": "This ‘adversarial’ pattern can prevent surveillance cameras from detecting you",
-      "description": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detection by surveillance cameras.",
+      "title": "A data breach at shipping giant Ceva Logistics is rippling across banks, retailers, Steam gamers, and beyond",
+      "description": "Companies that rely on Ceva Logistics for shipping their physical goods to customers say their personal data was taken during a recent cyberattack.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
+      "url": "https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Mea Culpa – Dark Hours",
-      "description": "Article URL: https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html Comments URL: https://news.ycombinator.com/item?id=49231154 Points: 33 # Comments: 14",
-      "source": "Hacker News",
-      "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "This former notorious red-light district is now one of the world’s top AI hubs",
-      "description": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new.",
+      "title": "Signed up for Klaviyo? Dozens of advertisers may have seen your password",
+      "description": "A bug in the tech giant's website mistakenly shared users' sign-up information, including personal data and their password, to third-party companies.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
+      "url": "https://techcrunch.com/2026/08/10/signed-up-for-klaviyo-dozens-of-advertisers-may-have-seen-your-password/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
-      "description": "Article URL: https://github.com/rochus-keller/OberonSystem/tree/op2-rv32 Comments URL: https://news.ycombinator.com/item?id=49230891 Points: 8 # Comments: 0",
+      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "description": "Article URL: https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878 Comments URL: https://news.ycombinator.com/item?id=49243880 Points: 3 # Comments: 1",
       "source": "Hacker News",
-      "url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
+      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Why Wall Street Is Ignoring Big Tech's Debt",
-      "description": "Article URL: https://www.youtube.com/watch?v=NufJ7g63KSY Comments URL: https://news.ycombinator.com/item?id=49230630 Points: 21 # Comments: 2",
+      "title": "Mistral Patent for \"Code implemented tool calls\"",
+      "description": "Article URL: https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html Comments URL: https://news.ycombinator.com/item?id=49243397 Points: 61 # Comments: 58",
       "source": "Hacker News",
-      "url": "https://www.youtube.com/watch?v=NufJ7g63KSY",
+      "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
       "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-      "description": "Article URL: https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model Comments URL: https://news.ycombinator.com/item?id=49230550 Points: 22 # Comments: 9",
+      "title": "Defending my own brain against enshittification",
+      "description": "Article URL: https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/ Comments URL: https://news.ycombinator.com/item?id=49243269 Points: 35 # Comments: 16",
       "source": "Hacker News",
-      "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
+      "url": "https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
-      "description": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+      "title": "50k Boat Names",
+      "description": "Article URL: https://www.beautifulpublicdata.com/boat-names/ Comments URL: https://news.ycombinator.com/item?id=49243029 Points: 44 # Comments: 27",
+      "source": "Hacker News",
+      "url": "https://www.beautifulpublicdata.com/boat-names/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Strong earthquake causes significant damage and injuries in Colombia",
+      "description": "The magnitude-7.4 quake had its epicentre near the Pacific Coast but could be felt in cities hundreds of kilometres away.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-      "description": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed.",
+      "title": "Record 230 people cross Channel in one small boat",
+      "description": "The Home Office says it shows the \"reckless and dangerous tactics\" used by gangs \"cramming ever greater numbers on to unseaworthy vessels\".",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Haunted by Hoover, Trump searches for an endgame in Iran",
-      "description": "President Trump is confronting a question that has haunted presidents throughout history: how a war - that has gone on longer than predicted - can reshape a presidency.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/09/nx-s1-5925960/trump-hoover-iran",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "This rising painter reimagines Renaissance art in a cocoa plantation in Cameroon",
-      "description": "A new gallery show in London features the paintings of Marc Padeu, playing with themes from Renaissance art and bringing them to his homeland of Cameroon.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/09/g-s1-137636/paintings-religious-renaissance-old-masters-marc-padeu-african-cameroon-artist",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
-      "description": "Meanwhile, Iran has made new demands about the restart of negotiations and the reopening of the Strait of Hormuz, and the Pentagon is pressing the U.S. defense industry to accelerate production of weapons.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "More areas of UK likely to move into drought as fifth heatwave builds",
-      "description": "With no significant rain forecast in the coming week, more areas of England could move into drought status, as Simon King explains.",
+      "title": "Ex-Cambridge professor Jason Arday cancels live event after plagiarism row",
+      "description": "One talk by Arday is \"cancelled at the request of the speaker\" and others are removed from listings.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/weather/articles/c9d8vwg0197o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cd7lj3703epo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "10h ago"
-    },
-    {
-      "title": "Why does Iran defeat the empires trying to conquer it?",
-      "description": "On the second episode of Deja Vu, we look at Iran and the great powers that have tried to shape it.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/deja-vu-2/2026/8/9/why-does-iran-defeat-the-empires-trying-to-conquer-it?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Barzani says Iraqi Kurdistan wants peace as regional tensions rise",
-      "description": "Barzani says Iraqi Kurdistan wants peace as regional tensions rise",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/barzani-says-iraqi-kurdistan-wants-peace-as-regional-tensions-rise?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "‘The wealthy poor’: Soaring food prices hurt Iranian families",
-      "description": "Iranians from all walks of life struggle under the weight of rising inflation and war pressure.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/8/9/the-wealthy-poor-soaring-food-prices-hurt-iranian-families?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Netanyahu rejects Trump’s Board of Peace plan for Gaza",
-      "description": "Israel rejects Trump’s 15-point Gaza plan, Netanyahu says.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/netanyahu-rejects-trumps-board-of-peace-plan-for-gaza?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Ancient Roman shipwreck discovered off Sicily coast",
-      "description": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
-      "description": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "14h ago"
-    },
-    {
-      "title": "S&P 500 sales growth is at a nearly 5-year high. Here’s what’s behind the surge.",
-      "description": "Energy companies in the S&P 500 have put up a 42.5% revenue gain in the second quarter, powering the index’s sales performance.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/s-p-500-sales-growth-is-at-a-nearly-5-year-high-heres-whats-behind-the-surge-a4ccf06d?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
-      "description": "“He has never been particularly generous or nurturing.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
-      "description": "“My father placed his $600,000 Wisconsin home into a revocable trust, naming my brother as beneficiary.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "The number of stocks beating the S&P 500 is the highest in 4 years. Why that number should rise.",
-      "description": "For the first time in four years, the average stock is beating the stock market.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-number-of-stocks-beating-the-s-p-500-is-the-highest-in-4-years-why-that-number-should-rise-b9bd05b3?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Myspace eyes comeback as an 'antidote' to social media fatigue — but it may be a long shot",
-      "description": "\"Excitement about Myspace's relaunch reflects nostalgia for a more analog time, when algorithms were less dominant in our lives,\" an analyst told CNBC.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/09/myspace-comeback-rival-social-media-giants.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Abel puts a big chunk of Berkshire's cash to work",
-      "description": "In his second quarter as the new CEO of Berkshire Hathaway, Greg Abel did some serious spending, including $4.5 billion on buybacks.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/09/abel-puts-a-big-chunk-of-berkshires-cash-to-work.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Which college football teams can go undefeated in 2026? Here are 10 potential candidates",
-      "description": "Every college football team sets out to win each game, but only a select few have the talent, coaching and schedule favorability to pull off that feat",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/college-football-teams-undefeated-2026/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Fantasy football rankings 2026: Sleepers, breakouts, busts via model that nailed Daniel Jones' big year",
-      "description": "SportsLine simulated the upcoming NFL season 10,000 times to help form your early 2026 Fantasy football draft strategy",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-busts-via-model-that-nailed-daniel-jones-big-year/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "2026 Iowa Corn 350 predictions, odds, time: NASCAR at Iowa picks, best bets from proven model",
-      "description": "Mike McClure's computer model reveals its surprising picks and NASCAR at Iowa props for the Iowa Corn 350 Powered by Ethanol",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/2026-iowa-corn-350-predictions-odds-time-nascar-at-iowa-picks-bets/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Astros vs. Padres prediction, odds, time: 2026 MLB picks for 'Sunday Night Baseball' by proven model",
-      "description": "SportsLine's model simulated San Diego Padres vs. Houston Astros 10,000 times and revealed its MLB predictions and 'Sunday Night Baseball' picks",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/astros-padres-prediction-odds-time-2026-mlb-picks-for-sunday-night-baseball/",
-      "category": "🏀 SPORTS",
       "timeAgo": "3h ago"
+    },
+    {
+      "title": "Does spending money make you feel bad? Read this comic",
+      "description": "If spending — or not spending — money makes you feel shame or regret, you might be grappling with financial guilt. Financial planner Lauryn Williams breaks down three types and how to deal.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5860936/does-spending-money-make-you-feel-bad-read-this-comic",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Flood death toll in India's Assam reaches 100 as thousands lose their homes",
+      "description": "Days of heavy monsoon rain has caused rivers, including the Brahmaputra, to overflow, inundating communities, disrupting livelihoods and damaging infrastructure.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/10/g-s1-138015/flood-death-toll-in-indias-assam-reaches-100-as-thousands-lose-their-homes",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Decades of abuse revealed at Michigan art school. And, the Iran war's impact on midterms",
+      "description": "A new report has revealed decades of alleged abuse at an elite art school. NPR spoke with one of the victims. And, Iran is playing the long game with negotiations, which could impact midterms.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/10/g-s1-138013/up-first-newsletter-epstein-interlochen-center-for-the-arts-trump-iran-midterms-wildfires",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
+      "description": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "War on Iran: Phase II: Day 30",
+      "description": "Donald Trump says the US is only ‘semi-negotiating’ with Iran.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/war-on-iran-phase-ii-day-30?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Record 230 people reach UK on single boat after crossing English Channel",
+      "description": "The government has accused people smugglers of 'cramming' migrants onto 'unseaworthy vessels' and putting lives at risk.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/10/record-230-people-reach-uk-on-single-boat-after-crossing-english-channel?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Iran changed the rules in Hormuz. The Gulf is changing the rules for Iran",
+      "description": "Iran gained leverage in Hormuz, but its neighbours are reshaping regional security to limit what Tehran can do with it.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/8/10/iran-changed-the-rules-in-hormuz-the-gulf-is-changing-the-rules-for-iran?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Why Netanyahu’s ‘coup’ against Gaza plan risks endless war",
+      "description": "The Israeli leader’s rejection of a US-led roadmap threatens to entrench a state of conflict, analysts say.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/10/why-netanyahus-coup-against-gaza-plan-risks-endless-war?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "China evacuates one million from homes as massive storm arrives",
+      "description": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "7h ago"
+    },
+    {
+      "title": "Intel plans $15 billion stock offering as AI demand accelerates",
+      "description": "Technology giants have shelled out trillions to support insatiable AI demand and the infrastructure buildout.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Is $1 million enough for a household to retire? The answer keeps changing.",
+      "description": "The Moneyist: “Some readers — and couples — would be grateful to retire on half that amount.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "U.S. oil price hits $80 as doubt grows Washington and Tehran will reach Strait of Hormuz deal",
+      "description": "Oil rose as traders assess mixed signals from the U.S. and Iran amid worries that a deal to open the Strait of Hormuz may not come anytime soon.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "The stocks of these ‘toll takers’ could be the AI boom’s next big winners",
+      "description": "The next boom could be in stocks of companies collecting recurring revenue from AI workloads.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-stocks-of-these-toll-takers-could-be-the-ai-booms-next-big-winners-ae1081f1?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Berkshire Hathaway is digging into its nearly $400 billion in cash — and buying a stock it knows very well",
+      "description": "Berkshire is buying its own stock after years of building up a cash pile. Not everyone is excited.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/berkshire-hathaway-finally-started-spending-its-nearly-400-billion-in-cash-on-one-stock-it-knows-very-well-f9d56389?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Barrick’s stock slides after dispute settlement sets the scene for IPO of mining company’s gold assets",
+      "description": "Mining giant Barrick announced Monday that it has reached an agreement with gold-mining company Newmont to combine some of their mines — helping to support an initial public offering of Barrick’s North American gold ass…",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/barricks-stock-slides-after-dispute-settlement-sets-the-scene-for-ipo-of-mining-companys-gold-assets-a88f3d27?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Here's everything you need to set your Week 21 lineup ...",
+      "description": "FBT NL 8/9",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "NFL training camp injuries tracker: Latest updates on Luther Burden III, Isiah Pacheco, Zay Flowers and more",
+      "description": "Keep track of every major injury, setback, and recovery timeline across the league as teams prepare for the upcoming season",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/nfl/news/nfl-training-camp-injuries-tracker/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "2026 Fantasy football draft prep: NFL experts reveal rankings, top 150, best rookie picks",
+      "description": "SportsLine's 2026 Fantasy football draft guide includes Fantasy football auction values, keeper advice, top rookies, mock drafts and more",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/fantasy/football/news/2026-fantasy-football-draft-prep-nfl-experts-reveal-rankings-top-150-best-rookie-picks/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Dodgers-Royals, Phillies-Cardinals, MLB Monday",
+      "description": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for MLB betting on Monday",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-dodgers-royals-phillies-cardinals-mlb-monday/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
     }
   ]
 }
