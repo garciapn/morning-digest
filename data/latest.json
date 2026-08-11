@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-10T14:37:30.731147+00:00",
-  "edition": "#188",
+  "date": "2026-08-11T14:36:46.270613+00:00",
+  "edition": "#189",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "A data breach at shipping giant Ceva Logistics is rippling across banks, retailers, Steam gamers, and beyond",
-      "description": "Companies that rely on Ceva Logistics for shipping their physical goods to customers say their personal data was taken during a recent cyberattack.",
+      "title": "Greenland issues \"strong warning\" as American oil firm illegally drills wells",
+      "description": "Article URL: https://www.theguardian.com/world/2026/aug/08/greenland-iwarning-trump-linked-oil-firm-prepares-drill Comments URL: https://news.ycombinator.com/item?id=49258687 Points: 23 # Comments: 7",
+      "source": "Hacker News",
+      "url": "https://www.theguardian.com/world/2026/aug/08/greenland-iwarning-trump-linked-oil-firm-prepares-drill",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?",
+      "description": "Article URL: https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave Comments URL: https://news.ycombinator.com/item?id=49258581 Points: 8 # Comments: 3",
+      "source": "Hacker News",
+      "url": "https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Bumble ditches its rule that kept men from making the first move",
+      "description": "Bumble is ditching the rule that it has enforced since launching in 2024. Men can finally message first.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/",
+      "url": "https://techcrunch.com/2026/08/11/bumble-ditches-its-rule-that-kept-men-from-making-the-first-move/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Signed up for Klaviyo? Dozens of advertisers may have seen your password",
-      "description": "A bug in the tech giant's website mistakenly shared users' sign-up information, including personal data and their password, to third-party companies.",
+      "title": "North Korean remote IT staffer worked for US government agency, says FBI",
+      "description": "The investigation shows that North Koreans are able to infiltrate government agencies, as well as private organizations and crypto exchanges.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/10/signed-up-for-klaviyo-dozens-of-advertisers-may-have-seen-your-password/",
+      "url": "https://techcrunch.com/2026/08/11/north-korean-remote-it-staffer-worked-for-us-government-agency-says-fbi/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-      "description": "Article URL: https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878 Comments URL: https://news.ycombinator.com/item?id=49243880 Points: 3 # Comments: 1",
+      "title": "Nvidia Nemotron 3.5 Lightning",
+      "description": "Article URL: https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4 Comments URL: https://news.ycombinator.com/item?id=49257947 Points: 22 # Comments: 5",
       "source": "Hacker News",
-      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Mistral Patent for \"Code implemented tool calls\"",
-      "description": "Article URL: https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html Comments URL: https://news.ycombinator.com/item?id=49243397 Points: 61 # Comments: 58",
-      "source": "Hacker News",
-      "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Defending my own brain against enshittification",
-      "description": "Article URL: https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/ Comments URL: https://news.ycombinator.com/item?id=49243269 Points: 35 # Comments: 16",
-      "source": "Hacker News",
-      "url": "https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/",
+      "title": "New surveillance tech links your phone to your license plate",
+      "description": "Phone and Bluetooth signals could turn roadside cameras into far richer tracking tools.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/08/new-surveillance-tech-links-your-phone-to-your-license-plate/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "50k Boat Names",
-      "description": "Article URL: https://www.beautifulpublicdata.com/boat-names/ Comments URL: https://news.ycombinator.com/item?id=49243029 Points: 44 # Comments: 27",
-      "source": "Hacker News",
-      "url": "https://www.beautifulpublicdata.com/boat-names/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Strong earthquake causes significant damage and injuries in Colombia",
-      "description": "The magnitude-7.4 quake had its epicentre near the Pacific Coast but could be felt in cities hundreds of kilometres away.",
+      "title": "Summer 2026 on course to be UK's hottest on record, says Met Office",
+      "description": "Only average conditions are needed for the remainder of August to break the record, which was set just last year.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/weather/articles/cn8n9pg54m1o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Record 230 people cross Channel in one small boat",
-      "description": "The Home Office says it shows the \"reckless and dangerous tactics\" used by gangs \"cramming ever greater numbers on to unseaworthy vessels\".",
+      "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+      "description": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Ex-Cambridge professor Jason Arday cancels live event after plagiarism row",
-      "description": "One talk by Arday is \"cancelled at the request of the speaker\" and others are removed from listings.",
+      "title": "Eclipse chasers scramble for glasses as stocks run low",
+      "description": "Specialist glasses are all but sold out online ahead of the UK's most significant eclipse since 1999.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd7lj3703epo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+      "description": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia",
+      "description": "Today marks one year since the National Guard was deployed to the nation's capital. Here's what has happened since. And, a 7.4 magnitude earthquake leaves more than 100 people dead in Colombia.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines",
       "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Does spending money make you feel bad? Read this comic",
-      "description": "If spending — or not spending — money makes you feel shame or regret, you might be grappling with financial guilt. Financial planner Lauryn Williams breaks down three types and how to deal.",
+      "title": "The secret economics inside the new Planet Money board game",
+      "description": "From Nobel Prize-winning research to the Laffer Curve, Scabby the Rat, Veblen's peacock, and more — the economic ideas and inside jokes hiding throughout Planet Money's new board game.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/08/10/nx-s1-5860936/does-spending-money-make-you-feel-bad-read-this-comic",
+      "url": "https://www.npr.org/sections/planet-money/2026/08/11/g-s1-138059/the-secret-economics-inside-the-new-planet-money-board-game",
       "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "‘Only job I know’: Philippine sailors return to sea despite wartime risks",
+      "description": "Despite risks in the Strait of Hormuz and Black Sea, seafarers from the Philippines are still competing for jobs.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/8/11/only-job-i-know-philippine-sailors-return-to-sea-despite-wartime-risks?traffic_source=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Flood death toll in India's Assam reaches 100 as thousands lose their homes",
-      "description": "Days of heavy monsoon rain has caused rivers, including the Brahmaputra, to overflow, inundating communities, disrupting livelihoods and damaging infrastructure.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/10/g-s1-138015/flood-death-toll-in-indias-assam-reaches-100-as-thousands-lose-their-homes",
-      "category": "🌎 TOP NEWS",
+      "title": "What are Saudi Arabia, Turkiye and Pakistan’s joint military capabilities?",
+      "description": "The Mecca defence pact combines a top oil exporter, NATO's second-largest army and the only Muslim nuclear arsenal.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/11/what-are-saudi-arabia-turkiye-and-pakistans-joint-military-capabilities?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Under Fire: Lebanon’s first responders | Al Jazeera Originals",
+      "description": "First responders in Lebanon risk their lives to save others even as Israeli attacks intensify around them.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/11/aje-onl-or_lbn_paramedics-110826?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Liverpool fans seek clarity on Bezos bid to buy stake",
+      "description": "Jeff Bezos reportedly part of consortium interested in English Premier League club Liverpool, but fans ask for meeting.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/11/liverpool-fans-seek-clarity-on-bezos-bid-to-buy-stake?traffic_source=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Decades of abuse revealed at Michigan art school. And, the Iran war's impact on midterms",
-      "description": "A new report has revealed decades of alleged abuse at an elite art school. NPR spoke with one of the victims. And, Iran is playing the long game with negotiations, which could impact midterms.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/10/g-s1-138013/up-first-newsletter-epstein-interlochen-center-for-the-arts-trump-iran-midterms-wildfires",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
-      "description": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
+      "title": "At least 169 killed in Colombia's largest  earthquake in years",
+      "description": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "War on Iran: Phase II: Day 30",
-      "description": "Donald Trump says the US is only ‘semi-negotiating’ with Iran.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/war-on-iran-phase-ii-day-30?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Record 230 people reach UK on single boat after crossing English Channel",
-      "description": "The government has accused people smugglers of 'cramming' migrants onto 'unseaworthy vessels' and putting lives at risk.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/10/record-230-people-reach-uk-on-single-boat-after-crossing-english-channel?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Iran changed the rules in Hormuz. The Gulf is changing the rules for Iran",
-      "description": "Iran gained leverage in Hormuz, but its neighbours are reshaping regional security to limit what Tehran can do with it.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/8/10/iran-changed-the-rules-in-hormuz-the-gulf-is-changing-the-rules-for-iran?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Why Netanyahu’s ‘coup’ against Gaza plan risks endless war",
-      "description": "The Israeli leader’s rejection of a US-led roadmap threatens to entrench a state of conflict, analysts say.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/10/why-netanyahus-coup-against-gaza-plan-risks-endless-war?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "China evacuates one million from homes as massive storm arrives",
-      "description": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
+      "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+      "description": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "7h ago"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "Intel plans $15 billion stock offering as AI demand accelerates",
-      "description": "Technology giants have shelled out trillions to support insatiable AI demand and the infrastructure buildout.",
+      "title": "Wall Street thinks inflation is under control. Here’s why investors shouldn’t buy it.",
+      "description": "Uncle Sam needs inflation, not just economic growth, to escape today’s debt crisis.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/fed-chair-kevin-warsh-promises-2-inflation-but-skyrocketing-u-s-debt-makes-that-a-pipe-dream-ba448651?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Polymarket makes moves to get house in order before expected boom times for prediction markets this fall",
+      "description": "The marketing changes come amid an investigation by the Commodity Futures Trading Commission into the company's promotional practices.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html",
+      "url": "https://www.cnbc.com/2026/08/11/polymarket-revamps-marketing-expands-us-hiring-ahead-of-fall-events.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Is $1 million enough for a household to retire? The answer keeps changing.",
-      "description": "The Moneyist: “Some readers — and couples — would be grateful to retire on half that amount.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "U.S. oil price hits $80 as doubt grows Washington and Tehran will reach Strait of Hormuz deal",
-      "description": "Oil rose as traders assess mixed signals from the U.S. and Iran amid worries that a deal to open the Strait of Hormuz may not come anytime soon.",
+      "title": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
+      "description": "The first three-plus years of the AI build-out have been funded by record amounts of equity and debt issued by leading tech companies. Nvidia has a new idea.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html",
+      "url": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "The stocks of these ‘toll takers’ could be the AI boom’s next big winners",
-      "description": "The next boom could be in stocks of companies collecting recurring revenue from AI workloads.",
+      "title": "‘I unexpectedly came into some money’: Is putting $20,000 into CDs a smart move?",
+      "description": "“I want to make the process as straightforward as possible for my beneficiaries to access the funds.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-stocks-of-these-toll-takers-could-be-the-ai-booms-next-big-winners-ae1081f1?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/i-unexpectedly-came-into-some-money-is-putting-20-000-into-cds-a-smart-move-6c410458?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Berkshire Hathaway is digging into its nearly $400 billion in cash — and buying a stock it knows very well",
-      "description": "Berkshire is buying its own stock after years of building up a cash pile. Not everyone is excited.",
+      "title": "My wife can claim $900 at 62. Should she take it now — or wait for her spousal benefit?",
+      "description": "“She was a teacher at a school district, so didn’t put much into Social Security.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/berkshire-hathaway-finally-started-spending-its-nearly-400-billion-in-cash-on-one-stock-it-knows-very-well-f9d56389?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Barrick’s stock slides after dispute settlement sets the scene for IPO of mining company’s gold assets",
-      "description": "Mining giant Barrick announced Monday that it has reached an agreement with gold-mining company Newmont to combine some of their mines — helping to support an initial public offering of Barrick’s North American gold ass…",
+      "title": "Airbnb has added thousands of new hotel listings. Will that damage the brand’s identity?",
+      "description": "The home-rental company is leaning into hotels and third-party amenities to transform into a “one-stop shop” for travel.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/barricks-stock-slides-after-dispute-settlement-sets-the-scene-for-ipo-of-mining-companys-gold-assets-a88f3d27?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/airbnb-has-added-thousands-of-new-hotel-listings-will-that-ruin-its-charm-0af2d3b0?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Here's everything you need to set your Week 21 lineup ...",
-      "description": "FBT NL 8/9",
+      "title": "Premier League's most intriguing summer transfers: Tonali's cost, Garnacho's attitude, Araujo's skills, more",
+      "description": "From Tottenham splashing cash on Sandro Tonali to Aston Villa taking a chance on Alejandro Garnacho, we break down the summer's most fascinating Premier League transfers",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/",
+      "url": "https://www.cbssports.com/soccer/news/premier-leagues-tonali-garnacho-araujo-more/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "NFL training camp injuries tracker: Latest updates on Luther Burden III, Isiah Pacheco, Zay Flowers and more",
-      "description": "Keep track of every major injury, setback, and recovery timeline across the league as teams prepare for the upcoming season",
+      "title": "NBA opening night odds: LeBron James, 76ers underdogs at champion Knicks in unique tripleheader to tip 2026-27",
+      "description": "The NBA has released its Opening Night and Christmas schedule for the 2026-27 season",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/nfl-training-camp-injuries-tracker/",
+      "url": "https://www.cbssports.com/betting/news/nba-opening-night-odds-lebron-james-76ers-underdogs-at-champion-knicks-in-unique-tripleheader-to-tip-2026-27/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "2026 Fantasy football draft prep: NFL experts reveal rankings, top 150, best rookie picks",
-      "description": "SportsLine's 2026 Fantasy football draft guide includes Fantasy football auction values, keeper advice, top rookies, mock drafts and more",
+      "title": "Adley Rutschman set to be activated for Red Sox debut as Boston's red-hot summer continues",
+      "description": "Rutschman, acquired from the Orioles at the trade deadline, has been on the IL since the middle of July",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/fantasy/football/news/2026-fantasy-football-draft-prep-nfl-experts-reveal-rankings-top-150-best-rookie-picks/",
+      "url": "https://www.cbssports.com/mlb/news/adley-rutschman-red-sox-debut/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Dodgers-Royals, Phillies-Cardinals, MLB Monday",
-      "description": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for MLB betting on Monday",
+      "title": "Fantasy Baseball: These 20 potential pickups have the best matchups for the stretch run",
+      "description": "If you're on the fence about rostering these players, their remaining matchups should tip the scales",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-dodgers-royals-phillies-cardinals-mlb-monday/",
+      "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-these-20-pickups-have-the-best-matchups-down-the-stretch/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
