@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-12T14:36:56.890756+00:00",
-  "edition": "#190",
+  "date": "2026-08-14T14:31:49.637276+00:00",
+  "edition": "#191",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-      "description": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Google’s Quick Share adds a tap-to-share mode",
-      "description": "Google's Quick Share feature is getting a tap-to-share mode for quickly exchanging contacts, photos, videos, and more.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/12/googles-quick-share-adds-a-tap-to-share-mode/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Obituary: AmigaDOS developer Dr. Tim King has passed away",
-      "description": "Article URL: https://amiga-news.de/en/news/AN-2026-08-00070-EN.html Comments URL: https://news.ycombinator.com/item?id=49272655 Points: 7 # Comments: 0",
+      "title": "In Australia, a Home Battery Boom Has Helped Cut Wholesale Power Prices in Half",
+      "description": "Article URL: https://e360.yale.edu/digest/australia-home-batteries Comments URL: https://news.ycombinator.com/item?id=49298910 Points: 7 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
+      "url": "https://e360.yale.edu/digest/australia-home-batteries",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Why Tiny JPEGs Look Different in Chrome",
-      "description": "Article URL: https://guillaumetech.github.io/posts/jpg-scaling-chrome/ Comments URL: https://news.ycombinator.com/item?id=49272549 Points: 25 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
-      "description": "Google focuses more on AI and curated experiences than spec upgrades in 2026.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Google’s Pixel 11 lineup offer fewer hardware changes, but much more Gemini",
-      "description": "Google Pixel 11 Series starts $100 costlier than the last year, but offers 256GB base storage",
+      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "description": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/",
+      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Double killer and rapist given whole life sentence",
-      "description": "Simon Levy, from Tottenham, will spend the rest of his life in prison for the murder of two women and rape of a third.",
+      "title": "US courts will start publishing how often the government uses spyware",
+      "description": "The Administrative Office of the U.S. Courts told TechCrunch that it will start disclosing how many times judges authorized the use of spyware to wiretap suspected criminals.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/14/us-courts-will-start-publishing-how-often-the-government-uses-spyware/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
+      "description": "Article URL: https://hashagent.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49298088 Points: 6 # Comments: 0",
+      "source": "Hacker News",
+      "url": "https://hashagent.pages.dev/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "The TEMU-Fication of Software, Digital Goods and Services",
+      "description": "Article URL: https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/ Comments URL: https://news.ycombinator.com/item?id=49297637 Points: 15 # Comments: 1",
+      "source": "Hacker News",
+      "url": "https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "WhatCable: Know what your USB-C cable can do",
+      "description": "Article URL: https://www.whatcable.uk/ Comments URL: https://news.ycombinator.com/item?id=49297469 Points: 11 # Comments: 8",
+      "source": "Hacker News",
+      "url": "https://www.whatcable.uk/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
+      "description": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4g30dw9xw6o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Burnham considers disposable BBQ ban over wildfire risks",
-      "description": "The PM wants the public to avoid using single-use grills during the current spell of extremely dry weather.",
+      "title": "Farage faces renewed watchdog probe after Clacton by-election victory",
+      "description": "The investigation into a £5m gift received by Farage reopens, as he returns as the MP for Clacton.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c62x1gr62m1o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Prisoners charged over attack on Sara Sharif's father",
+      "description": "Steven Sansom, 47, and Adam Watson, 39, are also charged with other offences relating to the Belmarsh Prison incident.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3v0yz9k250o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Jasper Carrott says family is 'so proud' of Lucy Davis after cancer diagnosis",
-      "description": "The actress, best known for playing Dawn in The Office, has revealed she has incurable breast cancer.",
+      "title": "Eurovision proposes new rules to reduce political voting",
+      "description": "Organisers reportedly say politically motivated voting is \"persistent\" and is seen as \"deeply worrying\".",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy9w2d2ry0wo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/czrjxyg8mzmo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "U.S. missionary who was kidnapped in Niger is released",
+      "description": "Kevin Rideout \"is in good health in the care of US officials,\" SIM International said in a statement, adding he would soon be reunited with his family.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5931225/kidnapped-us-missionary-released",
       "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Inflation eases in July as gasoline and grocery prices fall",
-      "description": "Consumer prices in July were up 3.4% from a year ago — a smaller annual increase than in May or June. The news makes it less likely the Fed will feel the need to raise interest rates in September.",
+      "title": "Feds probe 'mention markets.' And, lawmakers call for investigation into USS Lincoln",
+      "description": "Federal regulators are reviewing 'mention markets' that allow wagers on what public figures will say. And, Democratic lawmakers call for an investigation into conditions on the long-deployed USS Lincoln.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/08/12/nx-s1-5929122/inflation-cpi-economy-gas-grocery",
+      "url": "https://www.npr.org/2026/08/14/g-s1-138735/up-first-newsletter-mention-markets-kalshi-pentagon-uss-lincoln-ukraine-russia-crimea-kennedy-center",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Greetings from a surreal expanse of sand dunes dotted with freshwater lagoons in Brazil",
-      "description": "The pristine white sand dunes of the Lençóis Maranhenses National Park are bordered by thick jungle on one side and the Atlantic Ocean on the other. Thousands of lagoons fill up after the rainy season.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/12/g-s1-138022/brazil-sand-dunes-lagoons-lencois-maranhenses-national-park",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "His wedding guests gave $6k to fund a health startup. Now it's won a $3 million prize",
-      "description": "Dr. Raj Panjabi founded Last Mile Health to bring healthcare to people living in remote areas. The group is the 2026 recipient of the Conrad N. Hilton Humanitarian Prize.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/12/g-s1-138180/hilton-humanitarian-prize-last-mile-health-liberia-raj-panjabi",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Israeli settlers besieging Palestinian families in West Bank village",
-      "description": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Argentina star Messi not certain to play ‘much longer’ after father’s death",
-      "description": "Former Barcelona and PSG star Lionel Messi, who won the 2022 World Cup, hints at retirement from football.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/12/argentina-star-messi-not-certain-to-play-much-longer-after-fathers-death?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "‘Burn in hell’: Israeli settlers spread hate through graffiti, attacks",
-      "description": "Racist settler graffiti on West Bank homes and schools reveals a brazen ideological drive for Palestinian displacement.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/8/12/burn-in-hell-israeli-settlers-spread-hate-through-graffiti-attacks?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Sudanese army intercepts RSF drones over el-Obeid",
-      "description": "Sudanese army air defenses reportedly intercepted drones launched by the Rapid Support Forces (RSF) over el-Obeid.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-sudan-intercepts-rsf-drones-su?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Why has North Korea fired a missile ahead of US-South Korea drills?",
-      "description": "Pyongyang has repeatedly condemned US–South Korea military drills, claiming they are a 'rehearsal for invasion'.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/12/why-has-north-korea-fired-a-missile-ahead-of-us-south-korea-drills?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
-      "description": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Mortgage rates finally stop rising, causing demand to trickle back",
-      "description": "Mortgage rates finally eased a tiny bit, but it was enough to bring some demand back to a very beleaguered mortgage market.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/12/mortgage-rates-finally-stop-rising-causing-demand-to-trickle-back-.html",
-      "category": "📈 MARKETS",
+      "title": "Mutual defence: The alliances that preceded Turkiye-Pakistan-Saudi pact",
+      "description": "The pact says an armed ⁠⁠attack on any one of the ⁠⁠three countries would be ⁠⁠regarded as an ⁠⁠attack against them all.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/14/mutual-defence-the-alliances-that-preceded-turkiye-pakistan-saudi-pact?traffic_source=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%",
-      "description": "The consumer price index was expected to increase 0.1% in July, with an annual rate of 3.4%.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "title": "Builders unearth €9m gold loot sealed in walls of Belgian property",
+      "description": "Construction workers found the stash in the walls of a cellar while drilling to lay sewage pipes.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Lumentum’s stock surges, giving a further boost to the optical-networking trade",
-      "description": "Excitement is building for Coherent’s earnings report after upbeat results from Lumentum.",
+      "title": "Pakistan PM’s ‘red line’ warning to India over water treaty",
+      "description": "Pakistan Prime Minister Shehbaz Sharif accused India of illegally suspending the Indus Waters Treaty.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/14-08-clip-pakistan-warns-india-over-indus-pk?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Russia stance will be defended in court, pledges World Athletics chief Coe",
+      "description": "Russian Athletics has lodged new claim at Court of Arbitration for Sport to challenge sanctions, but WA will fight it.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/14/russia-stance-will-be-defended-in-court-pledges-world-athletics-chief-coe?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "US missionary kidnapped in Niger released after nine months in captivity",
+      "description": "Kevin Rideout, a pilot with the evangelical missionary agency SIM International, was abducted in the capital, Niamey.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/14/us-missionary-kidnapped-in-niger-released-after-nine-months-in-captivity?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
+      "description": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Congress changed the rules around charitable giving. You’ll now save more money if you donate earlier in the year.",
+      "description": "Congress changed three charitable-deduction rules this year. The most common way people give money to charities these days is now also probably the most expensive way.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/lumentums-stock-surges-giving-a-further-boost-to-the-optical-networking-trade-0ee46339?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/congress-changed-the-rules-around-charitable-giving-do-it-earlier-in-the-year-to-save-money-392e5de3?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
-      "description": "Google is launching the Pixel 11 lineup weeks before Apple rolls out a rebuilt Siri powered by Gemini AI models.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Trust, but hedge: Quietly violent summer lingers as bulls buy crash protection",
-      "description": "It's been a wild summer for stocks, even if it may not feel like it at surface level.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/12/trust-but-hedge-quietly-violent-summer-lingers-as-bulls-buy-crash-protection.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Citadel Securities called the stock-market reset. Now it sees a leverage buildup on the horizon.",
-      "description": "Strategist Scott Rubner says a growing list of stock-market buyers are pushing it in a positive direction, notably big hedge funds and institutional managers.",
+      "title": "‘I didn’t know what else to do’: Patients take their health-insurance battles to Facebook and LinkedIn",
+      "description": "Pushed to their limits, patients are turning to social media to plead for help getting their medical care covered.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/citadel-securities-called-the-stock-market-reset-now-it-says-leverage-may-build-up-again-988eec86?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/i-didnt-know-what-else-to-do-patients-take-their-health-insurance-battles-to-facebook-and-linkedin-500bda58?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Why Drew Mestemaker and other transfers could turn college moves into bigger NFL paydays",
-      "description": "After nine first-round picks in the 2026 NFL Draft transferred during their college careers, these prospects could be next to benefit from a new home",
+      "title": "My friend’s mother died. Can she stop Medicaid from taking the family home?",
+      "description": "“She has contacted the mortgage company, but they will not discuss the mortgage.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "I have a 9-to-5 job and started dating a bartender. Can I have a future with someone who works nights?",
+      "description": "“He usually doesn’t get off work until 4 a.m.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-have-a-9-to-5-job-and-started-dating-a-bartender-can-i-have-a-future-with-someone-who-works-nights-500d4320?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "How a niche copper trade became a real-time gauge of Trump’s next tariff move",
+      "description": "The widening price of copper between two metals exchanges is offering investors a gauge of U.S. tariff risk.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/14/copper-trump-tariffs-metal-commodities-trade-war.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "‘Absolutely unacceptable’: Japan PM Takaichi condemns Putin’s visit to disputed Kuril Islands",
+      "description": "Japan protested Vladimir Putin’s first visit to the disputed Kuril Islands, escalating tensions over territory claimed by both Tokyo and Moscow.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/14/putin-kuril-islands-japan.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "UFC 330 fight card predictions: Expert picks, odds for Islam Makhachev vs. Ian Garry in Philadelphia",
+      "description": "Check out who the experts at CBS Sports are taking in the pair of title fights on Saturday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/draft/news/2027-nfl-draft-prospects-college-football-transfer-portal/",
+      "url": "https://www.cbssports.com/ufc/news/ufc-330-fight-card-predictions-islam-makhachev-vs-ian-garry-expert-picks/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Giants 2026 NFL futures odds: With Jaxson Dart and John Harbaugh, New York aims for Patriots-type formula",
-      "description": "Can John Harbaugh and Jaxson Dart turn the 2026 Giants into a success story?",
+      "title": "Big Ten tops SEC in 2026 preseason college football conference power rankings",
+      "description": "After three straight national championships and a run of postseason dominance, the Big Ten has earned the right to call itself the best conference in college football",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/giants-2026-nfl-futures-odds-with-jaxson-dart-and-john-harbaugh-new-york-aims-for-patriots-type-formula/",
+      "url": "https://www.cbssports.com/college-football/news/big-ten-sec-2026-preseason-college-football-conference-power-rankings/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "FedEx Cup St. Jude Championship 2026 odds, picks, predictions, props: Expert fading Viktor Hovland at Memphis",
-      "description": "SportsLine golf expert Brady Kannon just locked in his best bets for the 2026 FedEx Cup Playoffs St. Jude Championship at TPC Southwind in Memphis",
+      "title": "Chelsea's Premier League season: Everything to know as Xabi Alonso attempts to lead Blues bounce-back campaign",
+      "description": "With Xabi Alonso at the helm and veteran signings incoming, can the Blues move past last season's disciplinary chaos and climb back into the top four?",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/fedex-cup-st-jude-championship-2026-odds-picks-predictions-props-expert-fading-viktor-hovland-at-memphis/",
+      "url": "https://www.cbssports.com/soccer/news/chelseas-premier-league-xabi-alonso-blues/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "College football rankings: Ohio State tops Oregon as SEC teams shoot up in Preseason CBS Sports 138",
-      "description": "Led by returning stars Jeremiah Smith and Julian Sayin, the Buckeyes narrowly sit atop CBS Sports' complete FBS rankings entering the 2026 college football season",
+      "title": "Free MLB home run picks August 14: Blue Jays' Vladimir Guerrero Jr. among expert's best bets for Friday",
+      "description": "SportsLine's Matt Severance shares his best MLB home run props picks for Friday, August 14",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/college-football-rankings-preseason-cbs-sports-138-ohio-state/",
+      "url": "https://www.cbssports.com/betting/news/free-mlb-home-run-picks-august-14-blue-jays-vladimir-guerrero-jr-among-experts-best-bets-for-friday/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
