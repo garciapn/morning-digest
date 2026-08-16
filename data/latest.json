@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-15T13:52:50.284342+00:00",
-  "edition": "#192",
+  "date": "2026-08-16T13:53:38.822373+00:00",
+  "edition": "#193",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Brazilian election filter in X For You timeline",
-      "description": "Article URL: https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs Comments URL: https://news.ycombinator.com/item?id=49310291 Points: 14 # Comments: 5",
+      "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
+      "description": "Article URL: https://tasklet.ai/careers/head-of-design-engineering Comments URL: https://news.ycombinator.com/item?id=49319892 Points: 0 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs",
+      "url": "https://tasklet.ai/careers/head-of-design-engineering",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "388 years ago, Galileo worked out why human giants can't exist",
-      "description": "Article URL: https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/ Comments URL: https://news.ycombinator.com/item?id=49310277 Points: 8 #…",
+      "title": "Firefox for iOS now has a native adblocker",
+      "description": "Article URL: https://support.mozilla.org/en-US/kb/block-ads-firefox-ios Comments URL: https://news.ycombinator.com/item?id=49319633 Points: 9 # Comments: 5",
       "source": "Hacker News",
-      "url": "https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/",
+      "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Every fusion startup that has raised over $100M",
-      "description": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Brain turns listening inward during REM sleep, EEG recordings suggest",
-      "description": "Article URL: https://medicalxpress.com/news/2026-07-brain-rem-eeg.html Comments URL: https://news.ycombinator.com/item?id=49310248 Points: 11 # Comments: 0",
+      "title": "Is the industry ready for tokens-constrained work?",
+      "description": "Article URL: https://blog.alaindichiappari.dev/p/what-to-do-when-tokens-run-out Comments URL: https://news.ycombinator.com/item?id=49319582 Points: 16 # Comments: 13",
       "source": "Hacker News",
-      "url": "https://medicalxpress.com/news/2026-07-brain-rem-eeg.html",
+      "url": "https://blog.alaindichiappari.dev/p/what-to-do-when-tokens-run-out",
       "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
-      "description": "Article URL: https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3 Comments URL: https://news.ycombinator.com/item?id=49310177 Points: 9 # Comments: 2",
+      "title": "Banned Words List",
+      "description": "Article URL: https://pen.org/banned-words-list/ Comments URL: https://news.ycombinator.com/item?id=49319573 Points: 47 # Comments: 17",
       "source": "Hacker News",
-      "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
+      "url": "https://pen.org/banned-words-list/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "So much solar: Digging into the list of every US power plant that went online this year",
-      "description": "Utility-scale solar leads by a mile, followed by batteries. Fossil fuels, not so much.",
+      "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
+      "description": "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
+      "url": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "Analysis: Arday's death will send shockwaves through a divided academia",
-      "description": "Barely 1% of professors at UK universities are black, so he was joining a small and highly visible minority in academia, writes Education Editor Branwen Jeffreys.",
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "description": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "16h ago"
+    },
+    {
+      "title": "People who fled Stourbridge fires start to return home",
+      "description": "Many families are only just discovering the extent of damage to their homes for the first time.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
-      "description": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
+      "title": "Murder inquiry after man bitten by dog dies",
+      "description": "Police appeal for two people who stopped to help the victim in Wakefield to come forward.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Bonnie Tyler fans line the streets as coffin taken to Swansea home",
-      "description": "The Total Eclipse of the Heart singer died last month in a hospital in Portugal.",
+      "title": "Watch: BBC visits smouldering market in Ukraine after strikes",
+      "description": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9v43zry802o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Jason Arday death 'tragedy on so many levels' says PM",
-      "description": "Andy Burnham said the former Cambridge professor's death was a \"really sad, sad and sorry state of affairs\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "ICE detained a Venezuelan soccer pro. His case shows the immigration backlog crisis",
-      "description": "Homero Calderón's detention by ICE spotlights the massive backlog in the U.S. immigration system.",
+      "title": "As Trump blocks Medicaid funds, one trans teen's mom asks: What's next?",
+      "description": "A longtime Republican living in California says the Trump administration's continuing actions to target transgender youth take a personal toll.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/08/15/nx-s1-5928322/ice-detained-a-venezuelan-soccer-pro-his-case-shows-the-immigration-backlog-crisis",
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
+      "description": "Ukraine launched hundreds of drones across Russia Sunday, killing at least six people in one of Kyiv's largest aerial attacks of the war.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
       "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "5 exercises that can prevent (and relieve!) pregnancy pain",
-      "description": "Hemorrhoids, leg cramps, sciatica — oh my! Alongside the joy of pregnancy often comes a parade of physical discomfort. Alleviate and prevent common aches with these exercises.",
+      "title": "NPR Senior Podcast Challenge: Official Rules",
+      "description": "",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/08/15/nx-s1-5930423/strength-exercises-to-relieve-prevent-pregnancy-pain",
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5929441/npr-senior-podcast-challenge-official-rules",
       "category": "🌎 TOP NEWS",
       "timeAgo": "4h ago"
     },
     {
-      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-      "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as an earlier action against its soldiers.",
+      "title": "Patients treated in tents after earthquake damages Indonesia hospital",
+      "description": "Patients treated in tents after earthquake damages Indonesia hospital",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/patients-treated-in-tents-after-earthquake-damages-indonesia-hospital?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Houthis launch new attacks on al-Makha and Marib as Yemen conflict escalates",
+      "description": "Houthi missile and drone strikes target Marib and al-Makha, killing at least four people and injuring eight.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/16/houthis-launch-new-attacks-on-al-makha-and-marib-as-yemen-conflict-escalates?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Timeline: The one-week siege of Qusra by Israeli settlers in the West Bank",
+      "description": "Israeli settlers encircle Palestinian homes and cut off supplies, leading to a declaration of a military zone.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/8/16/timeline-the-one-week-siege-of-qusra-by-israeli-settlers-in-the-west-bank?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
+      "description": "Officials say flash flooding may have swept away homes with people in them in worst-hit areas.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Afghans mark five years of Taliban rule",
-      "description": "Afghans have gathered in Kabul to mark five years since the Taliban returned to power.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/afghans-mark-five-years-of-taliban-rule?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Black professor at centre of Cambridge plagiarism row found dead",
-      "description": "Dr Jason Arday has been found dead days after resigning from Cambridge University due to plagiarism allegations.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/black-professor-at-centre-of-cambridge-plagiarism-row-found-dead?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Vienna woman sues city for discrimination over toilet fees",
-      "description": "An Austrian activist in Vienna is challenging the city over public toilet fees.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/vienna-woman-sues-city-for-discrimination-over-toilet-fees?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Five wounded in shooting at Virginia State University",
-      "description": "Police found the gunshot victims near the university's residence halls.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/15/five-wounded-in-shooting-at-virginia-state?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
-      "description": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.",
+      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+      "description": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "13h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations",
-      "description": "The rapid drawdown of the U.S. Strategic Petroleum Reserve could damage the caverns that store the oil, experts warn.",
+      "title": "Belgium’s largest wildfire on record spreads towards German border",
+      "description": "Largest recorded wildfire in Belgium forces 600 residents to evacuate as blaze spreads towards German border towns.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/16/belgiums-largest-wildfire-on-record-spreads-towards-german-border?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "What the results of a Connecticut congressional primary race may mean for Social Security",
+      "description": "Rep. John Larson of Connecticut, an advocate for expanding Social Security, was ousted in a Democratic primary contest Tuesday.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/15/strategic-petroleum-reserve-spr-oil-iran-war-caverns.html",
+      "url": "https://www.cnbc.com/2026/08/16/social-security-john-larson-connecticut-primary.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "I found a $100 bill in the communal washer at my Airbnb. What should I do?",
-      "description": "“The landlord has not been here in months, so I assume it was a previous tenant.”",
+      "title": "Here’s the real reason oil prices aren’t moving higher",
+      "description": "Oil prices are not higher largely because the world does not want as much oil as it used to — and that’s arguably the more troubling story.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-dreaming-of-cocktails-at-chateau-marmont-i-found-100-in-my-airbnbs-communal-washer-what-should-i-do-9694ecca?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/heres-the-real-reason-oil-prices-arent-moving-higher-256afdbc?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "My friend’s mother died. Can she stop Medicaid from taking the family home?",
-      "description": "“She has contacted the mortgage company, but they will not discuss the mortgage.”",
+      "title": "The Mediterranean diet is the best out there. Here’s why Americans struggle with it.",
+      "description": "It’s not just about eating well. It’s about cooking at home and sharing those meals with friends and family.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/the-mediterranean-diet-is-the-best-out-there-heres-why-americans-struggle-with-it-081f3fe7?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Here’s who could pay higher Social Security taxes under proposals to shore up the program",
-      "description": "Eliminating the tax cap is just one of the proposals that could help shore up Social Security’s finances.",
+      "title": "Walmart and Target are about to reveal the health of the U.S. consumer",
+      "description": "Earnings reports from the two major retailers will show how shoppers are holding up in an era of persistent inflation.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/a-plan-to-save-social-security-involves-wealthy-people-paying-more-without-getting-an-increase-in-benefits-f9d70307?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/walmart-and-target-are-about-to-reveal-the-health-of-the-u-s-consumer-d5b89491?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Marijuana reform is emerging as a midterm elections issue on both sides of the aisle",
-      "description": "With November's midterms fast approaching, cannabis reform is an issue. It's popular with voters, but its power to tilt elections remains uncertain.",
+      "title": "Secret outperformer: Dispelling the 'myths' about an unloved stock market",
+      "description": "European markets fly under the radar when compared with larger and more liquid U.S. markets, but Goldman Sachs offered to dispel some of the myths.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/15/cannabis-marijuana-legalization-midterm-elections.html",
+      "url": "https://www.cnbc.com/2026/08/16/goldman-stock-market-outperformance.html",
       "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "timeAgo": "4h ago"
     },
     {
-      "title": "Should I tap my home equity or sell stocks to build a $100,000 emergency fund?",
-      "description": "“We have about $1.7 million invested but only around $20,000 in cash.”",
+      "title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
+      "description": "“We were advised to return the bonus and take out a home-equity loan.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-at-odds-should-we-tap-our-home-equity-or-sell-stocks-to-build-a-100-000-emergency-fund-097d36a4?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/its-a-double-edged-sword-my-husband-got-a-42-000-bonus-will-it-wipe-out-our-affordable-care-act-subsidy-32db285e?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "timeAgo": "17h ago"
     },
     {
-      "title": "UFC 330 predictions, odds, best bets: Ian Garry prop and big underdog among top picks to consider",
-      "description": "The action heats up on Saturday night in Philadelphia and there's plenty of ways to get in on it",
+      "title": "2026 UFC event schedule: Anthony Hernandez vs. Gregory Rodrigues, Joshua Van vs. Alexandre Pantoja 2 on tap",
+      "description": "Check out a complete list of UFC pay-per-view and Fight Night events scheduled for 2026",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/ufc/news/ufc-330-predictions-odds-best-bets-islam-makhachev-ian-garry/",
+      "url": "https://www.cbssports.com/ufc/news/2026-ufc-event-schedule-joshua-van-alexandre-pantoja/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Ian Garry dripping confidence that he will earn welterweight title at UFC 330: 'I've seen it in my dreams'",
-      "description": "Machado Garry is extremely certain that he will unseat Islam Makhachev at the top of the division on Saturday in Philadelphia",
+      "title": "UFC 330 fight fallout: Best options for Islam Makhachev, Ian Garry, Mackenzie Dern and more after Saturday",
+      "description": "Makhachev has two hungry contenders awaiting him, but one deserves the title shot more",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/ufc/news/ian-garry-ufc-welterweight-title-islam-makhachev-at-ufc-330/",
+      "url": "https://www.cbssports.com/ufc/news/ufc-330-fights-to-make-islam-makhachev-carlos-prates-mackenzie-dern-gillian-robertson/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "2026 NFL preseason Week 1 NFL odds, picks today: Expert backs Buffalo Bills in Saturday's best bets",
-      "description": "SportsLine's Matt Severance reveals his best bets for NFL preseason action on Saturday, August 15",
+      "title": "Tomorrow's Top 25 Today: Big Ten takeover in the top five in new college football rankings",
+      "description": "Projecting the preseason college football rankings from the AP Top 25 poll",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/2026-nfl-preseason-week-1-nfl-odds-picks-today-expert-backs-buffalo-bills-in-saturdays-best-bets/",
+      "url": "https://www.cbssports.com/college-football/news/top-25-preseason-rankings-big-ten/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "UFC 330 fight card predictions: Expert picks, odds for Islam Makhachev vs. Ian Garry in Philadelphia",
-      "description": "Check out who the experts at CBS Sports are taking in the pair of title fights on Saturday",
+      "title": "Fantasy football 2026 rankings, draft prep: NFL model unveils QB, RB, WR, TE picks, cheat sheets, ADP, tiers",
+      "description": "SportsLine simulated the new NFL season 10,000 times and revealed its 2026 Fantasy football QB, RB, WR picks and rankings",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/ufc/news/ufc-330-fight-card-predictions-islam-makhachev-vs-ian-garry-expert-picks/",
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-2026-rankings-draft-prep-nfl-model-unveils-qb-rb-wr-te-picks-cheat-sheets-adp-tiers/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
