@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-16T13:53:38.822373+00:00",
-  "edition": "#193",
+  "date": "2026-08-17T14:01:44.401138+00:00",
+  "edition": "#194",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
-      "description": "Article URL: https://tasklet.ai/careers/head-of-design-engineering Comments URL: https://news.ycombinator.com/item?id=49319892 Points: 0 # Comments: 0",
+      "title": "Incident with Github.com",
+      "description": "Article URL: https://www.githubstatus.com/incidents/zkxwbgr0cnmx Comments URL: https://news.ycombinator.com/item?id=49330684 Points: 141 # Comments: 69",
       "source": "Hacker News",
-      "url": "https://tasklet.ai/careers/head-of-design-engineering",
+      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Firefox for iOS now has a native adblocker",
-      "description": "Article URL: https://support.mozilla.org/en-US/kb/block-ads-firefox-ios Comments URL: https://news.ycombinator.com/item?id=49319633 Points: 9 # Comments: 5",
+      "title": "GitHub down again? no PR access",
+      "description": "Githubstatus.com currently says everything is working, but it isn't Comments URL: https://news.ycombinator.com/item?id=49330632 Points: 30 # Comments: 9",
       "source": "Hacker News",
-      "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
+      "url": "https://news.ycombinator.com/item?id=49330632",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Is the industry ready for tokens-constrained work?",
-      "description": "Article URL: https://blog.alaindichiappari.dev/p/what-to-do-when-tokens-run-out Comments URL: https://news.ycombinator.com/item?id=49319582 Points: 16 # Comments: 13",
+      "title": "Show HN: 1667, a terminal UI for writing fiction with language models",
+      "description": "Hi HN. I built 1667 for my own fiction work and now use it each day. This probably has a limited audience. Maybe an audience of one... Why a terminal interface for story writing? I'm a dev. I like to use terminals for a…",
       "source": "Hacker News",
-      "url": "https://blog.alaindichiappari.dev/p/what-to-do-when-tokens-run-out",
+      "url": "https://1667.ai/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Banned Words List",
-      "description": "Article URL: https://pen.org/banned-words-list/ Comments URL: https://news.ycombinator.com/item?id=49319573 Points: 47 # Comments: 17",
+      "title": "Tell HN: GitHub Is Experiencing Degraded Performance",
+      "description": "Just got this message: \"No server is currently available to service your request. Sorry about that. Please try refreshing and contact us if the problem persists.\" Edit: at the time of posting there was not an incident o…",
       "source": "Hacker News",
-      "url": "https://pen.org/banned-words-list/",
+      "url": "https://news.ycombinator.com/item?id=49330597",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
-      "description": "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-      "description": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+      "title": "Uber adds Zipline drones to its Eats delivery network",
+      "description": "Uber is also making investing in Zipline as part of the tie-up.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "url": "https://techcrunch.com/2026/08/17/uber-adds-zipline-drones-to-its-eats-delivery-network/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "16h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "People who fled Stourbridge fires start to return home",
-      "description": "Many families are only just discovering the extent of damage to their homes for the first time.",
+      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+      "description": "Wispr’s total funding is now over $361 million.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
+      "description": "Downing Street has declined to comment on the security breach, first reported by Politico.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Murder inquiry after man bitten by dog dies",
-      "description": "Police appeal for two people who stopped to help the victim in Wakefield to come forward.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Watch: BBC visits smouldering market in Ukraine after strikes",
-      "description": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "As Trump blocks Medicaid funds, one trans teen's mom asks: What's next?",
-      "description": "A longtime Republican living in California says the Trump administration's continuing actions to target transgender youth take a personal toll.",
+      "title": "DHS defends investigating agency critics and giving them warning notices",
+      "description": "Federal officials acknowledged that ICE special agents tracked a New York man to his house, the airport and a hotel to question him about a critical email he sent to the former head of ICE in January.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5934692/dhs-free-speech-investigations",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
-      "description": "Ukraine launched hundreds of drones across Russia Sunday, killing at least six people in one of Kyiv's largest aerial attacks of the war.",
+      "title": "USS Washington to relieve USS Lincoln. And, Jared Kushner to meet with Netanyahu",
+      "description": "The USS Washington is on its way to the Middle East to relieve the USS Lincoln amid concerns about conditions aboard. And, Jared Kushner is expected to meet with Prime Minister Netanyahu to move Gaza talks forward.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
+      "url": "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "NPR Senior Podcast Challenge: Official Rules",
-      "description": "",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/16/nx-s1-5929441/npr-senior-podcast-challenge-official-rules",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "Patients treated in tents after earthquake damages Indonesia hospital",
-      "description": "Patients treated in tents after earthquake damages Indonesia hospital",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/patients-treated-in-tents-after-earthquake-damages-indonesia-hospital?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Houthis launch new attacks on al-Makha and Marib as Yemen conflict escalates",
-      "description": "Houthi missile and drone strikes target Marib and al-Makha, killing at least four people and injuring eight.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/16/houthis-launch-new-attacks-on-al-makha-and-marib-as-yemen-conflict-escalates?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Timeline: The one-week siege of Qusra by Israeli settlers in the West Bank",
-      "description": "Israeli settlers encircle Palestinian homes and cut off supplies, leading to a declaration of a military zone.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/8/16/timeline-the-one-week-siege-of-qusra-by-israeli-settlers-in-the-west-bank?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
-      "description": "Officials say flash flooding may have swept away homes with people in them in worst-hit areas.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-      "description": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Belgium’s largest wildfire on record spreads towards German border",
-      "description": "Largest recorded wildfire in Belgium forces 600 residents to evacuate as blaze spreads towards German border towns.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/16/belgiums-largest-wildfire-on-record-spreads-towards-german-border?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "What the results of a Connecticut congressional primary race may mean for Social Security",
-      "description": "Rep. John Larson of Connecticut, an advocate for expanding Social Security, was ousted in a Democratic primary contest Tuesday.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/16/social-security-john-larson-connecticut-primary.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Here’s the real reason oil prices aren’t moving higher",
-      "description": "Oil prices are not higher largely because the world does not want as much oil as it used to — and that’s arguably the more troubling story.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-the-real-reason-oil-prices-arent-moving-higher-256afdbc?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "The Mediterranean diet is the best out there. Here’s why Americans struggle with it.",
-      "description": "It’s not just about eating well. It’s about cooking at home and sharing those meals with friends and family.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-mediterranean-diet-is-the-best-out-there-heres-why-americans-struggle-with-it-081f3fe7?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Walmart and Target are about to reveal the health of the U.S. consumer",
-      "description": "Earnings reports from the two major retailers will show how shoppers are holding up in an era of persistent inflation.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/walmart-and-target-are-about-to-reveal-the-health-of-the-u-s-consumer-d5b89491?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Secret outperformer: Dispelling the 'myths' about an unloved stock market",
-      "description": "European markets fly under the radar when compared with larger and more liquid U.S. markets, but Goldman Sachs offered to dispel some of the myths.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/16/goldman-stock-market-outperformance.html",
-      "category": "📈 MARKETS",
+      "title": "Hayden Panettiere, who starred in 'Heroes' and 'Nashville,' dies at 36",
+      "description": "A child actor since she was cast in various commercials as an 11-month-old, Panettiere was best known for her role as the country music star Juliette Barnes in the series \"Nashville.\"",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5935226/hayden-panettiere-dies",
+      "category": "🌎 TOP NEWS",
       "timeAgo": "4h ago"
     },
     {
-      "title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
-      "description": "“We were advised to return the bonus and take out a home-equity loan.”",
+      "title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
+      "description": "Mothers describe battles to make ex-partners pay, while fathers say they have been wrongly charged thousands.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "8h ago"
+    },
+    {
+      "title": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
+      "description": "For 10 years, a Catholic-run home offered young women an affordable place to live in the nation's capital as they studied and launched careers. Now, that community is saying goodbye.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "5h ago"
+    },
+    {
+      "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+      "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "French Serie A footballer Yael Trepy in intensive care after near-drowning",
+      "description": "Italian media reports that the Cagliari forward was rescued after swallowing a lot of water in a swimming pool in Porto Cervo.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/17/french-serie-a-footballer-yael-trepy-in-intensive-care-after-near-drowning?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Russia and Ukraine trade more deadly strikes",
+      "description": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Why Kushner met Hamas leaders, and what it means for Trump’s Gaza roadmap",
+      "description": "Jared Kushner to meet Netanyahu next, after Israel rejected Trump's 15-point Gaza roadmap.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/17/why-kushner-met-hamas-leaders-and-what-it-means-for-trumps-gaza-roadmap?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Cameroon celebrates after winning first ever WAFCON title",
+      "description": "Cameroon wins its first WAFCON title, beating Malawi 3–0 in the final.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/cameroon-celebrates-after-winning-first-ever-wafcon-title?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Yemen’s drone war: Rivals flex growing aerial muscle",
+      "description": "Houthi and government forces exchange drone attacks, marking a major shift in war tactics.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/17/yemens-drone-war-rivals-flex-growing-aerial-muscle?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "My friend’s mother died. Can she stop Medicaid from taking the family home?",
+      "description": "“She has contacted the mortgage company, but they will not discuss the mortgage.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/its-a-double-edged-sword-my-husband-got-a-42-000-bonus-will-it-wipe-out-our-affordable-care-act-subsidy-32db285e?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "17h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "2026 UFC event schedule: Anthony Hernandez vs. Gregory Rodrigues, Joshua Van vs. Alexandre Pantoja 2 on tap",
-      "description": "Check out a complete list of UFC pay-per-view and Fight Night events scheduled for 2026",
+      "title": "The stock market is driving the economy in one major way",
+      "description": "The wealth effect of higher equity prices has enabled U.S. consumers to continue spending even when changes in disposable income suggested recessions might be possible",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-stock-market-is-driving-the-economy-in-one-major-way-9ea09725?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
+      "description": "Brockman told CNBC he doesn't think the wave of recent departures at OpenAI are 'actually that atypical.'",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/17/openai-brockman-leadership-changes.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "The AI productivity payoff is coming. Here are 20 stocks primed to capture the gains as adoption spreads.",
+      "description": "So far investors have been focused on artificial-intelligence infrastructure plays rather than productivity beneficiaries, says Goldman Sachs.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-ai-productivity-payoff-is-coming-here-are-20-stocks-primed-to-capture-the-gains-as-adoption-spreads-443842ac?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Getting diagnosed with dementia isn’t the end. It’s a time to take financial action.",
+      "description": "Careful planning in the early stages of memory loss can prevent financial and estate-planning headaches later.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/getting-diagnosed-with-dementia-isnt-the-end-its-a-time-to-take-financial-action-f52769b6?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California",
+      "description": "Less than two weeks after a loss in New Mexico, Meta faces a much bigger legal test in a case being co-led by California's attorney general.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Kyle Tucker booed at Dodger Stadium: Why everything's going wrong for the $240M man",
+      "description": "Tucker is hitting .232 with 0.3 WAR this season after signing a massive four-year contract in the offseason",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/ufc/news/2026-ufc-event-schedule-joshua-van-alexandre-pantoja/",
+      "url": "https://www.cbssports.com/mlb/news/kyle-tucker-booed-dodgers/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "UFC 330 fight fallout: Best options for Islam Makhachev, Ian Garry, Mackenzie Dern and more after Saturday",
-      "description": "Makhachev has two hungry contenders awaiting him, but one deserves the title shot more",
+      "title": "Fantasy football rankings 2026: Sleepers, breakouts, busts by model that predicted Daniel Jones' big year",
+      "description": "SportsLine simulated the upcoming NFL season 10,000 times to help form your early 2026 Fantasy football draft strategy",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/ufc/news/ufc-330-fights-to-make-islam-makhachev-carlos-prates-mackenzie-dern-gillian-robertson/",
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-busts-by-model-that-predicted-daniel-jones-big-year/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Tomorrow's Top 25 Today: Big Ten takeover in the top five in new college football rankings",
-      "description": "Projecting the preseason college football rankings from the AP Top 25 poll",
+      "title": "2026 Heisman Trophy odds, trends: Sportsbook hugely exposed on new Oklahoma State quarterback Drew Mestemaker",
+      "description": "New Oklahoma State QB Drew Mestemaker is getting some Heisman betting love",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/top-25-preseason-rankings-big-ten/",
+      "url": "https://www.cbssports.com/betting/news/2026-heisman-trophy-odds-trends-sportsbook-hugely-exposed-on-new-oklahoma-state-quarterback-drew-mestemaker/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Fantasy football 2026 rankings, draft prep: NFL model unveils QB, RB, WR, TE picks, cheat sheets, ADP, tiers",
-      "description": "SportsLine simulated the new NFL season 10,000 times and revealed its 2026 Fantasy football QB, RB, WR picks and rankings",
+      "title": "What to know about 2026-27 Premier League: Non-stop drama as world's biggest league returns to action",
+      "description": "From Arsenal’s historic title defense to a Pep-less Manchester City, here is everything you need to know ahead of the action-packed English soccer season",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-2026-rankings-draft-prep-nfl-model-unveils-qb-rb-wr-te-picks-cheat-sheets-adp-tiers/",
+      "url": "https://www.cbssports.com/soccer/news/premier-league-manchester-united-arsenal-tottenham-chelsea-manchester-city-liverpool/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
