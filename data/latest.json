@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-18T14:06:46.290827+00:00",
-  "edition": "#195",
+  "date": "2026-08-19T14:06:53.900938+00:00",
+  "edition": "#196",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Anthro Energy breaks ground on factory that could pave the road to solid-state batteries",
-      "description": "Battery materials startup Anthro Energy has broken ground on a Louisville factory to make electrolytes, including those for solid-state batteries.",
+      "title": "The founder’s secret weapon: Work at TechCrunch Disrupt 2026 and learn how the pros do it",
+      "description": "Volunteer at TechCrunch Disrupt 2026 and get an insider's view of how world-class tech events get built and more.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/18/anthro-energy-breaks-ground-on-factory-that-could-pave-the-road-to-solid-state-batteries/",
+      "url": "https://techcrunch.com/2026/08/19/the-founders-secret-weapon-work-at-techcrunch-disrupt-2026-and-learn-how-the-pros-do-it/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Warp’s new system is an out-of-the-box software factory for AI development",
-      "description": "On Tuesday, Warp introduced Warp Factories, a new infrastrructure system designed to make building AI software factories as easy as possible.",
+      "title": "Home batteries are suddenly cheap and everywhere. Here’s why.",
+      "description": "Companies including Tesla and Base Power are vying for a piece of the rapidly growing market for home batteries. One technology has made it all possible.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+      "url": "https://techcrunch.com/2026/08/19/home-batteries-are-suddenly-cheap-and-everywhere-heres-why/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-      "description": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Perplexity’s free AI offer left it with millions more users in India",
-      "description": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "A group of Gandalfs protest outside the home of Peter Thiel in Argentina",
-      "description": "Article URL: https://dangerousminds.net/weird-news/gandalfs-protest-outside-the-home-peter-thiel-argentina/ Comments URL: https://news.ycombinator.com/item?id=49345438 Points: 4 # Comments: 0",
+      "title": "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
+      "description": "Article URL: https://twitter.com/NoubarAfeyan/status/2090050162441752787 Comments URL: https://news.ycombinator.com/item?id=49361395 Points: 6 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://dangerousminds.net/weird-news/gandalfs-protest-outside-the-home-peter-thiel-argentina/",
+      "url": "https://twitter.com/NoubarAfeyan/status/2090050162441752787",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
-      "description": "Article URL: https://github.com/pitiflautico/neobrowser Comments URL: https://news.ycombinator.com/item?id=49345320 Points: 6 # Comments: 0",
+      "title": "PostgreSQL for Everything",
+      "description": "Article URL: https://www.raphaelbauer.com:443/posts/postgresql-everything/ Comments URL: https://news.ycombinator.com/item?id=49361279 Points: 8 # Comments: 2",
       "source": "Hacker News",
-      "url": "https://github.com/pitiflautico/neobrowser",
+      "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "British couple on honeymoon killed in helicopter crash on Greek island",
-      "description": "The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside their Greek pilot.",
+      "title": "CareCloud confirms 3.7M patients had their medical records stolen in data breach",
+      "description": "The cyberattack at CareCloud resulted in one of the largest reported data breaches in the U.S. healthcare industry this year.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/19/carecloud-confirms-3-7m-patients-had-their-medical-records-stolen-in-data-breach/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Geolocating a random island using geometry and CUDA programming",
+      "description": "Article URL: https://yassa9.github.io/osint/gralhix-004/ Comments URL: https://news.ycombinator.com/item?id=49360545 Points: 83 # Comments: 18",
+      "source": "Hacker News",
+      "url": "https://yassa9.github.io/osint/gralhix-004/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza",
+      "description": "She initially survived the attack but her body was recovered days later in Gaza City in 2024.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-      "description": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
+      "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
+      "description": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Serco employee charged with misconduct over sharing asylum seeker addresses in Thetford",
-      "description": "The 62-year-old man is charged with misconduct in public office and appears before magistrates.",
+      "title": "Thunderstorm warnings issued for parts of UK with flash flooding expected",
+      "description": "Warnings for northern England, eastern Scotland and Northern Ireland will come into force later on Wednesday.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cly8mpp9r8no?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
-      "description": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
+      "title": "Jump in energy bills drives UK inflation to highest rate for four months",
+      "description": "A 2.9% rise in inflation had been widely expected by economists, with Chancellor John Healey saying the Iran war “continues to impact prices here at home”.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "5h ago"
     },
     {
-      "title": "U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries",
-      "description": "The U.S. and Iran missed a deadline to begin peace talks this week. The monthslong war has depleted U.S. resources. And, what to know about Alaska's U.S. Senate seat primary.",
+      "title": "U.S. delays 50% tariff on Canadian imports. And, takeaways from Florida's primaries",
+      "description": "President Trump has announced that the U.S. is delaying a 50% tariff on Canadian imports after reaching a deal. And, how progressive Democrats fared in Florida's primary elections yesterday.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/08/18/g-s1-139072/up-first-newsletter-iran-south-korea-jared-kushner-florida-wyoming-alaska-primaries-luigi-mangione",
+      "url": "https://www.npr.org/2026/08/19/g-s1-139173/up-first-newsletter-florida-primary-canada-tariffs-trump-meta-trial",
       "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "The grueling fight over who profits from AI music",
-      "description": "AI can generate songs in seconds. But behind every AI track is a complicated question: Who should get paid? And, how? The fights have started.",
+      "title": "How India's blocking of a film exposing real-life police abuses backfired",
+      "description": "When Indian authorities scrubbed the biopic of activist Jaswant Singh Khalra, local villagers and activists turned its censorship into a grassroots movement.",
       "source": "NPR",
-      "url": "https://www.npr.org/sections/planet-money/2026/08/18/g-s1-138852/grueling-fight-over-who-profits-from-ai-music",
+      "url": "https://www.npr.org/2026/08/19/g-s1-138787/how-indias-blocking-of-a-film-exposing-real-life-police-abuses-backfired",
       "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "Mourinho fires Real Madrid shot at Barcelona saying he ‘didn’t need’ Rodri",
+      "description": "Jose Mourinho is back for a second spell at Real Madrid who, he says, didn't need Barcelona's new signing Rodri.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/19/mourinho-fires-real-madrid-shot-at-barcelona-saying-he-didnt-need-rodri?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Israeli forces mark Palestinians with numbers amid mass arrests",
+      "description": "Palestinian detainees were marked with numbers during a mass Israeli arrest campaign in Qabatiya.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-forces-mark-palestinians-with-numbers-amid-mass-arrests?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Why aid entering Gaza may not reach those who need it",
+      "description": "It is extremely difficult for trucks to get through the Israeli blockade, let alone for drivers to reach aid warehouses.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/19/why-aid-entering-gaza-may-not-reach-those-who-need-it?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "War on Iran: Iran allegedly targets the UAE",
+      "description": "After reports that Iran targeted the UAE with two ballistic missiles, the Emirates has suspended trade with Tehran.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/war-on-iran-iran-allegedly-targets-the-uae?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Qatar: Iran’s claim that Doha is holding missing pilots is a ‘media ploy’",
-      "description": "Qatar says Iran’s claim it is holding missing aircrew is untrue and a “media ploy”, with Tehran yet to verify it.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/qatar-irans-claim-that-doha-is-holding-missing-pilots-is-a-media-ploy?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Palestinian-American confronts Israeli settler at his besieged home",
-      "description": "Palestinian-American Loui Abu Ridi confronted an Israeli settler at his home in Qusra, south of Nablus.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-american-confronts-israeli-settler-at-his-besieged-home?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Who is Wassim al-Assad, sentenced to death for Syria war atrocities?",
-      "description": "The latest sentence against Wassim al-Assad comes a week after ousted President Bashar al-Assad was sentenced to death",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/18/who-is-wassim-al-assad-sentenced-to-death-for-syria-war-atrocities?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Japanese activist keeps protesting against Israel’s genocide in Gaza",
-      "description": "Japanese activist keeps protesting against Israel’s genocide in Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/japanese-activist-keeps-protesting-against-israels-genocide-in-gaza?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
-      "description": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer \"we'll take care of it\", an officer testified.",
+      "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
+      "description": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "8h ago"
+      "timeAgo": "5h ago"
     },
     {
-      "title": "Inside secret police warehouse as Germany targets small boats gangs",
-      "description": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "9h ago"
+      "title": "Pressure on bonds abates as Treasury announces buybacks. What may come next.",
+      "description": "The Treasury Department said Wednesday that it will more than double the size of government-debt buybacks, sending yields sharply lower and stocks higher at the market open.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/pressure-on-bonds-abates-as-treasury-announces-buybacks-what-may-come-next-af7d7c76?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
     },
     {
-      "title": "Disney-owned ABC files First Amendment lawsuit against FCC",
-      "description": "Disney's ABC has sued the FCC claiming its investigation and early broadcast licenses renewal are a 'retaliatory campaign' due to its programming.",
+      "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 90%",
+      "description": "The combination regimen significantly extended the time patients lived without their melanoma returning, compared with Keytruda alone.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/18/disney-abc-first-amendment-lawsuit-fcc.html",
+      "url": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "I used a human travel agent instead of AI — and cut $2,000 off the price of my European vacation",
-      "description": "Plus: Take our investing survey",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-used-a-human-travel-agent-instead-of-ai-and-cut-2-000-off-the-price-of-my-european-vacation-e8b344cb?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Why it’s better to buy stocks at record highs than wait for the next crash",
-      "description": "Record highs are what bull markets do. If you wait for a 20% drop, you could still pay more than what you’d pay now.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-its-better-to-buy-stocks-at-record-highs-than-wait-for-the-next-crash-2bf5610e?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Jimmy Kimmel infuriated Trump. Now Disney is suing the FCC over what it calls a ‘retaliatory campaign.’",
-      "description": "Disney says the Trump administration “has attacked ABC’s speech — the stories its journalists report and the viewpoints its network programs air.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/disney-sues-fcc-over-broadcast-license-threat-9fb4745d?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "How to manage estate planning after an Alzheimer’s diagnosis",
-      "description": "Careful planning in the early stages of memory loss can prevent financial and estate-planning headaches later.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/getting-diagnosed-with-dementia-isnt-the-end-its-a-time-to-take-financial-action-f52769b6?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Home Depot reaffirms guidance amid 'frozen housing market conditions'",
-      "description": "Home Depot reported second fiscal quarter results that beat Wall Street expectations on the top and bottom lines.",
+      "title": "Hedge funds are about to jump into prediction markets in a big way",
+      "description": "Cantor Fitzgerald will be one of the first investment firms providing its clients institutional trading on prediction market platform Kalshi.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/18/home-depot-hd-q2-2026-earnings.html",
+      "url": "https://www.cnbc.com/2026/08/19/hedge-funds-are-about-to-jump-in-big-to-prediction-markets.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "New UNC coach Michael Malone reveals how Roy Williams influenced him to take North Carolina job",
-      "description": "Malone is entering his first season as North Carolina's coach, marking the first time he's been a head coach at the college level",
+      "title": "The bond selloff is rattling investors, but here’s why they shouldn’t expect a deeper stock downturn",
+      "description": "Fundstrat’s Mark Newton says it’s not time to panic about surging bond yields driving a deeper stock rout. He offers technical evidence to back his case.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-bond-selloff-is-rattling-investors-but-heres-why-they-shouldnt-expect-a-deeper-stock-downturn-43139350?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Target’s grocery overhaul is helping it win back customers",
+      "description": "The retailer has added more snacks and changed its presentation as it tries to become a destination for food purchases.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/targets-grocery-overhaul-is-helping-it-win-back-customers-eb40d5c9?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Treasury doubles debt buybacks as Bessent moves to steady bond market",
+      "description": "The announcement targets the sensitive longer-duration part of the Treasury market.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/19/treasury-announces-upscaled-buyback-operation-for-longer-term-debt-sending-yields-lower.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Brewers' 22-0 blowout of the Mariners headlined by brutal Julio Rodríguez mental gaffe",
+      "description": "The game tied for the most lopsided shutout loss in baseball's Modern Era",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-basketball/news/michael-malone-unc-coach-roy-williams/",
+      "url": "https://www.cbssports.com/mlb/news/brewers-mariners-blowout-julio-rodriguez/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Use DraftKings promo code to get $150 in bonus bets by targeting Cubs-White Sox, Red Sox-Diamondbacks Tuesday",
-      "description": "DraftKings offers $150 in bonus bets after your first $5 wager for MLB betting on Tuesday",
+      "title": "NBA Front Office Rankings (Part 1): Knicks soar over Celtics after winning title",
+      "description": "We're ranking the 15 best front offices in the NBA, and the Knicks have made a jump ... but they're not No. 1",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-150-bonus-bets-cubs-white-sox-red-sox-diamondbacks-mlb-tuesday/",
+      "url": "https://www.cbssports.com/nba/news/nba-front-office-rankings-top-15-knicks-celtics-2026/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Za'Darius Smith unretires, signs with Falcons after Jalon Walker injury and James Pearce Jr. suspension",
-      "description": "Smith retired after five games last year but is now back",
+      "title": "College basketball transfer portal five-for-five tracker: Grading each move in unparalleled free agency window",
+      "description": "Grading Seth Trimble to Louisville, Darrion Williams to Texas Tech, and other top five-for-five commits",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/zadarius-smith-signs-with-falcons/",
+      "url": "https://www.cbssports.com/college-basketball/news/transfer-portal-five-for-five-tracker-grades/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "UFC Pound for Pound Rankings: Islam Makhachev holds on to top spot, Mackenzie Dern debuts",
-      "description": "Makhachev has plenty of competition to worry about in potential upcoming fights at welterweight",
+      "title": "Fantasy football rankings 2026: Sleepers, breakouts, busts by model that predicted Daniel Jones' huge year",
+      "description": "SportsLine simulated the upcoming NFL season 10,000 times to help form your early 2026 Fantasy football draft strategy",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/ufc/news/ufc-pound-for-pound-fighter-rankings-islam-makhachev-top-10-ufc-330/",
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-busts-by-model-that-predicted-daniel-jones-huge-year/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
