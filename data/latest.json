@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-20T14:08:42.031813+00:00",
-  "edition": "#197",
+  "date": "2026-08-21T14:06:41.399772+00:00",
+  "edition": "#198",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,228 +8,228 @@
   },
   "stories": [
     {
-      "title": "Apollo Atomics wants to make nuclear power cheaper by shrinking an overlooked part",
-      "description": "Y Combinator alumnus Apollo Atomics is shrinking a key nuclear reactor part, which promises to slash the cost of electricity below natural gas.",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "description": "There's about to be a big fight to secure access to space.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/20/apollo-atomics-wants-to-make-nuclear-power-cheaper-by-shrinking-an-overlooked-part/",
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "DiffusionGemma Technical Report",
-      "description": "Article URL: https://arxiv.org/abs/2608.00146 Comments URL: https://news.ycombinator.com/item?id=49374287 Points: 8 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://arxiv.org/abs/2608.00146",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
-      "description": "Article URL: https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/ Comments URL: https://news.ycombinator.com/item?id=49374269 Points: 45 # Comments: 12",
-      "source": "Hacker News",
-      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Canonical Backs New Project to Translate Large C Codebases into Safe Rust",
-      "description": "Article URL: https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/ Comments URL: https://news.ycombinator.com/item?id=49374162 Points: 14 # Comments: 3",
-      "source": "Hacker News",
-      "url": "https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "UK internet age checks have boosted rogue adult sites, says Pornhub",
-      "description": "Article URL: https://www.ft.com/content/295c2eba-da29-434d-84e0-e9de3b0b1cc2 Comments URL: https://news.ycombinator.com/item?id=49374067 Points: 18 # Comments: 3",
-      "source": "Hacker News",
-      "url": "https://www.ft.com/content/295c2eba-da29-434d-84e0-e9de3b0b1cc2",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "AI data giant Alation confirms cyberattack",
-      "description": "The data search and AI giant confirmed unauthorized access to its systems during an incident on Tuesday, and said it was investigating the breach.",
+      "title": "Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles",
+      "description": "Tesla and eight other automakers will install warning labels that help occupants identify the often hard-to-find manual door releases.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/20/ai-data-giant-alation-confirms-cyberattack/",
+      "url": "https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Private equity firm Apollo confirms data breach amid hacking wave targeting financial giants",
+      "description": "The private equity giant confirms a breach, weeks after Google researchers said hackers were targeting financial companies.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/21/private-equity-firm-apollo-confirms-data-breach-amid-hacking-wave-targeting-financial-giants/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle",
+      "description": "Article URL: https://arxiv.org/abs/2608.18214 Comments URL: https://news.ycombinator.com/item?id=49387856 Points: 5 # Comments: 2",
+      "source": "Hacker News",
+      "url": "https://arxiv.org/abs/2608.18214",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Senator asks US government watchdog to review how feds use hacking tools",
+      "description": "Senator Ron Wyden sent a letter to the U.S. federal watchdog requesting a comprehensive review of how the FBI, DEA, ICE's HSI, and the Secret Service use hacking tools and spyware against Americans.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/21/senator-asks-us-federal-watchdog-to-review-how-feds-use-hacking-tools/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Harry and Meghan's security arrangements a private matter, PM says",
-      "description": "The prime minister also wishes the Duke and Duchess well after it emerged they are returning to the UK later this month.",
+      "title": "Grand jury declines to indict Ohio man charged with destroying Flock camera",
+      "description": "Article URL: https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/ Comments URL: https://news.ycombinator.com/item?id=49387497 Points: 93 # Comments: 24",
+      "source": "Hacker News",
+      "url": "https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Prince Harry and six others ordered to pay initial £9.5m to Daily Mail publisher",
+      "description": "The seven claimants, who include Sir Elton John and Liz Hurley, could potentially have to pay up to £25m more after losing their High Court privacy case.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "John Swinney defends £45,000 business-class flights to World Cup",
-      "description": "The Scottish government spent almost £100,000 on official visits to the United States in June.",
+      "title": "Steve Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+      "description": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ceqe385qen2o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Why are Harry and Meghan returning to the UK?",
-      "description": "BBC culture correspondent Noor Nanji looks at why the move raises questions over security detail, royal duties Harry's relationship with King Charles and Prince William.",
+      "title": "Under-fives and pregnant women told to avoid runny eggs when eating out over salmonella risk",
+      "description": "The advice also applies to the over-65s and others with underlying medical conditions amid salmonella outbreak.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cp8eg084n3eo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
-      "description": "Jo Boydell had been criticised for the company's handling of issues with its safety and security.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
-      "description": "The U.S. debt has surpassed $40 trillion. And, a new census report on noncitizen voting that President Trump is touting has ties to a think tank aligned with him, raising concerns among experts.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
+      "url": "https://www.bbc.co.uk/news/articles/cx2krdggx6xo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "North Korea fires a suspected missile toward the sea, Japan says",
-      "description": "The suspected launch on Thursday comes a day after North Korea shrugged off a U.S. decision to scale back military drills with South Korea in an apparent bid to resume diplomacy.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
+      "title": "El Niño warming set to be 'strongest in living memory', warns Met Office",
+      "description": "Scientists say the \"unprecedented event\" will likely push up global temperatures in 2027 and put the UK at risk of a wetter, stormier autumn.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
-      "description": "Blocks of flats and warehouses were targeted in the \"massive attack\" on Thursday, Ukrainian officials say.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Funeral for 50 Palestinians recovered from Gaza rubble",
-      "description": "A funeral has been held in Gaza for 50 Palestinians whose bodies were recently recovered from the rubble.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/funeral-for-50-palestinians-recovered-from-gaza-rubble?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Ex-defence chief’s call for wartime election raises pressure on Zelenskyy",
-      "description": "Fedorov, a popular figure, is challenging Zelenskyy but holding a vote under Russia's bombs is near impossible.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/20/ukraines-ex-defence-chief-calls-for-presidential-vote?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Why a Trump envoy’s Kashmir visit has led to US-Pakistan spat",
-      "description": "Pakistan says the comments contradict Washington’s position, but experts see them as a diplomatic misstep.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/20/why-a-trump-envoys-kashmir-visit-has-led-to-us-pakistan-spat?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "US debt hits $40 trillion: Who does Washington owe and why does it matter?",
-      "description": "Heavy borrowing, increased spending and tax cuts by Democratic and Republican administrations have long raised concern.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/20/us-debt-hits-40-trillion-who-does-washington-owe-and-why-does-it-matter?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Belgian car salesman becomes prince after royal parentage confirmed",
-      "description": "Clément Vandenkerckhove was quietly brought into Prince Laurent's family at a town hall ceremony.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
       "timeAgo": "3h ago"
     },
     {
-      "title": "AI data center outrage is showing up everywhere from ads to elections",
-      "description": "With less than three months until the midterm elections, opposition to AI data centers is becoming a bipartisan rallying cry in a growing number of states.",
+      "title": "Top Iran official says US focus on economic warfare shows it has failed militarily",
+      "description": "The Iranian regime has dismissed President Trump's threats to crush the country economically, saying that years of U.S. sanctions have failed.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom",
+      "description": "President Trump has declared economic warfare on Iran in an effort to pressure the country back into negotiations. And, the Supreme Court is set to decide on the future of Trump's ballroom.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/21/g-s1-139542/up-first-newsletter-trump-iran-economy-white-house-ballroom-bond-market",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Several people injured in sword attack at Swedish school",
+      "description": "One person has been taken into custody after the attack at a high school in Fagersta, local authorities said.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/21/several-people-injured-in-sword-attack-at-swedish-school?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Trump’s ‘economic D-Day’ claims first victim: Not Iran, but US markets",
+      "description": "The US and Israel's war on Iran has upended global financial and energy markets.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/21/trumps-economic-d-day-claims-first-victim-not-iran-but-us-markets?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Ebola outbreak ‘growing faster, ⁠⁠wider’ as DRC death toll passes 2,500: UN",
+      "description": "Epidemic remains out of control amid DR Congo conflict, funding shortages and attacks on health workers and facilities",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/21/ebola-outbreak-growing-faster-%e2%81%a0%e2%81%a0wider-as-drc-death-toll-passes-2500-un?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Liverpool preview: Five key questions heading into 2026-27 season",
+      "description": "Liverpool's new Spanish boss is tasked with making the club title challengers again, but he faces a number of issues.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/21/liverpool-preview-five-key-questions-heading-into-2026-27-season?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Eight killed in plane crash at remote Alaskan military site, air force says",
+      "description": "It is unclear why the civilian-contracted plane was at the radar site on Alaska's south-west coast.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+      "description": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "8h ago"
+    },
+    {
+      "title": "Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency",
+      "description": "Matt Zames is taking an unpaid position to help his former JPMorgan colleague Frank Bisignano tackle modernization of the SSA, CNBC has learned.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/20/ai-data-center-election-backlash.html",
+      "url": "https://www.cnbc.com/2026/08/21/jpmorgan-matt-zames-social-security-administration.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Treasury yields rebound, wiping out the decline following Bessent's intervention",
-      "description": "Bond yields edged higher after pulling back sharply during Wednesday's session.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/20/bond-yields-edge-higher-as-traders-digest-treasury-debt-buyback-plan.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "How Micron's $50 billion Boise buildout is reshaping its hometown",
-      "description": "Micron's AI-fueled rise and expansion are creating jobs and wealth in Boise, Idaho, while adding pressure to housing, traffic and the city's identity.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/20/micron-boise-chip-fab-expansion.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Walmart hikes full-year outlook and gets huge tariff refund, but stock falls on sales concerns",
-      "description": "Walmart is expected to report its fiscal second-quarter earnings on Thursday, offering a read on the consumer and the K-shaped economy.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Treasury’s buyback blitz may end up driving bond yields higher, warns JPMorgan. Here’s its advice for investors.",
-      "description": "Strategists Jay Barry and Jason Hunter are predicting fallout from the Treasury’s move that they see as not even needed.",
+      "title": "Social Security union says it needs $3 billion and another 20,000 workers to fix long wait times and ‘ghost offices’",
+      "description": "“The public is going to have a harder and harder time accessing these benefits,” union official said.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/treasurys-bond-buyback-blitz-may-end-up-driving-yields-higher-warns-jpmorgan-heres-their-investment-advice-b8f507be?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/ghost-offices-and-long-wait-times-social-security-workers-demand-3-billion-and-20-000-hires-ac975af0?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Walmart’s stock slides as U.S. sales are hit by falling drug prices",
-      "description": "The supermarket chain reported comparable U.S. sales growth of 2.6% in its second-quarter earnings, its lowest in over six years.",
+      "title": "‘There is considerable tension’: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?",
+      "description": "“Grandma feels that she was pressured by my mother into taking out a $50,000 HELOC.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/walmart-shares-slide-as-u-s-sales-hit-by-falling-drug-prices-1e308c61?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/there-is-considerable-tension-my-grandmother-99-wants-to-cut-my-mother-out-of-her-will-should-i-intervene-5e8f408e?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "NBA Front Office Rankings (Part 2): Dysfunctional Lakers, cheap Trail Blazers find themselves near the bottom",
-      "description": "The Lakers, Blazers and Nuggets (who just made an unpopular trade) are near the bottom, but there are a few teams below them",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nba/news/nba-front-office-rankings-part-2-lakers-trail-blazers-2026/",
-      "category": "🏀 SPORTS",
+      "title": "U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May",
+      "description": "The security situation in Hormuz remains contested but the U.S. is helping oil get through the strait.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/21/strait-hormuz-central-command-centcom-oil-iran-war.html",
+      "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Reds vs. Cardinals prediction, odds, line, time: 2026 MLB picks for Thursday, Aug. 20 by proven model",
-      "description": "SportsLine's model simulated St. Louis Cardinals vs. Cincinnati Reds 10,000 times and revealed its MLB picks for Thursday afternoon's matchup",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/reds-cardinals-prediction-odds-line-time-2026-mlb-picks-thursday-aug-20/",
-      "category": "🏀 SPORTS",
+      "title": "Nvidia earnings could rescue a stalled-out stock market — if the AI chip maker breaks this trend",
+      "description": "Shares of Jensen Huang’s company have struggled to make headway since its previous results day.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidia-earnings-could-rescue-a-stalling-stock-market-if-the-ai-chip-maker-breaks-this-trend-9b6504bc?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for NFL preseason, Texans-Raiders, MLB on Thursday",
-      "description": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for NFL, MLB betting on Thursday",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-nfl-preseason-texans-raiders-mlb-thursday/",
-      "category": "🏀 SPORTS",
+      "title": "U.S., Canada near final trade deal as Trump tariff deadline looms",
+      "description": "Businesses have warned that Trump's new 50% duties could cripple U.S. their sales if they take effect.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/21/trump-canada-tariffs-trade-deal-deadline.html",
+      "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Lionel Messi's magic still fills stadiums, but could Inter Miami's window be closing?",
-      "description": "Miami find themselves in second place in the Eastern Conference, and while they have the most goals, the alarming defensive numbers could do them in",
+      "title": "NFL players enter ... college football transfer portal???; James Harden returns to Cavaliers",
+      "description": "Plus, the best pitching prospect in baseball will make his major league debut this weekend",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/lionel-messis-magic-still-fills-stadiums-inter-miamis-contender-window-be-closing-2026-27/",
+      "url": "https://www.cbssports.com/college-football/news/nfl-players-enter-college-football-transfer-portal-james-harden-returns-to-cavaliers/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Fantasy football rankings 2026: Sleepers, breakouts, busts per model that called Daniel Jones' huge year",
+      "description": "SportsLine simulated the upcoming NFL season 10,000 times to help form your early 2026 Fantasy football draft strategy",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-busts-per-model-that-called-daniel-jones-huge-year/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "NFL players enter ... the college football transfer portal??? | James Harden returns to Cavaliers",
+      "description": "Plus, the best pitching prospect in baseball will make his major league debut this weekend",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Arsenal vs. Coventry City odds, prediction, time: 2026 EPL picks for Aug. 21 by expert on 7-1 roll",
+      "description": "SportsLine's Jon Eimer reveals his Coventry City vs. Arsenal picks as the English Premier League begins on Friday",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/betting/news/arsenal-coventry-city-odds-prediction-time-2026-english-premier-league-picks-for-august-21/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "1h ago"
     }
   ]
 }
