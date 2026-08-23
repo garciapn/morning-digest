@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-22T13:53:00.003380+00:00",
-  "edition": "#199",
+  "date": "2026-08-23T13:54:59.073546+00:00",
+  "edition": "#200",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,228 +8,228 @@
   },
   "stories": [
     {
-      "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
-      "description": "Article URL: https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/ Comments URL: https://news.ycombinator.com/item?id=49399524 Points: 14 # Comments: 2",
+      "title": "Malware infects Android-based automotive head unit firmware",
+      "description": "Article URL: https://securelist.com/android-head-unit-malware/121106/ Comments URL: https://news.ycombinator.com/item?id=49408550 Points: 43 # Comments: 7",
       "source": "Hacker News",
-      "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
+      "url": "https://securelist.com/android-head-unit-malware/121106/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
-      "description": "Article URL: https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy Comments URL: https://news.ycombinator.com/item?id=49398904 Points: 67 # Comments: 6",
-      "source": "Hacker News",
-      "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "A formal degree and algorithmic problem-solving is the answer. Always has been",
-      "description": "Article URL: https://zaksa.zip/blog/formal-education-is-the-answer/ Comments URL: https://news.ycombinator.com/item?id=49398710 Points: 3 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://zaksa.zip/blog/formal-education-is-the-answer/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Putting mice into hibernation causes a major loss of synapses",
-      "description": "Hibernation cuts down on synapses, but mice seem to retain memories anyway.",
+      "title": "Volcanoes that made history",
+      "description": "Enormous eruptions altered Earth’s climate and societies all over the globe.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
+      "url": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/",
       "category": "🤖 TECH & AI",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
-      "description": "Lands free of roads are under threat from the Trump administration’s proposed rollback.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
-      "description": "Article URL: https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations Comments URL: https://news.ycombinator.com/item?id=49398304 Points: 471 # Comments: 371",
+      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+      "description": "Article URL: https://www.bbc.com/news/articles/cvg92y1wzn8o Comments URL: https://news.ycombinator.com/item?id=49407576 Points: 62 # Comments: 38",
       "source": "Hacker News",
-      "url": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
+      "url": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
       "category": "🤖 TECH & AI",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
-      "description": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
+      "title": "Iranian hackers shut down UK power plant for 4 days",
+      "description": "Article URL: https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/ Comments URL: https://news.ycombinator.com/item?id=49407509 Points: 30 # Comments: 9",
+      "source": "Hacker News",
+      "url": "https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+      "description": "Article URL: https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/ Comments URL: https://news.ycombinator.com/item?id=49407507 Points: 100 # Comments: 47",
+      "source": "Hacker News",
+      "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
+      "description": "Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "10h ago"
+    },
+    {
+      "title": "CrossCountry cancels 'almost all' UK services after power cut",
+      "description": "Customers say the disruption to virtually all UK CrossCountry services is the \"worst case scenario\".",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-      "description": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
+      "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+      "description": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Opinion: Mr. Rogers keeps finding a new neighborhood",
-      "description": "MLB catcher Jake Rogers probably didn't know if he was coming or going the last several weeks: he's been a Detroit Tiger, a Baltimore Oriole, a Boston Red Sox, and now he's a Chicago White Sox.",
+      "title": "Mayors to get powers to overrule local councils on planning decisions",
+      "description": "Housing minister Matthew Pennycook said the change was \"essential\" for helping mayors \"effectively deliver new homes\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "Becerra, running for governor of California, faces a health insurance problem",
+      "description": "The nation's uninsured rate hit a historical low when Xavier Becerra was health secretary. Now he wants to be California's next governor as Trump's actions have driven people off health insurance.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/08/22/nx-s1-5932426/opinion-mr-rogers-keeps-finding-a-new-neighborhood",
+      "url": "https://www.npr.org/2026/08/23/nx-s1-5941143/california-governor-xavier-becerra-health-insurance",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "U.S.-Canada trade talks collapse just before deadline for tariffs",
-      "description": "The midnight deadline means the U.S. has imposed 50% tariffs on $20 billion worth of Canadian products. Prime Minister Mark Carney says Canada \"will match those tariffs dollar for dollar.\"",
+      "title": "Tropical Storm Moke to cause more flooding as Hawaii recovers from Lala",
+      "description": "More than a foot of rain could fall across Big Island of Hawaii, according to NOAA.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
+      "url": "https://www.npr.org/2026/08/23/nx-s1-5941769/tropical-storm-moke-hawaii",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "9h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
-      "description": "They will not be working royals when they come back. So what could they be doing instead?",
+      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "13h ago"
+      "timeAgo": "8h ago"
     },
     {
-      "title": "How this 1960s ex-council house is managing to stay cool without air con",
-      "description": "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures.",
+      "title": "The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?",
+      "description": "In the latest episode of Al Jazeera’s new podcast, Deja Vu looks at how oil, shipping and war shape the Gulf.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/deja-vu-2/2026/8/23/the-suez-crisis-stopped-the-british-empire-will-hormuz-defeat-the-us?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Chelsea preview: Five key talking points for 2026-27 Premier League season",
+      "description": "Chelsea have had their worst Premier League run in 30 years. Can new manager Xabi Alonso succeed and is Cole Palmer key?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/23/chelsea-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Heavy Israeli air strike hits warehouse in central Gaza",
+      "description": "Heavy Israeli air strike hits warehouse in central Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/heavy-israeli-air-strike-hits-warehouse-in-central-gaza?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Dozens of attacks in southern Thailand wound three people",
+      "description": "Many local government offices and several vehicles were damaged or destroyed in the 51 attacks late on Saturday.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/23/dozens-of-attacks-in-southern-thailand-wound-three-people?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "DR Congo and M23 rebels agree roadmap for peace talks",
+      "description": "Representatives met in Switzerland to work out next steps to resolve the conflict.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "13h ago"
-    },
-    {
-      "title": "Fourteen killed in strike on Myanmar monastery",
-      "description": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Fans and police injured in pitch invasion during ‘high risk’ German Cup tie",
-      "description": "Waldhof Mannheim and Kaiserslautern game halted for 30 minutes as eight people hospitalised with about 100 injured.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/22/fans-and-police-injured-in-pitch-invasion-during-high-risk-german-cup-tie?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Indonesia bolsters troop numbers to combat Borneo wildfires",
-      "description": "Fires between January and July burned more than 200,000 hectares of land, says the government.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/22/indonesia-bolsters-troop-numbers-to-combat-borneo-wildfires?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Is Trump making Latin America great again?",
-      "description": "A right-wing wave is sweeping through the region and that is not good news.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/8/22/is-trump-making-latin-america-great-again?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Jewish activists push back against Israeli settlers",
-      "description": "Jewish activists provide a ‘protective presence’ to deter settler violence in parts of the Occupied West Bank.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/jewish-activists-push-back-against-israeli-settlers?traffic_source=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
-      "description": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
+      "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
+      "description": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\".",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "15h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "‘She’s desperate’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
-      "description": "“She looked into COBRA, but the cost is absolutely ridiculous.”",
+      "title": "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test",
+      "description": "Nvidia is due to report earnings on Wednesday, and “a very broad universe of companies” is tied to the themes that the chip giant represents.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
-      "description": "“I’d love for our son to be able to attend college without needing to take out student loans.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Why an announcement from the Treasury sparked a rally in gold and bitcoin this week",
-      "description": "Cryptocurrencies and precious metals shot higher, while the U.S. dollar weakened, after the Treasury Department said it planned to double its bond buybacks.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Move over, credit cards: Social-media stars are tapping magic wands to buy things",
-      "description": "Tap-to-pay is getting a TikTok makeover as shoppers turn checking out into a personalized accessory.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/move-over-credit-cards-social-media-stars-are-tapping-magic-wands-to-buy-things-62e475d4?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Meta is the latest tech giant to land in her courtroom. Meet Judge Yvonne Gonzalez Rogers",
-      "description": "Judge Yvonne Gonzalez Rogers has presided over a series of landmark tech trials and is now overseeing a case that could have a huge impact on Meta's future.",
+      "title": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
+      "description": "United Airlines CEO Scott Kirby talked to CNBC in a wide-ranging interview about his proposed airline megadeals, AI and the future of the carrier.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html",
+      "url": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Warren Buffett Watch: It's Buffett, not Abel, who appears to be calling the shots on stocks",
-      "description": "New Berkshire Hathaway CEO Greg Abel appears to be letting Warren Buffett and portfolio manager Ted Weschler make all the decisions on the company's equities.",
+      "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
+      "description": "Citigroup and Wells Fargo have room to buy a big regional bank as regulators have opened the door to megadeals. Five regional banks make sense as targets.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/22/warren-buffett-not-greg-abel-appears-to-still-be-calling-the-shots-on-stocks.html",
+      "url": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "SportsLine Newsletter August 22, 2026",
-      "description": "Saturday betting guide: Top picks for the NFL preseason, UFC and MLB",
+      "title": "We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?",
+      "description": "“The last adviser we worked with lost a significant portion of our portfolio.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-have-1-5-million-in-traditional-401-k-s-is-it-too-early-to-start-roth-conversions-2d0f9287?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "The Treasury’s bond-market intervention isn’t working. So what comes next?",
+      "description": "You can’t just sweep $40 trillion in U.S. national debt under a rug and forget about it — or so the bond market appears to be telling Treasury Secretary Scott Bessent.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-treasurys-bond-market-intervention-isnt-working-so-what-comes-next-ba5e132a?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "I’m turning 70. Here’s how I’m making this decade the richest of my retirement.",
+      "description": "Tweaking my finances, work and life as I go from the “go-go” years to the “slow-go” years.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-turning-70-heres-how-im-making-this-decade-the-richest-of-my-retirement-ae351f90?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Barcelona preview: Can Catalan giants end Champions League drought without a proper striker?",
+      "description": "The Blaugrana are yet to replace Robert Lewandowski, with not long to go before the end of the summer transfer window",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/",
+      "url": "https://www.cbssports.com/soccer/news/barcelona-preview-2026-27-champions-league-la-liga/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "UFC Fight Night predictions -- Anthony Hernandez vs. Gregory Rodrigues: Card, odds and expert picks",
-      "description": "Veteran middleweights collide in an important main event from Sacramento",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/ufc/news/ufc-fight-night-card-predictions-anthony-hernandez-vs-gregory-rodrigues-odds/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Fantasy football rankings 2026: Sleepers, breakouts, busts via model that called Daniel Jones' huge year",
+      "title": "Fantasy football rankings 2026: Sleepers, breakouts, busts from model that called Daniel Jones' huge year",
       "description": "SportsLine simulated the upcoming NFL season 10,000 times to help form your early 2026 Fantasy football draft strategy",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-busts-via-model-that-called-daniel-jones-huge-year/",
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-busts-from-model-that-called-daniel-jones-huge-year/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "UFC Fight Night odds, predictions, time: Anthony Hernandez vs. Gregory Rodrigues picks by elite MMA expert",
-      "description": "SportsLine's Kyle Marley reveals his picks for the UFC Fight Night: Hernandez vs. Rodrigues card Saturday at Sacramento, Calif., on Paramount+",
+      "title": "Chiefs' Harrison Butker drills historic 69-yard field goal, but it won't count in the NFL record book",
+      "description": "Butker can have bragging rights after his booming kick, but the NFL record stands",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/ufc-fight-night-odds-predictions-time-anthony-hernandez-vs-gregory-rodrigues-fight-card-picks-bets/",
+      "url": "https://www.cbssports.com/nfl/news/chiefs-harrison-butker-drills-historical-69-yard-field-goal-but-it-wont-count-in-the-nfl-record-book/",
       "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
+      "timeAgo": "11h ago"
+    },
+    {
+      "title": "Fantasy football rankings 2026: Sleepers from simulation that called De'Von Achane's amazing year",
+      "description": "SportsLine simulated the NFL season 10,000 times and revealed its 2026 Fantasy football sleepers for Fantasy football 2026 draft prep",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-from-simulation-that-called-devon-achanes-amazing-year/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "12h ago"
     }
   ]
 }
