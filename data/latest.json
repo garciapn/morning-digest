@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-24T14:11:17.493577+00:00",
-  "edition": "#201",
+  "date": "2026-08-25T14:20:23.536172+00:00",
+  "edition": "#202",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,186 +8,170 @@
   },
   "stories": [
     {
-      "title": "Hugging Face reportedly in talks to be acquired for $13B",
-      "description": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
+      "title": "Apple debuts its ‘most powerful chip ever’ in M5 Ultra and M6",
+      "description": "Apple unveils these new processors alongside an updated Mac Mini and Mac Studio.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+      "url": "https://techcrunch.com/2026/08/25/apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "US nutrition startup Berry Street merges with India’s Healthify as GLP-1 trends upwards",
-      "description": "Berry Street founder Noah Kotlove and Healthify founder Tushar Vashisht will act as co-CEOs of the new entity.",
+      "title": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
+      "description": "The funding, Gatik's largest so far, was led by Qatar Investment Authority and Koch Disruptive Technologies.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/",
+      "url": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
-      "description": "The Unibook is a weird entry-level laptop for people with patience.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Apple’s four-pack of second-gen AirTags is $20 off",
-      "description": "Apple’s four-pack of second-generation AirTags is down to $79 (originally $99) at Amazon and at Target, which is the bundle’s lowest price yet. You can get an AirTag for $24 right now piecemeal, but getting four togethe…",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/983726/apple-airtags-second-gen-four-pack-elgato-stream-deck-switch-2-deal-sale",
+      "title": "Apple’s latest Mac Mini runs on a new M6 chip, and starts at $899",
+      "description": "The base model of the Mac Mini comes with 256GB of storage, 16GB of RAM, and costs $899.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/25/apples-latest-mac-mini-runs-on-a-new-m6-chip-and-starts-at-899/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Netflix reportedly considers opening its app to other streamers",
-      "description": "Netflix executives have considered making third-party streaming services available within its app, according to a report from The New York Times. The recent discussions reportedly centered around bringing Peacock and Fo…",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/streaming/983741/netflix-open-app-peacock-fox-one",
+      "title": "The state of AI in 2026: On the road to ROI",
+      "description": "Article URL: https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai Comments URL: https://news.ycombinator.com/item?id=49433759 Points: 16 # Comments: 12",
+      "source": "Hacker News",
+      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "How GoFundMe became America’s backup plan",
-      "description": "Today on Decoder, I’m talking with Tim Cadogan, the CEO of GoFundMe. You know GoFundMe — it’s a major fundraising platform where you can donate to help people with everything from medical expenses to little league unifo…",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/podcast/982901/gofundme-ceo-tim-cadogan-fundraising-healthcare-medical-expenses",
+      "title": "Apple's new Mac mini, featuring M6 and M5 Pro",
+      "description": "Article URL: https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/ Comments URL: https://news.ycombinator.com/item?id=49433450 Points: 15 # Comments: 3",
+      "source": "Hacker News",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Snooker champion Graeme Dott guilty of child sex abuse",
-      "description": "The former world champion was found guilty of lewd and libidinous behaviour towards a girl and boy.",
+      "title": "US data centers tripled annual water consumption to 17B gallons",
+      "description": "Article URL: https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/ Comments URL: https://news.ycombinator.com/item?id=49433372 Points: 46 # Comments: 70",
+      "source": "Hacker News",
+      "url": "https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Dad's house rammed before son died in A66 crash",
+      "description": "The house belonging to Cole Worthy's father is significantly damaged with windows also smashed.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0lr80rk0dno?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Sharing dangerous driving videos is 'truly reprehensible', PM says",
-      "description": "His comments come as the government urged TikTok and other social media firms to remove wrong-way driving videos.",
+      "title": "Man dies in crash after police pursuit",
+      "description": "Two women are also hurt and one remains in hospital in critical condition.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "UK missiles offer may help Ukraine - but they are not what Zelensky needs most",
-      "description": "UK Prime Minister Andy Burnham is handing over blueprints so Kyiv can build its own long-range missiles.",
+      "title": "Trump may hope an 'economic onslaught' will pressure Iran - its leaders are betting otherwise",
+      "description": "The US says new sanctions are an \"economic D-Day\", but Tehran's leaders have survived restrictions before.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8zxqn57z3o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran",
-      "description": "The Trump administration calls this \"economic D-Day\" on Iran. Iran vows to respond to fresh sanctions in a \"seismic manner.\"",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S.",
-      "description": "Today, Treasury Secretary Scott Bessent is set to announce details on new economic pressures on Iran. And, Canada has vowed to impose retaliatory tariffs against the U.S.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban",
+      "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+      "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Washington, D.C.'s first IndyCar race packed the National Mall",
-      "description": "IndyCar drivers zoomed past some of the nation's most famous landmarks this weekend. They faced novel challenges on an unconventional route.",
+      "title": "Trump calls leaders to isolate Iran. And, SCOTUS backs Trump for now on mail-in voting",
+      "description": "President Trump is calling on world leaders to join his economic war against Iran. And, the Supreme Court is backing the president for now on his order to restrict mail-in voting.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/08/24/nx-s1-5939827/washington-d-c-s-first-indycar-race-packed-the-national-mall",
+      "url": "https://www.npr.org/2026/08/25/g-s1-140004/up-first-newsletter-iran-economic-war-scotus-mail-in-voting-dhs-privacy",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "Algeria’s schools put Shakespeare before Molière in break from France",
-      "description": "Algerian primary schools will begin teaching English before French for the first time, signalling a drift from France.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/8/24/algerias-schools-put-shakespeare-before-molire-in-break-from-france?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-      "description": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Rain and flooding from Typhoon Narra hits China and Vietnam",
-      "description": "Rain and flooding from Typhoon Narra hits China and Vietnam",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/rain-and-flooding-from-typhoon-narra-hits-china-and-vietnam?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "‘Barrel bomb mufti’ sentenced to life in Syria",
-      "description": "‘Barrel bomb mufti’ sentenced to life in Syria",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/barrel-bomb-mufti-sentenced-to-life-in-syria?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Saudi Arabia’s MBS visits Macron in France: What to expect",
-      "description": "Saudi crown prince and French president are set to sign several agreements on health, transport and energy.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/24/saudi-arabias-mbs-visits-macron-in-france-what-to-expect?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
-      "description": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Crypto extends gains after biggest 3-day rally since 2023",
-      "description": "Bitcoin and crypto stocks extended their rally after the flagship cryptocurrency broke out of its trading range.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html",
-      "category": "📈 MARKETS",
+      "title": "How the AIDS crisis helped create a multibillion-dollar death-speculation market",
+      "description": "Investors will buy your life insurance policy today — and collect the payout when you die.",
+      "source": "NPR",
+      "url": "https://www.npr.org/sections/planet-money/2026/08/25/g-s1-139946/how-the-aids-crisis-helped-create-a-multibillion-dollar-death-speculation-market",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "Real Madrid’s Mourinho ‘happy’ with transfers despite Rodri miss",
+      "description": "Yan Diomande topped Real's transfers, and Jose Mourinho says he is happy despite missing out on Rodri to Barcelona.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/25/mourinho-happy-with-complete-real-madrid-squad-despite-rodri-miss?traffic_source=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
-      "description": "President Donald Trump said the U.S. will raise tariffs on imports of cars, trucks and auto parts from Canada to 50% on Jan. 1, 2027",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html",
-      "category": "📈 MARKETS",
+      "title": "How Israel’s Netanyahu weaponises religion in his war rhetoric",
+      "description": "Israeli prime minister has used ancient religious texts to validate pre-emptive warfare and bypass international law.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/25/how-israels-netanyahu-weaponises-religion-in-his-war-rhetoric?traffic_source=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Oil trades lower even as Bessent promises ‘economic D-Day’ announcement on Iran",
-      "description": "One key is how any new U.S. sanctions might affect China, the No. 1 buyer of Iranian crude oil.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/oil-trades-lower-even-as-bessent-promises-economic-d-day-announcement-on-iran-a90d862e?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
+      "title": "Popcorn and cartoons: A Gaza cinema gives girls a brief escape from war",
+      "description": "A group of displaced girls in Gaza finds moments of joy, safety, and self-expression at a weekly movie screening.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/8/25/popcorn-and-cartoons-a-gaza-cinema-gives-girls-a-brief-escape-from-war?traffic_source=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Trump, Vance and Bessent try to calm the bond market with ‘alternative facts’",
-      "description": "Maybe this stuff works on TV or on the stump. But it doesn’t work on Wall Street, where people can count.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/trump-vance-and-bessent-try-to-calm-the-bond-market-with-alternative-facts-8e424378?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
+      "title": "Gaza child breaks down in tears after an Israeli threat over kites",
+      "description": "Gaza child breaks down in tears after an Israeli threat over kites",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/gaza-child-breaks-down-in-tears-after-an-israeli-threat-over-kites?traffic_source=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "just now"
+    },
+    {
+      "title": "Brain disease in dead NFL players 'higher than previously shown'",
+      "description": "A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be much higher.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Lockerbie bombing trial postponed days before it was due to start",
+      "description": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "2h ago"
     },
     {
       "title": "This has been one of the most affordable U.S. cities to buy a home for more than 134 years",
       "description": "Home prices in America have changed dramatically over the last century — but the Midwest has remained a bastion of affordability through it all.",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/this-has-been-one-of-the-most-affordable-u-s-cities-to-buy-a-home-for-the-past-134-years-0c52895a?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Trump suggested states should fund Medicare — which would weaken the program and put Americans at risk",
+      "description": "A state-based financing system would introduce a new layer of uncertainty",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/trump-suggested-states-should-fund-medicare-which-would-weaken-the-program-and-put-americans-at-risk-c240c1b9?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Stick with value stocks until everyone starts talking about them — they’re still under the radar, this Wall Street firm says",
+      "description": "BofA says investors continue to overlook value stocks, which work particularly well in a new era of higher interest rates and inflation.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/stick-with-value-stocks-until-everyone-is-talking-about-them-and-they-are-still-under-the-radar-this-wall-street-firm-says-598183de?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
@@ -200,34 +184,50 @@
       "timeAgo": "just now"
     },
     {
-      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for MLB, Rays-Tigers, college football, on Monday",
-      "description": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for MLB, college football betting on Monday",
+      "title": "The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style",
+      "description": "Concern over the size and the cost of U.S. government spending has given new life to the debasement trade.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/25/debasement-trade-debt-gold-bitcoin-dollar.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Canada poised to retaliate against Trump tariffs: 'We're not waiting by the phone'",
+      "description": "Canadian trade negotiators left the U.S. last week after failing to clinch a trade deal that would stop President Donald Trump's new tariffs from taking effect.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Dodgers vs. Braves prediction, odds, time: 2026 MLB picks for Tuesday, Aug. 25 by proven model",
+      "description": "SportsLine's model simulated Los Angeles Dodgers vs. Atlanta Braves 10,000 times and revealed its MLB picks for Tuesday's matchup",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-in-bonus-bets-mlb-rays-tigers-college-football-monday/",
+      "url": "https://www.cbssports.com/betting/news/dodgers-braves-prediction-odds-time-2026-mlb-picks-for-tuesday-august-25/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Dana Brown out as Astros GM: Owner Jim Crane names himself temporary head of baseball operations",
-      "description": "The Astros currently sit tied for first place in the AL West at one game under .500",
+      "title": "Snyder's Soapbox: Keep the losers (and the teams with losing records) out of the playoffs",
+      "description": "Instead, Matt Snyder offers an alternative playoff picture full of deserving teams",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/mlb/news/astros-dana-brown-jim-crane/",
+      "url": "https://www.cbssports.com/mlb/news/snyders-soapbox-losing-records-playoffs/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Buffalo Bills 2026 NFL futures odds, trends: Did Josh Allen miss his best Super Bowl chance last season?",
-      "description": "Can Josh Allen and the Buffalo Bills finally get over the hump this season?",
+      "title": "2026 Tour Championship longshot picks, PGA props: This golf parlay could return over $90,000",
+      "description": "SportsLine's model simulated the Tour Championship 2026 10,000 times and revealed a PGA longshot parlay that could return over $90,000 on just a $10 bet",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/buffalo-bills-2026-nfl-futures-odds-trends-did-josh-allen-miss-his-best-super-bowl-chance-last-season/",
+      "url": "https://www.cbssports.com/betting/news/2026-tour-championship-longshot-picks-predictions-props-parlay/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "North Carolina vs. TCU prediction, odds, time: 2026 Dublin college football picks by proven model",
-      "description": "The SportsLine Projection Model has revealed its best bets for TCU Horned Frogs vs. Bill Belichick and the UNC Tar Heels meet in Ireland",
+      "title": "2026 Tour Championship tee times, pairings: Complete schedule for Round 1 at FedEx Cup Playoffs finale",
+      "description": "The top 30 golfers in the FedEx Cup standings will begin their quest for the Tour Championship and playoff crown beginning Thursday in Atlanta",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/north-carolina-tcu-prediction-odds-time-2026-dublin-college-football-picks/",
+      "url": "https://www.cbssports.com/golf/news/tour-championship-2026-tee-times-pairings-schedule-round-1-thursday/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
