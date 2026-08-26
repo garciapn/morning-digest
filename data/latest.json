@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-25T14:20:23.536172+00:00",
-  "edition": "#202",
+  "date": "2026-08-26T14:12:20.610675+00:00",
+  "edition": "#203",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Apple debuts its ‘most powerful chip ever’ in M5 Ultra and M6",
-      "description": "Apple unveils these new processors alongside an updated Mac Mini and Mac Studio.",
+      "title": "Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children",
+      "description": "The lawsuit alleged that Meta knowingly designed platforms like Instagram and Facebook to addict children, despite knowing about the harms the platforms could pose to young users.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/25/apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6/",
+      "url": "https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
-      "description": "The funding, Gatik's largest so far, was led by Qatar Investment Authority and Koch Disruptive Technologies.",
+      "title": "Robot brain builders are pushing out of their GPT-2 era",
+      "description": "Robot bodies are waiting for their AI brains to catch up.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/",
+      "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Apple’s latest Mac Mini runs on a new M6 chip, and starts at $899",
-      "description": "The base model of the Mac Mini comes with 256GB of storage, 16GB of RAM, and costs $899.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/25/apples-latest-mac-mini-runs-on-a-new-m6-chip-and-starts-at-899/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "The state of AI in 2026: On the road to ROI",
-      "description": "Article URL: https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai Comments URL: https://news.ycombinator.com/item?id=49433759 Points: 16 # Comments: 12",
+      "title": "Meta reaches $16.68B settlement over social media harms to children",
+      "description": "Article URL: https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/ Comments URL: https://news.ycombinator.com/item?id=49448819 Points: 58 # Comments: 26",
       "source": "Hacker News",
-      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
+      "url": "https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Apple's new Mac mini, featuring M6 and M5 Pro",
-      "description": "Article URL: https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/ Comments URL: https://news.ycombinator.com/item?id=49433450 Points: 15 # Comments: 3",
-      "source": "Hacker News",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+      "title": "Bluesky now lets you upload 10-minute long videos",
+      "description": "Bluesky's new 10-minute video support includes faster upload speeds, too.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/26/bluesky-now-lets-you-upload-10-minute-long-videos/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "QueryStory wants you to believe what AI is telling you",
+      "description": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "US data centers tripled annual water consumption to 17B gallons",
-      "description": "Article URL: https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/ Comments URL: https://news.ycombinator.com/item?id=49433372 Points: 46 # Comments: 70",
+      "title": "AWS Acquires DuckDB",
+      "description": "Article URL: https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws Comments URL: https://news.ycombinator.com/item?id=49448321 Points: 284 # Comments: 63",
       "source": "Hacker News",
-      "url": "https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/",
+      "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Dad's house rammed before son died in A66 crash",
-      "description": "The house belonging to Cole Worthy's father is significantly damaged with windows also smashed.",
+      "title": "Murder probe as two people dead in house fire in Middlesbrough",
+      "description": "Cleveland Police says it \"cannot rule out any links to wider organised crime\" after the fire near Middlesbrough.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c4gmrz8d31mo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Man dies in crash after police pursuit",
-      "description": "Two women are also hurt and one remains in hospital in critical condition.",
+      "title": "Prince Harry and Meghan land in UK days after announcing move",
+      "description": "Prince Harry, Meghan, and their two children are believed to have flown into the country privately from California.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Trump may hope an 'economic onslaught' will pressure Iran - its leaders are betting otherwise",
-      "description": "The US says new sanctions are an \"economic D-Day\", but Tehran's leaders have survived restrictions before.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/czrzm6p6zxeo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-      "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+      "title": "Video shows scale of flash flood hitting Nepal-Tibet border",
+      "description": "This video has been edited by the BBC with white flashes, due to the distressing content.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/videos/c62jmlgev3po?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
+      "description": "BBC music correspondent Mark Savage looks back on the legacy of the \"irreplaceable\" late singer.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Trump calls leaders to isolate Iran. And, SCOTUS backs Trump for now on mail-in voting",
-      "description": "President Trump is calling on world leaders to join his economic war against Iran. And, the Supreme Court is backing the president for now on his order to restrict mail-in voting.",
+      "title": "Dolly Parton didn't just write hits — she created an American songbook",
+      "description": "Parton, who died at 80 on Tuesday, had charm, depth, beauty, wit and radiant goodness. She was also a songwriter whose work told the story not just of country music but of the country itself.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/08/25/g-s1-140004/up-first-newsletter-iran-economic-war-scotus-mail-in-voting-dhs-privacy",
+      "url": "https://www.npr.org/2026/08/26/nx-s1-5944468/dolly-parton-legacy-songwriting",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "How the AIDS crisis helped create a multibillion-dollar death-speculation market",
-      "description": "Investors will buy your life insurance policy today — and collect the payout when you die.",
+      "title": "California says states, Meta agree to $17 billion settlement in child safety trial",
+      "description": "The social media giant also agreed to make sweeping changes to Instagram and Facebook.",
       "source": "NPR",
-      "url": "https://www.npr.org/sections/planet-money/2026/08/25/g-s1-139946/how-the-aids-crisis-helped-create-a-multibillion-dollar-death-speculation-market",
+      "url": "https://www.npr.org/2026/08/26/nx-s1-5944781/meta-settlement-child-safety-lawsuit",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Real Madrid’s Mourinho ‘happy’ with transfers despite Rodri miss",
-      "description": "Yan Diomande topped Real's transfers, and Jose Mourinho says he is happy despite missing out on Rodri to Barcelona.",
+      "title": "Bodies of missing people found in Korea becomes national scandal",
+      "description": "A police officer has been arrested after the bodies of four missing people were found on Jeju Island in South Korea.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/25/mourinho-happy-with-complete-real-madrid-squad-despite-rodri-miss?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/bodies-of-missing-people-found-in-korea-becomes-national-scandal?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "How Israel’s Netanyahu weaponises religion in his war rhetoric",
-      "description": "Israeli prime minister has used ancient religious texts to validate pre-emptive warfare and bypass international law.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/25/how-israels-netanyahu-weaponises-religion-in-his-war-rhetoric?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Popcorn and cartoons: A Gaza cinema gives girls a brief escape from war",
-      "description": "A group of displaced girls in Gaza finds moments of joy, safety, and self-expression at a weekly movie screening.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/8/25/popcorn-and-cartoons-a-gaza-cinema-gives-girls-a-brief-escape-from-war?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Gaza child breaks down in tears after an Israeli threat over kites",
-      "description": "Gaza child breaks down in tears after an Israeli threat over kites",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/gaza-child-breaks-down-in-tears-after-an-israeli-threat-over-kites?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Brain disease in dead NFL players 'higher than previously shown'",
-      "description": "A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be much higher.",
+      "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
+      "description": "Five other airport workers are also receiving treatment following the rare outbreak at German's busiest airport.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "2h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Lockerbie bombing trial postponed days before it was due to start",
-      "description": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
+      "title": "Children in Gaza fear flying their kites after Israeli threat",
+      "description": "A 10-year-old boy who makes kites says he is afraid to fly them after Israel threatened to treat kites as acts of war.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/children-in-gaza-fear-flying-their-kites-after-israeli-threat?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Why northern Mozambique’s surging violence is worsening displacement crisis",
+      "description": "Over 100,000 people displaced last year alone, adding to the 1.3 million people already forced to flee from their homes.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/26/why-northern-mozambiques-surging-violence-is-worsening-displacement-crisis?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Locked inside: Grief and anger as Pakistan hospital fire kills 14 newborns",
+      "description": "A nursery for critical infants — supposedly the safest place in Islamabad's PIMS hospital — turned into a deathtrap.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/26/locked-inside-grief-and-anger-as-pakistan-hospital-fire-kills-14-newborns?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
+      "description": "A hospital official told the BBC that the door to the ward was not locked, but manned with security guards, to protect the babies.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "This has been one of the most affordable U.S. cities to buy a home for more than 134 years",
-      "description": "Home prices in America have changed dramatically over the last century — but the Midwest has remained a bastion of affordability through it all.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-has-been-one-of-the-most-affordable-u-s-cities-to-buy-a-home-for-the-past-134-years-0c52895a?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Trump suggested states should fund Medicare — which would weaken the program and put Americans at risk",
-      "description": "A state-based financing system would introduce a new layer of uncertainty",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/trump-suggested-states-should-fund-medicare-which-would-weaken-the-program-and-put-americans-at-risk-c240c1b9?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Stick with value stocks until everyone starts talking about them — they’re still under the radar, this Wall Street firm says",
-      "description": "BofA says investors continue to overlook value stocks, which work particularly well in a new era of higher interest rates and inflation.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/stick-with-value-stocks-until-everyone-is-talking-about-them-and-they-are-still-under-the-radar-this-wall-street-firm-says-598183de?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "I’m turning 70. Here’s how I’m making this decade the richest of my retirement.",
-      "description": "Tweaking my finances, work and life as I go from the “go-go” years to the “slow-go” years.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-turning-70-heres-how-im-making-this-decade-the-richest-of-my-retirement-ae351f90?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style",
-      "description": "Concern over the size and the cost of U.S. government spending has given new life to the debasement trade.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/25/debasement-trade-debt-gold-bitcoin-dollar.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Canada poised to retaliate against Trump tariffs: 'We're not waiting by the phone'",
-      "description": "Canadian trade negotiators left the U.S. last week after failing to clinch a trade deal that would stop President Donald Trump's new tariffs from taking effect.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
-      "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Dodgers vs. Braves prediction, odds, time: 2026 MLB picks for Tuesday, Aug. 25 by proven model",
-      "description": "SportsLine's model simulated Los Angeles Dodgers vs. Atlanta Braves 10,000 times and revealed its MLB picks for Tuesday's matchup",
+      "title": "Meta settles social media addiction case with California, other states for $16.7 billion",
+      "description": "Meta and state attorneys general settled a federal trial centering on allegations that company misrepresented the extent of child-related mental health harms.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "12 stocks for ‘bottom-fishing’ investors looking for cheap growth opportunities",
+      "description": "Companies with stocks near 52-week lows that analysts expect to roar back include Dick’s Sporting Goods, McDonald’s and L3Harris.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/12-stocks-for-bottom-fishing-investors-looking-for-cheap-growth-opportunities-d232ea75?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Your portfolio can recover from a bear market, but can it survive you living to 110?",
+      "description": "A longer life may be the biggest risk to retirement plans",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/your-portfolio-can-recover-from-a-bear-market-but-can-it-survive-you-living-to-110-cc6d344c?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Tax tips for TikTok stars, after judge says influencer can’t write off his Grammy tickets",
+      "description": "3 tax pitfalls for ‘influencers’ — and tips to avoid them that could help all taxpayers.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/tax-tips-for-tiktok-stars-after-judge-says-influencer-cant-write-off-his-grammy-tickets-29c19139?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Meta’s stock gives up gains as Wall Street digests settlement in social-media addiction trial",
+      "description": "The social-media giant agreed to pay up to $16.68 billion as part of the settlement.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/metas-stock-rises-as-the-company-settles-in-social-media-addiction-trial-78abdfbf?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Bill Gates warns ‘there is no plan’ for the ‘upheaval’ AI will cause",
+      "description": "Bill Gates warned governments are not adequately preparing for how AI could displace workers, strain social systems and create global risks.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/26/bill-gates-ai-jobs-economic-upheaval.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "2026 National League MVP: Expert picks for Shohei Ohtani vs. Pete Crow-Armstrong",
+      "description": "One is aiming for his fourth consecutive MVP award; the other is trying to stamp his name in the history books",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/dodgers-braves-prediction-odds-time-2026-mlb-picks-for-tuesday-august-25/",
+      "url": "https://www.cbssports.com/mlb/news/2026-national-league-mvp-picks-shohei-ohtani-pete-crow-armstrong/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Snyder's Soapbox: Keep the losers (and the teams with losing records) out of the playoffs",
-      "description": "Instead, Matt Snyder offers an alternative playoff picture full of deserving teams",
+      "title": "Boxing schedule for 2026: Ryan Garcia vs. Conor Benn, Moses Itauma vs. Filip Hrgovic on tap",
+      "description": "The 2026 boxing calendar is hitting summer with some great fights on the books",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/mlb/news/snyders-soapbox-losing-records-playoffs/",
+      "url": "https://www.cbssports.com/boxing/news/boxing-schedule-for-2026-dates-location-fights-ryan-garcia-conor-benn-canelo-alvarez/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "2026 Tour Championship longshot picks, PGA props: This golf parlay could return over $90,000",
-      "description": "SportsLine's model simulated the Tour Championship 2026 10,000 times and revealed a PGA longshot parlay that could return over $90,000 on just a $10 bet",
+      "title": "Big 12 expert picks 2026: Most overrated and underrated teams, projected order of finish, bold predictions",
+      "description": "Taking a close, detailed and opinionated look at the Big 12 ahead of the 2026 college football season",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/2026-tour-championship-longshot-picks-predictions-props-parlay/",
+      "url": "https://www.cbssports.com/college-football/news/big-12-expert-picks-preview-2026-season/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "2026 Tour Championship tee times, pairings: Complete schedule for Round 1 at FedEx Cup Playoffs finale",
-      "description": "The top 30 golfers in the FedEx Cup standings will begin their quest for the Tour Championship and playoff crown beginning Thursday in Atlanta",
+      "title": "Week 1 NFL survivor pool picks, advice, strategy: NFL expert reveals best knockout pick, teams to avoid",
+      "description": "SportsLine's No. 1 NFL expert R.J. White reveals his knockout pool strategy and top Week 1 NFL survivor pick",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/golf/news/tour-championship-2026-tee-times-pairings-schedule-round-1-thursday/",
+      "url": "https://www.cbssports.com/betting/news/week-1-nfl-2026-survivor-pool-picks-advice-strategy-guide-knockout-pick/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
