@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-26T14:12:20.610675+00:00",
-  "edition": "#203",
+  "date": "2026-08-27T23:01:39.252876+00:00",
+  "edition": "#204",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children",
-      "description": "The lawsuit alleged that Meta knowingly designed platforms like Instagram and Facebook to addict children, despite knowing about the harms the platforms could pose to young users.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/",
+      "title": "Anthropic's new hardware standard lets AI agents control the physical world",
+      "description": "Standardized driver interface aims to let devices talk to AI and each other.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Robot brain builders are pushing out of their GPT-2 era",
-      "description": "Robot bodies are waiting for their AI brains to catch up.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Meta reaches $16.68B settlement over social media harms to children",
-      "description": "Article URL: https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/ Comments URL: https://news.ycombinator.com/item?id=49448819 Points: 58 # Comments: 26",
+      "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+      "description": "Article URL: https://github.com/elyosh/OpenTIE/ Comments URL: https://news.ycombinator.com/item?id=49471965 Points: 5 # Comments: 1",
       "source": "Hacker News",
-      "url": "https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/",
+      "url": "https://github.com/elyosh/OpenTIE/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Bluesky now lets you upload 10-minute long videos",
-      "description": "Bluesky's new 10-minute video support includes faster upload speeds, too.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/26/bluesky-now-lets-you-upload-10-minute-long-videos/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "QueryStory wants you to believe what AI is telling you",
-      "description": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "AWS Acquires DuckDB",
-      "description": "Article URL: https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws Comments URL: https://news.ycombinator.com/item?id=49448321 Points: 284 # Comments: 63",
+      "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+      "description": "Article URL: https://github.com/calmrocks/ai-engineer-notebooks Comments URL: https://news.ycombinator.com/item?id=49471714 Points: 7 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+      "url": "https://github.com/calmrocks/ai-engineer-notebooks",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Murder probe as two people dead in house fire in Middlesbrough",
-      "description": "Cleveland Police says it \"cannot rule out any links to wider organised crime\" after the fire near Middlesbrough.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gmrz8d31mo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Prince Harry and Meghan land in UK days after announcing move",
-      "description": "Prince Harry, Meghan, and their two children are believed to have flown into the country privately from California.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/czrzm6p6zxeo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
+      "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+      "description": "Hi HN, we built an open source model gateway. It's a single place to manage our own self hosted, frontier, and open source models in one place. It’s is rust native, built for concurrency, and implements all the config q…",
+      "source": "Hacker News",
+      "url": "https://github.com/experientiallabs/experiential",
+      "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Video shows scale of flash flood hitting Nepal-Tibet border",
-      "description": "This video has been edited by the BBC with white flashes, due to the distressing content.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c62jmlgev3po?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "title": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
+      "description": "xAI accused of training Grok on real and AI-generated child pornography.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
-      "description": "BBC music correspondent Mark Savage looks back on the legacy of the \"irreplaceable\" late singer.",
+      "title": "Meta Paid $17B – Gets to Write Safety Rules for Other SocMedia Platform",
+      "description": "Article URL: https://www.techdirt.com/2026/08/26/meta-just-paid-nearly-17-billion-to-make-sure-it-gets-to-write-the-kid-safety-rules-for-every-other-social-media-platform/ Comments URL: https://news.ycombinator.com/item…",
+      "source": "Hacker News",
+      "url": "https://www.techdirt.com/2026/08/26/meta-just-paid-nearly-17-billion-to-make-sure-it-gets-to-write-the-kid-safety-rules-for-every-other-social-media-platform/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Extra 200 police drafted in to aid force investigating wrong-way crash and fire deaths",
+      "description": "Cleveland Police confirms it has support from six local forces and the National Crime Agency.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/ckgvnjpv1l0o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Dolly Parton didn't just write hits — she created an American songbook",
-      "description": "Parton, who died at 80 on Tuesday, had charm, depth, beauty, wit and radiant goodness. She was also a songwriter whose work told the story not just of country music but of the country itself.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/26/nx-s1-5944468/dolly-parton-legacy-songwriting",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "California says states, Meta agree to $17 billion settlement in child safety trial",
-      "description": "The social media giant also agreed to make sweeping changes to Instagram and Facebook.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/26/nx-s1-5944781/meta-settlement-child-safety-lawsuit",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Bodies of missing people found in Korea becomes national scandal",
-      "description": "A police officer has been arrested after the bodies of four missing people were found on Jeju Island in South Korea.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/bodies-of-missing-people-found-in-korea-becomes-national-scandal?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
-      "description": "Five other airport workers are also receiving treatment following the rare outbreak at German's busiest airport.",
+      "title": "Allan Little: I met dangerously fanatical Mladić early in Bosnian war",
+      "description": "BBC special correspondent Allan Little met the \"Butcher of Bosnia\" in the early months of the Bosnian war.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
+      "url": "https://www.bbc.co.uk/news/articles/cgl744j0ww1o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
     },
     {
-      "title": "Children in Gaza fear flying their kites after Israeli threat",
-      "description": "A 10-year-old boy who makes kites says he is afraid to fly them after Israel threatened to treat kites as acts of war.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/children-in-gaza-fear-flying-their-kites-after-israeli-threat?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
+      "title": "The role of climate change in the Nepal floods",
+      "description": "The deadly flash floods in Nepal are not a surprise to many scientists. Glacial melt is accelerating because of climate change, putting millions of people at risk.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/27/nx-s1-5946703/the-role-of-climate-change-in-the-nepal-floods",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Why northern Mozambique’s surging violence is worsening displacement crisis",
-      "description": "Over 100,000 people displaced last year alone, adding to the 1.3 million people already forced to flee from their homes.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/26/why-northern-mozambiques-surging-violence-is-worsening-displacement-crisis?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Locked inside: Grief and anger as Pakistan hospital fire kills 14 newborns",
-      "description": "A nursery for critical infants — supposedly the safest place in Islamabad's PIMS hospital — turned into a deathtrap.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/26/locked-inside-grief-and-anger-as-pakistan-hospital-fire-kills-14-newborns?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
-      "description": "A hospital official told the BBC that the door to the ward was not locked, but manned with security guards, to protect the babies.",
+      "title": "Watch: Tracing the deadly path of the Nepal-Tibet flash flood",
+      "description": "BBC Verify traces the path of the destructive Nepal-Tibet flash flood using verified video.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/videos/cp80m87pez3o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "6h ago"
+    },
+    {
+      "title": "Helicopter pilot describes what he's seen rescuing people in Nepal",
+      "description": "Andy Thapa is a charter and rescue pilot for a Nepali helicopter company. He's been rescuing people stranded by the catastrophic flooding, and carrying them to safety.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/27/nx-s1-5946443/helicopter-pilot-describes-what-hes-seen-rescuing-people-in-nepal",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Trump directs federal government to rename Lake Ontario to Lake America",
+      "description": "President Trump signed an executive order on Thursday directing the federal government to rename Lake Ontario amid an escalating trade dispute with Canada .",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/27/g-s1-140583/trump-lake-ontario-america",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "What we know about deadly Nepal-Tibet floods",
+      "description": "Hundreds have died or are missing in Wednesday's flooding and landslides on the border of Nepal and Tibet.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Barcelona scraps Spain World Cup tribute amid fans’ Catalan flag support",
+      "description": "An act supporting Catalonia's pro-independence symbol organized as Barcelona hosts first game since Spain World Cup win.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/27/barcelona-scrap-spain-world-cup-tribute-amid-fans-catalan-flag-statement?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Meta settles social media addiction case with California, other states for $16.7 billion",
-      "description": "Meta and state attorneys general settled a federal trial centering on allegations that company misrepresented the extent of child-related mental health harms.",
+      "title": "Raphinha scores again as Barcelona ease past Athletic Club in La Liga",
+      "description": "Raphinha nets his third goal in Barcelona's first two games of new season as Athletic Club beaten 2-0 in La Liga.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/27/raphinha-scores-again-as-barcelona-ease-past-athletic-club-in-la-liga?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Crystal Palace vs Man City: Premier League – prediction, teams, lineups",
+      "description": "Manchester City travels to Crystal Palace, looking to build on their late show in their opening Premier League match.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/27/crystal-palace-vs-man-city-premier-league-prediction-teams-lineups?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Canada welcomes US shift on French language discoverability in trade talks",
+      "description": "US trade officials downplay French language dispute, calling claims fabricated.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/8/27/canada-welcomes-us-shift-on-french-language-discoverability-in-trade-talks?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Jury deliberating in trial of Lindsay Clancy, US woman accused of killing her children",
+      "description": "Prosecutors argued Clancy made a calculated decision to murder the children, while the defence argued that she was suffering from postpartum psychosis.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c33keeyyv70o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect",
+      "description": "Prior Fed chairs have used the speech as an opportunity to lay out broad policy frameworks and intentions.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html",
+      "url": "https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "12 stocks for ‘bottom-fishing’ investors looking for cheap growth opportunities",
-      "description": "Companies with stocks near 52-week lows that analysts expect to roar back include Dick’s Sporting Goods, McDonald’s and L3Harris.",
+      "title": "CrowdStrike’s stock jumps after record-breaking earnings. Wall Street is lapping it up.",
+      "description": "A number of Wall Street banks, including Jefferies, raised their price targets for the cybersecurity’s stock following its record-breaking results.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/12-stocks-for-bottom-fishing-investors-looking-for-cheap-growth-opportunities-d232ea75?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/crowdstrikes-stock-has-jumped-after-record-breaking-earnings-wall-street-is-lapping-it-up-dbdaca83?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Your portfolio can recover from a bear market, but can it survive you living to 110?",
-      "description": "A longer life may be the biggest risk to retirement plans",
+      "title": "Salesforce’s stock rockets 20% and gives the software sector a major lift",
+      "description": "Salesforce’s earnings showed that AI isn’t killing traditional software, and that the operators of major AI models are willing to strike partnerships with legacy vendors.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/your-portfolio-can-recover-from-a-bear-market-but-can-it-survive-you-living-to-110-cc6d344c?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/salesforce-stock-is-jumping-what-wall-street-is-saying-about-its-earnings-and-its-anthropic-relationship-853ada85?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Tax tips for TikTok stars, after judge says influencer can’t write off his Grammy tickets",
-      "description": "3 tax pitfalls for ‘influencers’ — and tips to avoid them that could help all taxpayers.",
+      "title": "Good Good Golf ad fallout deepens as Callaway ends partnership, retailers pull gear and Golf Channel delays show",
+      "description": "A controversial ad from Callaway Golf that was made by Good Good Golf has caused a firestorm online for showing a male player shoving a female golfer to the ground after she attempts to use his driver.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/tax-tips-for-tiktok-stars-after-judge-says-influencer-cant-write-off-his-grammy-tickets-29c19139?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/good-good-golf-ad-fallout-deepens-as-callaway-ends-partnership-retailers-pull-gear-and-golf-channel-delays-show-33546426?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Meta’s stock gives up gains as Wall Street digests settlement in social-media addiction trial",
-      "description": "The social-media giant agreed to pay up to $16.68 billion as part of the settlement.",
+      "title": "Marvell boosts its forecasts, but the stock slides as Wall Street wonders if there’s more to the story",
+      "description": "Analysts are crunching the numbers on Marvell’s recently announced Google deal and how much fresh upside it really offers.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/metas-stock-rises-as-the-company-settles-in-social-media-addiction-trial-78abdfbf?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/marvell-is-boosting-its-forecasts-but-thats-not-enough-to-lift-its-stock-c769556a?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Bill Gates warns ‘there is no plan’ for the ‘upheaval’ AI will cause",
-      "description": "Bill Gates warned governments are not adequately preparing for how AI could displace workers, strain social systems and create global risks.",
+      "title": "FDA approves daily HIV pill from Gilead designed to simplify treatment for some patients",
+      "description": "The new pill is also aimed at people who are doing well on a single-tablet regimen, including Biktarvy, and want to switch to a new treatment.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/26/bill-gates-ai-jobs-economic-upheaval.html",
+      "url": "https://www.cnbc.com/2026/08/27/fda-approves-gilead-hiv-pill-bixlenvo-designed-to-simplify-treatment.html",
       "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "2026 National League MVP: Expert picks for Shohei Ohtani vs. Pete Crow-Armstrong",
-      "description": "One is aiming for his fourth consecutive MVP award; the other is trying to stamp his name in the history books",
+      "title": "Fantasy football rankings 2026: Top breakouts per the model that nailed Tetairoa McMillan's huge season",
+      "description": "SportsLine simulated the NFL season 10,000 times and revealed its 2026 Fantasy football breakouts for 2026 Fantasy football draft prep",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/mlb/news/2026-national-league-mvp-picks-shohei-ohtani-pete-crow-armstrong/",
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-top-breakouts-per-the-model-that-nailed-tetairoa-mcmillans-huge-season/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Boxing schedule for 2026: Ryan Garcia vs. Conor Benn, Moses Itauma vs. Filip Hrgovic on tap",
-      "description": "The 2026 boxing calendar is hitting summer with some great fights on the books",
+      "title": "Five top prospects who could be called up to help contending teams when rosters expand in September",
+      "description": "Josue De Paula, Franklin Arias and more are waiting in the wings to try to help get their teams to the postseason",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/boxing/news/boxing-schedule-for-2026-dates-location-fights-ryan-garcia-conor-benn-canelo-alvarez/",
+      "url": "https://www.cbssports.com/mlb/news/mlb-september-roster-expansions-prospects/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Big 12 expert picks 2026: Most overrated and underrated teams, projected order of finish, bold predictions",
-      "description": "Taking a close, detailed and opinionated look at the Big 12 ahead of the 2026 college football season",
+      "title": "Texas judge grants restraining order against SEC, challenging ban on former pro athletes returning to college",
+      "description": "A collection of former college athletes have been issued a restraining order against the SEC, conference commissioner Greg Sankey and the NCAA",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/big-12-expert-picks-preview-2026-season/",
+      "url": "https://www.cbssports.com/college-football/news/texas-judge-sec-former-pro-athletes/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Week 1 NFL survivor pool picks, advice, strategy: NFL expert reveals best knockout pick, teams to avoid",
-      "description": "SportsLine's No. 1 NFL expert R.J. White reveals his knockout pool strategy and top Week 1 NFL survivor pick",
+      "title": "Why NaLyssa Smith's season-ending injury is a major blow to the Aces and their WNBA title chances",
+      "description": "Las Vegas has won three of the last four WNBA titles, but Smith's injury is a significant setback",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/week-1-nfl-2026-survivor-pool-picks-advice-strategy-guide-knockout-pick/",
+      "url": "https://www.cbssports.com/wnba/news/nalyssa-smith-injury-timeline-aces-wnba-playoffs/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
