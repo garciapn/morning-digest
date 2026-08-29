@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-28T23:09:33.003637+00:00",
-  "edition": "#205",
+  "date": "2026-08-29T17:19:21.280952+00:00",
+  "edition": "#206",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,108 +8,140 @@
   },
   "stories": [
     {
-      "title": "Is the best way to watch a movie on a pair of sunglasses?",
-      "description": "Are XREAL's smart glasses the way of the future for home entertainment?",
+      "title": "Hollywood celebs are getting into microdrama apps",
+      "description": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
+      "url": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
       "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Nancy Grace Roman Space Telescope",
+      "description": "Article URL: https://science.nasa.gov/mission/roman-space-telescope/ Comments URL: https://news.ycombinator.com/item?id=49490870 Points: 29 # Comments: 5",
+      "source": "Hacker News",
+      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Quantifying Colour",
+      "description": "Article URL: https://ekunazanu.foo/lab/quantifying-colour/ Comments URL: https://news.ycombinator.com/item?id=49490832 Points: 11 # Comments: 0",
+      "source": "Hacker News",
+      "url": "https://ekunazanu.foo/lab/quantifying-colour/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Parsing the Infamous Japanese Postal CSV",
+      "description": "Article URL: https://www.dampfkraft.com/posuto.html Comments URL: https://news.ycombinator.com/item?id=49490826 Points: 19 # Comments: 1",
+      "source": "Hacker News",
+      "url": "https://www.dampfkraft.com/posuto.html",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
+      "description": "Article URL: https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e Comments URL: https://news.ycombinator.com/item?id=49490702 Points: 49 # Comments: 14",
+      "source": "Hacker News",
+      "url": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "The Theragun Sense makes everyday recovery surprisingly easy",
+      "description": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always been somewhat skeptica…",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "Cleverly quits shadow cabinet to run for London mayor",
+      "description": "The capital is not set to vote on a new mayor until 2028.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Stopping the smart TV from being used against you",
-      "description": "Article URL: https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/ Comments URL: https://news.ycombinator.com/item?id=49483816 Points: 120 # Comments: 95",
-      "source": "Hacker News",
-      "url": "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "description": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "description": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA",
-      "description": "Article URL: https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/ Comments URL: https://news.ycombinator.com/item?id=49483182 Points: 186 # Comments: 147",
-      "source": "Hacker News",
-      "url": "https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Aspirational Clownmaxxing and Joey's cadillac todo list",
-      "description": "Article URL: https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/ Comments URL: https://news.ycombinator.com/item?id=49483080 Points: 8 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Man dies and at least six injured after sign falls at Christian festival",
-      "description": "A 41-year-old man died at the Big Church Festival near Steyning in West Sussex, police say.",
+      "title": "Football fans pay tribute to crash death officers at Middlesbrough match",
+      "description": "PC Matthew Blades and PC Tom Clough died in a head-on collision on the A66 near Middlesbrough.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwyz52x45jxo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c5y5727d02xo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
-      "description": "A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator.",
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "'It's destroying our town': Residents tell of concern after violent incidents near Middlesbrough",
-      "description": "Residents near Middlesbrough have told the BBC of their concern after a spate of violent incidents in their area.",
+      "title": "Christian festival 'devastated' as man dies after sign falls",
+      "description": "Police say at least six other people were also injured in the incident at the Big Church Festival.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cx2zdvlqw8yo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
+      "description": "The deadly strike comes amid 72 hours of near constant drone strikes across Ukraine, severely disrupting daily life.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Photos: See the aftermath of deadly flash floods in Nepal",
+      "description": "Nepal officials say the death toll has continues to rise in Wednesday's floods that washed away communities in Nepal and Tibet, which is held by China. About 2,500 people are missing in both areas.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/29/nx-s1-5948209/photos-see-the-aftermath-of-deadly-flash-floods-in-nepal",
       "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "What we know about the 33 British nationals missing in Nepal",
-      "description": "Among those reported missing after deadly floods are a 13-year-old girl and 14-year-old boy.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c93v70w79gxo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "After 6 months of war, Iran's battered regime remains entrenched",
-      "description": "Instead of collapsing, the Iranian regime has dug in its heels and taken an even harder line.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/28/nx-s1-5947854/us-iran-war",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Fed's Kevin Warsh warns inflation is too high, sparking bets rate hikes are coming",
-      "description": "Fed Chair Kevin Warsh reiterated his commitment to fighting inflation in a major speech — raising expectations that rate hikes may be coming, though he did not clearly spell out a path going forward.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/28/nx-s1-5947903/federal-reserve-inflation-jackson-hole-interest-rates",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "7h ago"
-    },
-    {
-      "title": "Israeli strike kills three Palestinians in Jenin",
-      "description": "An Israeli drone strike killed three Palestinians in Jenin, the first such attack in the West Bank since February 2025.",
+      "title": "Russian strike on a munitions depot triggers deadly blasts near Kyiv",
+      "description": "Russian strike on an arms depot near Kyiv sparked fires and explosions, killing at least 38 people and wounding dozens.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/israeli-strike-kills-three-palestinians-in-jenin?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-russia-strikes-arms-depot-kyiv-fm?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
+    },
+    {
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "RSS chief’s visit to US denounced as ‘goodwill tour’ for Hindu nationalism",
+      "description": "Activists say Hindu nationalists have sought to mask far-right politics through broad appeals to the Indian diaspora.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/29/rss-chiefs-visit-to-us-denounced-as-goodwill-tour-for-hindu-nationalism?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Israeli attacks across Gaza kill two people, hit hospital supply warehouse",
+      "description": "Gaza’s Health Ministry reports rising casualties amid escalated Israeli attacks, with victims trapped under rubble.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Man United vs Ipswich Town: Premier League – preview, team news, prediction",
+      "description": "United put in a sorry display as they lost 2-0 to Hull last weekend, while newly promoted Ipswich beat Sunderland 2-1.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/29/man-united-vs-ipswich-town-premier-league-preview-team-news-prediction?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "2h ago"
     },
     {
       "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
@@ -117,45 +149,13 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
+      "timeAgo": "13h ago"
     },
     {
-      "title": "Ebola spreads to two new zones in DRC; 60 areas now affected",
-      "description": "DRC's is the fastest-spreading Ebola outbreak ever recorded, with 5,794 confirmed cases and 2,786 deaths.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/28/ebola-spreads-to-two-new-zones-in-drc-60-areas-now-affected?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "With the US and Canada locked in a trade war, fears of a recession lurk",
-      "description": "Analysts say Canada may lose 100,000 jobs under the current tariffs and could go into recession if the USMCA pact ends.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/28/with-the-us-and-canada-locked-in-a-trade-war-fears-of-a-recession-lurk?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Before and after images show catastrophic impact of Nepal flash floods",
-      "description": "Before-and-after satellite images reveal the scale of destruction from Nepal’s catastrophic flash floods.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/08-28-26-nepal-b4-and-after-sv-mp4?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Norway mourns King Harald as Haakon VIII ascends throne",
-      "description": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves",
-      "description": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html",
+      "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
+      "description": "“We are reluctant to pay a financial adviser 2% of assets — roughly $160,000 per year.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
@@ -165,69 +165,69 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend.",
-      "description": "“I’m curious what would happen if the account owner were to die suddenly at the same time as the 98% beneficiary.”",
+      "title": "‘I feel shoehorned’: My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?",
+      "description": "“His argument is essentially that, since my parents provided the money for the Roth, they have a say in how I invest it.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/does-a-2-beneficiary-inherit-100-if-the-98-beneficiary-dies-in-a-car-accident-asking-for-a-friend-67aacc06?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Microsoft’s stock seals its longest winning streak of the year as AI software fears fade",
-      "description": "Microsoft’s software offers capabilities that will be critical for AI, one analyst notes.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/microsofts-stock-seals-its-longest-winning-streak-of-the-year-as-ai-software-fears-fade-e5669f5b?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?",
-      "description": "“We are hurt and confused, but we have also tried to respect the boundaries they have established.”",
+      "title": "Why would someone lock up money by rolling it into a 401(k)?",
+      "description": "When done right, rollovers can be a great tool.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/why-would-someone-lock-up-money-by-rolling-it-into-a-401-k-2c742e90?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "4h ago"
     },
     {
-      "title": "Bessent attacks Warren over yen intervention query, offers ‘Foreign Exchange for Dummies’ lesson",
-      "description": "Treasury has not disclosed how much yen it bought, the execution rate or the current value of the position, despite Warren’s requests for details.",
+      "title": "K, C or E? Why economists can’t agree on the shape of today’s economy",
+      "description": "Economists have long viewed the post-pandemic economy as \"K\"-shaped. That consensus has now evaporated.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/28/bessent-warren-yen-intervention-treasury-japan.html",
+      "url": "https://www.cnbc.com/2026/08/29/k-shaped-economy-c-shaped-e-shape.html",
       "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
+      "timeAgo": "4h ago"
     },
     {
-      "title": "What's wrong with the Liberty? Preseason WNBA title favorites running out of time to salvage 2026 season",
-      "description": "The Liberty have a chance to go into the FIBA break on a positive note when they host the Sky on Saturday on CBS and Paramount+",
+      "title": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
+      "description": "With data center concerns becoming a major election issue and Meta reaching a landmark settlement in a social media case, the tech backlash is gaining steam.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "5h ago"
+    },
+    {
+      "title": "Underdog promo code and prediction markets review: Use code CBS for a 50% Deposit Match and More",
+      "description": "Learn about the Underdog Prediction Picks product within the Underdog app and use Underdog promo code CBS for a 50% deposit match and more, as of August 29.",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/wnba/news/new-york-liberty-struggles-2026-wnba-season-chicago-sky/",
+      "url": "https://www.cbssports.com/prediction/news/underdog-promo-code/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "2026 Tour Championship tee times, pairings: Complete schedule for Round 3 at FedEx Cup Playoffs finale",
-      "description": "The start times for all 29 players on Moving Day at East Lake with a bunched leaderboard",
+      "title": "USC vs. San Jose State prediction, odds, time: 2026 Week 0 college football picks by proven model",
+      "description": "The SportsLine Projection Model has revealed its best bets for San Jose State Spartans vs. USC Trojans",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/golf/news/tour-championship-2026-tee-times-pairings-schedule-round-3-saturday/",
+      "url": "https://www.cbssports.com/betting/news/usc-san-jose-state-prediction-odds-time-2026-week-0-college-football-picks-best-bets/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "2026 Fantasy football draft prep: Proven NFL experts release rankings, tiers, top 150 picks",
-      "description": "SportsLine's 2026 Fantasy football draft guide includes Fantasy football auction values, keeper advice, top rookies, mock drafts and more",
+      "title": "2026 Tour Championship prize money, purse: Breakdown of $40M payouts for FedEx Cup Playoffs finale",
+      "description": "For the second straight year, the winner at East Lake Golf Club on Sunday will receive $10 million",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/fantasy/football/news/2026-fantasy-football-draft-prep-proven-nfl-experts-release-rankings-tiers-top-150-picks/",
+      "url": "https://www.cbssports.com/golf/news/tour-championship-2026-prize-money-purse-payouts-fedex-cup-playoffs/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Avalanche sign star Cale Makar to largest contract in NHL history at $163.2 million",
-      "description": "Makar just became the NHL's first $20 million player",
+      "title": "AEW All In 2026: Complete card and matches, live stream, where to watch and start time for Sunday",
+      "description": "Complete viewing information for AEW All In at London's Wembley Stadium",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nhl/news/cale-makar-colorado-avalanche-contract-record/",
+      "url": "https://www.cbssports.com/general/news/aew-all-in-2026-card-start-time-matches-preview-where-to-watch-live-will-ospreay-kenny-omega/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
