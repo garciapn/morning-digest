@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-29T17:19:21.280952+00:00",
-  "edition": "#206",
+  "date": "2026-08-30T17:42:17.549406+00:00",
+  "edition": "#207",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,164 +8,156 @@
   },
   "stories": [
     {
-      "title": "Hollywood celebs are getting into microdrama apps",
-      "description": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas.",
+      "title": "Artie (YC S23) Is Hiring Technical AES",
+      "description": "Article URL: https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1 Comments URL: https://news.ycombinator.com/item?id=49500471 Points: 0 # Comments: 0",
+      "source": "Hacker News",
+      "url": "https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+      "description": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and…",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
+      "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Nancy Grace Roman Space Telescope",
-      "description": "Article URL: https://science.nasa.gov/mission/roman-space-telescope/ Comments URL: https://news.ycombinator.com/item?id=49490870 Points: 29 # Comments: 5",
+      "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
+      "description": "Article URL: https://komoroske.com/slime-mold/ Comments URL: https://news.ycombinator.com/item?id=49499891 Points: 23 # Comments: 9",
       "source": "Hacker News",
-      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
+      "url": "https://komoroske.com/slime-mold/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Quantifying Colour",
-      "description": "Article URL: https://ekunazanu.foo/lab/quantifying-colour/ Comments URL: https://news.ycombinator.com/item?id=49490832 Points: 11 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://ekunazanu.foo/lab/quantifying-colour/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Parsing the Infamous Japanese Postal CSV",
-      "description": "Article URL: https://www.dampfkraft.com/posuto.html Comments URL: https://news.ycombinator.com/item?id=49490826 Points: 19 # Comments: 1",
-      "source": "Hacker News",
-      "url": "https://www.dampfkraft.com/posuto.html",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
-      "description": "Article URL: https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e Comments URL: https://news.ycombinator.com/item?id=49490702 Points: 49 # Comments: 14",
-      "source": "Hacker News",
-      "url": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "The Theragun Sense makes everyday recovery surprisingly easy",
-      "description": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always been somewhat skeptica…",
+      "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
+      "url": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
       "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Haiku R1/beta6 has been released",
+      "description": "Article URL: https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6 Comments URL: https://news.ycombinator.com/item?id=49499867 Points: 75 # Comments: 13",
+      "source": "Hacker News",
+      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Omarchy: Any User Process Can Escalate to Root",
+      "description": "Article URL: https://0xcc.io/posts/omarchy-root-creds/ Comments URL: https://news.ycombinator.com/item?id=49499854 Points: 145 # Comments: 115",
+      "source": "Hacker News",
+      "url": "https://0xcc.io/posts/omarchy-root-creds/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
+      "description": "Rajendra Dawadi leapt into action after receiving warnings over waters heading towards his school.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Man Utd pay tribute to 'proud Red' officer who died in A66 crash",
+      "description": "The sons of PC Matthew Blades led Manchester United out at Old Trafford for Sunday's Premier League game with Ipswich.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg8x0ex8gno?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "British woman killed in stabbing at German railway station",
+      "description": "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Canada claps back at Trump's efforts to rename Lake Ontario as 'Lake America'",
+      "description": "Ontario Premier Doug Ford has unveiled a giant billboard reading: \"Lake Ontario — Now and Always.\" But tech giant Google has said it is renaming the lake for U.S. users, as President Trump demanded.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/30/nx-s1-5949254/lake-ontario-america-doug-ford-trump-sign-google",
+      "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Cleverly quits shadow cabinet to run for London mayor",
-      "description": "The capital is not set to vote on a new mayor until 2028.",
+      "title": "PC Harper's killers to stay in jail as PM announces changes to early release scheme",
+      "description": "Andy Burnham tells BBC Breakfast anyone convicted of manslaughter will be excluded from the early release scheme in the Sentencing Act.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/crr4wd81pdpo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
+      "timeAgo": "8h ago"
+    },
+    {
+      "title": "Exclusive: Meet the inaugural winner of Fat Marmot Week",
+      "description": "Dawn was crowned fattest marmot by popular vote.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/30/nx-s1-5945683/exclusive-meet-the-inaugural-winner-of-fat-marmot-week",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "Trump threatens to report journalist Kristen Welker to broadcast regulator",
+      "description": "The Federal Communications Commission under Trump has tried to target news outlets for spreading 'fake' news.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/30/trump-threatens-to-report-journalist-kristen-welker-to-broadcast-regulator?traffic_source=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Football fans pay tribute to crash death officers at Middlesbrough match",
-      "description": "PC Matthew Blades and PC Tom Clough died in a head-on collision on the A66 near Middlesbrough.",
+      "title": "Zambia opposition leader Brian Mundubile charged with treason",
+      "description": "Zambian opposition leader Brian Mundubile and his running mate, Makebi Zulu, have been charged with treason.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/zambia-opposition-leader-brian-mundubile-charged-with-treason?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Death toll nears 800 after Himalayan glacier collapse",
+      "description": "Specialised search-and-rescue teams join recovery operations in Nepal and China.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/30/death-toll-nears-800-after-himalayan-glacier-collapse?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Google Maps renames Lake Ontario after Trump’s decree on ‘Lake America’",
+      "description": "Tech giant says name to remain Lake Ontario for Canadian users, change reflects decision by US government agency.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/30/google-maps-renames-lake-ontario-after-trumps-decree-on-lake-america?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Iceland votes against restarting EU membership talks",
+      "description": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y5727d02xo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
+      "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-      "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+      "title": "Canada installs large Lake Ontario sign in latest jab at US",
+      "description": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Christian festival 'devastated' as man dies after sign falls",
-      "description": "Police say at least six other people were also injured in the incident at the Big Church Festival.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
+      "url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
-      "description": "The deadly strike comes amid 72 hours of near constant drone strikes across Ukraine, severely disrupting daily life.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Photos: See the aftermath of deadly flash floods in Nepal",
-      "description": "Nepal officials say the death toll has continues to rise in Wednesday's floods that washed away communities in Nepal and Tibet, which is held by China. About 2,500 people are missing in both areas.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/29/nx-s1-5948209/photos-see-the-aftermath-of-deadly-flash-floods-in-nepal",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Russian strike on a munitions depot triggers deadly blasts near Kyiv",
-      "description": "Russian strike on an arms depot near Kyiv sparked fires and explosions, killing at least 38 people and wounding dozens.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-russia-strikes-arms-depot-kyiv-fm?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-      "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "RSS chief’s visit to US denounced as ‘goodwill tour’ for Hindu nationalism",
-      "description": "Activists say Hindu nationalists have sought to mask far-right politics through broad appeals to the Indian diaspora.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/29/rss-chiefs-visit-to-us-denounced-as-goodwill-tour-for-hindu-nationalism?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Israeli attacks across Gaza kill two people, hit hospital supply warehouse",
-      "description": "Gaza’s Health Ministry reports rising casualties amid escalated Israeli attacks, with victims trapped under rubble.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Man United vs Ipswich Town: Premier League – preview, team news, prediction",
-      "description": "United put in a sorry display as they lost 2-0 to Hull last weekend, while newly promoted Ipswich beat Sunderland 2-1.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/29/man-united-vs-ipswich-town-premier-league-preview-team-news-prediction?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-      "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "13h ago"
-    },
-    {
-      "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
-      "description": "“We are reluctant to pay a financial adviser 2% of assets — roughly $160,000 per year.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
+      "title": "Trump criticizes NBC over election comment as Treasury denies some NYT, WSJ and Bloomberg reporters G20 credentials",
+      "description": "Trump's attack on NBC comes after the Treasury barred journalists from The New York Times, The Wall Street Journal and Bloomberg from attending the G20.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/30/trump-nbc-election-comment-treasury-g20-reporter-access.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
-    },
-    {
-      "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
-      "description": "“These shares are the only assets in her estate without designated beneficiaries.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
     },
     {
       "title": "‘I feel shoehorned’: My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?",
@@ -176,42 +168,50 @@
       "timeAgo": "1h ago"
     },
     {
-      "title": "Why would someone lock up money by rolling it into a 401(k)?",
-      "description": "When done right, rollovers can be a great tool.",
+      "title": "He beat Big Tobacco. Will the same playbook work against Meta and social media?",
+      "description": "Mike Moore beat Big Tobacco. Will the same playbook work against Meta and social media?",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/30/mike-moore-ag-social-media-settlement-big-tobacco.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
+      "description": "“These shares are the only assets in her estate without designated beneficiaries.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-would-someone-lock-up-money-by-rolling-it-into-a-401-k-2c742e90?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?",
+      "description": "“I specifically rejected Contractor A because of his reputation.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend.",
+      "description": "“I’m curious what would happen if the account owner were to die suddenly at the same time as the 98% beneficiary.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/does-a-2-beneficiary-inherit-100-if-the-98-beneficiary-dies-in-a-car-accident-asking-for-a-friend-67aacc06?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "4h ago"
     },
     {
-      "title": "K, C or E? Why economists can’t agree on the shape of today’s economy",
-      "description": "Economists have long viewed the post-pandemic economy as \"K\"-shaped. That consensus has now evaporated.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/29/k-shaped-economy-c-shaped-e-shape.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
-      "description": "With data center concerns becoming a major election issue and Meta reaching a landmark settlement in a social media case, the tech backlash is gaining steam.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "5h ago"
-    },
-    {
-      "title": "Underdog promo code and prediction markets review: Use code CBS for a 50% Deposit Match and More",
-      "description": "Learn about the Underdog Prediction Picks product within the Underdog app and use Underdog promo code CBS for a 50% deposit match and more, as of August 29.",
+      "title": "Fantasy football rankings 2026: Top breakouts per model that nailed Tetairoa McMillan's huge season",
+      "description": "SportsLine simulated the NFL season 10,000 times and revealed its 2026 Fantasy football breakouts for 2026 Fantasy football draft prep",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/prediction/news/underdog-promo-code/",
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-top-breakouts-per-model-that-nailed-tetairoa-mcmillans-huge-season/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "USC vs. San Jose State prediction, odds, time: 2026 Week 0 college football picks by proven model",
-      "description": "The SportsLine Projection Model has revealed its best bets for San Jose State Spartans vs. USC Trojans",
+      "title": "NFL preseason overreactions: Shedeur Sanders will start by Week 4, Ravens boast AFC's best defense",
+      "description": "From Cleveland's volatile quarterback situation to breakout rookies and an improved Chiefs backfield, here is what to believe after the preseason",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/usc-san-jose-state-prediction-odds-time-2026-week-0-college-football-picks-best-bets/",
+      "url": "https://www.cbssports.com/nfl/news/nfl-preseason-overreactions-shedeur-sanders-ravens/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
@@ -224,10 +224,10 @@
       "timeAgo": "just now"
     },
     {
-      "title": "AEW All In 2026: Complete card and matches, live stream, where to watch and start time for Sunday",
-      "description": "Complete viewing information for AEW All In at London's Wembley Stadium",
+      "title": "Kyle McCord trade grades: Dolphins acquire QB depth from familiar face in Green Bay",
+      "description": "Miami shipped off a 2028 sixth-round pick in exchange for McCord",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/general/news/aew-all-in-2026-card-start-time-matches-preview-where-to-watch-live-will-ospreay-kenny-omega/",
+      "url": "https://www.cbssports.com/nfl/news/kyle-mccord-trade-grades-dolphins-packers/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
