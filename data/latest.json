@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-01T17:23:11.095468+00:00",
-  "edition": "#209",
+  "date": "2026-09-02T17:15:24.724284+00:00",
+  "edition": "#210",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,228 +8,228 @@
   },
   "stories": [
     {
-      "title": "Quill (YC W20) Is Hiring a Fullstack SWE",
-      "description": "Comments URL: https://news.ycombinator.com/item?id=49524704 Points: 0 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://news.ycombinator.com/item?id=49524704",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
-      "description": "OpenAI said that the integration provides read-only access to health records for clinicians.",
+      "title": "X shifts US creator payouts from Stripe to X Money",
+      "description": "X says U.S. creator payouts will now be handled through its X Money payments service, a change that appears to replace the previous Stripe-powered payout system.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "url": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Waymo goes on offense ahead of Tesla’s Cybercab launch",
-      "description": "Waymo argued that fully autonomous vehicles aren't possible without using a mix of sensors and warned that pure end-to-end AI systems aren't safe enough.",
+      "title": "U.S. government sides with OpenAI on issue of training LLMs on copyrighted material",
+      "description": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" the brief reads.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/",
+      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
-      "description": "I built slotstream, a way to run Qwen3.8-Flash-Next 4-bit on a low-memory mac starting from 16GB, a 125B parameter model that would need 100GB+ memory/RAM, thanks to expert-offloading/ssd-streaming. Easy to install/upda…",
-      "source": "Hacker News",
-      "url": "https://github.com/carloslfu/slotstream",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Movie Scene Map – 13,312 films, series, games, anime and manga",
-      "description": "Article URL: https://moviescenemap.com/ Comments URL: https://news.ycombinator.com/item?id=49524320 Points: 4 # Comments: 3",
-      "source": "Hacker News",
-      "url": "https://moviescenemap.com/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-      "description": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
+      "title": "Enhanced geothermal notches another win as Google buys 400 MW from Fervo",
+      "description": "Fervo's deal with Google could expand to 1 gigawatt of geothermal power, enough to supply a very large AI data center in Utah.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+      "url": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Keir Starmer announces he is standing down as MP",
-      "description": "The move will trigger a by-election to replace the former prime minister in his London constituency.",
+      "title": "How to debloat your Xiaomi 15 Ultra without root access",
+      "description": "Article URL: https://trackerninja.codeberg.page/post/how-to-debloat-your-xiaomi-15-ultra-without-rooting-and-connecting-it-to-the-computer/ Comments URL: https://news.ycombinator.com/item?id=49538745 Points: 4 # Comment…",
+      "source": "Hacker News",
+      "url": "https://trackerninja.codeberg.page/post/how-to-debloat-your-xiaomi-15-ultra-without-rooting-and-connecting-it-to-the-computer/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "US court rules Google will not have to sell ad exchange after losing antitrust case",
+      "description": "The DOJ proved to the court that Google acted illegally, but it won't get the big win it wanted.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "The race to engineer new knobs for the human brain",
+      "description": "Article URL: https://www.neuroai.science/p/the-race-to-engineer-new-knobs-for Comments URL: https://news.ycombinator.com/item?id=49538633 Points: 4 # Comments: 0",
+      "source": "Hacker News",
+      "url": "https://www.neuroai.science/p/the-race-to-engineer-new-knobs-for",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Woman charged with juror intimidation in Lindsay Clancy trial",
+      "description": "Dawn Light is accused of taking photos of jurors outside the Plymouth courthouse, a practice prohibited by the court.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Briton rescued in Nepal after deadly floods, army spokesperson says",
-      "description": "More than 3,900 people remain missing after floodwaters surged across the Nepal-Tibet border last week.",
+      "title": "Burnham pressed on economy at first PMQs as UK borrowing costs rise",
+      "description": "Burnham said he had already cut taxes, including VAT on energy bills and hospitality business rates.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3eq499d0lgo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cn9wv7pene2o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Germany says Russia behind Leipzig airport drone attack",
-      "description": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
+      "title": "'Nothing but mud and silt' - the village swept away by deadly floods in Nepal",
+      "description": "BBC South Asia correspondent Azadeh Moshiri spoke to a local, who is still waiting for his his wife's body to be retrieved, as rescue efforts continue.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/videos/cn0j4k45z32o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
-      "description": "Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Beloved writer and environmentalist Wendell Berry has died at age 92",
-      "description": "Wendell Berry has died at age 92 He was a beloved American poet, novelist, essayist, and farmer.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/01/1139228585/wendell-berry-obituary",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "SCOTUS allows Trump's ballroom project to continue. And, the Army secretary resigns",
-      "description": "The Supreme Court has ruled that President Trump's ballroom project may continue. And, Army Secretary Dan Driscoll resigns after 18 months on the job.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/01/g-s1-141357/up-first-newsletter-trump-white-house-ballroom-dan-driscoll-g20-iran-usps-mail-in-voting",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "5h ago"
-    },
-    {
-      "title": "China’s Xi makes first visit to Egypt in a decade, amid regional turmoil",
-      "description": "Chinese President Xi visits Egypt to deepen economic ties and align strategies amid Middle East crises.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/1/chinas-xi-makes-first-visit-to-egypt-in-a-decade-amid-regional-turmoil?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Ousted UK Prime Minister Keir Starmer to quit domestic politics",
-      "description": "Departed Labour Party leader now plans to focus on international affairs.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/1/ousted-uk-prime-minister-keir-starmer-to-quit-domestic-politics?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "US launches new strikes against Iran as war escalates",
-      "description": "US says it is attacking Revolutionary Guards targets following 'attempted attacks' on ships in Strait of Hormuz.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/1/us-military-says-launching-new-attacks-on-iran?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Destroyed desalination plant worsens Gaza’s drinking water crisis",
-      "description": "After a newly built desalination plant was destroyed, displaced families in northern Gaza struggle to find clean water.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/1/destroyed-desalination-plant-worsens-gazas-drinking-water-crisis?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC",
-      "description": "Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
-      "description": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave.",
+      "title": "PMQs shows the challenge Burnham has in delivering new style of politics",
+      "description": "Burnham's exchanges with Kemi Badenoch slipped into familiar territory of trading barbs, writes Alex Forsyth.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Bessent touts bond market as 10-year Treasury yield spikes",
-      "description": "Treasury Secretary Scott Bessent downplayed short-term bond moves even as he touted the U.S. market, saying, \"what happens over a month doesn't matter.\"",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/01/bessent-trump-bond-yields-g20.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Canada's Carney slaps Trump admin for 'doing memes ... throwing shade'",
-      "description": "Canadian Prime Minister Mark Carney said \"It's beneath their office' when asked about Trump Cabinet secretaries insulting his nation's military.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/01/canada-carney-trump-trade-ontario.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Global oil prices surge above $94  a barrel after the U.S. strikes Iranian targets",
-      "description": "Oil prices on Tuesday extended their increase from morning action after the U.S. military said it struck Iranian targets in the Strait of Hormuz in response to Tehran’s overnight attacks on ships transiting the vital wa…",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/global-oil-prices-extend-move-over-90-after-report-of-two-tankers-struck-in-hormuz-0effd708?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom",
-      "description": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/01/us-strikes-iran-after-new-hormuz-strait-shipping-attacks-centcom.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "AI token prices are hitting new record lows",
-      "description": "A closely followed measure of artificial intelligence token prices touched fresh lows.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/01/ai-token-prices-lows.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "There’s a disconnect between AI valuations and revenue-growth forecasts, observes this investor",
-      "description": "Well-known investor, academic and economist Paul Kedrosky is skeptical that this AI bubble differs markedly from that which met other new and revolutionary technologies.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/theres-a-disconnect-between-ai-valuations-and-revenue-growth-forecasts-observes-this-investor-1350d9f7?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
+      "url": "https://www.bbc.co.uk/news/articles/c0m3wpk7rdjo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "SportsLine Newsletter Tuesday, September 1, 2026",
-      "description": "Today's best bets + Parlay of the Day + Mets-Rays + Alabama outlook",
+      "title": "New immigration court tactic leads to huge lines and chaos in Miami",
+      "description": "Chaos unfolds at the Miami immigration court after judges are assigned mega master calendars, hearings where judges see more than 100 immigrants at once.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/02/nx-s1-5951523/immigration-court-miami-backlog-mega-master",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Understanding the tech giants' oversized influence in American schools",
+      "description": "Big tech companies like Apple and Microsoft use devices, training and conferences for teachers and students to embed in schools. The New York Times' Natasha Singer discusses the impact in Coding Kids.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/02/nx-s1-5953878/understanding-the-tech-giants-oversized-influence-in-american-schools",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Brazilian activist demands Tunisia release Sumud Flotilla organisers",
+      "description": "Activists say four organisers of flotilla that sought to break Gaza blockade have been held in Tunisia since March.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/2/brazilian-activist-demands-tunisia-release-sumud-flotilla-organisers?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "US oil giant Chevron to expand Venezuela operations",
+      "description": "Chevron, the only US oil firm with major presence in Venezuela, said it has got extra acreage and will double output.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/9/2/us-oil-giant-chevron-to-expand-venezuela-operations?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Uber lays off 3,300 employees in largest cuts since the pandemic",
+      "description": "The layoffs aim to streamline management layers and simplify team structures, says Uber’s CEO Dara Khosrowshahi.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/9/2/uber-lays-off-3300-employees-in-largest-cuts-since-the-pandemic?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Deadly bus crash in Egypt’s Sinai kills 22, injures 28",
+      "description": "A deadly bus crash in Egypt’s South Sinai killed 22 people and injured 28",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/deadly-bus-crash-in-egypts-sinai-kills-22-injures-28?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+      "description": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
+      "description": "Iranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in the Middle East.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Uber to cut 10% of workforce in bid to move 'simpler and faster'",
+      "description": "Uber is cutting small teams by nearly half and allowing about 1% of its workforce to continue working remotely.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/02/uber-to-cut-10percent-of-workforce-in-bid-to-move-simpler-and-faster.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "‘I feel tricked’: My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?",
+      "description": "“I specifically rejected Contractor A because of his reputation.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Here’s how much Americans rely on Social Security — at all income levels",
+      "description": "Social Security is really important for older Americans. It needs to be tweaked, not restructured.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-how-much-americans-rely-on-social-security-at-all-income-levels-3a767119?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "We’re in our 60s. My wife and I have $345,000 in annual pensions and $1 million in 403(b)s. Is it too late for Roth conversions?",
+      "description": "“Roth assets would provide our children with tax-free distributions.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/were-in-our-60s-my-wife-and-i-have-345-000-in-annual-pensions-and-1-million-in-403-b-s-is-it-too-late-for-roth-conversions-5df35d42?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "‘I currently give him $1,000 a month’: My grandson has severe mental illness. How do I protect him after I’m gone?",
+      "description": "“I’m desperately trying to plan ahead while I’m still able.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-desperately-trying-to-plan-ahead-im-leaving-everything-to-my-grandson-who-has-severe-mental-illness-how-can-i-protect-him-d8df2646?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Energy Secretary Chris Wright tells CNBC more than 17 million barrels of oil transited Hormuz on Monday",
+      "description": "The Energy secretary spoke to CNBC's Brian Sullivan in Venezuela on Wednesday, after President Donald Trump announced a massive oil deal with Caracas.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/02/energy-secretary-chris-wright-tells-cnbc-that-more-than-17-million-barrels-of-oil-transited-hormuz-on-monday.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Ranked teams may not face much resistance in Week 1, but there's still plenty to learn",
+      "description": "With 22 of the top 25 teams entering Week 1 as double-digit favorites, here's what we can learn about the contenders -- even in blowout wins",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/",
+      "url": "https://www.cbssports.com/college-football/news/week-1-college-football-contender-checklist/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Grading every NFL team's 2026 preseason: Rams ace the summer, Falcons fail amid quarterback uncertainty",
-      "description": "From Fernando Mendoza's uneven debut with the Raiders to Aaron Donald's return to the Rams, here are the biggest developments and final grades from the 2026 preseason",
+      "title": "Week 1 NFL odds, lines, best bets, predictions: Computer model backs Eagles and Jaguars",
+      "description": "SportsLine's advanced model has simulated every game 10,000 times and locked in its NFL best bets today",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-preseason-grades-falcons-rams/",
+      "url": "https://www.cbssports.com/betting/news/week-1-nfl-2026-odds-lines-spreads-predictions-picks/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "2027 NFL Draft WR rankings: Former FCS product rises as Jeremiah Smith holds top honors",
-      "description": "Ranking one of the most-hyped NFL Draft receiver classes in recent memory",
+      "title": "Klint Kubiak names Kirk Cousins starter over No. 1 pick Fernando Mendoza",
+      "description": "The Raiders break a six-year streak of past QBs drafted No. 1 overall starting in Week 1",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/draft/news/2027-nfl-draft-wr-rankings-jeremiah-smith/",
+      "url": "https://www.cbssports.com/nfl/news/klint-kubiak-names-kirk-cousins-starter-over-no-1-pick-fernando-mendoza/",
       "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Padres call up top prospect Ethan Salas for September stretch run as wild-card race heats up",
-      "description": "At just 20, Salas would be the youngest catcher in MLB since Pudge Rodriguez",
+      "title": "Fantasy football rankings 2026: Sleepers to target by model that nailed De'Von Achane's big season",
+      "description": "SportsLine simulated the NFL season 10,000 times and revealed its 2026 Fantasy football sleepers for Fantasy football 2026 draft prep",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/mlb/news/padres-ethan-salas-wild-card-standings/",
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-to-target-by-model-that-nailed-devon-achanes-big-season/",
       "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     }
   ]
 }
