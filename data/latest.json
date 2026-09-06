@@ -1,155 +1,179 @@
 {
-  "date": "2026-09-05T16:11:28.953523+00:00",
-  "edition": "#213",
-  "totalStories": 28,
+  "date": "2026-09-06T16:23:39.192564+00:00",
+  "edition": "#214",
+  "totalStories": 27,
   "podcast": {
     "show": "The Daily",
     "description": "The New York Times' daily news podcast — today's top story in 20 minutes."
   },
   "stories": [
     {
-      "title": "Rebuilding a 1995 GPS Time Server so I don't get Telstra'd",
-      "description": "Article URL: https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/ Comments URL: https://news.ycombinator.com/item?id=49577422 Points: 5 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
-      "description": "The US government is investigating whether the Cybercab meets vehicle safety standards.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Oura is going public, but these smart ring companies are coming for its crown",
-      "description": "While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it.",
+      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
+      "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "How the Planet-Altering Disaster of \"Forever Chemicals\" Was Kept Secret",
-      "description": "Article URL: https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen Comments URL: https://news.ycombinator.com/item?id=49576986 Points: 71 # Comments: 9",
-      "source": "Hacker News",
-      "url": "https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "There's No Limit to How Bad Code Can Get",
-      "description": "Article URL: https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/ Comments URL: https://news.ycombinator.com/item?id=49576704 Points: 75 # Comments: 51",
-      "source": "Hacker News",
-      "url": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Meet the Ig Nobel Prize Winners",
-      "description": "Article URL: https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/ Comments URL: https://news.ycombinator.com/item?id=49576611 Points: 38 # Comments: 5",
-      "source": "Hacker News",
-      "url": "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "US hits three Iranian oil tankers after saying its warships were targeted",
-      "description": "US Central Command says the attacks came after Iran launched ballistic missiles at two of its Navy warships.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
-      "description": "The government says it condemns \"the behaviour in Dover\" and the hours-long disruption it caused.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
+      "title": "Cultivating Trust",
+      "description": "Article URL: https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/ Comments URL: https://news.ycombinator.com/item?id=49587833 Points: 3 # Comments: 1",
+      "source": "Hacker News",
+      "url": "https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Alberta (Canada) slaps punitive tax on solar panels",
+      "description": "Article URL: https://albertapolitics.ca/2026/09/ucp-slaps-punitive-tax-on-solar-panels-opening-new-front-in-its-war-on-renewable-energy/ Comments URL: https://news.ycombinator.com/item?id=49587285 Points: 23 # Comments:…",
+      "source": "Hacker News",
+      "url": "https://albertapolitics.ca/2026/09/ucp-slaps-punitive-tax-on-solar-panels-opening-new-front-in-its-war-on-renewable-energy/",
+      "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover",
-      "description": "The Reform leader also told the BBC's Laura Kuenssberg that his family are \"begging\" him to leave his job.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0qxgn7q1vdo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
+      "title": "I Feel about AI",
+      "description": "Article URL: https://beza1e1.tuxen.de/ai_feelings.html Comments URL: https://news.ycombinator.com/item?id=49587128 Points: 107 # Comments: 91",
+      "source": "Hacker News",
+      "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+      "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Chris Mason: Reform UK winded by donations row as insiders call for shift in approach",
-      "description": "Nigel Farage's admirers in the party are calling for a stronger operation as the party aims for power.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cje87w9j342o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted",
-      "description": "The strikes come a day after President Trump appeared to downplay the war with Iran as \"small potatoes\" during an exchange with reporters in the Oval Office.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
-      "category": "🌎 TOP NEWS",
+      "title": "Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS",
+      "description": "Article URL: https://github.com/scastiel/kado Comments URL: https://news.ycombinator.com/item?id=49586902 Points: 29 # Comments: 8",
+      "source": "Hacker News",
+      "url": "https://github.com/scastiel/kado",
+      "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Opinion: A sculpture in perpetual motion, removed",
-      "description": "\"Blue,\" a statue that's been on the grounds of the Kennedy Center in Washington, D.C. for 7 years has been dismantled and removed.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/05/nx-s1-5948663/opinion-a-sculpture-in-perpetual-motion-removed",
-      "category": "🌎 TOP NEWS",
+      "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
+      "description": "\"We achieved within a few years what had taken the European space industry decades before.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
+      "category": "🤖 TECH & AI",
       "timeAgo": "4h ago"
     },
     {
-      "title": "US says it hit three Iranian oil tankers after attacks on warships",
-      "description": "US Central Command says its forces struck three Iranian crude oil carriers on Saturday.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Israeli campaign of West Bank destruction moves on to region’s food basket",
-      "description": "Palestinian farmland razed as violent Israeli settler expansion spreads into Area A of the occupied West Bank.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/5/israeli-campaign-of-west-bank-destruction-moves-on-to-regions-food-basket?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Rescuers pull Chinese worker, Nepali woman from flood wreckage alive",
-      "description": "Rescues fuel hope more could be found alive as Nepal's flood death toll passes 1,331, with people missing on both sides.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/5/rescuers-pull-chinese-worker-nepali-woman-from-flood-wreckage-alive?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "At least two dead in blast at Bolivia military barracks",
-      "description": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
+      "title": "German far-right set for big win in eastern state - exit polls",
+      "description": "Germany's AfD has hailed a \"historic result\" and is projected to win 44.5% of the vote, far ahead of the conservative CDU on 18.5%.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
+      "description": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
+      "description": "Steve Witkoff tells reporters the US team feels \"encouraged\" by a \"substantive\" and important discussion.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+      "description": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "5h ago"
+    },
+    {
+      "title": "American Muslims are giving Texas barbecue a halal makeover",
+      "description": "Even as anti-Muslim rhetoric rises in Texas, Muslim pitmasters are winning over diners and reshaping one of the state's most iconic culinary traditions.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/06/nx-s1-5927184/american-muslims-are-giving-texas-barbecue-a-halal-makeover",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "6h ago"
+    },
+    {
+      "title": "U.S. envoys Witkoff and Kushner land for talks in Kyiv after meeting Putin in Moscow",
+      "description": "U.S. envoys Steve Witkoff and Jared Kushner are set to arrive in Kyiv on Sunday in their first visit to the Ukrainian capital as part of a renewed push for peace in Russia's full-scale invasion of Ukraine.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "6h ago"
+    },
+    {
+      "title": "Niger military accuses France of orchestrating failed mutiny: What to know",
+      "description": "French officials deny involvement, but tensions between the two countries remain high.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/6/niger-military-accuses-france-of-orchestrating-failed-mutiny-what-to-know?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "US envoys arrive in Moscow ahead of Ukraine talks",
-      "description": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+      "title": "Dead fish fill vanishing river as drought grips Indonesia",
+      "description": "A prolonged dry spell has caused millions of fish to die in Indonesia’s Silugonggo River in Central Java.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/dead-fish-fill-vanishing-river-as-drought-grips-indonesia?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "US envoys hold ‘substantive’ talks with Zelenskyy in first visit to Kyiv",
+      "description": "Meeting comes a day after US envoys Jared Kushner and Steve Witkoff met Russian President Vladimir Putin in Moscow.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/6/us-envoys-hold-substantive-talks-with-zelenskyy-in-first-visit-to-kyiv?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Khalid Abdalla: ‘It’s important for me to be in service of justice’",
+      "description": "The actor discusses identity, speaking out against Israel’s genocide in Gaza and the experiences that shaped him.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/9/6/khalid-abdalla-its-important-for-me-to-be-in-service-of-justice?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Multipolarity gives middle powers more choices, but fewer guarantees",
-      "description": "BRICS, SCO and other organisations can offer relief from great power pressure but do not provide collective defence.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/9/5/multipolarity-gives-middle-powers-more-choices-but-fewer-guarantees?traffic_source=rss",
+      "title": "Dozens feared trapped in collapsed building in Delhi",
+      "description": "As many as 50 people are thought to have been inside the five-storey hostel when it came down.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "U.S. Energy Secretary Wright says Iran nuclear deal may never happen",
+      "description": "Iran warned of faster, heavier retaliation against U.S. attacks while acknowledging the war’s mounting toll on its economy.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "SEC sues ISS as Trump administration ramps up scrutiny of proxy advisers",
+      "description": "The SEC sued Institutional Shareholder Services to enforce a subpoena as the Trump administration increases scrutiny of influential proxy advisers.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/06/sec-iss-proxy-adviser-subpoena.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "‘I’m leaving money on the table’: I’m 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
+      "description": "“I paid a significant amount into Social Security.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "Is the U.S. losing its safe-haven status? Why global central banks are pulling gold out of New York.",
+      "description": "What to know about safe havens and the U.S., as the Netherlands’ central bank follows France in pulling gold out of New York.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/is-the-u-s-losing-its-safe-haven-status-why-global-central-banks-are-pulling-gold-out-of-new-york-3e24d510?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "3h ago"
     },
     {
       "title": "We’re in our 60s. We earn $345,000 and have $1 million in 403(b)s. Is it too late for Roth conversions?",
@@ -157,77 +181,45 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/were-in-our-60s-my-wife-and-i-have-345-000-in-annual-pensions-and-1-million-in-403-b-s-is-it-too-late-for-roth-conversions-5df35d42?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "Why does almost nobody want to befriend older people like me — except scammers?",
-      "description": "“I’d rather leave my estate to people who spent time with me because they genuinely valued my company.”",
+      "title": "‘Poverty doesn’t have to be my reality’: I thought I’d have to rely on Social Security. Then I taught myself how to invest.",
+      "description": "“It always baffled me how some people managed to retire with significant wealth.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "timeAgo": "4h ago"
     },
     {
-      "title": "U.S. attacks 3 Iranian oil tankers after missiles target Navy warships",
-      "description": "Three Iranian crude oil carriers were hit by U.S. forces on Saturday near Iran's key oil export hub, Kharg Island, in the Gulf, U.S. Central Command reported.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/05/us-iran-oil-tankers-navy-missile-attack.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "I offered to buy my friend a birthday drink. She ordered $180 worth of food and expects me to pay. Should I Venmo her for half?",
-      "description": "“My offer was cocktails.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-offered-to-buy-my-friend-a-birthday-drink-she-ordered-180-worth-of-food-and-expects-me-to-pay-should-i-venmo-her-for-half-0efc941c?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "I’m 68. Should I spend half my 401(k) to buy a home with a mortgage?",
-      "description": "There’s a long checklist when deciding where to live, especially in your retirement years.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-68-should-i-spend-half-my-401-k-to-buy-a-home-with-a-mortgage-285e5ada?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Trump’s state capitalism comes to the oil industry with his unprecedented Venezuela deal",
-      "description": "The deal comes eight months after Washington ousted former President Nicolás Maduro in a military raid.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/05/trump-venezuela-oil-north-america-blue-energy-partners-nabep.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Use DraftKings promo code to get $200 in bonus bets by targeting LSU vs. Clemson, college football on Saturday",
-      "description": "DraftKings offers $200 in bonus bets after your first $5 wager for Clemson vs. LSU, college football betting on Saturday",
+      "title": "Ole Miss vs. Louisville prediction, odds, time: 2026 Week 1 college football Sunday picks by proven model",
+      "description": "The SportsLine Projection Model has revealed its best bets for Louisville Cardinals vs. Ole Miss Rebels in Nashville on Sunday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-bets-lsu-clemson-college-football-on-saturday/",
+      "url": "https://www.cbssports.com/betting/news/ole-miss-louisville-prediction-odds-time-2026-week-1-college-football-sunday-picks-bets/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Borgata Sportsbook promo code 2026: Bet $20, get $100 instantly in bonus bets",
-      "description": "Borgata Sportsbook promo code for new users: CBSB100 to bet $20, get $100 instantly in bonus bets",
+      "title": "Fantasy football rankings 2026: Sleepers to target from model that predicted De'Von Achane's big season",
+      "description": "SportsLine simulated the NFL season 10,000 times and revealed its 2026 Fantasy football sleepers for Fantasy football 2026 draft prep",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/borgata-promo-code/",
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-to-target-from-model-that-predicted-devon-achanes-big-season/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "LSU vs. Clemson prediction, picks, odds, spread: Lane Kiffin's Tigers era begins against Dabo Swinney",
-      "description": "Lane Kiffin makes his much-anticipated LSU debut against Clemson on Saturday night",
+      "title": "Notre Dame vs. Wisconsin prediction, odds, time: 2026 Week 1 college football picks by proven model",
+      "description": "The SportsLine Projection Model has revealed its best bets for Notre Dame Fighting Irish vs. Wisconsin Badgers on Sunday at Lambeau Field",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/lsu-clemson-prediction-picks-odds-spread-where-to-watch-live/",
+      "url": "https://www.cbssports.com/betting/news/notre-dame-wisconsin-prediction-odds-time-2026-week-1-college-football-sunday-picks/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Exclusive projections-based tiered rankings for 2026: Heath Cummings' Fantasy Football Running Back Tiers 3.0",
-      "description": "Every Fantasy-relevant RB ranked by tier, with projections, draft values and sleepers to target in your 2026 Fantasy Football league.",
+      "title": "NFL survivor pool picks, advice, best knockout strategy, Week 1, 2026: Fade the Dallas Cowboys",
+      "description": "SportsLine's advanced computer model just locked in its top Week 1 NFL survivor picks",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-running-back-projections-tiers-rankings/",
+      "url": "https://www.cbssports.com/betting/news/nfl-survivor-picks-knockout-pool-strategy-guide-advice-week-1-2026-fade-the-cowboys/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
