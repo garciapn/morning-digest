@@ -1,179 +1,171 @@
 {
-  "date": "2026-09-06T16:23:39.192564+00:00",
-  "edition": "#214",
-  "totalStories": 27,
+  "date": "2026-09-07T18:20:08.802600+00:00",
+  "edition": "#215",
+  "totalStories": 28,
   "podcast": {
     "show": "The Daily",
     "description": "The New York Times' daily news podcast — today's top story in 20 minutes."
   },
   "stories": [
     {
-      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
+      "description": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+      "url": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Cultivating Trust",
-      "description": "Article URL: https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/ Comments URL: https://news.ycombinator.com/item?id=49587833 Points: 3 # Comments: 1",
+      "title": "No constitutional right to clean water, federal court finds",
+      "description": "Article URL: https://www.usatoday.com/story/news/nation/2026/09/07/court-constitution-right-clean-water/91649488007/ Comments URL: https://news.ycombinator.com/item?id=49600997 Points: 5 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/",
+      "url": "https://www.usatoday.com/story/news/nation/2026/09/07/court-constitution-right-clean-water/91649488007/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Alberta (Canada) slaps punitive tax on solar panels",
-      "description": "Article URL: https://albertapolitics.ca/2026/09/ucp-slaps-punitive-tax-on-solar-panels-opening-new-front-in-its-war-on-renewable-energy/ Comments URL: https://news.ycombinator.com/item?id=49587285 Points: 23 # Comments:…",
+      "title": "PostgreSQL 19 Interactive Tour",
+      "description": "Article URL: https://victoriametrics.com/blog/postgres-19/index.html Comments URL: https://news.ycombinator.com/item?id=49600432 Points: 21 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://albertapolitics.ca/2026/09/ucp-slaps-punitive-tax-on-solar-panels-opening-new-front-in-its-war-on-renewable-energy/",
+      "url": "https://victoriametrics.com/blog/postgres-19/index.html",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "I Feel about AI",
-      "description": "Article URL: https://beza1e1.tuxen.de/ai_feelings.html Comments URL: https://news.ycombinator.com/item?id=49587128 Points: 107 # Comments: 91",
+      "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+      "description": "In case you're wondering why the limits behave so very different from last week. Also: this makes limit resets kind woth significantly less. Comments URL: https://news.ycombinator.com/item?id=49600233 Points: 77 # Comme…",
       "source": "Hacker News",
-      "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+      "url": "https://news.ycombinator.com/item?id=49600233",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS",
-      "description": "Article URL: https://github.com/scastiel/kado Comments URL: https://news.ycombinator.com/item?id=49586902 Points: 29 # Comments: 8",
-      "source": "Hacker News",
-      "url": "https://github.com/scastiel/kado",
+      "title": "What we expect from the upcoming Apple launch",
+      "description": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
-      "description": "\"We achieved within a few years what had taken the European space industry decades before.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "German far-right set for big win in eastern state - exit polls",
-      "description": "Germany's AfD has hailed a \"historic result\" and is projected to win 44.5% of the vote, far ahead of the conservative CDU on 18.5%.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
-      "description": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
-      "description": "Steve Witkoff tells reporters the US team feels \"encouraged\" by a \"substantive\" and important discussion.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
-      "description": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "5h ago"
-    },
-    {
-      "title": "American Muslims are giving Texas barbecue a halal makeover",
-      "description": "Even as anti-Muslim rhetoric rises in Texas, Muslim pitmasters are winning over diners and reshaping one of the state's most iconic culinary traditions.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/06/nx-s1-5927184/american-muslims-are-giving-texas-barbecue-a-halal-makeover",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "6h ago"
-    },
-    {
-      "title": "U.S. envoys Witkoff and Kushner land for talks in Kyiv after meeting Putin in Moscow",
-      "description": "U.S. envoys Steve Witkoff and Jared Kushner are set to arrive in Kyiv on Sunday in their first visit to the Ukrainian capital as part of a renewed push for peace in Russia's full-scale invasion of Ukraine.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "6h ago"
-    },
-    {
-      "title": "Niger military accuses France of orchestrating failed mutiny: What to know",
-      "description": "French officials deny involvement, but tensions between the two countries remain high.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/6/niger-military-accuses-france-of-orchestrating-failed-mutiny-what-to-know?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Dead fish fill vanishing river as drought grips Indonesia",
-      "description": "A prolonged dry spell has caused millions of fish to die in Indonesia’s Silugonggo River in Central Java.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/dead-fish-fill-vanishing-river-as-drought-grips-indonesia?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "US envoys hold ‘substantive’ talks with Zelenskyy in first visit to Kyiv",
-      "description": "Meeting comes a day after US envoys Jared Kushner and Steve Witkoff met Russian President Vladimir Putin in Moscow.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/6/us-envoys-hold-substantive-talks-with-zelenskyy-in-first-visit-to-kyiv?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Khalid Abdalla: ‘It’s important for me to be in service of justice’",
-      "description": "The actor discusses identity, speaking out against Israel’s genocide in Gaza and the experiences that shaped him.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/9/6/khalid-abdalla-its-important-for-me-to-be-in-service-of-justice?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Dozens feared trapped in collapsed building in Delhi",
-      "description": "As many as 50 people are thought to have been inside the five-storey hostel when it came down.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
       "timeAgo": "2h ago"
     },
     {
-      "title": "U.S. Energy Secretary Wright says Iran nuclear deal may never happen",
-      "description": "Iran warned of faster, heavier retaliation against U.S. attacks while acknowledging the war’s mounting toll on its economy.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html",
+      "title": "Bing Wallpaper showing Ad for Harry Potter and Fantastic beasts box set",
+      "description": "Article URL: https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set Comments URL: https://news.ycombinator.com/item?id=49599719 Points: 71 # Comm…",
+      "source": "Hacker News",
+      "url": "https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "King makes clear Harry and Meghan remain non-working royals",
+      "description": "The letter has been sent to Prince Harry's team, the government, military and Lord Lieutenants, Palace sources say.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c20lpevv7jlo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
+      "description": "The new leadership is trying to maintain both confidence and the promotion of economic animal spirits.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "What we know about anti-migrant protests and organiser Danny Thomas",
+      "description": "UK correspondent Daniel Sandford looks at the link between small boat protests in Dover and Portsmouth over the weekend.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cx2z4rxdnnpo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
+      "description": "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "As Nepal identifies those killed in the floods, questions grow over China's reporting",
+      "description": "One week after the deadly floods, very little is known about China's dead or missing. China's control over media and digital censorship is in stark contrast to open reporting in Nepal.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/07/nx-s1-5960357/nepal-floods-questions-over-chinas-reporting",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "5 dead after crash at Miami Airport. And, Germany's far-right wins state election",
+      "description": "A cargo plane crash at Miami International Airport has left five people dead and several others injured. And, Germany's far-right AfD party achieves an electoral victory in a key state election.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/07/g-s1-142210/up-first-newsletter-miami-plane-crash-ukraine-affirmative-for-germany",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "7h ago"
+    },
+    {
+      "title": "Israel’s plan to split the West Bank",
+      "description": "Israel's E1 plan risks splitting the West Bank in two.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/israels-plan-to-split-the-west-bank?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Thousands attend funeral of war criminal Ratko Mladic in Serbia",
+      "description": "Thousands attend funeral of war criminal Ratko Mladic in Serbia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/thousands-attend-funeral-of-war-criminal-ratko-mladic-in-serbia?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Board of Peace touts progress as Palestinians’ situation worsens",
+      "description": "Humanitarian official Athena Rayburn dissects the Israeli tactics making life ‘untenable’ for millions of Palestinians.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/9/7/board-of-peace-touts-progress-as-palestinians-situation-worsens?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Investigators begin work on why cargo plane overran Miami runway",
+      "description": "Five people died and five others were injured as the Amazon plane overshot the runway after landing at Miami International Airport.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Egyptian wrestlers keep vanishing abroad amid a sport in crisis",
+      "description": "Two wrestlers have become the latest to flee while abroad, drawing a wave of sympathy as well as legal threats.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/9/7/egypts-vanishing-wrestlers-and-a-sport-in-crisis?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
+      "description": "Mladić was jailed for genocide during the 1990s Bosnian war and the EU warned Serbia not to glorify the convicted war criminal.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "Why does almost nobody want to befriend older people like me — except scammers?",
+      "description": "“I’d rather leave my estate to people who spent time with me because they genuinely valued my company.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "SEC sues ISS as Trump administration ramps up scrutiny of proxy advisers",
-      "description": "The SEC sued Institutional Shareholder Services to enforce a subpoena as the Trump administration increases scrutiny of influential proxy advisers.",
+      "title": "Oil prices rise to 6-week high after Iran and U.S. trade blows, Saudi Aramco facilities reportedly hit",
+      "description": "Renewed attacks between the adversaries in the Iran war pushed oil prices up on Monday.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/06/sec-iss-proxy-adviser-subpoena.html",
+      "url": "https://www.cnbc.com/2026/09/07/oil-prices-rise-to-6-week-high-after-iran-and-us-trade-blows-saudi-aramco-facilities-reportedly-hit.html",
       "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "‘I’m leaving money on the table’: I’m 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
-      "description": "“I paid a significant amount into Social Security.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Is the U.S. losing its safe-haven status? Why global central banks are pulling gold out of New York.",
-      "description": "What to know about safe havens and the U.S., as the Netherlands’ central bank follows France in pulling gold out of New York.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/is-the-u-s-losing-its-safe-haven-status-why-global-central-banks-are-pulling-gold-out-of-new-york-3e24d510?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "3h ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "We’re in our 60s. We earn $345,000 and have $1 million in 403(b)s. Is it too late for Roth conversions?",
@@ -181,47 +173,63 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/were-in-our-60s-my-wife-and-i-have-345-000-in-annual-pensions-and-1-million-in-403-b-s-is-it-too-late-for-roth-conversions-5df35d42?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "3h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "‘Poverty doesn’t have to be my reality’: I thought I’d have to rely on Social Security. Then I taught myself how to invest.",
-      "description": "“It always baffled me how some people managed to retire with significant wealth.”",
+      "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?",
+      "description": "“We currently live in a relatively low-cost, lower-tax Northwest state.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "4h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Ole Miss vs. Louisville prediction, odds, time: 2026 Week 1 college football Sunday picks by proven model",
-      "description": "The SportsLine Projection Model has revealed its best bets for Louisville Cardinals vs. Ole Miss Rebels in Nashville on Sunday",
+      "title": "Chip stock investors beware — these charts could warn of further weakness ahead",
+      "description": "U.S. stock investors have reason to pay attention to the currency market for signs of how money may be flowing in and out of chip stocks.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/chip-stock-investors-beware-these-charts-could-warn-of-further-weakness-ahead-1bd890cc?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Greenland welcomes major funding boost from EU amid Trump’s annexation threats",
+      "description": "It comes shortly after Icelanders voted to reject restarting EU membership talks and as Trump renews his push to acquire Greenland on national security grounds.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/07/greenland-eu-trump-critical-minerals-arctic.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "5h ago"
+    },
+    {
+      "title": "NWSL Team of the Week: North Carolina Courage's Ashley Sanchez's record-setting reign of goals continues",
+      "description": "The Attacking Third crew picked their best XI from the past week's NWSL action",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/ole-miss-louisville-prediction-odds-time-2026-week-1-college-football-sunday-picks-bets/",
+      "url": "https://www.cbssports.com/soccer/news/nwsl-team-of-the-week-north-carolina-courage-ashley-sanchez/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Fantasy football rankings 2026: Sleepers to target from model that predicted De'Von Achane's big season",
-      "description": "SportsLine simulated the NFL season 10,000 times and revealed its 2026 Fantasy football sleepers for Fantasy football 2026 draft prep",
+      "title": "Fantasy football rankings 2026: Busts, riskiest picks by model that was all over McLaurin's tough year",
+      "description": "SportsLine simulated the new NFL season 10,000 times and identified Fantasy football busts 2026 and the riskiest Fantasy picks to fade during your Fantasy football draft prep",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-to-target-from-model-that-predicted-devon-achanes-big-season/",
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-busts-riskiest-picks-by-model-that-was-all-over-mclaurins-tough-year/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Notre Dame vs. Wisconsin prediction, odds, time: 2026 Week 1 college football picks by proven model",
-      "description": "The SportsLine Projection Model has revealed its best bets for Notre Dame Fighting Irish vs. Wisconsin Badgers on Sunday at Lambeau Field",
+      "title": "Bill Belichick mum on active UNC investigation, maintains atmosphere of compliance within program",
+      "description": "The Tar Heels are battling through off-the-field issues entering Week 2 of the season",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/notre-dame-wisconsin-prediction-odds-time-2026-week-1-college-football-sunday-picks/",
+      "url": "https://www.cbssports.com/college-football/news/bill-belichick-unc-investigation-compliance-michael-lombardi-steve-belichick/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "NFL survivor pool picks, advice, best knockout strategy, Week 1, 2026: Fade the Dallas Cowboys",
-      "description": "SportsLine's advanced computer model just locked in its top Week 1 NFL survivor picks",
+      "title": "2026 Week 1 NFL score predictions, game picks: Model releases exact projections from 10,000 simulations",
+      "description": "SportsLine's model has simulated every game 10,000 times and locked in its Week 1 NFL score predictions",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/nfl-survivor-picks-knockout-pool-strategy-guide-advice-week-1-2026-fade-the-cowboys/",
+      "url": "https://www.cbssports.com/betting/news/2026-week-1-nfl-score-predictions-picks-projections-best-bets/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     }
   ]
 }
