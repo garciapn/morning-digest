@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-07T18:20:08.802600+00:00",
-  "edition": "#215",
+  "date": "2026-09-08T17:22:07.550051+00:00",
+  "edition": "#216",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,228 +8,228 @@
   },
   "stories": [
     {
-      "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
-      "description": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
+      "title": "Making Teenagers Read Newspapers. A Nationwide Experiment in French High Schools",
+      "description": "Article URL: https://cepr.org/publications/dp21706 Comments URL: https://news.ycombinator.com/item?id=49613086 Points: 7 # Comments: 3",
+      "source": "Hacker News",
+      "url": "https://cepr.org/publications/dp21706",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "No constitutional right to clean water, federal court finds",
-      "description": "Article URL: https://www.usatoday.com/story/news/nation/2026/09/07/court-constitution-right-clean-water/91649488007/ Comments URL: https://news.ycombinator.com/item?id=49600997 Points: 5 # Comments: 0",
+      "title": "Show HN: LLM Attention Visualization",
+      "description": "Article URL: https://ishamf.dev/p/llm-attention-visualizer/ Comments URL: https://news.ycombinator.com/item?id=49613068 Points: 7 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://www.usatoday.com/story/news/nation/2026/09/07/court-constitution-right-clean-water/91649488007/",
+      "url": "https://ishamf.dev/p/llm-attention-visualizer/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "PostgreSQL 19 Interactive Tour",
-      "description": "Article URL: https://victoriametrics.com/blog/postgres-19/index.html Comments URL: https://news.ycombinator.com/item?id=49600432 Points: 21 # Comments: 0",
+      "title": "Connecting the Machines",
+      "description": "Article URL: https://herdr.dev/blog/connecting-the-machines/ Comments URL: https://news.ycombinator.com/item?id=49612818 Points: 11 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://victoriametrics.com/blog/postgres-19/index.html",
+      "url": "https://herdr.dev/blog/connecting-the-machines/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-      "description": "In case you're wondering why the limits behave so very different from last week. Also: this makes limit resets kind woth significantly less. Comments URL: https://news.ycombinator.com/item?id=49600233 Points: 77 # Comme…",
+      "title": "Y Combinator Early Access Network",
+      "description": "Article URL: https://events.ycombinator.com/yc-early-access-fall-26 Comments URL: https://news.ycombinator.com/item?id=49612635 Points: 4 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://news.ycombinator.com/item?id=49600233",
+      "url": "https://events.ycombinator.com/yc-early-access-fall-26",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "What we expect from the upcoming Apple launch",
-      "description": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "description": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
+      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Bing Wallpaper showing Ad for Harry Potter and Fantastic beasts box set",
-      "description": "Article URL: https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set Comments URL: https://news.ycombinator.com/item?id=49599719 Points: 71 # Comm…",
-      "source": "Hacker News",
-      "url": "https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set",
+      "title": "Google’s revived nuclear power plant gets $1.9B loan from US government",
+      "description": "Google said it would bring an Iowa nuclear power plant back from the dead. Now the plant's owner is getting a $1.9 billion loan from the U.S. Energy Department.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "King makes clear Harry and Meghan remain non-working royals",
-      "description": "The letter has been sent to Prince Harry's team, the government, military and Lord Lieutenants, Palace sources say.",
+      "title": "Ports denied request to land 120 migrants in RNLI boats",
+      "description": "The King's Harbour Master and Southampton Port both declined to allow migrants ashore on Sunday.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c20lpevv7jlo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cm27v3743mno?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
-      "description": "The new leadership is trying to maintain both confidence and the promotion of economic animal spirits.",
+      "title": "Renoir paintings worth millions stolen in French museum heist",
+      "description": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "What we know about anti-migrant protests and organiser Danny Thomas",
-      "description": "UK correspondent Daniel Sandford looks at the link between small boat protests in Dover and Portsmouth over the weekend.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cx2z4rxdnnpo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
-      "description": "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "As Nepal identifies those killed in the floods, questions grow over China's reporting",
-      "description": "One week after the deadly floods, very little is known about China's dead or missing. China's control over media and digital censorship is in stark contrast to open reporting in Nepal.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/07/nx-s1-5960357/nepal-floods-questions-over-chinas-reporting",
+      "title": "Monty Don to leave Gardeners' World after more than 20 years",
+      "description": "The presenter said it had been \"deeply rewarding\" but added that \"now is the right time for a change\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c74ew4402kxo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
+      "timeAgo": "5h ago"
     },
     {
-      "title": "5 dead after crash at Miami Airport. And, Germany's far-right wins state election",
-      "description": "A cargo plane crash at Miami International Airport has left five people dead and several others injured. And, Germany's far-right AfD party achieves an electoral victory in a key state election.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/07/g-s1-142210/up-first-newsletter-miami-plane-crash-ukraine-affirmative-for-germany",
+      "title": "Harry and Meghan 'surprised' by King's letter making clear they remain non-working royals",
+      "description": "A spokesman says they were not told in advance about the letter sent on behalf of the king, although palace sources deny this.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp30kv53qvdo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "7h ago"
     },
     {
-      "title": "Israel’s plan to split the West Bank",
-      "description": "Israel's E1 plan risks splitting the West Bank in two.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/israels-plan-to-split-the-west-bank?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Thousands attend funeral of war criminal Ratko Mladic in Serbia",
-      "description": "Thousands attend funeral of war criminal Ratko Mladic in Serbia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/thousands-attend-funeral-of-war-criminal-ratko-mladic-in-serbia?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Board of Peace touts progress as Palestinians’ situation worsens",
-      "description": "Humanitarian official Athena Rayburn dissects the Israeli tactics making life ‘untenable’ for millions of Palestinians.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/9/7/board-of-peace-touts-progress-as-palestinians-situation-worsens?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Investigators begin work on why cargo plane overran Miami runway",
-      "description": "Five people died and five others were injured as the Amazon plane overshot the runway after landing at Miami International Airport.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Egyptian wrestlers keep vanishing abroad amid a sport in crisis",
-      "description": "Two wrestlers have become the latest to flee while abroad, drawing a wave of sympathy as well as legal threats.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/7/egypts-vanishing-wrestlers-and-a-sport-in-crisis?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
-      "description": "Mladić was jailed for genocide during the 1990s Bosnian war and the EU warned Serbia not to glorify the convicted war criminal.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
+      "title": "Australian social media users to be offered choice to opt out of algorithms",
+      "description": "A government statement said on Tuesday social media platforms would be required to send a notification to new and existing users offering them a choice over their default feed.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/08/g-s1-142311/australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms",
+      "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Why does almost nobody want to befriend older people like me — except scammers?",
-      "description": "“I’d rather leave my estate to people who spent time with me because they genuinely valued my company.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
+      "title": "U.K. accuses Israeli settlers of 'ethnic cleansing' in West Bank and bans their goods",
+      "description": "France, Canada and other countries joined the U.K. in banning goods from Israeli settlements in the occupied West Bank. Israel said it would close the British Consulate among other measures.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/08/nx-s1-5961044/uk-occcupied-west-bank-goods-israel",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
+      "description": "President Zelensky describes the daytime drone attack in Ukraine's capital as a \"new page in Russian degradation\"",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Oil prices rise to 6-week high after Iran and U.S. trade blows, Saudi Aramco facilities reportedly hit",
-      "description": "Renewed attacks between the adversaries in the Iran war pushed oil prices up on Monday.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/07/oil-prices-rise-to-6-week-high-after-iran-and-us-trade-blows-saudi-aramco-facilities-reportedly-hit.html",
-      "category": "📈 MARKETS",
+      "title": "Israeli strikes transform Lebanese city into ghost town",
+      "description": "Nabatieh, once southern Lebanon’s economic centre, is now a ghost town as Israel intensifies attacks.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/israeli-strikes-transform-lebanese-city-into-ghost-town?traffic_source=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "We’re in our 60s. We earn $345,000 and have $1 million in 403(b)s. Is it too late for Roth conversions?",
-      "description": "“Roth assets would provide our children with tax-free distributions.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/were-in-our-60s-my-wife-and-i-have-345-000-in-annual-pensions-and-1-million-in-403-b-s-is-it-too-late-for-roth-conversions-5df35d42?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
+      "title": "UK sanctions on Israeli settlements a ‘seismic’ shift says Albanese",
+      "description": "UN expert Francesca Albanese calls UK sanctions on Israeli settlements a ‘seismic shift’ after years of UK ‘complicity’.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-israel-sanctions-albanese-qt-mp4?traffic_source=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?",
-      "description": "“We currently live in a relatively low-cost, lower-tax Northwest state.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
+      "title": "Israeli academia accused of systemic apartheid against Palestinians",
+      "description": "A legal report exposes how Israeli universities use a dual-track disciplinary system to target Palestinian students.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/8/israeli-academia-accused-of-systemic-apartheid-against-palestinians?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "LIVE: Real Madrid vs Inter Milan – UEFA Champions League",
+      "description": "Follow our live build-up and text commentary stream coverage as Kylian Mbappe and Jude Bellingham star for Real.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/9/8/live-real-madrid-vs-inter-milan-uefa-champions-league?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
+      "description": "Canada's levies - as high as 50% - will apply to nearly $20bn of US products, from steel to T-shirts.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Chip stock investors beware — these charts could warn of further weakness ahead",
-      "description": "U.S. stock investors have reason to pay attention to the currency market for signs of how money may be flowing in and out of chip stocks.",
+      "title": "Is IBM’s selloff an opportunity? Here’s one case for the beaten-down stock.",
+      "description": "An Evercore ISI analyst thinks investors are getting exposure to IBM’s various quantum-computing initiatives essentially for free.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/chip-stock-investors-beware-these-charts-could-warn-of-further-weakness-ahead-1bd890cc?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/is-ibms-selloff-an-opportunity-heres-one-case-for-the-beaten-down-stock-a3ca92ed?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Greenland welcomes major funding boost from EU amid Trump’s annexation threats",
-      "description": "It comes shortly after Icelanders voted to reject restarting EU membership talks and as Trump renews his push to acquire Greenland on national security grounds.",
+      "title": "Bombardier points out U.S. footprint after Trump says aerospace giant must build in America",
+      "description": "Trump's announcement comes on the eve of Canadian retaliatory tariffs set to take effect Tuesday on $20 billion of U.S. goods.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/07/greenland-eu-trump-critical-minerals-arctic.html",
+      "url": "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html",
       "category": "📈 MARKETS",
-      "timeAgo": "5h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "NWSL Team of the Week: North Carolina Courage's Ashley Sanchez's record-setting reign of goals continues",
-      "description": "The Attacking Third crew picked their best XI from the past week's NWSL action",
+      "title": "New Hampshire goes to the polls in primary for key open Senate seat",
+      "description": "Incumbent Sen. Jeanne Shaheen, D-N.H., is retiring at the end of her term next year.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/08/new-hampshire-primary-senate-scott-brown-john-sununu-chris-pappas-karishma-manzur.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "‘Please don’t let this happen to you’: My best friend died without a will — her neglectful family gets everything",
+      "description": "“She struggled with the thought of leaving everything to people who, in her eyes, had never made much time for her.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/please-dont-let-this-happen-to-you-my-best-friend-died-without-a-will-her-neglectful-family-gets-everything-a4e6753e?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "U.S. sanctions Iranian airlines in aim to tighten economic squeeze as war spreads, oil rises",
+      "description": "The latest U.S. action under \"Operation Economic Outcast\" targets all Iranian airlines that were not already facing sanctions.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/08/us-sanctions-iran-airlines-oil-economy-war.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "I did everything ‘right’ with my health insurance — and still got a surprise bill. Here’s what I learned.",
+      "description": "It’s hard even for a healthcare insider to navigate the system, let alone appeal a denial with amorphous reasoning behind it.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-did-everything-right-with-my-health-insurance-and-still-got-a-surprise-bill-heres-what-i-learned-51121f3f?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "SEC seeking legal authority to expel LSU in updated federal court filing",
+      "description": "The conference claims it has the votes to remove the school as both sides clash over the eligibility of players who signed NFL contracts",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/nwsl-team-of-the-week-north-carolina-courage-ashley-sanchez/",
+      "url": "https://www.cbssports.com/college-football/news/sec-legal-authority-expel-lsu-court/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Fantasy football rankings 2026: Busts, riskiest picks by model that was all over McLaurin's tough year",
-      "description": "SportsLine simulated the new NFL season 10,000 times and identified Fantasy football busts 2026 and the riskiest Fantasy picks to fade during your Fantasy football draft prep",
+      "title": "Dana White's Contender Series start time: Where to watch, live stream Week 5 and the full fight card",
+      "description": "Ten fighters will enter the Octagon on Tuesday night looking to earn a UFC contract, including an intriguing light heavyweight main event",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-busts-riskiest-picks-by-model-that-was-all-over-mclaurins-tough-year/",
+      "url": "https://www.cbssports.com/ufc/news/dana-white-contender-series-start-time-fight-card-where-to-watch-live-stream-week-5/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Bill Belichick mum on active UNC investigation, maintains atmosphere of compliance within program",
-      "description": "The Tar Heels are battling through off-the-field issues entering Week 2 of the season",
+      "title": "Coaches Poll top 25: Michigan plummets but remains, while LSU surges in Week 2 college football rankings",
+      "description": "LSU jumped into the top 10 following a rout of Clemson, while Michigan took a tumble ahead of a Week 2 matchup against Oklahoma",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/bill-belichick-unc-investigation-compliance-michael-lombardi-steve-belichick/",
+      "url": "https://www.cbssports.com/college-football/news/coaches-poll-top-25-college-football-rankings-michigan-lsu-week-2/",
       "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "2026 Week 1 NFL score predictions, game picks: Model releases exact projections from 10,000 simulations",
-      "description": "SportsLine's model has simulated every game 10,000 times and locked in its Week 1 NFL score predictions",
+      "title": "Ballon d'Or nominee finalists: Lionel Messi, Harry Kane lead field; Rose Lavelle only American woman nominated",
+      "description": "The ceremony heads to London for the first time as Lionel Messi chases a ninth award, and on the women's side, Rose Lavelle is the only American nominated for the top award",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/2026-week-1-nfl-score-predictions-picks-projections-best-bets/",
+      "url": "https://www.cbssports.com/soccer/news/ballon-dor-nominee-finalists-lionel-messi-harry-kane-lead-field-rose-lavelle-only-american-woman-nominated/",
       "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     }
   ]
 }
