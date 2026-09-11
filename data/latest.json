@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-10T17:06:07.049468+00:00",
-  "edition": "#218",
+  "date": "2026-09-11T17:06:18.618732+00:00",
+  "edition": "#219",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Instagram’s latest feature lets you add tagged posts to your profile grid",
-      "description": "Instagram's newest feature lets users take posts from the Tagged tab and move it to their main profile grid instead.",
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "description": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/10/instagrams-latest-feature-lets-you-add-tagged-posts-to-your-profile-grid/",
+      "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Native Python and TypeScript Drivers for ArcadeDB, from OpenAPI and Protobuf",
-      "description": "Article URL: https://arcadedb.com/blog/arcadedb-native-drivers-python-typescript/ Comments URL: https://news.ycombinator.com/item?id=49646199 Points: 5 # Comments: 0",
+      "title": "Godot and Rust based multiplexer (terminal panes and more)",
+      "description": "Article URL: https://github.com/godot-pty/gpty Comments URL: https://news.ycombinator.com/item?id=49660676 Points: 23 # Comments: 13",
       "source": "Hacker News",
-      "url": "https://arcadedb.com/blog/arcadedb-native-drivers-python-typescript/",
+      "url": "https://github.com/godot-pty/gpty",
       "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Software Drives People Insane",
-      "description": "Article URL: https://graybeard.ing/software-drives-people-insane/ Comments URL: https://news.ycombinator.com/item?id=49646181 Points: 18 # Comments: 8",
+      "title": "Global Glacier Extinction Explorer",
+      "description": "Article URL: https://glacierextinction.com Comments URL: https://news.ycombinator.com/item?id=49660576 Points: 55 # Comments: 10",
       "source": "Hacker News",
-      "url": "https://graybeard.ing/software-drives-people-insane/",
+      "url": "https://glacierextinction.com",
       "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "One resignation turned the embers of AI fear into a wildfire",
-      "description": "Article URL: https://www.interconnects.ai/p/one-resignation-turned-the-embers Comments URL: https://news.ycombinator.com/item?id=49646123 Points: 23 # Comments: 25",
+      "title": "118M Queries per Second on Neki",
+      "description": "Article URL: https://planetscale.com/blog/118-million-queries-per-second-on-neki Comments URL: https://news.ycombinator.com/item?id=49660555 Points: 7 # Comments: 4",
       "source": "Hacker News",
-      "url": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+      "url": "https://planetscale.com/blog/118-million-queries-per-second-on-neki",
       "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Google is making it easier to switch between password managers on Android",
-      "description": "Google's new feature will transfer your passkeys as well.",
+      "title": "Hacker News with reduced priority for AI driven content",
+      "description": "Article URL: https://sprinklz.io/public/pdwt4dve5uai Comments URL: https://news.ycombinator.com/item?id=49660482 Points: 52 # Comments: 34",
+      "source": "Hacker News",
+      "url": "https://sprinklz.io/public/pdwt4dve5uai",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Matt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster",
+      "description": "In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparent reversal.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/",
+      "url": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Casablanca: How an unproduced play marched into movie history",
-      "description": "Article URL: https://www.thecollector.com/casablanca-unproduced-play-movie-history/ Comments URL: https://news.ycombinator.com/item?id=49645826 Points: 18 # Comments: 5",
-      "source": "Hacker News",
-      "url": "https://www.thecollector.com/casablanca-unproduced-play-movie-history/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Labour mayors in England vow to cap tourist tax at 5%",
-      "description": "Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.",
+      "title": "Why did MPs reject the assisted dying bill?",
+      "description": "Although supporters say they will try again, for now the momentum has fallen away from a change in the law.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c5y54n99l48o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Use all powers necessary on anti-migrant protests, home secretary tells police",
-      "description": "Two anti-migrant protests took place in Dover and Portsmouth last weekend.",
+      "title": "How global trade and oil prices could be hit by Houthi advance",
+      "description": "Yemen's Houthis have seized territory near the Bab al-Mandab Strait - a key trade gateway for oil and global shipping.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqjke44pr7zo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
-      "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
+      "title": "MPs vote against fresh attempt to legalise assisted dying",
+      "description": "The proposed law sought to introduce one of the biggest societal changes in recent years.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Trump says every adult American would get $5,000 if Republicans win midterm elections",
-      "description": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
+      "title": "UK government rejects 'kill switch' idea for dangerous AI",
+      "description": "The Cabinet Office, which leads on AI safety, says the UK \"cannot simply turn AI off\".",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Barbara Keating died in the 9/11 attack. She's finally being laid to rest",
-      "description": "Barbara Keating died aboard one of the planes that hijackers slammed into the World Trade Center. Her remains were finally identified last year, and her family is gathering for a long-delayed funeral.",
+      "title": "As diseases loom, CDC's response to measles deaths stirs fears about agency's reliability",
+      "description": "The worst U.S. measles outbreak in decades is growing and flu season is imminent. Experts are fretting about federal health data reliability after the CDC questioned two Pennsylvania measles deaths.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/09/10/nx-s1-5962791/barbara-keating-9-11-victim-burial",
+      "url": "https://www.npr.org/2026/09/11/nx-s1-5950002/as-diseases-loom-cdcs-response-to-measles-deaths-stirs-fears-about-agencys-reliability",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "'I've never seen anything like this' -- A U.S. doctor treats Ebola's youngest victims",
-      "description": "Dr. Rupa Narra is a U.S. pediatrician who arrived in the Democratic Republic of Congo to help care for stricken children. Nothing could have prepared her for what she'd face.",
+      "title": "Is Patagonia the new data center hub? + Harley-Davidson's role in the trade war",
+      "description": "Why Patagonia might become a new data center hub",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/09/10/g-s1-142545/ebola-children-democratic-republic-congo",
+      "url": "https://www.npr.org/2026/09/11/nx-s1-5966498/is-patagonia-the-new-data-center-hub-harley-davidsons-role-in-the-trade-war",
       "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Houthis declare Red Sea shipping safe except for Saudi vessels",
+      "description": "Houthi spokesman Yahya Saree said maritime navigation in the Red Sea is safe, except for Saudi ships.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/houthis-declare-red-sea-shipping-safe-except-for-saudi-vessels?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "US diplomacy under fire as Russia escalates attacks on Ukrainian officials",
+      "description": "The Witkoff-Kushner visit to Moscow was immediately followed by Russian attacks on Kyiv.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/11/us-diplomacy-under-fire-as-moscow-escalates-attacks-on-ukrainian-officials?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Passenger plane aborts landing after wing clips Dublin runway",
+      "description": "A passenger aboard a Ryanair Boeing 737 recorded the moment the aircraft’s wingtip struck the runway at Dublin airport.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/passenger-plane-aborts-landing-after-wing-clips-dublin-runway?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Erdogan: The Making of Modern Turkiye",
+      "description": "An interview with Turkish President Erdogan on foreign policy, regional conflicts and 25 years of AK Party rule.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/9/11/erdogan-the-making-of-modern-turkiye?traffic_source=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
-      "description": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded.",
+      "title": "Israel says it has destroyed major underground Hezbollah base",
+      "description": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Jerusalem Daily: Israeli strikes devastate Gaza",
-      "description": "Israeli air strikes have killed and injured dozens across Gaza.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/jerusalem-daily-israeli-strikes-devastate-gaza?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Oil jumps to $105, pushing up chances of a US interest rate increase",
-      "description": "Prices spiked as attacks on oil tankers escalated in the Middle East.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/10/oil-jumps-to-105-pushing-up-chances-of-a-us-interest-rate-increase?traffic_source=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "LIVE: Manchester United vs Sabah – UEFA Champions League",
-      "description": "Live updates from our text commentary stream coverage as Bruno Fernandes and Marcus Rashford star in the league phase.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/9/10/live-manchester-united-vs-sabah-uefa-champions-league?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
-      "description": "The paper said it stood by its reporting, after publishing extracts from a book where the claim appears.",
+      "title": "Princess Diana's 'revenge dress' goes up for auction",
+      "description": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
+      "timeAgo": "5h ago"
     },
     {
-      "title": "UN expert Albanese, protesters warn against Italy’s anti-Semitism bill",
-      "description": "Protesters in Rome and UN Special Rapporteur Francesca Albanese, warn proposed law could silence criticism of Israel.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/10/un-expert-albanese-protesters-warn-against-italys-anti-semitism-bill?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Trump's $1 trillion-plus 'dividend' plan meets immediate bipartisan pushback",
-      "description": "Such a payout could cost more than $1 trillion and is likely to face legal obstacles.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/10/trump-dividend-midterms-gop.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Ford announces $1 billion investment at Kentucky plant following DOT criticism",
-      "description": "Ford Motor on Thursday announced a $1 billion investment to build a new paint shop at its crucial truck plant in Kentucky.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/10/ford-1-billion-investment-kentucky-plant.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "The likelihood of a Fed interest rate hike next week just got a lot higher",
-      "description": "Traders pushed chances for a rate increase to 70% in morning action.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Treasury yields surge toward the danger zone for stocks, as inflation pressures heat up",
-      "description": "Oil prices were at their highest levels since late May, while rising wholesale inflation data sent benchmark 10-year yields closer to the key 5% level.",
+      "title": "The traditional paths to building wealth are becoming less accessible for young Americans. Here’s what happened.",
+      "description": "Generation Z and young millennials are navigating major shifts in the economy that have made it harder to build wealth the way Americans did in the past.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/the-traditional-paths-to-building-wealth-are-becoming-less-accessible-for-young-americans-80112c08?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Kimmel says interview with Senate candidate Talarico won't air on ABC amid FCC threats",
-      "description": "ABC has come under increased pressure from the FCC, and the Trump administration has raised concerns about equal air time for political candidates.",
+      "title": "Election officials ban certain public workers from trading on prediction markets ahead of midterms",
+      "description": "Ahead of the midterms, election officials ban certain workers from using prediction markets to reassure the public they are committed to election integrity.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/10/abc-kimmel-talarico-fcc.html",
+      "url": "https://www.cnbc.com/2026/09/11/election-officials-ban-employees-from-prediction-markets.html",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Renewable-energy mandates are actually bad for consumers. They’re not great for solar stocks, either.",
-      "description": "Renewable-energy mandates in blue states are a major driver of higher electricity bills, adding directly to the cost-of-living problem.",
+      "title": "I went to Caracas for Venezuela’s new oil deals. Here’s what stood out",
+      "description": "CNBC was one of just a handful of news organizations allowed to travel to Caracas with the U.S. secretary of energy.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/11/the-inside-story-on-the-historic-us-venezuela-oil-deal-and-how-it-will-work.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "This investment is safe from both Trump and the Democrats — and it pays 4.7%",
+      "description": "There’s a safe haven hiding in plain sight.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/renewable-energy-mandates-are-actually-bad-for-consumers-theyre-not-great-for-solar-stocks-either-bdfa13bb?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "2026 NFL game-by-game predictions: Expert picks all 285 games, reveals win total best bets, Super Bowl futures",
-      "description": "SportsLine expert Eric Cohen reveals win-loss grid for the entire 2026 NFL schedule, including playoffs and Super Bowl 2027",
+      "title": "I’m locked into a 10-year annuity and now I’m strapped for cash. What are my options?",
+      "description": "A self-described “spender” is concerned about taxes.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-locked-into-a-10-year-annuity-and-now-im-strapped-for-cash-what-are-my-options-e6463c91?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Your Social Security check could go up another $71 next year. That’s not necessarily good news.",
+      "description": "A higher COLA is a sign that persistent inflation isn’t going anywhere.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-another-71-next-year-thats-not-necessarily-good-news-f952c08a?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Patriots WR A.J. Brown headed to injured reserve with high ankle sprain, per report",
+      "description": "Brown suffered the injury in the third quarter of the season opener against the Seahawks",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/2026-nfl-game-predictions-expert-picks-285-games-win-totals-playoffs-best-bets-super-bowl-futures/",
+      "url": "https://www.cbssports.com/nfl/news/patriots-a-j-brown-headed-to-injured-reserve-with-high-ankle-sprain/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Penn State is bringing Joe Paterno back into view and approaching the question it can't avoid",
-      "description": "From Matt Campbell's white laces and a revived 'Success With Honor' banner to a new museum exhibit, Penn State's increasingly public embrace of Paterno raises the question of where its gradual restoration of his legacy…",
+      "title": "Ryan Garcia vs. Conor Benn fight predictions, odds, preview and expert picks for title showdown",
+      "description": "The WBC welterweight title is on the line on Saturday night in Las Vegas",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/joe-paterno-penn-state-legacy-statue-matt-campbell/",
+      "url": "https://www.cbssports.com/boxing/news/ryan-garcia-vs-conor-benn-fight-predictions-odds-preview-undercard-expert-picks-date/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "NFL picks today, odds, lines, bets: Week 1, 2026 expert predictions against the spread, parlays, prop bets",
-      "description": "SportsLine's top NFL experts reveal their NFL picks, NFL predictions, NFL betting tips and NFL best bets for Week 1",
+      "title": "College football schedule, games 2026: What to watch in Week 2, TV channels, streaming, kickoff times",
+      "description": "The Week 2 slate is absolutely loaded with matchups that carry College Football Playoff implications",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/nfl-picks-today-odds-lines-bets-week-1-2026-expert-predictions-spread-parlays-player-props/",
+      "url": "https://www.cbssports.com/college-football/news/college-football-schedule-games-2026-week-2-tv-channels-streaming-kickoff-times/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Seahawks' Sam Darnold undergoes MRI on injured hip, expected to miss 'some' time",
-      "description": "Darnold went back to the locker room and was ruled out just before halftime",
+      "title": "Best NFL Betting Promos for Week 1: Sportsbook Promos, Bonus Codes for Vikings-Packers, Giants-Cowboys",
+      "description": "Bettors can use NFL sportsbook promos at the best NFL betting sites and NFL betting apps for Week 1",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/sam-darnold-hip-exits-seahawks-patriots-season-opener/",
+      "url": "https://www.cbssports.com/betting/news/best-nfl-promos-week-1-sportsbook-promos-bonus-codes-vikings-packers-giants-cowboys/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
