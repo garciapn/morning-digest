@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-14T18:49:15.941597+00:00",
-  "edition": "#222",
+  "date": "2026-09-15T17:43:55.240199+00:00",
+  "edition": "#223",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,228 +8,228 @@
   },
   "stories": [
     {
-      "title": "Amazon Prime Video takes on TikTok with short-form news clips",
-      "description": "Prime Video is adding on-demand local and national news clips as Amazon joins other streamers experimenting with short-form video to capture younger viewers.",
+      "title": "AI Agents now have a place to snitch",
+      "description": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/",
+      "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves",
-      "description": "If you clicked on a fake HBO Max ad on Reddit in the past week, you might have fallen victim to a rising \"ClickFix\" security threat.",
+      "title": "GEFS on OpenBSD: A Early Preview",
+      "description": "Article URL: https://marc.info/?l=openbsd-tech&m=178948744271633&w=2 Comments URL: https://news.ycombinator.com/item?id=49715590 Points: 5 # Comments: 1",
+      "source": "Hacker News",
+      "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "US military confirms it launched space weapons into Earth’s orbit",
+      "description": "This is the first public acknowledgement that the U.S. military put a space weapon in Earth's orbit.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/",
+      "url": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Iranian banks' SSL certificates are being revoked due to OFAC sanctions",
-      "description": "Article URL: https://digiato.global/report/iran-banks-ssl-certificates-domain-changes/ Comments URL: https://news.ycombinator.com/item?id=49701104 Points: 17 # Comments: 5",
-      "source": "Hacker News",
-      "url": "https://digiato.global/report/iran-banks-ssl-certificates-domain-changes/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "iOS 27, iPadOS 27, and macOS 27",
-      "description": "Article URL: https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/ Comments URL: https://news.ycombinator.com/item?id=49701004 Points: 111 # Comments: 87",
-      "source": "Hacker News",
-      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Volkswagen’s crazy-efficient EV borrows an idea from Slate",
-      "description": "Volkswagen's new efficiency-minded halo car is almost twice as efficient as the most efficient production car, the Lucid Air.",
+      "title": "Meta expands subscription push with new AI-focused plans",
+      "description": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram and WhatsApp.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/",
+      "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Steam Frame starts at $1059",
-      "description": "Article URL: https://store.steampowered.com/hardware/steamframe Comments URL: https://news.ycombinator.com/item?id=49700661 Points: 121 # Comments: 52",
+      "title": "Leaving Linux",
+      "description": "Article URL: https://jackevans.bearblog.dev/leaving-linux/ Comments URL: https://news.ycombinator.com/item?id=49715463 Points: 9 # Comments: 11",
       "source": "Hacker News",
-      "url": "https://store.steampowered.com/hardware/steamframe",
+      "url": "https://jackevans.bearblog.dev/leaving-linux/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Farage says £72m donations are compliant 'with the law today'",
-      "description": "Ministers are seeking to put a £100,000 annual cap on donations from British expats, backdated to 25 March 2026.",
+      "title": "Health benefits platform Thatch reaches $1B valuation as healthcare costs surge",
+      "description": "Thatch helps employers keep healthcare costs manageable by offering an individual plan marketplace through an Individual Coverage Health Reimbursement Arrangement — a model that lets companies fund employees' own indivi…",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Baby 'cot cams' plan after inquiry finds Lucy Letby crimes could have been prevented",
+      "description": "Plans will be \"urgently\" developed for live-streaming cameras after an inquiry report into Lucy Letby's crimes.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c623xee9dkdyo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cw1l6zn56e3zo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Man admits drugging and raping wife for 20 years",
-      "description": "A husband, who cannot be named to protect his wife's anonymity, pleads guilty to more than 60 offences, including rape and administering a substance with intent.",
+      "title": "Dan Thomas resigns as Reform Wales leader after arrest on suspicion of assault",
+      "description": "Gwent Police said he was arrested on suspicion of assault and controlling or coercive behaviour.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3042q6w3zo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cqde0xkgpy2xo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Former England footballer Raheem Sterling admits dangerous driving on motorway before crash",
+      "description": "The former England winger crashed a Lamborghini into motorway barriers in May.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c52e01k49e8jo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Member of UK armed forces dies in road traffic incident in Ukraine",
-      "description": "The incident is not the result of hostile action, the BBC understands.",
+      "title": "The key findings and recommendations from the Lucy Letby inquiry",
+      "description": "Former nurse Lucy Letby is serving 15 whole-life prison terms for murdering seven babies and attempting to murder seven more.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmy5zggx3l2vo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/videos/c6d94ex3p8jlo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "10 years after taking a knee, Colin Kaepernick is still waging a 'Perilous Fight'",
-      "description": "The former 49ers quarterback created an uproar in 2016 when took a knee during the national anthem to protest police brutality. In The Perilous Fight he explains why he still wants to play football.",
+      "title": "Prosecutors won't seek the death penalty for Nick Reiner",
+      "description": "Los Angeles County District Attorney Nathan Hochman said his office spoke with Reiner's siblings and took their wishes into consideration in the decision.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/09/14/nx-s1-5965828/colin-kaepernick-football-the-perilous-fight",
+      "url": "https://www.npr.org/2026/09/15/nx-s1-5969890/nick-reiner-rob-reiner-murder-charges-death-penalty",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Kennedy Center says it's on the brink of bankruptcy, might close as early as Tuesday",
-      "description": "In two board resolutions made public Monday, the arts institution says it is in a dire financial and physical state — and that only President Trump can \"rescue\" it.",
+      "title": "Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war",
+      "description": "Kentucky Republican Thomas Massie introduced articles of impeachment against Secretary of Defense Pete Hegseth on Tuesday over the war in Iran.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/09/14/nx-s1-5968690/kennedy-center-financial-physical-state",
+      "url": "https://www.npr.org/2026/09/15/g-s1-143407/massie-impeach-hegseth-iran",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Burnham cancels engagements after death of his father",
-      "description": "Burnham has previously said his father did not know he had become prime minister due to his Alzheimer's.",
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "description": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c68xkddgnd47o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "Jerusalem Daily: A new report on the erosion of Palestinian life",
-      "description": "Palestinian life is being systematically eroded, according to a new report and Israel threatens NAZA film directors.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/jerusalem-daily-a-new-report-on-the-erosion-of-palestinian-life?traffic_source=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "India to supply Nepal electricity after floods wrecked hydropower projects",
-      "description": "India to provide Nepal with 654 megawatts of electricity daily to meet urgent needs after devastating glacial floods.",
+      "title": "How an Israeli cell orchestrated an anti-Qatar campaign",
+      "description": "Israeli newspaper Haaretz reports that influence experts and an ex-Mossad official were part of an anti-Qatar group.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/14/india-to-supply-nepal-electricity-after-floods-wrecked-hydropower-projects?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/9/15/israel-influence-campaign-against-qatar?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Carney pitches Canada to global investors amid US trade war",
-      "description": "Hundreds of investors overseeing nearly $120 trillion in assets will gather in Toronto for the Canada Investment Summit.",
+      "title": "Can China play peacemaker as Iran’s foreign minister heads to Beijing?",
+      "description": "Tehran and Beijing explore diplomatic paths amid escalating tensions between Iran and the United States.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/14/carney-pitches-canada-to-global-investors-amid-us-trade-war?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "EU states to raise game as Arctic becomes strategic geopolitical frontier",
-      "description": "Europe racing Russia, China and US to seize security and economic opportunities.",
+      "title": "Election in Philippines’ Bangsamoro region ends in hung parliament",
+      "description": "No party wins majority in parliamentary polls in southern Philippines' Muslim-majority region, unofficial results show.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/14/eu-states-to-raise-game-as-arctic-becomes-strategic-geopolitical-frontier?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/9/15/election-in-philippines-bangsamoro-region-ends-in-hung-parliament?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
-      "description": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures.",
+      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
+      "description": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "4h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-      "description": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+      "title": "FBI’s Kash Patel defends hiring policy change on bestiality, prostitution",
+      "description": "Policy change sparks heated Senate debate; critics question its timing amid challenges in attracting new FBI agents.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/15/fbis-kash-patel-defends-hiring-policy-change-on-bestiality-prostitution?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "6h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "30-year mortgage rate jumps to 7.17% — a nearly 2-year high — in the latest blow to the housing market",
-      "description": "The 10-year Treasury yield crossed a key 5% threshold on Monday, nudging the average 30-year mortgage rate upward.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/30-year-mortgage-rate-jumps-to-7-17-a-nearly-2-year-high-in-the-latest-blow-to-the-housing-market-aadbd63e?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
-      "description": "The muted outlook from the country's second-largest bank by assets could be an early signal that Wall Street's AI boom might have hit turbulence.",
+      "title": "U.S. oil tops $106 as Saudi Arabia reportedly cancels some crude cargoes after pipeline closure",
+      "description": "Iran-backed Houthi militants in Yemen, meanwhile, carried out renewed strikes on Saudi Arabia this week.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
+      "url": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "The Fed may be on the verge of a serious mistake, prominent economists warn",
-      "description": "Some economists are calling on the central bank to wait before raising interest rates, out of concern the economy may be vulnerable beneath the surface.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-fed-may-be-on-the-verge-of-a-serious-mistake-prominent-economists-warn-3ccb6581?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Calls for an AI slowdown meet vigorous pushback: Trump calls it a ‘sick conspiracy’",
-      "description": "Michael Burry, Donald Trump and others are criticizing Anthropic’s CEO, who recently said AI companies need to adopt better safety measures.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/calls-for-an-ai-slowdown-meet-vigorous-pushback-trump-calls-it-a-sick-conspiracy-21b3c1ab?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "10-year Treasury yield hits 5% before reversing as traders await Fed meeting",
-      "description": "The 10-year U.S. Treasury note yield moved lower after reaching a multiyear high on Monday ahead of this week's Federal Reserve interest rate decision.",
+      "title": "Saudi pipeline closure is a brief interruption that will last days, U.S. Energy Secretary tells CNBC",
+      "description": "The Saudis closed the East-West pipeline after it sustained damage in a drone attack launched from Iraq.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
+      "url": "https://www.cnbc.com/2026/09/15/saud-arabia-east-west-pipeline-iran-war-chris-wright.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "The next Social Security ‘COLA’ could be the biggest in five years. It’s no cause for celebration.",
-      "description": "Benefits will be largely stable in real — that is, inflation-adjusted — terms.",
+      "title": "10-year Treasury yield hits highest level since 2007 as traders bet a Fed rate hike is coming",
+      "description": "The sell-off in U.S. government debt is deepening as investors price in an interest rate hike this week.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Judge blocks Kennedy Center board from returning Trump's name to building",
+      "description": "The ruling comes four months after the same judge ordered that the Kennedy Center could not be renamed to include President Trump's name",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/15/trump-kennedy-center-name-ruling.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.",
+      "description": "Customers are signing multiyear deals for chips and more: “That’s not what the front end of a downturn looks like.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-the-social-security-cola-is-much-ado-about-nothing-cf9b90d4?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Big Ten on CBS 2026 schedule: USC vs. Rutgers, Michigan vs. Iowa headline upcoming slate",
-      "description": "CBS also has four Pac-12 games including the conference title game, Army vs. Navy and the Tony the Tiger Sun Bowl",
+      "title": "Why investors need to learn the difference between uncertainty and risk in today’s market",
+      "description": "Hedge-fund founder Alec Litowitz says investor should make their identity about being adaptive, rather than trying to be right.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/what-investors-need-to-do-and-mistakes-not-to-make-in-todays-uncertain-world-8eb74333?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Week 2 Fantasy football waiver wire: Bryce Young's huge opener makes him an intriguing QB to add",
+      "description": "Bryce Young is coming off a four-touchdown performance and has now topped 20 Fantasy points in six of his past nine games",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/2026-college-foortball-schedule-big-ten-cbs/",
+      "url": "https://www.cbssports.com/fantasy/football/news/week-2-fantasy-football-waiver-wire-bryce-young-has-huge-opener/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Can Oklahoma's broken offense be fixed? Brent Venables, John Mateer confident in turnaround after slow start",
-      "description": "Dating back to last season against Power Four competition, the Sooners have failed to produce offensively",
+      "title": "Clippers, Raptors agree to Kawhi Leonard trade again: Toronto finally poised to move forward as East contender",
+      "description": "The dust has settled after the NBA punished the Clippers, and Leonard is set to finally move back to Toronto",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/oklahoma-offense-john-mateer-brent-venables-ben-arbuckle/",
+      "url": "https://www.cbssports.com/nba/news/clippers-raptors-agree-kawhi-leonard-trade-again/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Week 4 Serie A hot takes: Juventus' Luciano Spalletti in trouble; Franco Mastantuono to win MVP?",
-      "description": "Meanwhile, Lazio need to be seriously considered as a candidates for the top four",
+      "title": "Golf awards for 2026: Scottie Scheffler, Cameron Young show out as Gary Woodland tugs at heartstrings",
+      "description": "Revisiting the best players, moments and tournaments of the 2026 PGA Tour season",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/week-4-serie-a-hot-takes-juventus-luciano-spalletti-franco-mastantuono-2026/",
+      "url": "https://www.cbssports.com/golf/news/golf-awards-2026-scottie-scheffler-cameron-young-gary-woodland/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "NFL Week 1 overreactions: Bears to score most and allow most points in NFL? Lamar Jackson for MVP?",
-      "description": "Plus, was DJ Moore the best offseason addition in the NFL?",
+      "title": "SportsLine Newsletter Tuesday, September 15, 2026",
+      "description": "Today's best bets + Parlay of the Day + Royals-Astros + LSU-Ole Miss",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-1-overreactions-bears-lamar-jackson-mvp/",
+      "url": "https://www.cbssports.com/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     }
   ]
 }
