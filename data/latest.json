@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-15T17:43:55.240199+00:00",
-  "edition": "#223",
+  "date": "2026-09-16T17:41:20.659527+00:00",
+  "edition": "#224",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,228 +8,228 @@
   },
   "stories": [
     {
-      "title": "AI Agents now have a place to snitch",
-      "description": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+      "title": "Your AI agents can now control your Google Home devices",
+      "description": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natur…",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "GEFS on OpenBSD: A Early Preview",
-      "description": "Article URL: https://marc.info/?l=openbsd-tech&m=178948744271633&w=2 Comments URL: https://news.ycombinator.com/item?id=49715590 Points: 5 # Comments: 1",
+      "title": "Anthropic merges Claude chat and Cowork in one interface",
+      "description": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Claude Cowork and chat are now one Claude",
+      "description": "Article URL: https://claude.com/blog/cowork-is-now-claude Comments URL: https://news.ycombinator.com/item?id=49729412 Points: 54 # Comments: 70",
       "source": "Hacker News",
-      "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
+      "url": "https://claude.com/blog/cowork-is-now-claude",
       "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "US military confirms it launched space weapons into Earth’s orbit",
-      "description": "This is the first public acknowledgement that the U.S. military put a space weapon in Earth's orbit.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Meta expands subscription push with new AI-focused plans",
-      "description": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram and WhatsApp.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Leaving Linux",
-      "description": "Article URL: https://jackevans.bearblog.dev/leaving-linux/ Comments URL: https://news.ycombinator.com/item?id=49715463 Points: 9 # Comments: 11",
+      "title": "This Code Is CRAP (2011)",
+      "description": "Article URL: https://testing.googleblog.com/2011/02/this-code-is-crap.html Comments URL: https://news.ycombinator.com/item?id=49729228 Points: 50 # Comments: 39",
       "source": "Hacker News",
-      "url": "https://jackevans.bearblog.dev/leaving-linux/",
+      "url": "https://testing.googleblog.com/2011/02/this-code-is-crap.html",
       "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Health benefits platform Thatch reaches $1B valuation as healthcare costs surge",
-      "description": "Thatch helps employers keep healthcare costs manageable by offering an individual plan marketplace through an Individual Coverage Health Reimbursement Arrangement — a model that lets companies fund employees' own indivi…",
+      "title": "Hear why Neuralink co-founder Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
+      "description": "At this year's Disrupt, Neuralink's co-founder Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/",
+      "url": "https://techcrunch.com/2026/09/16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Baby 'cot cams' plan after inquiry finds Lucy Letby crimes could have been prevented",
-      "description": "Plans will be \"urgently\" developed for live-streaming cameras after an inquiry report into Lucy Letby's crimes.",
+      "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
+      "description": "“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?” That’s the question that drove Matthew de Jonge to spend six years building Fortell, an AI…",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Charles said Diana would be forgotten 'soon enough', Earl Spencer claims in book",
+      "description": "Buckingham Palace has not commented on the first claims from a book written by the brother of the late princess.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw1l6zn56e3zo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Dan Thomas resigns as Reform Wales leader after arrest on suspicion of assault",
-      "description": "Gwent Police said he was arrested on suspicion of assault and controlling or coercive behaviour.",
+      "title": "Photos show widespread damage at US sites from Iranian attacks",
+      "description": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqde0xkgpy2xo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Former England footballer Raheem Sterling admits dangerous driving on motorway before crash",
-      "description": "The former England winger crashed a Lamborghini into motorway barriers in May.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c52e01k49e8jo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "The key findings and recommendations from the Lucy Letby inquiry",
-      "description": "Former nurse Lucy Letby is serving 15 whole-life prison terms for murdering seven babies and attempting to murder seven more.",
+      "title": "'Putney pusher' suspect found dead at home",
+      "description": "Nicholas Brandram was a suspect in the incident where a woman was shoved into the path of a bus nine years ago.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c6d94ex3p8jlo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c6783ekp0yn8o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Prosecutors won't seek the death penalty for Nick Reiner",
-      "description": "Los Angeles County District Attorney Nathan Hochman said his office spoke with Reiner's siblings and took their wishes into consideration in the decision.",
+      "title": "Congress is under pressure to act on AI — here's what that could look like",
+      "description": "Lawmakers are expressing broader willingness to regulate AI development, but the path forward may not be a quick one.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/09/15/nx-s1-5969890/nick-reiner-rob-reiner-murder-charges-death-penalty",
+      "url": "https://www.npr.org/2026/09/16/nx-s1-5969933/congress-ai-regulation",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war",
-      "description": "Kentucky Republican Thomas Massie introduced articles of impeachment against Secretary of Defense Pete Hegseth on Tuesday over the war in Iran.",
+      "title": "DOJ charges Russian agents with plotting attacks, including in US",
+      "description": "The indictment says the defendants belong to a network that \"is one arm of the Russian Federation's apparatus used to carry out external attacks\" worldwide.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/09/15/g-s1-143407/massie-impeach-hegseth-iran",
+      "url": "https://www.npr.org/2026/09/16/g-s1-143590/us-justice-department-russian-operatives-attacks",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Suspected sabotage causes major Netherlands rail disruption",
-      "description": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
+      "title": "A tumultuous congressional primary season closes with record departures and defeats",
+      "description": "Already, close to 100 lawmakers who started this Congress will not be around for the next one, according to an NPR analysis, driven by record-setting retirements and primary defeats.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/16/nx-s1-5971264/congress-retirement-2026-house-senate-primary-defeat",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+      "description": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "How an Israeli cell orchestrated an anti-Qatar campaign",
-      "description": "Israeli newspaper Haaretz reports that influence experts and an ex-Mossad official were part of an anti-Qatar group.",
+      "title": "‘Nowhere to go’: Gaza’s damaged buildings turn deadly",
+      "description": "A war-damaged building collapses in Gaza City, killing at least 21 Palestinians and exposing fears of unsafe ruins.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/15/israel-influence-campaign-against-qatar?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/9/16/nowhere-to-go-gazas-damaged-buildings-turn-deadly?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Can China play peacemaker as Iran’s foreign minister heads to Beijing?",
-      "description": "Tehran and Beijing explore diplomatic paths amid escalating tensions between Iran and the United States.",
+      "title": "Neturei Karta: Opposing Zionism",
+      "description": "Inside Neturei Karta, the ultra-Orthodox Jewish group that rejects Zionism, supports Palestinians fighting occupation.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/9/16/neturei-karta-opposing-zionism?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Election in Philippines’ Bangsamoro region ends in hung parliament",
-      "description": "No party wins majority in parliamentary polls in southern Philippines' Muslim-majority region, unofficial results show.",
+      "title": "Can the US government punish a university for boycotting Israel?",
+      "description": "The US House passed a bill that could cut universities off from federal student aid if they boycott Israel.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/15/election-in-philippines-bangsamoro-region-ends-in-hung-parliament?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/can-the-us-government-punish-a-university-for-boycotting-israel?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
-      "description": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.",
+      "title": "Poll shows Americans are increasingly alarmed by AI’s ecological footprint",
+      "description": "New poll finds over half of Americans fear AI-driven data centers will hike electricity costs and strain water supplies.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/16/poll-shows-americans-are-increasingly-alarmed-by-ais-ecological-footprint?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "US accuses Russia of trying to kill Ukrainian allies overseas",
+      "description": "The FBI says five men \"conspired to intimidate, threaten, or murder people on US soil and around the world\".",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
+      "timeAgo": "5h ago"
     },
     {
-      "title": "FBI’s Kash Patel defends hiring policy change on bestiality, prostitution",
-      "description": "Policy change sparks heated Senate debate; critics question its timing amid challenges in attracting new FBI agents.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/15/fbis-kash-patel-defends-hiring-policy-change-on-bestiality-prostitution?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "U.S. oil tops $106 as Saudi Arabia reportedly cancels some crude cargoes after pipeline closure",
-      "description": "Iran-backed Houthi militants in Yemen, meanwhile, carried out renewed strikes on Saudi Arabia this week.",
+      "title": "Continental Resources to develop massive oil patch in Venezuela",
+      "description": "Continental said it undertook an \"independent evaluation of opportunities\" in Venezuela after President Donald Trump called for the industry to invest.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
+      "url": "https://www.cnbc.com/2026/09/16/continental-resources-to-develop-massive-oil-patch-in-venezuela-.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Saudi pipeline closure is a brief interruption that will last days, U.S. Energy Secretary tells CNBC",
-      "description": "The Saudis closed the East-West pipeline after it sustained damage in a drone attack launched from Iraq.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/15/saud-arabia-east-west-pipeline-iran-war-chris-wright.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "10-year Treasury yield hits highest level since 2007 as traders bet a Fed rate hike is coming",
-      "description": "The sell-off in U.S. government debt is deepening as investors price in an interest rate hike this week.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Judge blocks Kennedy Center board from returning Trump's name to building",
-      "description": "The ruling comes four months after the same judge ordered that the Kennedy Center could not be renamed to include President Trump's name",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/15/trump-kennedy-center-name-ruling.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.",
-      "description": "Customers are signing multiyear deals for chips and more: “That’s not what the front end of a downturn looks like.”",
+      "title": "The data-center backlash is so fierce that Republican candidates are willing to cross Trump",
+      "description": "President Trump has been a vocal supporter of data centers, but GOP candidates in tight midterm races are increasingly taking a different tack.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/the-data-center-backlash-is-so-fierce-that-republican-candidates-are-willing-to-cross-trump-9a6eaa03?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Why investors need to learn the difference between uncertainty and risk in today’s market",
-      "description": "Hedge-fund founder Alec Litowitz says investor should make their identity about being adaptive, rather than trying to be right.",
+      "title": "'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices",
+      "description": "Prices for diesel, the fuel type used to power trucks and trains, came in at an all-time high of $6.31 per gallon on Wednesday.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/16/transport-economy-diesel-prices-iran.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Sen. Blumenthal urges AI oversight: 'We're on the verge of losing control'",
+      "description": "The Trump administration argues that beating China in the race to AI dominance is an all-important goal.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/16/blumenthal-ai-regulation-safety-oversight.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "My son has a potentially fatal genetic disease. What should I do with my $1.3 million estate?",
+      "description": "“He is also the sole beneficiary of my 403(b) accounts.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/what-investors-need-to-do-and-mistakes-not-to-make-in-todays-uncertain-world-8eb74333?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Week 2 Fantasy football waiver wire: Bryce Young's huge opener makes him an intriguing QB to add",
-      "description": "Bryce Young is coming off a four-touchdown performance and has now topped 20 Fantasy points in six of his past nine games",
+      "title": "Hyperscaler debt signals warning sign, Apollo cautions",
+      "description": "Credit default swaps for companies building data centers are getting pricier, and it's not because banks are hedging more of their bets.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/16/hyperscaler-debt-signals-warning-sign-apollo-cautions.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "UFC 331 fight card: Arman Tsarukyan, Gable Steveson among three undercard bouts to watch",
+      "description": "Tsarukyan and Steveson emphasize how compelling Saturday night in Los Angeles can be",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/fantasy/football/news/week-2-fantasy-football-waiver-wire-bryce-young-has-huge-opener/",
+      "url": "https://www.cbssports.com/ufc/news/ufc-331-fight-card-arman-tsarukyan-gable-steveson-patricio-pitbull-undercard/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Clippers, Raptors agree to Kawhi Leonard trade again: Toronto finally poised to move forward as East contender",
-      "description": "The dust has settled after the NBA punished the Clippers, and Leonard is set to finally move back to Toronto",
+      "title": "How Tom Brady made Joe Thomas cry and why Browns legend turned down chance to play with Peyton Manning",
+      "description": "The Hall of Fame left tackle relished his football home in Cleveland, but he eventually realized his impact couldn't save the Browns",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nba/news/clippers-raptors-agree-kawhi-leonard-trade-again/",
+      "url": "https://www.cbssports.com/nfl/news/tom-brady-browns-joe-thomas-peyton-manning/",
       "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Golf awards for 2026: Scottie Scheffler, Cameron Young show out as Gary Woodland tugs at heartstrings",
-      "description": "Revisiting the best players, moments and tournaments of the 2026 PGA Tour season",
+      "title": "Ranking 5 NFL teams that need a win the most in Week 2, including the Cowboys and Patriots",
+      "description": "It's already a make-or-break week for some of these NFL teams",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/golf/news/golf-awards-2026-scottie-scheffler-cameron-young-gary-woodland/",
+      "url": "https://www.cbssports.com/nfl/news/ranking-5-nfl-teams-need-a-win-the-most-in-week-2/",
       "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "SportsLine Newsletter Tuesday, September 15, 2026",
-      "description": "Today's best bets + Parlay of the Day + Royals-Astros + LSU-Ole Miss",
+      "title": "Self-learning AI releases NFL picks, score predictions every Week 2 game",
+      "description": "SportsLine AI evaluated the Week 2 NFL odds and revealed its NFL score predictions and best NFL picks",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/",
+      "url": "https://www.cbssports.com/betting/news/nfl-picks-ai-score-predictions-for-every-week-2-2026-game/",
       "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     }
   ]
 }
