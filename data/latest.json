@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-16T17:41:20.659527+00:00",
-  "edition": "#224",
+  "date": "2026-09-17T17:42:22.493443+00:00",
+  "edition": "#225",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Your AI agents can now control your Google Home devices",
-      "description": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natur…",
+      "title": "Even the King of England has his hesitations about AI",
+      "description": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and UK government.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Anthropic merges Claude chat and Cowork in one interface",
-      "description": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+      "description": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+      "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Claude Cowork and chat are now one Claude",
-      "description": "Article URL: https://claude.com/blog/cowork-is-now-claude Comments URL: https://news.ycombinator.com/item?id=49729412 Points: 54 # Comments: 70",
+      "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
+      "description": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into purchases.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
+      "description": "Article URL: https://zscc.ai/careers?job_id=109821 Comments URL: https://news.ycombinator.com/item?id=49743567 Points: 0 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://claude.com/blog/cowork-is-now-claude",
+      "url": "https://zscc.ai/careers?job_id=109821",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "This Code Is CRAP (2011)",
-      "description": "Article URL: https://testing.googleblog.com/2011/02/this-code-is-crap.html Comments URL: https://news.ycombinator.com/item?id=49729228 Points: 50 # Comments: 39",
+      "title": "I didn't sign the Fields medallists' letter",
+      "description": "Article URL: https://terrytao.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/ Comments URL: https://news.ycombinator.com/item?id=49743534 Points: 27 # Comments: 9",
       "source": "Hacker News",
-      "url": "https://testing.googleblog.com/2011/02/this-code-is-crap.html",
+      "url": "https://terrytao.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Hear why Neuralink co-founder Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
-      "description": "At this year's Disrupt, Neuralink's co-founder Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
+      "title": "Show HN: AutoBot – live voice control for long-running AI work",
+      "description": "I wanted to manage long horizon agentic workstreams via voice, then put my phone down, and have a harness manage completion - extending into full computer use. I was trying to build a personal Jarvis, so I benchmarked A…",
+      "source": "Hacker News",
+      "url": "https://github.com/demeyer1/Autobot",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
-      "description": "“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?” That’s the question that drove Matthew de Jonge to spend six years building Fortell, an AI…",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Charles said Diana would be forgotten 'soon enough', Earl Spencer claims in book",
-      "description": "Buckingham Palace has not commented on the first claims from a book written by the brother of the late princess.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Photos show widespread damage at US sites from Iranian attacks",
-      "description": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
+      "title": "Remains found after wildfire identified as mother-of-three missing since 2019",
+      "description": "A 56-year-old man is arrested after the remains of Joanne Sheen were found in London almost seven years after she went missing.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c9e8e21x3vp4o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "'Putney pusher' suspect found dead at home",
-      "description": "Nicholas Brandram was a suspect in the incident where a woman was shoved into the path of a bus nine years ago.",
+      "title": "Father's tribute to 'sweetest little boy' Noah Woods",
+      "description": "Rhys Woods pays tribute to his three-year-old son and offers \"deepest gratitude\" to local people.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6783ekp0yn8o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cmkg71ygwny7o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Congress is under pressure to act on AI — here's what that could look like",
-      "description": "Lawmakers are expressing broader willingness to regulate AI development, but the path forward may not be a quick one.",
+      "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
+      "description": "The comments were made at a summit in Scotland with participants from AI giants such as Nvidia, OpenAI and Anthropic.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "Interest rates held but Bank signals rise if energy prices stay high",
+      "description": "Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "A year ago, President Trump pledged to lower Medicaid drug prices. Has that happened?",
+      "description": "The Trump administration's efforts to lower drug prices included promised changes to Medicaid. But it's still unclear which drugs will be affected. And each state has to opt in.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/09/16/nx-s1-5969933/congress-ai-regulation",
+      "url": "https://www.npr.org/2026/09/17/nx-s1-5971066/trump-rx-medicaid-generous-drug-prices-pfizer-favored-nation",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "DOJ charges Russian agents with plotting attacks, including in US",
-      "description": "The indictment says the defendants belong to a network that \"is one arm of the Russian Federation's apparatus used to carry out external attacks\" worldwide.",
+      "title": "'American Scoundrel' traces Roy Cohn's playbook from McCarthyism to Trump",
+      "description": "In Kai Bird's biography of Cohn, he looks at how the lawyer taught Trump how to deny, delay, attack, sue and countersue, never admit defeat, side-step paying bills and avoid a paper trail.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/09/16/g-s1-143590/us-justice-department-russian-operatives-attacks",
+      "url": "https://www.npr.org/2026/09/17/nx-s1-5965831/american-scoundrel-traces-roy-cohns-playbook-from-mccarthyism-to-trump",
       "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "The UK’s King Charles warns AI leaders of ‘existential dangers’",
+      "description": "British monarch highlights AI's potential darker capacities, urging safety and humanity-focused development.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/17/the-uks-king-charles-warns-ai-leaders-of-existential-dangers?traffic_source=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "A tumultuous congressional primary season closes with record departures and defeats",
-      "description": "Already, close to 100 lawmakers who started this Congress will not be around for the next one, according to an NPR analysis, driven by record-setting retirements and primary defeats.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/16/nx-s1-5971264/congress-retirement-2026-house-senate-primary-defeat",
-      "category": "🌎 TOP NEWS",
+      "title": "UN fact-finding mission says US committed possible war crimes in Iran",
+      "description": "The mission also said Iranian authorities committed crimes against humanity during their crackdown on recent protests.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/17/un-fact-finding-mission-says-us-committed-possible-war-crimes-in-iran?traffic_source=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-      "description": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year.",
+      "title": "Xabi Alonso says Chelsea ambitions ‘very clear’ as Boehly era ends",
+      "description": "Chelsea announce that Clearlake will acquire the stakes of Todd Boehly and director Mark Walter.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/9/17/xabi-alonso-says-chelsea-ambitions-very-clear-as-boehly-era-ends?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Five killed as Saudi Arabia and Yemen’s Houthis trade attacks",
+      "description": "Houthi leader Abdel-Malik al-Houthi says Saudi claims that the group targeted Mecca are a 'heinous lie'.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/17/five-killed-as-saudi-arabia-and-yemens-houthis-trade-attacks?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+      "description": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "just now"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "‘Nowhere to go’: Gaza’s damaged buildings turn deadly",
-      "description": "A war-damaged building collapses in Gaza City, killing at least 21 Palestinians and exposing fears of unsafe ruins.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/16/nowhere-to-go-gazas-damaged-buildings-turn-deadly?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Neturei Karta: Opposing Zionism",
-      "description": "Inside Neturei Karta, the ultra-Orthodox Jewish group that rejects Zionism, supports Palestinians fighting occupation.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/9/16/neturei-karta-opposing-zionism?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Can the US government punish a university for boycotting Israel?",
-      "description": "The US House passed a bill that could cut universities off from federal student aid if they boycott Israel.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/can-the-us-government-punish-a-university-for-boycotting-israel?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Poll shows Americans are increasingly alarmed by AI’s ecological footprint",
-      "description": "New poll finds over half of Americans fear AI-driven data centers will hike electricity costs and strain water supplies.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/16/poll-shows-americans-are-increasingly-alarmed-by-ais-ecological-footprint?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "US accuses Russia of trying to kill Ukrainian allies overseas",
-      "description": "The FBI says five men \"conspired to intimidate, threaten, or murder people on US soil and around the world\".",
+      "title": "Hyrox athlete apologises for continuing race after soiling herself",
+      "description": "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "5h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Continental Resources to develop massive oil patch in Venezuela",
-      "description": "Continental said it undertook an \"independent evaluation of opportunities\" in Venezuela after President Donald Trump called for the industry to invest.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/16/continental-resources-to-develop-massive-oil-patch-in-venezuela-.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "The data-center backlash is so fierce that Republican candidates are willing to cross Trump",
-      "description": "President Trump has been a vocal supporter of data centers, but GOP candidates in tight midterm races are increasingly taking a different tack.",
+      "title": "AI was supposed to kill Google search. These numbers show the opposite, analyst says.",
+      "description": "Google’s lead in search has strengthened and AI is leading to new growth, an Evercore ISI analyst notes.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-data-center-backlash-is-so-fierce-that-republican-candidates-are-willing-to-cross-trump-9a6eaa03?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/ai-was-supposed-to-kill-google-search-these-numbers-show-the-opposite-analyst-says-a3be9495?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices",
-      "description": "Prices for diesel, the fuel type used to power trucks and trains, came in at an all-time high of $6.31 per gallon on Wednesday.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/16/transport-economy-diesel-prices-iran.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Sen. Blumenthal urges AI oversight: 'We're on the verge of losing control'",
-      "description": "The Trump administration argues that beating China in the race to AI dominance is an all-important goal.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/16/blumenthal-ai-regulation-safety-oversight.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "My son has a potentially fatal genetic disease. What should I do with my $1.3 million estate?",
-      "description": "“He is also the sole beneficiary of my 403(b) accounts.”",
+      "title": "Why growth stocks’ surprising strength may be warning of a market bubble",
+      "description": "Yet another warning sign of a stock-market bubble is coming from growth stocks’ surprising strength.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/why-growth-stocks-surprising-strength-may-be-warning-of-a-market-bubble-5288a7dc?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Hyperscaler debt signals warning sign, Apollo cautions",
-      "description": "Credit default swaps for companies building data centers are getting pricier, and it's not because banks are hedging more of their bets.",
+      "title": "Trump photo seems to reference Kennedy Center demolition amid legal battle over closure",
+      "description": "President Donald Trump wants his name on the Kennedy Center. But a judge has ruled it cannot be placed there without authorization by Congress.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/16/hyperscaler-debt-signals-warning-sign-apollo-cautions.html",
+      "url": "https://www.cnbc.com/2026/09/17/trump-kennedy-center-demolish-beatty.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "UFC 331 fight card: Arman Tsarukyan, Gable Steveson among three undercard bouts to watch",
-      "description": "Tsarukyan and Steveson emphasize how compelling Saturday night in Los Angeles can be",
+      "title": "AI needs to have 'reasonable guidelines,' Palantir's Karp tells CNBC",
+      "description": "Palantir CEO Alex Karp called for \"reasonable guidelines\" on artificial intelligence regulation as tech and policy leaders deliberate over the technology.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/17/ai-safety-palantir-karp.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Book your Thanksgiving and Christmas travel now — or risk getting priced out of flying home for the holidays",
+      "description": "Thanksgiving, Hanukkah and Christmas are still months away — but travel experts are advising those heading home for the holidays to book their flights now.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-best-time-to-book-your-flight-home-for-the-holidays-yesterday-6f5928f2?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Like Costco, Walmart will sell Medicare Advantage plans",
+      "description": "Walmart will sell Medicare Advantage plans as part of a new partnership with a nonprofit health insurer.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/like-costco-walmart-to-sell-medicare-advantage-plans-b31977d2?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Fantasy football rankings Week 2: Dave Richard makes tough decisions who to start, sit and flex",
+      "description": "Dave Richard dives deep into the players who Fantasy Football managers will have scratching their heads",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/ufc/news/ufc-331-fight-card-arman-tsarukyan-gable-steveson-patricio-pitbull-undercard/",
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-week-2-dave-richard-makes-tough-decisions-who-to-start-sit-and-flex/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "How Tom Brady made Joe Thomas cry and why Browns legend turned down chance to play with Peyton Manning",
-      "description": "The Hall of Fame left tackle relished his football home in Cleveland, but he eventually realized his impact couldn't save the Browns",
+      "title": "NFL DFS, Bills vs. Lions: Top daily Fantasy football picks, lineup advice for 'Thursday Night Football'",
+      "description": "DFS millionaire Mike McClure shares his top daily Fantasy picks and lineups for Buffalo vs. Detroit on 'Thursday Night Football'",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/tom-brady-browns-joe-thomas-peyton-manning/",
+      "url": "https://www.cbssports.com/betting/news/nfl-dfs-bills-lions-daily-fantasy-picks-lineup-advice-thursday-night-football-draftkings-fanduel/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Ranking 5 NFL teams that need a win the most in Week 2, including the Cowboys and Patriots",
-      "description": "It's already a make-or-break week for some of these NFL teams",
+      "title": "UFC 331 predictions, odds, best bets: Joshua Van and total rounds prop among top picks to consider",
+      "description": "The action heats up on Saturday night in Los Angeles and there's plenty of ways to get in on it",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/ranking-5-nfl-teams-need-a-win-the-most-in-week-2/",
+      "url": "https://www.cbssports.com/ufc/news/ufc-331-predictions-odds-best-bets-joshua-van-alexandre-pantoja-arman-tsarukyan/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Self-learning AI releases NFL picks, score predictions every Week 2 game",
-      "description": "SportsLine AI evaluated the Week 2 NFL odds and revealed its NFL score predictions and best NFL picks",
+      "title": "Bills vs. Lions predictions, odds, spread, time: Week 2 'Thursday Night Football' picks from advanced model",
+      "description": "The SportsLine projection model has revealed its Detroit vs. Buffalo picks for NFL Week 2 on Thursday, Sept. 17 as Highmark Stadium hosts its first regular-season game",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/nfl-picks-ai-score-predictions-for-every-week-2-2026-game/",
+      "url": "https://www.cbssports.com/betting/news/bills-lions-predictions-odds-time-spread-week-2-nfl-thursday-night-football-picks-best-bets/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
