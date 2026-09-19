@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-18T17:09:21.707988+00:00",
-  "edition": "#226",
+  "date": "2026-09-19T16:42:11.181428+00:00",
+  "edition": "#227",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
-      "description": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+      "title": "Leaving DigitalOcean, one site at a time",
+      "description": "Article URL: https://keith.is/post/leaving-digitalocean/ Comments URL: https://news.ycombinator.com/item?id=49767743 Points: 4 # Comments: 0",
+      "source": "Hacker News",
+      "url": "https://keith.is/post/leaving-digitalocean/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Family offices are clamoring for AI investments",
-      "description": "Whether it's a permanent shift or part of a familiar cycle is worth asking, though.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "US Treasuries Have Become Unappetizing for Foreign Central Banks and Governments",
-      "description": "Article URL: https://wolfstreet.com/2026/09/17/treasuries-have-become-badly-unappetizing-for-foreign-central-banks-governments/ Comments URL: https://news.ycombinator.com/item?id=49756171 Points: 59 # Comments: 25",
+      "title": "Jobs Without LeetCode",
+      "description": "Article URL: https://noleet.lol/jobs Comments URL: https://news.ycombinator.com/item?id=49767386 Points: 9 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://wolfstreet.com/2026/09/17/treasuries-have-become-badly-unappetizing-for-foreign-central-banks-governments/",
+      "url": "https://noleet.lol/jobs",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "FBI, Coast Guard boarded hacked oil tankers heading towards US coast",
-      "description": "The feds are said to be investigating the compromise of the tankers' networks, which in one case interfered with one of the tanker's navigation and propulsion systems.",
+      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+      "description": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an ex…",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/18/fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-coast/",
+      "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-      "description": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
+      "title": "AI safety conversations have gotten unbelievable",
+      "description": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+      "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "AI is an elite crime spree",
-      "description": "Article URL: https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree Comments URL: https://news.ycombinator.com/item?id=49755590 Points: 70 # Comments: 16",
+      "title": "Agreement between the USA and Denmark (1951,2004) [pdf]",
+      "description": "Article URL: https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf Comments URL: https://news.ycombinator.com/item?id=49766976 Points: 9 # Comments: 2",
       "source": "Hacker News",
-      "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
+      "url": "https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview",
-      "description": "Princess Diana's brother tells the BBC's Laura Kuenssberg that \"we'll forget her soon enough\" were \"exactly\" the words used by the then-Prince of Wales.",
+      "title": "Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy",
+      "description": "Article URL: https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951 Comments URL: https://news.ycombinator.com/item?id=49766821 Points: 40 # Commen…",
+      "source": "Hacker News",
+      "url": "https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Major seaside hotel fire treated as suspicious",
+      "description": "About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Journalists report being denied White House access after Trump bans some outlets",
+      "description": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Watch: Diana's brother says Charles 'went ballistic' in phone call after her death",
-      "description": "Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he has made in a new book.",
+      "title": "Davey says Lib Dems are 'firewall against Farage' as conference begins",
+      "description": "Lib Dem leader Ed Davey claimed the party was aiming to beat its 2024 record of 72 MPs in any snap election.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cq8jdkmgn7n1o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Flight chaos caused by software defect in space of a millisecond, report says",
-      "description": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.",
+      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "description": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "5h ago"
     },
     {
-      "title": "What expensive sulfur means for your dinner table",
-      "description": "Oil supplies are falling, sulfur prices are threatening food costs, and we measuring Lego against Hollywood",
+      "title": "CNN, MS NOW, Politico reporters denied access to White House following Trump ban",
+      "description": "Three reporters were blocked from the White House grounds Saturday morning, a day after President Trump said CNN, Politico, and MS NOW would be banned for reporting \"FICTION and LIES.\"",
       "source": "NPR",
-      "url": "https://www.npr.org/sections/planet-money/2026/09/18/nx-s1-5974103/what-expensive-sulfur-means-for-your-dinner-table",
+      "url": "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "MI5 accepts it gave evidence based on lies in neo-Nazi spy case",
-      "description": "It is the first time MI5 has confirmed the BBC's revelation that it gave evidence based on lies in court while defending the violent informant.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss",
+      "title": "Opinion: Remembering Annie Dillard, nature writer",
+      "description": "With her 1974 book, \"Pilgrim at Tinker Creek,\" Annie Dillard became the youngest woman to win the Pulitzer Prize. We take a moment to remember her and her work.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/19/nx-s1-5966624/opinion-remembering-annie-dillard-nature-writer",
       "category": "🌎 TOP NEWS",
       "timeAgo": "4h ago"
     },
     {
-      "title": "Will even one of the U.N.'s 17 'sustainable development goals' be met by 2030?",
-      "description": "The 17 goals agreed upon by world leaders are incredibly ambitious. Are we even close to achieving any of them? If we don't, is the project a failure?",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/18/g-s1-143738/united-nations-sustainable-development-goals-hunger-climate-gender",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Jerusalem Daily: Netanyahu says he will ‘change the face of the Middle East",
-      "description": "Israeli Prime Minister Benjamin Netanyahu says he will ‘change the face of the Middle East’",
+      "title": "Demonstrators in US form human chain to protest Kennedy Center closure vote",
+      "description": "'Hands Around the Kennedy Center' rally drew thousands after Trump-backed board votes to close the iconic arts venue.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/jerusalem-daily-netanyahu-says-he-will-change-the-face-of-the-middle-east?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/9/19/demonstrators-in-us-form-human-chain-to-protest-kennedy-center-closure-vote?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "More than 112,000 displaced by Yemen fighting; thousands flee to Djibouti",
-      "description": "United Nations says 22 million people need humanitarian aid as conflict intensifies.",
+      "title": "Police hiring standards matter. But they alone cannot stop abuse",
+      "description": "Law enforcement in the US needs high hiring standards. But it also needs reform and trust-building in communities.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/18/more-than-112000-displaced-by-yemen-fighting-thousands-flee-to-djibouti?traffic_source=rss",
+      "url": "https://www.aljazeera.com/opinions/2026/9/19/police-hiring-standards-matter-but-they-alone-cannot-stop-abuse?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Nigerian forces fire at protesters rallying over deaths of detained miners",
-      "description": "Government has promised to fully investigate after 37 miners died while being held in police custody in Niger State.",
+      "title": "Jerusalem Daily: Gaza’s children return to schools",
+      "description": "It's the first official day back to school for Gaza's children.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/18/nigerian-forces-fire-at-protesters-rallying-over-deaths-of-detained-miners?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/jerusalem-daily-gazas-children-return-to-schools?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Police hit migrants with batons during camp transfer in Ceuta",
-      "description": "Police in Ceuta used batons and fired shots into the air as they began moving migrants from beaches to a new camp.",
+      "title": "Djibouti refugee crisis worsens as more than 2,700 Yemenis arrive",
+      "description": "More than 2,700 Yemenis have fled to Djibouti, many making dangerous sea crossings to escape the conflict.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/police-hit-migrants-with-batons-during-camp-transfer-in-ceuta?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/djibouti-refugee-crisis-worsens-as-more-than-2700-yemenis-arrive?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-      "description": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
+      "title": "Google's Gemini AI hacked three companies in security test",
+      "description": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "Police begin operation to move migrants from Ceuta beaches",
-      "description": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site.",
+      "title": "Trump says he is banning CNN and Politico from White House",
+      "description": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "5h ago"
+      "timeAgo": "11h ago"
     },
     {
-      "title": "Two signs investors don’t have to fear an AI slowdown",
-      "description": "Neocloud companies CoreWeave and Nebius are signaling strong demand and rising prices for AI chips.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/two-signs-investors-dont-have-to-fear-an-ai-slowdown-5ec40948?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "What’s really driving inflation and rising interest rates",
-      "description": "Also in Weekend Reads: The housing market, retirement planning with an age gap, and a combination of warnings and opportunities in the stock market.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/whats-really-driving-inflation-and-rising-interest-rates-59a9cd51?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Nike parts ways with Kylian Mbappé, soccer superstar signs with On",
-      "description": "Mbappe had been signed with Nike for roughly two decades, and his agreement with On is the first it has made with a soccer player.",
+      "title": "MS NOW, CNN and Politico journalists blocked from White House after Trump ban",
+      "description": "Journalists from MS NOW, CNN and Politico were denied access to the White House, one day after Trump banned three media outlets over their coverage of him.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/18/kylian-mbappe-signs-with-on-after-nike-parts-ways.html",
+      "url": "https://www.cnbc.com/2026/09/19/trump-media-ban-ms-now.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Why investors’ best move in reaction to Fed’s rate hike is doing nothing at all",
-      "description": "Even when rates are higher, stocks should still beat bonds",
+      "title": "It’s not a winner-take-all stock market. This hedge-fund manager favors three underdogs.",
+      "description": "There’s a winner-take-all fallacy in certain industries, says a hedge-fund manager.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-investors-best-move-in-reaction-to-feds-rate-hike-is-doing-nothing-at-all-6ff56b4c?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/its-not-a-winner-take-all-stock-market-this-hedge-fund-manager-favors-three-underdogs-a366ab6f?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
-      "description": "The chairman both explained this week's decision to raise interest rates, and raised vexing questions about what comes next",
+      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+      "description": "“They had been married for over 30 years when she passed.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
+      "description": "“I spend a lot of time away from my family and spend money on gas, taking him out to eat.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Like Costco, Walmart will sell Medicare Advantage plans",
+      "description": "Walmart will sell Medicare Advantage plans as part of a new partnership with a nonprofit health insurer.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/like-costco-walmart-to-sell-medicare-advantage-plans-b31977d2?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies",
+      "description": "Smoke and flames were seen near Riyadh’s main airport after Saudi civil-defense alerts, while Pakistan urged Iran to protect energy supplies and shipping.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html",
+      "url": "https://www.cnbc.com/2026/09/19/riyadh-airport-smoke-saudi-arabia.html",
       "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Netflix is too focused on podcasts and not enough on good shows, analysts say",
-      "description": "“We see breakout hits as a must for the stock to work again,” Wells Fargo analysts said as they cut their rating on shares of the streaming platform.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/netflix-is-too-focused-on-podcasts-and-not-enough-on-good-shows-analysts-say-be758c93?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "UFC 331 fight card predictions: Expert picks, odds for Joshua Van vs. Alexandre Pantoja in Los Angeles",
-      "description": "Check out who the experts at CBS Sports are taking in the flyweight title fight on Saturday",
+      "title": "UFC 331 predictions, odds, best bets: Joshua Van and total rounds prop among top picks to consider",
+      "description": "The action heats up on Saturday night in Los Angeles and there's plenty of ways to get in on it",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/ufc/news/ufc-331-fight-card-predictions-joshua-van-alexandre-pantoja-expert-picks/",
+      "url": "https://www.cbssports.com/ufc/news/ufc-331-predictions-best-bets-odds-joshua-van-alexandre-pantoja-arman-tsarukyan/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "College football schedule, games 2026: What to watch in Week 3, TV channels, streaming, kickoff times",
-      "description": "Week 3 brings tons of action with heavy conference title implications and a few unranked teams trying to make a name for themselves. It all culminates in one of 2026's most anticipated games of the year",
+      "title": "UFC 331 odds, predictions, time: Joshua Van vs. Alexandre Pantoja 2 picks by elite MMA expert",
+      "description": "SportsLine's Kyle Marley reveals his picks for the UFC 331: Van vs. Pantoja 2 card Saturday at Crypto.com Arena in Los Angeles on Paramount+",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/college-football-schedule-games-2026-week-3-tv-channels-streaming-kickoff-times/",
+      "url": "https://www.cbssports.com/betting/news/ufc-331-odds-predictions-time-joshua-van-alexandre-pantoja-2-fight-card-picks-bets/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Houston vs. Texas Tech prediction, odds, time: Week 3 college football Friday picks by proven model",
-      "description": "The SportsLine Projection Model has revealed its best bets for the Big 12 opener between the Houston Cougars and Texas Tech Red Raiders on Friday",
+      "title": "2026 Week 2 NFL picks, best bets from proven model: This 5-leg parlay pays nearly 25-1",
+      "description": "After 10,000 simulations, SportsLine's model reveals its top Week 2 NFL football parlay",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/houston-texas-tech-prediction-odds-time-week-3-college-football-friday-picks-best-bets/",
+      "url": "https://www.cbssports.com/betting/news/2026-week-2-nfl-parlay-picks-predictions-best-bets-today/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Falcons expected to start Cooper Rush vs. Panthers as Michael Penix Jr. continues recovery",
-      "description": "Rush took Atlanta's first-team reps Friday and is expected to start against Carolina while Penix continues recovering from last season's ACL tear",
+      "title": "College football picks: Predictions against the spread, odds, betting lines for top 25 games in Week 3",
+      "description": "A closer look at the top games in a loaded Week 3",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/falcons-starting-qb-cooper-rush-panthers/",
+      "url": "https://www.cbssports.com/college-football/news/college-football-picks-predictions-spread-odds-betting-lines-top-25-games-week-3/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
