@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-19T16:42:11.181428+00:00",
-  "edition": "#227",
+  "date": "2026-09-20T16:56:22.748535+00:00",
+  "edition": "#228",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Leaving DigitalOcean, one site at a time",
-      "description": "Article URL: https://keith.is/post/leaving-digitalocean/ Comments URL: https://news.ycombinator.com/item?id=49767743 Points: 4 # Comments: 0",
+      "title": "Show HN: Radius – A Meetup.com Alternative",
+      "description": "Hello HN! I'm relaunching Radius [1] - far too long after the original Show HN [2] (I'll blame the day job for that). Radius started out from my frustration with not knowing what was going on around me. The initial plan…",
       "source": "Hacker News",
-      "url": "https://keith.is/post/leaving-digitalocean/",
+      "url": "https://radius.to/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Jobs Without LeetCode",
-      "description": "Article URL: https://noleet.lol/jobs Comments URL: https://news.ycombinator.com/item?id=49767386 Points: 9 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://noleet.lol/jobs",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-      "description": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an ex…",
+      "title": "New California law will penalize influencers who don’t disclose political ads",
+      "description": "The new legislation adds teeth to disclosure requirements for online influencers who are paid to post about politics.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+      "url": "https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "AI safety conversations have gotten unbelievable",
-      "description": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+      "title": "TechCrunch Mobility: How do we know when an AV is safe enough?",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free — just click TechCrunch Mobility!",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+      "url": "https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Prompts Aren't Real",
+      "description": "Article URL: https://evaluation.club Comments URL: https://news.ycombinator.com/item?id=49777111 Points: 4 # Comments: 1",
+      "source": "Hacker News",
+      "url": "https://evaluation.club",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)",
+      "description": "Article URL: https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0 Comments URL: https://news.ycombinator.com/item?id=49777106 Points: 8 # Comments: 0",
+      "source": "Hacker News",
+      "url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Custom home server built from spare parts",
+      "description": "Article URL: https://asmat.ca/blog/i-went-bananas/ Comments URL: https://news.ycombinator.com/item?id=49776960 Points: 5 # Comments: 0",
+      "source": "Hacker News",
+      "url": "https://asmat.ca/blog/i-went-bananas/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Agreement between the USA and Denmark (1951,2004) [pdf]",
-      "description": "Article URL: https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf Comments URL: https://news.ycombinator.com/item?id=49766976 Points: 9 # Comments: 2",
-      "source": "Hacker News",
-      "url": "https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy",
-      "description": "Article URL: https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951 Comments URL: https://news.ycombinator.com/item?id=49766821 Points: 40 # Commen…",
-      "source": "Hacker News",
-      "url": "https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Major seaside hotel fire treated as suspicious",
-      "description": "About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel.",
+      "title": "German Chancellor Merz vows to stay on despite 'disaster' state election exit polls",
+      "description": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Journalists report being denied White House access after Trump bans some outlets",
-      "description": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
+      "title": "Key takeaways from BBC interview as Earl Spencer defends claims about King",
+      "description": "Earl Spencer speaks to the BBC's Laura Kuenssberg ahead of the publication of his book about his sister Diana, Princess of Wales.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cry4z1xykeleo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Davey says Lib Dems are 'firewall against Farage' as conference begins",
-      "description": "Lib Dem leader Ed Davey claimed the party was aiming to beat its 2024 record of 72 MPs in any snap election.",
+      "title": "Watch: Emotional Earl Spencer says he misses sister Diana every day",
+      "description": "\"This is my swan song too. I'm not here to bang on about Diana, this is my final word, celebration of her\", Earl Spencer told presenter Laura Kuenssberg.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq8jdkmgn7n1o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/videos/cw62mdrjll18o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-      "description": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
+      "title": "Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC",
+      "description": "Princess Diana's brother describes press coverage of Prince Harry and Meghan as a \"cancerous influence in their life\" and says he saw his sister cry \"tears of despair\" over interest in her.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "5h ago"
-    },
-    {
-      "title": "CNN, MS NOW, Politico reporters denied access to White House following Trump ban",
-      "description": "Three reporters were blocked from the White House grounds Saturday morning, a day after President Trump said CNN, Politico, and MS NOW would be banned for reporting \"FICTION and LIES.\"",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Opinion: Remembering Annie Dillard, nature writer",
-      "description": "With her 1974 book, \"Pilgrim at Tinker Creek,\" Annie Dillard became the youngest woman to win the Pulitzer Prize. We take a moment to remember her and her work.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/19/nx-s1-5966624/opinion-remembering-annie-dillard-nature-writer",
+      "url": "https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "4h ago"
     },
     {
-      "title": "Demonstrators in US form human chain to protest Kennedy Center closure vote",
-      "description": "'Hands Around the Kennedy Center' rally drew thousands after Trump-backed board votes to close the iconic arts venue.",
+      "title": "Trump says his D.C. arch will serve as 'military complex' with snipers and drones",
+      "description": "President Trump has claimed that military operations are needed at his proposed triumphal arch in Washington D.C., in order to protect national security. A federal court is weighing the arch's legality.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/20/nx-s1-5975449/trump-washington-dc-arch-military-complex-snipers-drones",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "PHOTOS: The precarious life of fisherfolk",
+      "description": "In the bustling heart of the southern Indian city of Chennai is a market that never sleeps, where residents from the poorest neighborhoods wage a battle of survival with the sea.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/20/g-s1-143447/photos-fishermen-sea-india",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "Atletico Madrid beat 10-man Real Madrid 2-1 in feisty La Liga derby",
+      "description": "The game hinged on Huijsen's red card early in the second half for pulling down Giuliano Simeone in the box.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/19/demonstrators-in-us-form-human-chain-to-protest-kennedy-center-closure-vote?traffic_source=rss",
+      "url": "https://www.aljazeera.com/sports/2026/9/20/atletico-madrid-beat-10-man-real-madrid-2-1-in-feisty-la-liga-derby?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Police hiring standards matter. But they alone cannot stop abuse",
-      "description": "Law enforcement in the US needs high hiring standards. But it also needs reform and trust-building in communities.",
+      "title": "Photos: Nepal flood survivors find little trace of former lives",
+      "description": "Nepal’s floods displace thousands, with survivors mourning loved ones and searching for belongings amid the debris.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/9/19/police-hiring-standards-matter-but-they-alone-cannot-stop-abuse?traffic_source=rss",
+      "url": "https://www.aljazeera.com/gallery/2026/9/20/photos-nepal-flood-survivors-find-little-trace-of-former-lives?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Jerusalem Daily: Gaza’s children return to schools",
-      "description": "It's the first official day back to school for Gaza's children.",
+      "title": "Why have US prosecutors labelled China’s Huawei a criminal enterprise?",
+      "description": "Huawei faces a landmark US trial, accused of theft, fraud and sanctions violations in a high-stakes legal battle.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/jerusalem-daily-gazas-children-return-to-schools?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/9/20/why-have-us-prosecutors-labelled-chinas-huawei-a-criminal-enterprise?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Kenya’s Ngetich breaks women-only half-marathon world record by a second",
+      "description": "Agnes Ngetich finished 50 seconds ahead of compatriot Veronica Loleo, who came second.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/9/20/kenyas-ngetich-breaks-women-only-half-marathon-world-record-by-a-second?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Djibouti refugee crisis worsens as more than 2,700 Yemenis arrive",
-      "description": "More than 2,700 Yemenis have fled to Djibouti, many making dangerous sea crossings to escape the conflict.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/djibouti-refugee-crisis-worsens-as-more-than-2700-yemenis-arrive?traffic_source=rss",
+      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+      "description": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
+      "timeAgo": "6h ago"
+    },
+    {
+      "title": "German elections under way which could decide fate of Chancellor Merz",
+      "description": "The chancellor is facing intense political pressure which will increase if his party struggles in Sunday's polls.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "8h ago"
+    },
+    {
+      "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
+      "description": "“I also own my home and an SUV outright, with no outstanding debt.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+      "description": "The Federal Reserve announced a quarter-percentage-point interest-rate hike Wednesday, to a range of 3.75%-4.0%.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Google's Gemini AI hacked three companies in security test",
-      "description": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Trump says he is banning CNN and Politico from White House",
-      "description": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "11h ago"
-    },
-    {
-      "title": "MS NOW, CNN and Politico journalists blocked from White House after Trump ban",
-      "description": "Journalists from MS NOW, CNN and Politico were denied access to the White House, one day after Trump banned three media outlets over their coverage of him.",
+      "title": "U.S. urges Americans to reconsider Middle East travel as Iran tensions rise",
+      "description": "The State Department urged Americans to reconsider Middle East travel as Houthi attacks intensify and Iran keeps the Strait of Hormuz closed.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/19/trump-media-ban-ms-now.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "It’s not a winner-take-all stock market. This hedge-fund manager favors three underdogs.",
-      "description": "There’s a winner-take-all fallacy in certain industries, says a hedge-fund manager.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/its-not-a-winner-take-all-stock-market-this-hedge-fund-manager-favors-three-underdogs-a366ab6f?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
-      "description": "“They had been married for over 30 years when she passed.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
-      "description": "“I spend a lot of time away from my family and spend money on gas, taking him out to eat.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Like Costco, Walmart will sell Medicare Advantage plans",
-      "description": "Walmart will sell Medicare Advantage plans as part of a new partnership with a nonprofit health insurer.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/like-costco-walmart-to-sell-medicare-advantage-plans-b31977d2?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies",
-      "description": "Smoke and flames were seen near Riyadh’s main airport after Saudi civil-defense alerts, while Pakistan urged Iran to protect energy supplies and shipping.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/19/riyadh-airport-smoke-saudi-arabia.html",
+      "url": "https://www.cnbc.com/2026/09/20/us-middle-east-travel-warning-iran-war-hormuz.html",
       "category": "📈 MARKETS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "UFC 331 predictions, odds, best bets: Joshua Van and total rounds prop among top picks to consider",
-      "description": "The action heats up on Saturday night in Los Angeles and there's plenty of ways to get in on it",
+      "title": "Snoopy cups at Starbucks and McDonald’s SpongeBob toys are commanding huge markups on eBay",
+      "description": "Adults are scooping up promotional items out of nostalgia — and playing into a frenzy around collectibles .",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/starbuckss-snoopy-cups-and-mcdonalds-spongebob-toys-are-commanding-huge-markups-on-ebay-ed3e514d?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "description": "“I invested on the recommendation of an executive vice president of a major New York investment bank.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
+      "description": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "Use DraftKings promo code to get $200 in bonus bets by targeting Commanders-Cowboys, Chiefs-Colts, Sunday NFL",
+      "description": "DraftKings offers $200 in bonus bets after your first $5 wager for NFL betting on Sunday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/ufc/news/ufc-331-predictions-best-bets-odds-joshua-van-alexandre-pantoja-arman-tsarukyan/",
+      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-get-200-bonus-bets-commanders-cowboys-chiefs-colts-sunday-nfl/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "UFC 331 odds, predictions, time: Joshua Van vs. Alexandre Pantoja 2 picks by elite MMA expert",
-      "description": "SportsLine's Kyle Marley reveals his picks for the UFC 331: Van vs. Pantoja 2 card Saturday at Crypto.com Arena in Los Angeles on Paramount+",
+      "title": "2026 Week 2 NFL odds, betting lines, spreads, start times: Get Week 2 NFL picks, predictions for every game",
+      "description": "SportsLine's model has analyzed the Week 2 NFL schedule and locked in its Week 2 NFL picks, predictions",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/ufc-331-odds-predictions-time-joshua-van-alexandre-pantoja-2-fight-card-picks-bets/",
+      "url": "https://www.cbssports.com/betting/news/2026-week-2-nfl-picks-predictions-betting-lines-odds-spreads/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "2026 Week 2 NFL picks, best bets from proven model: This 5-leg parlay pays nearly 25-1",
-      "description": "After 10,000 simulations, SportsLine's model reveals its top Week 2 NFL football parlay",
+      "title": "Week 2 NFL betting promos: Get almost $4,000 in bonuses from top online betting apps, sportsbooks",
+      "description": "Top Week 2 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/2026-week-2-nfl-parlay-picks-predictions-best-bets-today/",
+      "url": "https://www.cbssports.com/betting/news/week-2-nfl-betting-promos-get-almost-4000-bonuses-from-top-online-betting-apps-sportsbooks/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "College football picks: Predictions against the spread, odds, betting lines for top 25 games in Week 3",
-      "description": "A closer look at the top games in a loaded Week 3",
+      "title": "How to bet on 2026 NFL Week 2: Betting odds, trends, tips, schedule, game previews, sportsbook promos, offers",
+      "description": "Our NFL betting guide tells you where to bet on NFL Week 2, while providing odds, betting trends, schedule, promo offers, and more",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/college-football-picks-predictions-spread-odds-betting-lines-top-25-games-week-3/",
+      "url": "https://www.cbssports.com/betting/news/how-to-bet-2026-nfl-week-2-betting-odds-trends-tips-schedule-game-previews-sportsbook-promos-offers/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
