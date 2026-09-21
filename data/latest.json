@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-20T16:56:22.748535+00:00",
-  "edition": "#228",
+  "date": "2026-09-21T18:52:03.259102+00:00",
+  "edition": "#229",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Show HN: Radius – A Meetup.com Alternative",
-      "description": "Hello HN! I'm relaunching Radius [1] - far too long after the original Show HN [2] (I'll blame the day job for that). Radius started out from my frustration with not knowing what was going on around me. The initial plan…",
-      "source": "Hacker News",
-      "url": "https://radius.to/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "New California law will penalize influencers who don’t disclose political ads",
-      "description": "The new legislation adds teeth to disclosure requirements for online influencers who are paid to post about politics.",
+      "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
+      "description": "Future Google supplier Kairos Power inked a deal with Samsung C&T to help build its first 50 megawatt nuclear power plant.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/",
+      "url": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "TechCrunch Mobility: How do we know when an AV is safe enough?",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free — just click TechCrunch Mobility!",
+      "title": "Avoiding the babbling-idiot failure in a time-triggered communication system",
+      "description": "Article URL: https://ieeexplore.ieee.org/document/689473 Comments URL: https://news.ycombinator.com/item?id=49791117 Points: 3 # Comments: 0",
+      "source": "Hacker News",
+      "url": "https://ieeexplore.ieee.org/document/689473",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Meta’s AI agent has been blocked from using Amazon.com",
+      "description": "Muse isn't welcome as a shopper anymore.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/",
+      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Prompts Aren't Real",
-      "description": "Article URL: https://evaluation.club Comments URL: https://news.ycombinator.com/item?id=49777111 Points: 4 # Comments: 1",
-      "source": "Hacker News",
-      "url": "https://evaluation.club",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)",
-      "description": "Article URL: https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0 Comments URL: https://news.ycombinator.com/item?id=49777106 Points: 8 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Custom home server built from spare parts",
-      "description": "Article URL: https://asmat.ca/blog/i-went-bananas/ Comments URL: https://news.ycombinator.com/item?id=49776960 Points: 5 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://asmat.ca/blog/i-went-bananas/",
+      "title": "X will now tell users when governments have forced it to limit their posts",
+      "description": "X is expanding its “Under the Hood” transparency tool to show when posts have been downranked or withheld in response to local laws and government demands, including which country made the request.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "German Chancellor Merz vows to stay on despite 'disaster' state election exit polls",
-      "description": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
+      "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+      "description": "Article URL: https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac Comments URL: https://news.ycombinator.com/item?id=49790409 Points: 32 # Comments: 10",
+      "source": "Hacker News",
+      "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Key takeaways from BBC interview as Earl Spencer defends claims about King",
-      "description": "Earl Spencer speaks to the BBC's Laura Kuenssberg ahead of the publication of his book about his sister Diana, Princess of Wales.",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "description": "Article URL: https://openai.com/index/advisory-group-on-mathematics-and-ai/ Comments URL: https://news.ycombinator.com/item?id=49790389 Points: 10 # Comments: 3",
+      "source": "Hacker News",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "First UK charges brought over 1994 Rwanda genocide",
+      "description": "Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cry4z1xykeleo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Watch: Emotional Earl Spencer says he misses sister Diana every day",
-      "description": "\"This is my swan song too. I'm not here to bang on about Diana, this is my final word, celebration of her\", Earl Spencer told presenter Laura Kuenssberg.",
+      "title": "Airlines criticise air traffic control as second glitch causes more disruption",
+      "description": "Airlines are angry about the delays, with EasyJet saying the latest incident \"once again calls into question the resilience\" of the system.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cw62mdrjll18o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC",
-      "description": "Princess Diana's brother describes press coverage of Prince Harry and Meghan as a \"cancerous influence in their life\" and says he saw his sister cry \"tears of despair\" over interest in her.",
+      "title": "Seventeen arrested in Teesside organised crime raids",
+      "description": "The raids across Teesside follow the A66 crash which killed two police officers and five men.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/ckjrxpz03w8no?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+      "description": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "4h ago"
     },
     {
-      "title": "Trump says his D.C. arch will serve as 'military complex' with snipers and drones",
-      "description": "President Trump has claimed that military operations are needed at his proposed triumphal arch in Washington D.C., in order to protect national security. A federal court is weighing the arch's legality.",
+      "title": "Aviation regulators turn to AI to help manage the nation's airspace",
+      "description": "The Federal Aviation Administration launched an ambitious $875-million-dollar push to make the U.S. airspace more efficient. But critics say it won't solve bigger problems with air traffic control.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/09/20/nx-s1-5975449/trump-washington-dc-arch-military-complex-snipers-drones",
+      "url": "https://www.npr.org/2026/09/21/nx-s1-5976816/faa-ai-manage-airspace",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "PHOTOS: The precarious life of fisherfolk",
-      "description": "In the bustling heart of the southern Indian city of Chennai is a market that never sleeps, where residents from the poorest neighborhoods wage a battle of survival with the sea.",
+      "title": "Paramount makes concessions to salvage $111 billion Warner Bros. Discovery deal",
+      "description": "Paramount's owners have made concessions to 12 Democratic state attorneys general to settle a lawsuit that endangered the media company's bid for its larger Hollywood rival, Warner Bros. Discovery.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/09/20/g-s1-143447/photos-fishermen-sea-india",
+      "url": "https://www.npr.org/2026/09/21/nx-s1-5974909/paramount-warner-bros-lawsuit",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Atletico Madrid beat 10-man Real Madrid 2-1 in feisty La Liga derby",
-      "description": "The game hinged on Huijsen's red card early in the second half for pulling down Giuliano Simeone in the box.",
+      "title": "Protesters march on Islamabad over soaring fuel prices",
+      "description": "Pakistan’s Jamaat-e-Islami party has launched a protest march towards Islamabad over soaring fuel prices.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/20/atletico-madrid-beat-10-man-real-madrid-2-1-in-feisty-la-liga-derby?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Photos: Nepal flood survivors find little trace of former lives",
-      "description": "Nepal’s floods displace thousands, with survivors mourning loved ones and searching for belongings amid the debris.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/9/20/photos-nepal-flood-survivors-find-little-trace-of-former-lives?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Why have US prosecutors labelled China’s Huawei a criminal enterprise?",
-      "description": "Huawei faces a landmark US trial, accused of theft, fraud and sanctions violations in a high-stakes legal battle.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/20/why-have-us-prosecutors-labelled-chinas-huawei-a-criminal-enterprise?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Kenya’s Ngetich breaks women-only half-marathon world record by a second",
-      "description": "Agnes Ngetich finished 50 seconds ahead of compatriot Veronica Loleo, who came second.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/20/kenyas-ngetich-breaks-women-only-half-marathon-world-record-by-a-second?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-march-on-islamabad-over-soaring-fuel-prices?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-      "description": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+      "title": "Ceuta solidarity shirt row: How the crisis engulfed Spanish football",
+      "description": "Football has been dragged into growing tensions over the influx of migrants from Morocco to the Spanish enclave Ceuta.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/9/21/ceuta-solidarity-shirt-row-how-the-crisis-engulfed-spanish-football?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "6h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "German elections under way which could decide fate of Chancellor Merz",
-      "description": "The chancellor is facing intense political pressure which will increase if his party struggles in Sunday's polls.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
+      "title": "Paramount settles with US states in step towards merger with Warner Bros",
+      "description": "Ellison-led Paramount will avoid daily $7m fee if the $110bn Warner Bros merger closes by September 30.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/9/21/paramount-settles-with-us-states-in-step-towards-merger-with-warner-bros?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "8h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
-      "description": "“I also own my home and an SUV outright, with no outstanding debt.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
+      "title": "‘Licence to kill:’ French protests decry police use-of-force bill",
+      "description": "Thousands of protesters across France rallied against a new law they say will give police a \"licence to kill”.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/licence-to-kill-french-protests-decry-police-use-of-force-bill?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
+      "description": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\"",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+      "description": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Paramount and state AGs settle lawsuit, allowing Warner Bros. merger to proceed",
+      "description": "The antitrust lawsuit threatened to delay Paramount's acquisition until mid-2027 and to cost the company hundreds of millions of dollars in fees.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/21/paramount-reaches-settlement-over-warner-bros-merger.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
-      "description": "The Federal Reserve announced a quarter-percentage-point interest-rate hike Wednesday, to a range of 3.75%-4.0%.",
+      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
+      "description": "“We have no debt and own our primary home, a vacation home, as well as my mother’s home in another state.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Meta's Muse personal AI agent tops ChatGPT, Grok and Claude for post-launch downloads",
+      "description": "Meta's Muse AI personal agent tool had 730,000 downloads over the roughly five days after its launch.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/21/meta-muse-personal-ai-agent-downloads.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
+      "description": "“On each of these weekends away, she’s probably spending $500.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
+      "description": "Muse is gaining popularity and helping convince investors that Meta’s AI bets are paying off.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "U.S. urges Americans to reconsider Middle East travel as Iran tensions rise",
-      "description": "The State Department urged Americans to reconsider Middle East travel as Houthi attacks intensify and Iran keeps the Strait of Hormuz closed.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/20/us-middle-east-travel-warning-iran-war-hormuz.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Snoopy cups at Starbucks and McDonald’s SpongeBob toys are commanding huge markups on eBay",
-      "description": "Adults are scooping up promotional items out of nostalgia — and playing into a frenzy around collectibles .",
+      "title": "The future of retirement? Work until you die.",
+      "description": "The retirement myth has been crumbling for decades",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/starbuckss-snoopy-cups-and-mcdonalds-spongebob-toys-are-commanding-huge-markups-on-ebay-ed3e514d?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
-      "description": "“I invested on the recommendation of an executive vice president of a major New York investment bank.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
-      "description": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "Use DraftKings promo code to get $200 in bonus bets by targeting Commanders-Cowboys, Chiefs-Colts, Sunday NFL",
-      "description": "DraftKings offers $200 in bonus bets after your first $5 wager for NFL betting on Sunday",
+      "title": "Former Pitt QB Phil Jurkovec arrested on multiple felony charges after allegedly stealing truck from hospital",
+      "description": "The former Boston College and Notre Dame signal caller allegedly stole a rental box truck from a hospital valet garage and was tracked down by police using GPS",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-get-200-bonus-bets-commanders-cowboys-chiefs-colts-sunday-nfl/",
+      "url": "https://www.cbssports.com/college-football/news/phil-jurkovec-felony-arrest-pitt-boston-college/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "2026 Week 2 NFL odds, betting lines, spreads, start times: Get Week 2 NFL picks, predictions for every game",
-      "description": "SportsLine's model has analyzed the Week 2 NFL schedule and locked in its Week 2 NFL picks, predictions",
+      "title": "Justin Gaethje, Joshua Van among stars making UFC Fighter of the Year race a heated debate",
+      "description": "This year has produced multiple fighters who have strong arguments based on accomplishments",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/2026-week-2-nfl-picks-predictions-betting-lines-odds-spreads/",
+      "url": "https://www.cbssports.com/ufc/news/ufc-fighter-of-the-year-2026-debate-justin-gaethje-joshua-van-josh-hokit-sean-strickland/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Week 2 NFL betting promos: Get almost $4,000 in bonuses from top online betting apps, sportsbooks",
-      "description": "Top Week 2 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+      "title": "SEC set for record-breaking Week 4 featuring most AP Top 25 matchups in one day",
+      "description": "It's an early Separation Saturday in the SEC, which has 10 teams ranked this week",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/week-2-nfl-betting-promos-get-almost-4000-bonuses-from-top-online-betting-apps-sportsbooks/",
+      "url": "https://www.cbssports.com/college-football/news/sec-record-breaking-ap-top-25-matchups-week-4/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "How to bet on 2026 NFL Week 2: Betting odds, trends, tips, schedule, game previews, sportsbook promos, offers",
-      "description": "Our NFL betting guide tells you where to bet on NFL Week 2, while providing odds, betting trends, schedule, promo offers, and more",
+      "title": "Underdog promo code and prediction markets review: Use code CBS for up to $1,000 Bonus",
+      "description": "Learn about the Underdog Prediction Picks product within the Underdog app and use Underdog promo code CBS for up to $1,000 in bonus funds and more, as of September 21.",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/how-to-bet-2026-nfl-week-2-betting-odds-trends-tips-schedule-game-previews-sportsbook-promos-offers/",
+      "url": "https://www.cbssports.com/prediction/news/underdog-promo-code/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
