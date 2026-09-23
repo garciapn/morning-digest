@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-22T17:42:23.631365+00:00",
-  "edition": "#230",
+  "date": "2026-09-23T17:55:01.500872+00:00",
+  "edition": "#231",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Waymo’s latest expansion strategy: teenagers",
-      "description": "Waymo is opening its robotaxi service to teenagers aged 13 to 17 in Nashville, its second city the offer rides to minors.",
+      "title": "The old cybersecurity model is breaking",
+      "description": "As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive amounts of capital into startups trying to build the ne…",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/22/waymos-latest-expansion-strategy-teenagers/",
+      "url": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Review: Resident Evil is the fresh take this flagging franchise really needed",
-      "description": "Director Zach Cregger's clever reboot strikes perfect balance between horror, humor, and over-the-top gore.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/",
+      "title": "Zoox grounds Atlanta test fleet after workers report toxic gas exposure symptoms",
+      "description": "The Amazon-owned company launched an investigation after a worker submitted an OSHA complaint.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposure-symptoms/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
-      "description": "Hey HN! We’re Max and Gabriel the co-founders of Coverage Cat. We’ve been friends for over a decade, met in college then hung out mostly on the internet. We love building products that help people optimize the crufty co…",
+      "title": "Italian parliament votes for return to nuclear energy",
+      "description": "Article URL: https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567 Comments URL: https://news.ycombinator.com/item?id=49819221 Points: 8 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://www.coveragecat.com/",
+      "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "There's a high chance of devices being sold with GrapheneOS preinstalled in 2027",
-      "description": "Article URL: https://grapheneos.social/@GrapheneOS/117299954135808210 Comments URL: https://news.ycombinator.com/item?id=49804683 Points: 11 # Comments: 2",
+      "title": "Even Americans who use AI every day are worried about it",
+      "description": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "28% of job postings on company career sites have been open over 90 days",
+      "description": "Article URL: https://unlisted.careers/ghost-jobs/report/2026-09 Comments URL: https://news.ycombinator.com/item?id=49818698 Points: 57 # Comments: 67",
       "source": "Hacker News",
-      "url": "https://grapheneos.social/@GrapheneOS/117299954135808210",
+      "url": "https://unlisted.careers/ghost-jobs/report/2026-09",
       "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
-      "description": "Toyota's push comes as automakers race to develop and deploy humanoid robots.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "IT mistake erases 11 years of viewing history for hospitals’ maternity records",
-      "description": "The English hospitals recovered patient care data only.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Plot targeting Manchester's Jewish community disrupted, say police",
-      "description": "Two men were arrested in Manchester on Sunday, say counter-terror police.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Father admits causing death of his son in hotel fall",
-      "description": "The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Tim Westwood charged with two more sexual offences",
-      "description": "The alleged sexual offences date back to 1991 and 2004.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckx2zv0rx0nqo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
+      "title": "YouTube is making comments more fun — and fandom more lucrative for creators",
+      "description": "YouTube is rolling out GIF replies, voice-powered TV comments, personalized moderation, paid members-only communities, and new ways for fans to support their favorite creators.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/23/youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-creators/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
     },
     {
-      "title": "New EU industry rules would damage UK, warns Burnham",
-      "description": "The prime minister says he will raise his concerns when he meets the European Commission President later.",
+      "title": "Iran's president tells Trump it will never 'bend the knee'",
+      "description": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Inside a 'modern slavery situation' where cyber scammers are victims themselves",
-      "description": "Wired 's Andy Greenberg explains how a cybercrime operation in Southeast Asia trapped computer engineers into defrauding victims of billions of dollars. Plus, he discusses the scam involving Fresh Air.",
+      "title": "Home secretary says undetected migrant landings 'unacceptable'",
+      "description": "The arrivals of two unescorted migrant boats mark the first uncontrolled landings recorded in the UK since 2025.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yjzj8l5k5o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "UK military jamming other nations' satellites to defend itself, BBC told",
+      "description": "The head of the RAF says the UK faces \"unprecedented threats\" from adversaries in space, as a new unit is created to defend Britain's satellites.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c32l8y8kygdvo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Watch: Moment pilots eject as RAF jet crashes in Anglesey",
+      "description": "The two pilots ejected from the jet before crash and sustained minor injuries.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c6wyz0zlx10qo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "From cybersecurity to AI to Taiwan, what's at stake in Trump's summit with Xi",
+      "description": "As President Trump and China's President Xi prepare to meet, Rush Doshi of the Council on Foreign Relations explains the current state of U.S.-China relations and what to expect from this summit.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/09/22/nx-s1-5977731/inside-a-modern-slavery-situation-where-cyber-scammers-are-victims-themselves",
+      "url": "https://www.npr.org/2026/09/23/nx-s1-5978691/from-cybersecurity-to-ai-what-at-stake-in-trumps-meeting-with-and-president-xiwhy-the-us-and-china-are-at-a-precarious-moment-in-their-relationship",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "This 'fire amoeba' pushes the limit of what's possible for complex life",
-      "description": "Scientists have found a species they've named the fire amoeba, which is capable of reproducing at 145°F and continuing to move up to temperatures of 147°F — a record for complex eukaryotic life.",
+      "title": "It's getting harder to afford rent in the U.S., even for middle-income families",
+      "description": "Housing affordability challenges are spreading to higher income brackets, according to new research, which found one in five renters struggled last year to pay for their housing in full and on time.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/09/22/nx-s1-5977044/fire-amoeba-extremophile-eukaryote-life",
+      "url": "https://www.npr.org/2026/09/23/nx-s1-5977022/rent-affordability-middle-income",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "Turkiye school shooting leaves 11 pupils wounded",
-      "description": "Eleven pupils were wounded after a student opened fire near a secondary school in Manisa, western Turkiye",
+      "title": "Mexico braces for Hurricane Polo gathering strength",
+      "description": "Hurricane Polo, one of the strongest Pacific cyclones in decades, brought dangerous waves and heavy rain to Mexico.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/turkiye-school-shooting-leaves-11-pupils-wounded?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/23-09-sv-mexico-hurricane-polo-mx?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Erdogan slams Israel’s ‘genocidal mindset’ in blistering UN address",
-      "description": "Turkish leader says UN has been forced into 'dysfunction' and was 'bleeding out' in Palestine, Lebanon, Sudan.",
+      "title": "Ethiopia faces renewed war as armed groups launch offensive",
+      "description": "There are fears of a renewed war in Ethiopia after seven armed groups formed an alliance to overthrow the government.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/22/erdogan-slams-israels-genocidal-mindset-in-blistering-un-address?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/09-23-26-ethiopia-armed-groups-sv-mp4?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "‘War crime’: Jordan’s king slams Israeli West Bank expansion",
-      "description": "Jordan's King Abdullah II decried Israeli settlements in the occupied West Bank as a strategy of ‘forced displacement.'",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/war-crime-jordans-king-slams-israeli-west-bank-expansion?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Fifteen guilty in 2019 Sri Lanka Easter bombings: What the verdict says",
-      "description": "The suicide bombings were the deadliest attacks in the country since the end of its civil war in 2009.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/22/fifteen-guilty-in-2019-sri-lanka-easter-bombings-what-the-verdict-says?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
-      "description": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270.",
+      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "description": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Israel’s destruction leaves Lebanon’s border villages in ruins",
+      "description": "Israel’s destruction leaves Lebanon’s border villages in ruins",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/israels-destruction-leaves-lebanons-border-villages-in-ruins?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Syria’s al-Sharaa warns Israeli attacks endanger delicate post-war recovery",
+      "description": "President Ahmed al-Sharaa calls for Israeli withdrawal, condemning its attacks as Syria emerges from civil war.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/23/syrias-al-sharaa-warns-israeli-attacks-endanger-delicate-post-war-recovery?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "White House rolling out red carpet for historic Xi Jinping visit",
+      "description": "Trump and Xi are expected to discuss a range of issues from trade to AI during the latter's multi-day visit to Washington.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9w410v3vzo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Lindsay Clancy's lawyer asks judge to investigate juror and check his phone",
-      "description": "The attorney wants the court to look at the juror's mobile phone use and answers on questionnaires.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gvyw80dp2o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon",
-      "description": "Trump sold tech stocks including Amazon and Microsoft when the Mag 7 stocks popped on July 20, adding $291 billion in market value in one day.",
+      "title": "10-year Treasury yield leaps to fresh 19-year high after hot economic readings",
+      "description": "Treasury yields traded higher on Wednesday as new services and manufacturing sector data increased worry of further Federal Reserve rate hikes.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html",
+      "url": "https://www.cnbc.com/2026/09/23/treasury-yields-oil-inflation-fed.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "No new stock highs, no problem: Options traders bet they're coming in these names",
-      "description": "Options activity shows traders anticipate fresh highs are around the corner for a handful of names.",
+      "title": "Bond yields surge to 5.12% as Wall Street fears more potential Federal Reserve rate hikes",
+      "description": "Stocks fall, with the Nasdaq and S&P 500 retreating from record territory as bond yields suddenly jump.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Fuel prices keep rising — and so do Democrats’ chances of winning both the House and Senate",
+      "description": "Losses for President Donald Trump’s Republican Party in the midterms are expected in large part because of voters’ frustrations with the elevated cost of living.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/fuel-prices-keep-rising-and-so-do-democrats-chances-for-winning-both-the-house-and-senate-c4541380?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
+      "description": "“She currently has about 15 sitters, all independent contractors.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
+      "description": "“I draw from my IRA as needed for household repairs, trips and other larger expenses.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Market sees next Fed hike in October, following Barr comments and hot inflation reading",
+      "description": "S&P Global said its overall inflation measure hit its highest level since October 2022.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/22/no-new-stock-highs-no-problem-options-traders-bet-theyre-coming-in-these-names.html",
+      "url": "https://www.cnbc.com/2026/09/23/market-sees-next-fed-hike-in-october-following-barr-comments-hot-inflation.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "How to avoid the ‘widow tax’ and other financial headaches if your spouse dies",
-      "description": "A surviving spouse is sometimes left with less income and a higher tax bill. These tax-saving strategies can soften the impact.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-to-avoid-the-widow-tax-and-other-financial-headaches-if-your-spouse-dies-e51f2af6?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
-      "description": "“I racked up this debt to cover my living expenses for two years without an income stream.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Want to retire with more money? Leave the country for work early in your career.",
-      "description": "Gain experiences, memories and a substantial contribution to your future nest egg.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/want-to-retire-with-more-money-leave-the-country-for-work-early-in-your-career-7e568d03?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Could Meta’s viral Muse app be the company’s ChatGPT moment?",
-      "description": "Meta’s new assistant is topping App Store charts and beating ChatGPT’s early download pace, spurring renewed confidence in the company’s AI strategy",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/could-metas-viral-muse-app-be-the-companys-chatgpt-moment-8e7075aa?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Kalshi cricket 2026: How to trade on cricket prediction markets",
-      "description": "You can use Kalshi prediction markets to trade event contracts during cricket matches",
+      "title": "No first-year coach has won the Super Bowl in 37 years. Can Jesse Minter, steadfast and steady, change that?",
+      "description": "Minter has transformed defenses everywhere he's gone; now he's trying to get the Ravens over the hump",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/prediction/news/kalshi-cricket/",
+      "url": "https://www.cbssports.com/nfl/news/jesse-minter-coach-profile-ravens-background-history/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Serie A Power Rankings: Roma nipping at Inter's heels after draw; AC Milan back in the top three",
-      "description": "Inter's comeback against AS Roma showed why they should be considered in the lead in the Scudetto race",
+      "title": "Vladimir Guerrero Jr. defends bad start to $500M contract: 'Based on what I did, not ... what I'm going to do'",
+      "description": "The power-zapped first baseman put up a disappointing 2026 for a Blue Jays team that went from the World Series to closing in on playoff elimination",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/serie-a-power-rankings-roma-nipping-at-inters-heels-after-draw-ac-milan-back-in-the-top-three/",
+      "url": "https://www.cbssports.com/mlb/news/vladimir-guerrero-jr-blue-jays-contract-expectations/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Use FanDuel promo code to get $250 in bonus bets by targeting Falcons-Packers, NFL, MLB betting on Tuesday",
-      "description": "Sign up and bet with the latest FanDuel promo code on Tuesday to make your NFL and college football picks",
+      "title": "Borgata Sportsbook promo code 2026: Bet $20, get $100 instantly in bonus bets",
+      "description": "Borgata Sportsbook promo code for new users: CBS100 to bet $20, get $100 instantly in bonus bets",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-250-bonus-bets-falcons-packers-nfl-mlb-betting-tuesday/",
+      "url": "https://www.cbssports.com/betting/news/borgata-promo-code/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Three mock trades the Steelers could make to deal disgruntled CB Joey Porter Jr.",
-      "description": "Pittsburgh will have options if they decide to deal Porter before the Nov. 10 deadline",
+      "title": "Fantasy football Week 3 Start 'Em & Sit 'Em Quarterbacks: Trust Justin Herbert to finally deliver vs. Bills",
+      "description": "Jared Goff, Patrick Mahomes and Bryce Young are among Jamey Eisenberg's favorite quarterback plays in Week 3",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/joey-porter-jr-contract-three-mock-trades-steelers/",
+      "url": "https://www.cbssports.com/fantasy/football/news/week-3-start-em-sit-em-qb-trust-justin-herbert/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
