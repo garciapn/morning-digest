@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-24T17:54:39.186511+00:00",
-  "edition": "#232",
+  "date": "2026-09-25T18:01:53.908322+00:00",
+  "edition": "#233",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,162 +8,154 @@
   },
   "stories": [
     {
-      "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
-      "description": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
+      "title": "The Aeropod automates soil aeration without robotics. See it at TechCrunch Disrupt.",
+      "description": "Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+      "url": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-      "description": "Hello! We’re Sid, Alex, Ketan, and Milan. We’re building Whiteboard, an open-source desktop app where humans and agents can architect software together in a common workspace. Here’s our repo: https://github.com/devdotfa…",
+      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+      "description": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Astra and Opus just passed Turing’s other test",
+      "description": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+      "description": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Jevmem – automatic project memory for Claude Code, built on Jev",
+      "description": "Article URL: https://github.com/Avinash-jetwani/jevmem Comments URL: https://news.ycombinator.com/item?id=49846391 Points: 47 # Comments: 33",
       "source": "Hacker News",
-      "url": "https://github.com/devdotfast/whiteboard",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Databricks buys Row Zero and is scouting for more startups to acquire",
-      "description": "Databricks has brought cloud spreadsheet startup Row Zero adding yet another acquisition to its 2026 shopping spree.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
-      "description": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-      "description": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their compa…",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "url": "https://github.com/Avinash-jetwani/jevmem",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Agents.md speaks Unix, and you should too",
-      "description": "Article URL: https://www.fmind.dev/articles/agents-md-speaks-unix/ Comments URL: https://news.ycombinator.com/item?id=49833075 Points: 10 # Comments: 2",
+      "title": "Gravity Seems Holographic. What Does That Mean for Reality?",
+      "description": "Article URL: https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/ Comments URL: https://news.ycombinator.com/item?id=49845998 Points: 43 # Comments: 47",
       "source": "Hacker News",
-      "url": "https://www.fmind.dev/articles/agents-md-speaks-unix/",
+      "url": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "White House restores access to media outlets banned by Trump after judge's order",
-      "description": "Lawyers for CNN, Politico and MS Now are seeking an emergency court hearing, saying the White House \"repeatedly violated\" the order.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-      "description": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Watch: Why has Trump been so eager to welcome Xi?",
-      "description": "President Donald Trump has been talking about Chinese President Xi Jinping's visit for months, the BBC's Sarah Smith looks at why.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c914d17zn6kxo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "RFK Jr.'s ethics filing reveals book deals worth millions of dollars",
-      "description": "Health Secretary Robert F. Kennedy Jr.'s annual financial disclosure revealed he has received two lucrative book advances and free flights from a friend while in office.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/24/nx-s1-5979867/rfk-ethics-book-deals",
+      "title": "I'm not tempted to call an early election, Burnham says",
+      "description": "The prime minister told the BBC an early poll would throw the country into a \"backward-looking process\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Crashed RAF jet steered to 'avoid built-up areas' before pilots ejected, commander says",
-      "description": "Gp Capt Gez Currie said the pilots are in hospital, and their families are with them.",
+      "title": "Watch: What could the potential sanctions for Man City be?",
+      "description": "Football finance expert Kieran Maguire says the potential sanctions for Manchester City will be 'significant' after the sources told BBC Sport that the club has been found guilty of breaking the majority of the 115 fina…",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crx2zlqqpn2do?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cj62ee3zydxlo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "5h ago"
-    },
-    {
-      "title": "Mortgage rates have just surpassed 7% for the first time in well over a year",
-      "description": "Rates have climbed more than a full percentage point since the U.S. war against Iran started.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/24/nx-s1-5977796/mortgage-rates-freddie-mac-homebuying",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Ukrainian knifeman kills one, wounds four at abbey in Poland",
-      "description": "Ukraine's President Zelenskyy denounces 'horrific crime' after 31-year-old attacks clergy, worshippers in border town.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/24/ukrainian-knifeman-kills-one-wounds-four-at-abbey-in-poland?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Jerusalem Daily: Ben-Gvir sets out bid to become defence minister",
-      "description": "In October elections, Israel’s national security minister Itamar Ben-Gvir is hoping to become defence minister.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/jerusalem-daily-ben-gvir-sets-out-bid-to-become-defence-minister?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Collapsing currency and inflation leave families struggling in Sudan",
-      "description": "Rising bread, sugar and meat prices strain Sudanese households already grappling with war and economic instability.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/24/collapsing-currency-and-inflation-leave-families-struggling-in-sudan?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Gaza’s recovery needs reach $71.5bn amid ‘most severe economic crisis’: UN",
-      "description": "UN trade body report says consequences of Israeli occupation have 'skyrocketed' with 90% unemployed in Gaza.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/24/gazas-recovery-needs-reach-71-5bn-amid-most-severe-economic-crisis-un?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-      "description": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
-      "description": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
       "timeAgo": "3h ago"
     },
     {
-      "title": "A new bill in Congress would lower the retirement age to 60. See who would qualify.",
-      "description": "A new bill calling for lowering Social Security’s full retirement age from 67 to 60 for workers in physically demanding jobs could put additional strain on the trust fund that backs the system and create a two-tiered sy…",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/a-new-bill-in-congress-would-lower-the-retirement-age-to-60-see-who-would-qualify-10563052?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
+      "title": "Special agents' blood and urine test results stolen in FBI hack",
+      "description": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "Woman who accused Jay-Z of sexual assault says her claims were false",
+      "description": "On Thursday, the woman identified as Jane Doe filed a declaration in Manhattan federal court stating that all of her original claims against the rapper were false.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/25/nx-s1-5981154/jay-z-sexual-assault-accuser-claims-false",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Some BBC channels and radio stations may well have to close, director general says",
+      "description": "The BBC's financial situation \"may well mean\" some channels and stations close, Matt Brittin says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6grv78d59jpo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "6h ago"
+    },
+    {
+      "title": "There's a global pandemic treaty that's signed -- and in 'limbo.' What's the holdup?",
+      "description": "The treaty aims to help the countries of the world prepare for — and defeat — any future pandemic. Why hasn't it gone into effect?",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/25/g-s1-144948/pandemic-prevention-treaty-agreement-world-health-organization",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Al Jazeera rejects Netanyahu’s attack on journalists in UN speech",
+      "description": "Israeli PM's criticism of Al Jazeera during UNGA address threatens safety of journalists, the media network says.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/25/al-jazeera-rejects-netanyahus-attack-on-journalists-in-un-speech?traffic_source=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "New York sues Polymarket U.S., two months after filing lawsuit against Kalshi",
-      "description": "State attorney general Letitia James claims Polymarket has violated the state's gambling laws.",
+      "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
+      "description": "Critics have questioned the reliability of the data, warning it could result in US citizens being wrongly removed from electoral rolls.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Timeline: Man City’s Premier League financial charges to reported verdict",
+      "description": "City reportedly found guilty of all but one of the 115 charges that were first brought in February 2023.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/9/25/timeline-man-citys-premier-league-financial-charges-to-reported-verdict?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Ed Sheeran concerts at Robert Kraft stadiums cancelled over weather",
+      "description": "Singer's tour has faced numerous setbacks after expulsion of rapper Macklemore over support for Palestine drew backlash.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/25/ed-sheeran-concerts-at-robert-kraft-stadiums-cancelled-over-weather?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "US court upholds Pentagon’s blacklisting of Anthropic",
+      "description": "Conflict began in February when Anthropic refused to remove restrictions on use of Claude for fully autonomous weapons.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/9/25/us-court-upholds-pentagons-blacklisting-of-anthropic?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Pope warns against 'losing humanity' to AI machines",
+      "description": "The pontiff delivered the warning on the first day of his trip to France on Friday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Meta's 'powerful breakout' sets up a unique trading strategy, says Mike Khouw",
+      "description": "With a brilliant hardware funnel and an options market pricing in juicy short-term premiums, Meta looks primed for a powerful breakout into 2027.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/24/new-york-sues-polymarket-us-two-months-after-filing-suit-against-kalshi-.html",
+      "url": "https://www.cnbc.com/2026/09/25/-metas-powerful-breakout-sets-up-a-unique-trading-strategy-says-mike-khouw.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
@@ -176,58 +168,66 @@
       "timeAgo": "just now"
     },
     {
-      "title": "Oracle sends 'force majeure' notice about data center project — stock sinks 4%",
-      "description": "Oracle is reportedly looking to delay payment on Project Jupiter if it the data center fails to come online in 2028",
+      "title": "Saudi Arabia crude oil exports hit highest level since Iran war began despite pipeline outage",
+      "description": "Saudi exports are rising despite escalating attacks on its infrastructure from Iran-backed militants in Yemen and Iraq.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/24/oracle-data-center-force-majeure.html",
+      "url": "https://www.cnbc.com/2026/09/25/saudi-arabia-oil-iran-war-pipeline-strait-hormuz-red-sea-houthis.html",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
-      "description": "“We have no debt and own our primary home, a vacation home, as well as my mother’s home in another state.”",
+      "title": "I spend my time and money caring for my aging mother — yet she gave my brother $100,000. Should I pull back?",
+      "description": "“My mother started having more trouble getting around. First a knee replacement, then a fall.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/i-spend-my-time-and-money-caring-for-my-aging-mother-yet-she-gave-my-brother-100-000-should-i-pull-back-7e4a3185?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Oracle’s stock is falling as investors fear a data-center setback",
-      "description": "A recent report noted that Oracle is looking to protect itself from paying some expenses if a high-profile data-center project gets delayed.",
+      "title": "This is why you might see 8% mortgage rates soon",
+      "description": "Also in Weekend Reads: The bond market selloff’s consequences for AI, a threat to the buy-and-hold investment style and advice from the Moneyist.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/oracles-stock-is-falling-as-investors-fear-a-data-center-setback-d8105ef9?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/this-is-why-you-might-see-8-mortgage-rates-soon-6a2e24dd?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Cowboys facing unprecedented NFL travel scenario for Week 3 game vs. Ravens in Brazil",
-      "description": "No NFL team has ever been asked to do what the Cowboys and Ravens are doing this week",
+      "title": "Choosing these AI-exposed college majors could dent your job prospects — and lower your pay",
+      "description": "At a time when many college students say they are rethinking their academic focus because of AI, new findings supply hard data on the potential costs of these decisions.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/choosing-these-ai-exposed-college-majors-could-dent-your-job-prospects-and-lower-your-pay-b80576cb?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "LeBron James details three main reasons he chose 76ers, including wanting to help Joel Embiid win a title",
+      "description": "James offered his most in-depth comments yet on signing with Philadelphia as a free agent",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/cowboys-ravens-facing-unprecedented-nfl-travel-week-3-brazil/",
+      "url": "https://www.cbssports.com/nba/news/lebron-james-reasons-76ers-joel-embiid-jaylen-brown-tyrese-maxey/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Steve Sarkisian says Donald Trump's presence will affect in-game communication for Texas, Tennessee",
-      "description": "Coaches may briefly lose on-field contact with with players throughout the game",
+      "title": "Fantasy football rankings Week 3: Dave Richard makes tough decisions who to start, sit and flex",
+      "description": "Dave Richard dives deep into the players who Fantasy Football managers will have scratching their heads in every single game on the slate",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/donald-trumps-communication-texas-tennessee-steve-sarkisian/",
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-week-3-dave-richard-makes-tough-decisions-who-to-start-sit-and-flex/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "49ers' Kyle Juszczyk fined for 'offensive demonstration' in win vs. Dolphins",
-      "description": "Juszczyk was fined $14,926 for celebrating his touchdown reception in a way the NFL deemed offensive",
+      "title": "Fantasy football Week 3 PPR Cheat Sheet: Bryce Young earns start-worthy confidence against Browns",
+      "description": "Set your best Week 3 lineup with our PPR cheat sheet, breaking down every player in consideration",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/49ers-kyle-juszczyk-fined-for-offensive-demonstration-in-win-vs-dolphins/",
+      "url": "https://www.cbssports.com/fantasy/football/news/week-3-ppr-cheat-sheet-bryce-young-earns-start-worthy-confidence/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "What's at stake on final day of WNBA's regular season? Seeding, draft lottery odds, more",
-      "description": "Four seeds are already locked, but there are plenty of races still up in the air on Thursday",
+      "title": "Footy Fix: NWSL on CBS as K.C. Current face Denver Summit as playoff race heats up",
+      "description": "Elsewhere on the Golazo Starting XI newsletter the men's international break is in full swing",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/wnba/news/wnba-playoffs-whats-at-stake-final-day/",
+      "url": "https://www.cbssports.com/soccer/news/footy-fix-nwsl-on-cbs-as-k-c-current-face-denver-summit-as-playoff-race-heats-up/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
