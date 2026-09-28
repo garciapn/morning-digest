@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-27T17:54:11.611836+00:00",
-  "edition": "#235",
+  "date": "2026-09-28T20:11:46.212417+00:00",
+  "edition": "#236",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-      "description": "Article URL: https://www.youtube.com/watch?v=-Nvne3LzBls Comments URL: https://news.ycombinator.com/item?id=49868831 Points: 8 # Comments: 1",
-      "source": "Hacker News",
-      "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+      "title": "To keep drug prices high, pharma has been piling up the patents",
+      "description": "Add-on patents have increased drug patent periods from two years to over six.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/09/to-keep-drug-prices-high-pharma-has-been-piling-up-the-patents/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Don't couple your Go code to GitHub",
-      "description": "Article URL: https://iain.rocks/blog/dont-couple-your-go-code-to-github Comments URL: https://news.ycombinator.com/item?id=49868404 Points: 7 # Comments: 1",
+      "title": "California expanded the right to delete today",
+      "description": "Article URL: https://www.getprivisy.com/blog/sb-923-ccpa-right-to-delete-signed Comments URL: https://news.ycombinator.com/item?id=49883345 Points: 3 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+      "url": "https://www.getprivisy.com/blog/sb-923-ccpa-right-to-delete-signed",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-      "description": "\"AI is the devil and I its maker.\"",
+      "title": "Trump cuts fuel economy standards back to 2014 levels",
+      "description": "In 2020, Trump cut CAFE to 40 mpg. Now he’s cut it again to just 35 mpg.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/09/trump-cuts-fuel-economy-standards-back-to-2014-levels/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Shopify opens checkout to browser-based AI agents",
+      "description": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "There are no \"rogue\" AI agents",
-      "description": "Article URL: https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents Comments URL: https://news.ycombinator.com/item?id=49868083 Points: 102 # Comments: 60",
+      "title": "First Steps of the PLC Organization – Independent Public Ledger of Credentials",
+      "description": "Article URL: https://blog.plcred.org/3mwlphq42d227 Comments URL: https://news.ycombinator.com/item?id=49883159 Points: 11 # Comments: 1",
       "source": "Hacker News",
-      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+      "url": "https://blog.plcred.org/3mwlphq42d227",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "TechCrunch Mobility: AV companies pick their lanes",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "title": "Tesla delays Roadster 2 event again due to bad weather",
+      "description": "Tesla says the event \"can only be held outdoors,\" as it's expected to show the car flying in some form using SpaceX thrusters.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
+      "url": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Show HN: TinyAIArena watch AI agents battle it out",
-      "description": "Did you ever click on an “AI Arena” expecting glorious battle and instead get a boring benchmark? If so, this project is for you: proper life-or-death fights between four models on a picturesque 8×8 grid. May the most i…",
-      "source": "Hacker News",
-      "url": "https://tinyaiarena.com/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "What we know about RAF base counter-terror investigation",
-      "description": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
+      "title": "Watch: RAF Fairford suspects are bailed, what happens now?",
+      "description": "The men were all UK nationals in their 20s who live in London and were arrested under the Explosives Act and on suspicion of preparing a terrorist act.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/videos/cw33kxk3707jo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Orange Order march row goes to heart of ongoing divisions in Northern Ireland",
-      "description": "The dispute over the controversial parade is a reminder that the peace process is not over.",
+      "title": "Five men arrested in RAF Fairford incident released on police bail",
+      "description": "Police are exploring whether proxies or individuals working on behalf of a foreign state are involved.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckx2zq7x32wro?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c6e9elmpvglno?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
+      "description": "John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "UK tries to stop Trump's diesel export ban",
+      "description": "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Burnham proposes NHS-style social care system for England",
-      "description": "The prime minister told the BBC that social care in England is \"as unfair as American healthcare\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "Ten NHS staff removed over Noah Woods data breach",
-      "description": "East Suffolk and North Essex NHS Foundation Trust says it has launched an \"urgent\" investigation.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "South Africa reels from spate of mass shootings that killed 38 people in a week",
-      "description": "On Saturday night, there were separate mass shootings near South Africa's two largest cities.",
+      "title": "Prosecutors are reexamining a Cornell fraternity rape case. Here's what we know",
+      "description": "New York prosecutors are reopening an investigation into an alleged rape case at Cornell University in 2024. The alleged victim recently filed a lawsuit against seven members of Chi Phi fraternity.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
+      "url": "https://www.npr.org/2026/09/28/nx-s1-5983480/cornell-fraternity-rape-chi-phi-case-updates",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Trump wants to remove a question about race in the census. We look back at the history",
-      "description": "The Trump administration wants to stop asking about race and ethnicity on the next U.S. census. Since 1790, the topic has been used to exclude people of color, and, more recently, for inclusion.",
+      "title": "Trump's immigration push has largely spared farms. Idaho dairymen worry it won't last.",
+      "description": "America's farms have largely escaped the president's aggressive immigration crackdown. But as ICE sweeps continue across the nation, farmers are uneasy because many still can't find enough workers.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/09/27/nx-s1-5966883/trump-wants-to-remove-a-question-about-race-in-the-census-we-look-back-at-the-history",
+      "url": "https://www.npr.org/2026/09/28/nx-s1-5976810/trumps-immigration-idaho-dairy-industry",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "5h ago"
-    },
-    {
-      "title": "‘Iran ready for doomsday war’, FM Araghchi says",
-      "description": "Foreign Minister Abbas Araghchi says Iran is prepared for war to resume, ‘even if it comes to a doomsday war’.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/iran-ready-for-doomsday-war-fm-araghchi-says?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Mike Waltz: US offered to sell Iran uranium for civilian programme",
-      "description": "US ambassador says Iran refused to agree to an arrangement where uranium would be supplied by Washington.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/27/mike-waltz-us-offered-to-sell-iran-uranium-for-civilian-programme?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "One month after Nepal’s catastrophic floods, thousands remain missing",
-      "description": "A month after floods tore through Nepal, 5,285 people remain missing and more than 1,100 are still in holding centres.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/09-27-nepal-floods-one-month-sv-mp4?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Giant pandas arrive in Atlanta as part of 10-year US-China agreement",
-      "description": "The two pandas, Ping Ping and Fu Shuang, arrived from southwestern China.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/27/giant-pandas-arrive-in-atlanta-as-part-of-10-year-us-china-agreement?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Two bodies found after avalanche hits Himalayan climbing group",
-      "description": "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Two mass shootings in South Africa leave 27 dead",
-      "description": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
-      "description": "“My mother has a pension, Social Security, investments and a house probably worth over $1 million.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
+      "title": "UAE confirms Netanyahu visit to Abu Dhabi",
+      "description": "The visit takes place as the Israeli prime minister battles domestic turmoil ahead of October's Knesset elections",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/28/uae-confirms-netanyahu-visit-to-abu-dhabi?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "How can the UK’s Labour Party rebuild voter trust?",
+      "description": "Members at annual conference are optimistic about new PM",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/28/how-can-the-uks-labour-party-rebuild-voter-trust?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Myanmar army air strike kills dozens in Rakhine state",
+      "description": "Nearly half a million people are displaced in Rakhine as a result of the conflict between the military and rebel groups.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/28/myanmar-army-air-strike-kills-dozens-in-rakhine-state?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "American and six Ukrainians released by India after six months in jail",
+      "description": "Matthew VanDyke and six Ukrainians were accused of smuggling weapons and drones to armed ethnic groups fighting India.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/28/american-and-six-ukrainians-released-by-india-after-six-months-in-jail?traffic_source=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
-      "description": "“We have no debt and own our primary home, a vacation home, as well as my mother’s home in another state.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
+      "description": "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "2h ago"
     },
     {
-      "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
-      "description": "“I draw from my IRA as needed for household repairs, trips and other larger expenses.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "title": "Iran court upholds lashes sentence for singer who performed without hijab",
+      "description": "Parastoo Ahmadi was convicted of \"offending public decency\" after singing while wearing a sleeveless dress during a livestreamed concert.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Debt-hungry AI companies face increased risk as bond yields spike",
-      "description": "The AI infrastructure buildout shows no sign of slowing, but the surge in Treasury yields means it's at least going to cost more.",
+      "title": "Before you invest in the Oura IPO, understand what you’re buying",
+      "description": "The health-data company could see a pop in its stock price, but there are plenty of warning signs",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/before-you-invest-in-the-oura-ipo-understand-what-youre-buying-1d88d868?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "October is historically the most volatile month for stocks. But why? These 4 popular theories fail to hold up.",
+      "description": "Although October historically has been the most volatile month of the year, you shouldn’t bet that it will continue to be in the future.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/october-is-historically-the-most-volatile-month-for-stocks-but-why-these-4-popular-theories-fail-to-hold-up-a47a1830?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Zuckerberg, Amodei among tech executives set to meet Trump Tuesday",
+      "description": "The AI safety debate has raged in recent weeks, with Amodei, Musk and OpenAI CEO Sam Altman calling to pace the development of frontier models.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
+      "url": "https://www.cnbc.com/2026/09/28/trump-ai-tech-lunch.html",
       "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "At NFL games this season, drone defense tech aims to bring down disruptions",
-      "description": "The NFL told CNBC it recorded 10,852 drone violations over stadiums between 2021 and 2025. The Jaguars became the first team to sign a drone defense firm.",
+      "title": "Boeing 737 Max 10 certification delayed by software issue, FAA says",
+      "description": "The FAA administrator said the Max 10 will be delayed until the agency can assess a software issue on the aircraft.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/27/nfl-drone-defense-tech-game-disruptions.html",
+      "url": "https://www.cnbc.com/2026/09/28/faa-boeing-737-max-10-certification-delay-software-issue.html",
       "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
-      "description": "“Her younger son lives in the condo, but wants to move elsewhere with friends.”",
+      "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
+      "description": "“The only debts were utility and credit-card bills, which we will pay off.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Coaches Poll top 25: USC plummets after Oregon loss, Iowa rises in latest college football rankings",
-      "description": "The Trojans are trending down after a two-touchdown loss at home to Oregon, while Iowa looks like it could be a dark horse Big Ten contender",
+      "title": "Trump announces plan for $15 billion steel plant, would be largest in U.S. history",
+      "description": "Trump's announcement with Mesabi Metallics comes as Americans' souring views of the economy are poised to shape the upcoming midterm election.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/28/trump-steel-plant-iowa.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "MLB CBA negotiations timeline: Where things stand as Dec. 1 expiration creeps closer",
+      "description": "With a potential work stoppage looming in baseball, we're keeping tabs on all the major steps in negotiations",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/coaches-poll-top-25-usc-oregon-iowa-college-football-rankings/",
+      "url": "https://www.cbssports.com/mlb/news/mlb-cba-negotiations-timeline-2026/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "NFL trade rumors: Cowboys seemingly have eyes on Steelers' Joey Porter Jr.",
-      "description": "Porter will miss his third straight game as Dallas, Detroit and other teams reportedly explore trade possibilities",
+      "title": "Vikings' Justin Jefferson suffers ankle sprain vs. Buccaneers, Week 4 status still unknown",
+      "description": "Jefferson avoided any serious injury and has a chance to play on Sunday against the Dolphins",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/joey-porter-jr-2026-trade-rumors-cowboys-lions-steelers/",
+      "url": "https://www.cbssports.com/nfl/news/vikings-justin-jefferson-questionable-to-return-vs-buccaneers-with-a-knee-injury/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "NFL Week 3 odds, predictions, expert picks: Who has edge in Rams-Broncos? Will Bucs earn first win?",
-      "description": "Our complete Week 3 betting guide features expert picks for every matchup, including Ravens-Cowboys in Rio de Janeiro",
+      "title": "College basketball rankings: Kansas joins early Top 25 And 1 after Tre White cleared to play by court ruling",
+      "description": "White can play for the Jayhawks this season after a judge grants a preliminary injunction",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-week-3-picks-odds-rams-broncos/",
+      "url": "https://www.cbssports.com/college-basketball/news/college-basketball-rankings-kansas-early-top-25-and-1-tre-white/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Cowboys vs. Ravens in Brazil: Lamar Jackson, Dak Prescott headline first Rio de Janeiro NFL game",
-      "description": "There should be plenty of fireworks at Maracanã Stadium",
+      "title": "Atlanta City FC: NWSL Atlanta expansion side unveils new name and crest ahead of 2018 debut",
+      "description": "Arthur Blank's expansion club unveiled a phoenix-inspired crest and signature Georgia Peach colors as it prepares to launch at Mercedes-Benz Stadium in 2028",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/how-to-watch-cowboys-vs-ravens-storylines-prediction/",
+      "url": "https://www.cbssports.com/soccer/news/atlanta-city-fc-nwsl-atlanta-expansion-2018-debut/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
