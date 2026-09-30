@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-29T18:48:13.926203+00:00",
-  "edition": "#237",
+  "date": "2026-09-30T18:31:07.980874+00:00",
+  "edition": "#238",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,186 +8,170 @@
   },
   "stories": [
     {
-      "title": "More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope",
-      "description": "Disrupt doesn’t end when you leave Moscone West. 👀 Founder dinners, investor meetups, happy hours, workshops, roundtables and more are taking over San Francisco during Disrupt Week. See what’s happening, find your peopl…",
+      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "description": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/",
+      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Apple Pay set to launch in India with Axis Bank today, sources say",
-      "description": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
+      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+      "description": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
+      "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-      "description": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "The End of a Fair Price: Dynamic Pricing and the Normalization of Gouging",
-      "description": "Article URL: https://prospect.org/2026/09/29/oct-2026-battling-an-army-of-price-setters-owens-review/ Comments URL: https://news.ycombinator.com/item?id=49897826 Points: 17 # Comments: 5",
+      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+      "description": "Hey HN, Anders and Tom here. We're building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your hardware. It works on Mac, Linux, and Windows on any hardware and is up to 2…",
       "source": "Hacker News",
-      "url": "https://prospect.org/2026/09/29/oct-2026-battling-an-army-of-price-setters-owens-review/",
+      "url": "https://github.com/magnitudedev/magnitude",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-      "description": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.",
+      "title": "The ugly economics of consumer AI",
+      "description": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Apple worked with Trump admin to remove ICE-tracking apps, lawmaker says",
-      "description": "Lawmaker rejects Apple excuse for banning ICE-tracking apps as unconstitutional.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/09/apple-worked-with-trump-admin-to-remove-ice-tracking-apps-lawmaker-says/",
+      "title": "Commit Description as a Thinking Tool",
+      "description": "Article URL: https://yedhu.me/posts/commit-description-as-a-thinking-tool/ Comments URL: https://news.ycombinator.com/item?id=49911757 Points: 37 # Comments: 5",
+      "source": "Hacker News",
+      "url": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Man City guilty of 'sham' contracts and misleading accounts",
-      "description": "The Premier League confirms that Manchester City have been found guilty of all charges related to breaches of Premier League financial rules between 2009-10 and 2017-18.",
+      "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+      "description": "Article URL: https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer Comments URL: https://news.ycombinator.com/item?id=49911531 Points: 0 # Comments: 0",
+      "source": "Hacker News",
+      "url": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "China funding UK research and sending it to Beijing's spies, MI5 warns",
+      "description": "British universities are being urged to sever ties with China General Technology Research Institute which is linked to the Chinese Ministry of State Security (MSS).",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7zrljp527o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "'Quantity of petrol' but no explosives found in three vehicles near RAF Fairford",
-      "description": "Police say the decision to release five men on bail is one \"grounded in experience and strategy\".",
+      "title": "UK-France 'one in, one out' migrant scheme scrapped",
+      "description": "Some 1,500 people have been removed to France since the scheme began just over a year ago.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Burnham vows to end existing pension triple lock in 2030 to help fund care",
-      "description": "The PM was at times emotional during his conference speech in which he outlined his long-term plan for the UK.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Watch: How did Burnham's speech go down in the conference hall?",
-      "description": "The PM received a standing ovation as he spoke about his late dad while setting out reforms to social care.",
+      "title": "UK believes Iran involved in RAF Fairford incident, PM says",
+      "description": "The prime minister's comments come days after the suspects were released on the 'strictest possible bail conditions'.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cwz0zk9d1497o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Lindsay Clancy's lawyer now questions whether she killed her 3 children",
-      "description": "Lindsay Clancy's lawyer is arguing that there wasn't enough evidence to prove she killed her three children. It's a striking turn after a lengthy trial that focused more on her mental state than on whether she took thei…",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/29/g-s1-145539/lindsay-clancy-trial-hearing-lawyer",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Potential Taiwan tension sparked 'last minute' change in Trump-Xi National Archives visit",
-      "description": "The sudden change was precipitated because of Chinese displeasure over one document that the U.S. had planned to show.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/29/nx-s1-5984989/digital-archives-trump-xi",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Trump unveils new site to simplify access to government services",
-      "description": "America.gov for now functions like a chatbot comparable to ChatGPT or Claude, pointing users to official gov't websites.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/9/29/trump-unveils-new-site-to-simplify-access-to-government-services?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "‘Truly historic’: Morocco’s king appoints first woman prime minister",
-      "description": "Fatima Ezzahra El Mansouri becomes the second woman to serve as prime minister in the Arab world.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/29/truly-historic-moroccos-king-appoints-first-woman-prime-minister?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Knife-wielding schoolboy kills teacher, injures two in Slovakia",
-      "description": "Police detain the 13-year-old in the northwestern village of Staskov, launch investigation into 'premeditated murder'.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/29/slovakia-teacher-killed-in-stabbing-by-student?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Trump administration ‘must be changed’: Iran’s IRGC appeals to US voters",
-      "description": "Iran's military has issued an open letter accusing Trump of lying to US citizens about the state of the ongoing war.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/29/trump-administration-must-be-changed-irans-irgc-appeals-to-us-voters?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
-      "description": "The ban is part of a number of proposals that must be approved in parliament within 30 days.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Dutch police arrest suspected member of group that claimed FBI hack",
-      "description": "The suspect, 24, was arrested before the alleged cyber attack took place.",
+      "title": "'We removed him from the cockpit': People speak about what happened",
+      "description": "Passengers on the Flydubai flight bound for Israel filmed the moments following the stabbing.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw5ym18znr0ro?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
+      "url": "https://www.bbc.co.uk/news/videos/cv70d22kd34do?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Trump touts AI self regulation, benefits of data centers in meeting with top tech leaders",
-      "description": "The artificial intelligence luncheon comes as calls for a slowdown and regulation reach a fever pitch",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html",
-      "category": "📈 MARKETS",
+      "title": "Greetings from Syria, where time seems to melt as a glassmaker braves scorching temps",
+      "description": "As a Syrian glassmaker created his wares in Damascus, watching his craft reminded this reporter to slow down and enjoy the moment.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/30/nx-s1-5983516/damascus-syria-glass",
+      "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "OpenAI launches a rival to Meta’s Muse, as the battle for AI agents kicks into high gear",
-      "description": "Personal AI assistants are shaping up to be the new frontier for tech companies.",
+      "title": "Police questioning can shape a sexual assault case. Their approach is often wrong",
+      "description": "The Cornell lawsuit filed by a woman alleging a brutal rape raises questions on how police handle such cases. The majority of police lack adequate training on trauma-informed approaches, experts say.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/30/nx-s1-5983868/cornell-rape-police-interview-investigation-victim-trauma-informed",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Video: Bangladesh Dengue deaths surpass 233 in deadly outbreak",
+      "description": "Bangladesh’s health authorities report that at least 233 people have died from dengue fever.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/video-bangladesh-dengue-deaths-surpass-233-in-deadly-outbreak?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Strong indications’ Iran linked to suspected UK airbase plot",
+      "description": "UK Prime Minister says there are ‘strong indications’ Iran played a part in the suspected RAF Fairford airbase plot.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_indications-iran-linked-suspected-uk-airbase-plot-300926?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Trump set to announce $200bn in energy investments from South Korea",
+      "description": "The investments come as Trump seeks to tout the Republican Party's economic record ahead of the US midterm races.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/9/30/trump-set-to-announce-200bn-in-energy-investments-from-south-korea?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Why is Malaysia sending back Rohingya refugees to Myanmar?",
+      "description": "Kuala Lumpur calls it a voluntary process, but many are raising safety concerns.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/30/why-is-malaysia-sending-back-rohingya-refugees-to-myanmar?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "What we know about stabbing on Flydubai flight to Israel",
+      "description": "The captain and first officer were injured, and one pilot has been arrested, officials say.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
+      "description": "Thirty-one migrants died when their boat went down in November 2021. The trial found that the guilty men were part of two smuggling networks.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "This chart shows that buying and holding stocks beats ‘sell in May and go away’ and other gimmicks",
+      "description": "Followers of ‘sell in May and go away’ have lost out on a stock rally",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/openai-launches-a-rival-to-metas-muse-as-the-battle-for-ai-agents-kicks-into-high-gear-0f0de9b3?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/why-the-halloween-indicator-isnt-working-and-what-smart-investors-are-doing-instead-6d758662?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Good news for OpenAI is great news for Oracle’s stock — here’s why",
-      "description": "Wall Street is cheering AI stocks as OpenAI gets closer to a revenue milestone.",
+      "title": "Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained",
+      "description": "It is unclear how long the recovery can be sustained given that it relies on U.S. military protecting tankers in the Persian Gulf.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/30/iran-war-strait-hormuz-gulf-oil-fuel.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
+      "description": "“We have an ironclad prenup.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/good-news-for-openai-is-great-news-for-oracles-stock-heres-why-993b6a5f?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Property Play: Homeowners are sitting on record equity – and not using it",
-      "description": "U.S. homeowners have more housing wealth than ever before, thanks to fast-rising home prices over the last several years. But they aren't spending much of it.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/29/homeowners-are-sitting-on-record-equity-and-not-using-it.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Trump Accounts will auto-enroll children, potentially adding 60 million accounts: Treasury",
-      "description": "The Treasury Department announced that Trump Accounts will begin auto enrolling eligible children. Here's what families need to know.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/29/trump-accounts-auto-enroll.html",
+      "url": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
@@ -197,37 +181,53 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/medicare-advantage-plans-will-be-cheaper-next-year-heres-the-new-cost-2f7ab55b?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "These bond strategies can help you get a safe 5% return on your cash",
+      "description": "With U.S. Treasury yields on the rise, financial planners say they’re seeing a growing interest in bonds, especially among investors looking to secure fixed income in retirement.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Fed watchdog finds renovation failures, but no grounds for criminal referral",
+      "description": "The long-awaited report by the Fed's inspector general said it found no reasonable grounds to believe federal criminal law had been violated.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/30/fed-inspector-general-report-powell-trump.html",
+      "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "2027 WNBA Mock Draft: USC's JuJu Watkins goes No. 1 to Comets as franchise embarks on new era",
-      "description": "Even coming off an ACL injury, Watkins stands out as the clear top pick for the Comets after moving from Connecticut",
+      "title": "Seattle WR Jaxon Smith-Njigba says Ohio State's Jeremiah Smith is 'like the LeBron James' of all-time Buckeyes",
+      "description": "Ohio State has a rich tradition of great receivers, but one of their best in the NFL today thinks Smith is on another level",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/wnba/news/2027-wnba-mock-draft-houston-comets-juju-watkins/",
+      "url": "https://www.cbssports.com/college-football/news/jeremiah-smith-ohio-state-seattle-wr-jaxon-smith-njigba-lebron-james/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Giants release Odell Beckham Jr., franchise legend makes zero catches in return to New York",
-      "description": "New York parts ways with the wide receiver for the second time",
+      "title": "Mike Vrabel refutes report of alleged rift with Drake Maye: 'I'm here because Drake was the quarterback'",
+      "description": "Are New England's early season struggles leading to HC-QB drama?",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/new-york-giants-release-odell-beckham-jr/",
+      "url": "https://www.cbssports.com/nfl/news/mike-vrabel-refutes-rift-report-drake-maye/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Former Auburn football staffer arrested on felony charges tied to recruiting documents",
-      "description": "David Rudolph Jenrath was arrested this week on felony charges after allegedly sharing Auburn recruiting information with up to 11 rival schools",
+      "title": "Kalshi cricket 2026: How to trade on cricket prediction markets",
+      "description": "You can use Kalshi prediction markets to trade event contracts during cricket matches",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/former-auburn-football-staffer-arrested-felony-recruiting-documents/",
+      "url": "https://www.cbssports.com/prediction/news/kalshi-cricket/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Colorado expected to name Isaac Wilson starting QB, bench Julian Lewis as Deion Sanders makes key move",
-      "description": "The Utah transfer takes over against No. 11 Texas Tech after sparking a second-half rally against Baylor, while the prized recruit averaged just 5.1 yards per pass against FBS opponents",
+      "title": "Grading college football's new OC-QB pairings: Florida scores an 'A+', while Texas A&M is failing",
+      "description": "With the season roughly one-third complete, it's time to check in on the progress of new offensive coordinators and their quarterbacks",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/colorado-qb-isaac-wilson-julian-lewis-benched-deion-sanders/",
+      "url": "https://www.cbssports.com/college-football/news/grading-college-football-new-oc-qb-pairings-florida-texas-a-m/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
