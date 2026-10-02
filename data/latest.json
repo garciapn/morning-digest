@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-01T18:58:40.021865+00:00",
-  "edition": "#239",
+  "date": "2026-10-02T18:37:36.924501+00:00",
+  "edition": "#240",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,228 +8,228 @@
   },
   "stories": [
     {
-      "title": "World’s first enhanced geothermal power plant completed in just 23 months",
-      "description": "Fervo Energy completed its first power plant in less than two years. The next phases promise to connect to the grid even quicker.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-      "description": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Bez: Generating a browser engine from specs and tests",
-      "description": "Article URL: https://tangled.org/burrito.space/bez Comments URL: https://news.ycombinator.com/item?id=49925036 Points: 3 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://tangled.org/burrito.space/bez",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Marvel releases one last VisionQuest trailer",
-      "description": "\"This is a fight I likely won't win. We have said goodbye before. But remember, family is forever.\"",
+      "title": "Research roundup: 6 cool science stories we almost missed",
+      "description": "Also: Spooky action at the LHC, Ice Age psychoactive use, yeast for building homes on Mars, and more.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/culture/2026/10/marvel-releases-one-last-visionquest-trailer/",
+      "url": "https://arstechnica.com/science/2026/10/research-roundup-6-cool-science-stories-we-almost-missed-6/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
-      "description": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "description": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Memory executives expect RAM shortage to continue through 2028",
-      "description": "Prices for memory sold for 2027 \"are much higher than 2026 prices.\"",
+      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+      "description": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding…",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "US military ends long-running program to spot nuclear missile launches",
+      "description": "A newer program has been operational since 2011, and the next generation could launch within 12 months.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
+      "url": "https://arstechnica.com/space/2026/10/us-military-ends-long-running-program-to-spot-nuclear-missile-launches/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Christa Pike is alive and receiving 'life-saving care' in hospital, her lawyers say",
-      "description": "Pike had been on death row since she was convicted in 1996 for the murder of Colleen Slemmer.",
+      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+      "description": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "How I kept cool with NYC's free battery program for window AC units",
+      "description": "Bonus: Every Electric’s batteries are beloved by household cats.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/10/how-i-kept-cool-with-nycs-free-battery-program-for-window-ac-units/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Widdecombe suspect charged with planning terror act against Farage",
+      "description": "Counter terror police say the further charge comes after a \"hugely intensive and complex investigation\".",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Netanyahu says Flydubai flight attacker 'underwent Islamist radical indoctrination'",
-      "description": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
+      "title": "Riot police clash with students as education protests rage in France",
+      "description": "More than 600 schools have faced disruption as protests over standards and lack of teachers continue.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "HMRC urged to scrutinise tax implications of Man City case",
-      "description": "The Treasury Committee, which is responsible for overseeing HMRC, has urged the body to scrutinise tax implications of the Manchester City verdict.",
+      "title": "Watch: Why has UK diesel price hit an all time high?",
+      "description": "Diesel has now hit an average of £2 a litre in the UK, the RAC motoring group says, with petrol prices also rising.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "UK-Iranian dual national arrested over RAF Fairford incident, police say",
-      "description": "The 27-year-old man was arrested in Westminster, London, marking the sixth arrest in connection with Sunday's incident near the airbase.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx5xw36492o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Google launches Project Suncatcher, a step towards AI data centers in space",
-      "description": "The fridge-size satellite with AI chips on board is part of Project Suncatcher, the company's moonshot effort to put AI data centers in space and harness solar energy.",
+      "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+      "description": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "October 1 ushered in a new era in U.S. foreign aid. What's the plan? Will it work?",
+      "description": "The America First strategy asks for a Memorandum of Understanding as a condition for healthcare and development aid. It's been praised for promoting self-reliance but criticized for its conditions.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/10/01/nx-s1-5983697/project-suncatcher-google-ai-data-center-space",
+      "url": "https://www.npr.org/2026/10/02/g-s1-146042/foreign-aid-united-states-healthcare-america-first",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "A judge permanently dismisses former Olympian's Reflecting Pool charges",
-      "description": "Citing \"exceptional circumstances,\" a D.C. judge has ruled that the federal government cannot refile its Reflecting Pool charges against David Hearn, despite pressure from President Trump to do so.",
+      "title": "Cloaked in anonymity, Israeli soldiers describe mass civilian killings in 'NAZA'",
+      "description": "NAZA is an acronym for nezek agavi , Hebrew for \"collateral damage.\" It refers to the number of civilian casualties the Israeli military deems acceptable. The documentary is made by Israeli filmmakers.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/10/01/nx-s1-5987947/reflecting-pool-vandalism-hearn-charges-dismissed",
+      "url": "https://www.npr.org/2026/10/02/nx-s1-5987714/naza-review-israel-palestine",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
+      "timeAgo": "4h ago"
     },
     {
-      "title": "School protests spread as fires, blockades deepen unrest in France",
-      "description": "Police have detained hundreds as students protest overcrowded classrooms, teacher shortages and crumbling facilities.",
+      "title": "Israeli barrier cuts off water to West Bank Palestinians before elections",
+      "description": "Residents of Ras al-Ahmar say Israeli restrictions have cut access to water, animal feed, healthcare.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/1/school-protests-spread-as-fires-blockades-deepen-unrest-in-france?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/10/2/israeli-barrier-cuts-off-water-to-west-bank-palestinians-before-elections?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
-      "description": "Vladimir Putin insists Moscow is \"not threatening anyone\" and merely responding to statements by Western leaders.",
+      "title": "Israel’s Supreme Court overturns election panel ban on Arab parties",
+      "description": "Court reinstates two Arab lists and Jewish Knesset member Ofer Cassif as Balad leader withdraws after pressure.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/2/israels-supreme-court-overturns-election-panel-ban-on-arab-parties?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+      "description": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Palestinian children in Israeli military detention",
-      "description": "Palestinian children in Israeli military detention",
+      "title": "‘I want the truth’: NY governor appoints prosecutor in Cornell rape case",
+      "description": "New York Governor Kathy Hochul says local authorities failed to properly investigate the 2024 allegations.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/palestinian-children-in-israeli-military-detention?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/10/2/i-want-the-truth-ny-governor-appoints-prosecutor-in-cornell-rape-case?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Jerusalem Daily: Who gets to run in Israel’s elections?",
+      "description": "Palestinians in Israel are asking whether they will have a fair say in the upcoming Israeli elections.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/jerusalem-daily-who-gets-to-run-in-israels-elections?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "US Supreme Court agrees to take up Trump’s ICE detention policy",
-      "description": "The case is the latest dispute over US President Donald Trump’s sweeping immigration crackdown.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/1/us-supreme-court-agrees-to-take-up-trumps-ice-detention-policy?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "What happened in the failed execution of Christa Pike - and what next?",
-      "description": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
+      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+      "description": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
+      "timeAgo": "9h ago"
+    },
+    {
+      "title": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
+      "description": "EU countries are set for crisis talks on soaring diesel prices, with officials warning a U.S. export ban could hurt Europe’s economic outlook.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "How much higher can bond yields rise — and what does it mean for stocks?",
+      "description": "Also in Weekend Reads: Adjustable-rate mortgage loans, Gen Z entrepreneurs and advice from the Moneyist.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-much-higher-can-bond-yields-rise-and-what-does-it-mean-for-stocks-12883d6c?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Europe’s leaders rush to release diesel from stockpiles as fuel shock hangs over U.S. midterms",
+      "description": "Europe leaders agreed Friday to release some of diesel stockpiles, pulling prices of oil down by more than 4%.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Men are losing ground in the labor market. Here's why",
+      "description": "Women outnumbered men in the workforce for eight straight months as of September, according to one analysis.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/02/men-labor-market-jobs-report.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Why bond investors quickly lost their enthusiasm for weak jobs figures",
+      "description": "A weak U.S. labor report did what bad news hadn’t done in a while: It made U.S. debt look like a safe haven again — albeit briefly.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-bond-investors-quickly-lost-their-enthusiasm-for-weak-labor-figures-7a9727da?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "description": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Renee Good’s family sues Trump administration over fatal ICE shooting",
-      "description": "Lawsuits accuse Trump officials of recklessness and civil rights violations in Renee Good's fatal Minneapolis shooting .",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/1/renee-goods-family-sues-trump-administration-over-fatal-ice-shooting?traffic_source=rss",
-      "category": "🌍 WORLD",
+      "title": "The opportunity awaiting Mississippi State against No. 7 Alabama",
+      "description": "An undefeated start and surging momentum under Jeff Lebby have Starkville buzzing as the Bulldogs look to snap a losing streak against the Crimson Tide that dates back to 2007",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/the-opportunity-awaiting-mississippi-state-against-no-7-alabama/",
+      "category": "🏀 SPORTS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "The September jobs report will be released Friday. Here's what to expect",
-      "description": "Wall Street is looking for job growth of 84,000 to close out the summer.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/01/the-september-jobs-report-will-be-released-friday-heres-what-to-expect.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Financial stocks are falling below a key chart level to warn the worst is yet to come",
-      "description": "Financial stocks have struggled over the past several weeks, and it’s becoming clear the decline may not be over.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/financial-stocks-are-falling-below-a-key-chart-level-to-warn-the-worst-is-yet-to-come-86e43092?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Brent oil jumps more than 4% as U.S. reportedly sends third aircraft carrier to Middle East",
-      "description": "Oil prices rose sharply Thursday, following a report the U.S. is sending a third aircraft-carrier strike group to the Middle East.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/01/oil-prices-today-wti-brent.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "This silent alarm in the bond market tells you which stocks to buy and which to avoid",
-      "description": "Widening credit spreads send an important signal that investors should heed about which stocks to buy and which to avoid",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-silent-alarm-in-the-bond-market-tells-you-which-stocks-to-buy-and-which-to-avoid-4568ac53?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Trump’s SEC wants to allow fund managers to charge extra fees for better performance. Here’s why it’s a terrible idea.",
-      "description": "Think twice before embracing any new fund with high performance-related fees in your 401(k).",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/trumps-sec-wants-to-allow-fund-managers-to-charge-extra-fees-for-better-performance-heres-why-its-a-terrible-idea-61f6e0cc?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
+      "title": "Underdog promo code and prediction markets review: Use code CBS for up to $1,000 Bonus",
+      "description": "Learn about the Underdog Prediction Picks product within the Underdog app and use Underdog promo code CBS for up to $1,000 in bonus funds and more, as of October 2.",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/prediction/news/underdog-promo-code/",
+      "category": "🏀 SPORTS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Trump Accounts have auto-enrolled more than 60 million children, Treasury says",
-      "description": "More than 60 million children have been automatically enrolled in Trump Accounts, according to a Treasury Department announcement exclusively provided to CNBC.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/01/treasury-trump-accounts-auto-enroll-more-than-60-million-children.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
+      "title": "Watt is going on in Pittsburgh? Frustrations boil over on Steelers' sideline during loss to Browns",
+      "description": "Multiple Steelers players were seen sounding off during the divisional game on Thursday night",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/nfl/news/frustrations-boil-over-steelers-sideline-during-loss-to-browns/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Steelers' Aaron Rodgers could pass Tom Brady and Patrick Mahomes to set a unique NFL record Thursday night",
-      "description": "The Steelers QB is on the cusp of making history",
+      "title": "Should the Phillies trade Bryce Harper or Kyle Schwarber? Why blockbuster deal doesn't make sense",
+      "description": "Moving on from the veteran sluggers wouldn't help Philadelphia in the short term and probably not the long term either",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/steelers-aaron-rodgers-could-pass-brady-mahomes-for-nfl-record/",
+      "url": "https://www.cbssports.com/mlb/news/phillies-trade-rumors-bryce-harper-kyle-schwarber/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Kalshi cricket 2026: How to trade on cricket prediction markets",
-      "description": "You can use Kalshi prediction markets to trade event contracts during cricket matches",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/prediction/news/kalshi-cricket/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Aces star A'ja Wilson reportedly won't be disciplined by WNBA after heated interaction with Fever fan",
-      "description": "Wilson received a tech for the confrontation in Game 2, but will be fully available for Game 3 Thursday night",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/wnba/news/aja-wilson-aces-fever-fan-interaction-technical-foul-wnba-playoffs/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Browns vs. Steelers predictions, odds, time: Week 4 'Thursday Night Football' picks from advanced model",
-      "description": "SportsLine's model has revealed its Pittsburgh Steelers vs. Cleveland Browns picks for NFL Week 4 on Thursday, Oct. 1 at Huntington Bank Field in Cleveland",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/browns-steelers-predictions-odds-time-week-4-thursday-night-football-picks-nfl-best-bets/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     }
   ]
 }
