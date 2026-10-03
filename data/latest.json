@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-02T18:37:36.924501+00:00",
-  "edition": "#240",
+  "date": "2026-10-03T17:31:52.067851+00:00",
+  "edition": "#241",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,186 +8,162 @@
   },
   "stories": [
     {
-      "title": "Research roundup: 6 cool science stories we almost missed",
-      "description": "Also: Spooky action at the LHC, Ice Age psychoactive use, yeast for building homes on Mars, and more.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/10/research-roundup-6-cool-science-stories-we-almost-missed-6/",
+      "title": "RetailReady (YC W24) Is Hiring",
+      "description": "Article URL: https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations Comments URL: https://news.ycombinator.com/item?id=49945904 Points: 0 # Comments: 0",
+      "source": "Hacker News",
+      "url": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-      "description": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "description": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-      "description": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding…",
+      "title": "City building games have a Soul Problem pt.2",
+      "description": "Article URL: https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2 Comments URL: https://news.ycombinator.com/item?id=49945323 Points: 55 # Comments: 43",
+      "source": "Hacker News",
+      "url": "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "FTL: A new operating system for clouds",
+      "description": "Article URL: https://ftl-os.org/ Comments URL: https://news.ycombinator.com/item?id=49944912 Points: 46 # Comments: 17",
+      "source": "Hacker News",
+      "url": "https://ftl-os.org/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
+      "description": "Bitchat has become largely unavailable in India as a result of the restrictions.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "US military ends long-running program to spot nuclear missile launches",
-      "description": "A newer program has been operational since 2011, and the next generation could launch within 12 months.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/10/us-military-ends-long-running-program-to-spot-nuclear-missile-launches/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-      "description": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+      "title": "Vessev built an electric ferry that almost flies",
+      "description": "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+      "url": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "How I kept cool with NYC's free battery program for window AC units",
-      "description": "Bonus: Every Electric’s batteries are beloved by household cats.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/10/how-i-kept-cool-with-nycs-free-battery-program-for-window-ac-units/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Widdecombe suspect charged with planning terror act against Farage",
-      "description": "Counter terror police say the further charge comes after a \"hugely intensive and complex investigation\".",
+      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+      "description": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Riot police clash with students as education protests rage in France",
-      "description": "More than 600 schools have faced disruption as protests over standards and lack of teachers continue.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Watch: Why has UK diesel price hit an all time high?",
-      "description": "Diesel has now hit an average of £2 a litre in the UK, the RAC motoring group says, with petrol prices also rising.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
-      "description": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "October 1 ushered in a new era in U.S. foreign aid. What's the plan? Will it work?",
-      "description": "The America First strategy asks for a Memorandum of Understanding as a condition for healthcare and development aid. It's been praised for promoting self-reliance but criticized for its conditions.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/02/g-s1-146042/foreign-aid-united-states-healthcare-america-first",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Cloaked in anonymity, Israeli soldiers describe mass civilian killings in 'NAZA'",
-      "description": "NAZA is an acronym for nezek agavi , Hebrew for \"collateral damage.\" It refers to the number of civilian casualties the Israeli military deems acceptable. The documentary is made by Israeli filmmakers.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/02/nx-s1-5987714/naza-review-israel-palestine",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "Israeli barrier cuts off water to West Bank Palestinians before elections",
-      "description": "Residents of Ras al-Ahmar say Israeli restrictions have cut access to water, animal feed, healthcare.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/israeli-barrier-cuts-off-water-to-west-bank-palestinians-before-elections?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Israel’s Supreme Court overturns election panel ban on Arab parties",
-      "description": "Court reinstates two Arab lists and Jewish Knesset member Ofer Cassif as Balad leader withdraws after pressure.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/israels-supreme-court-overturns-election-panel-ban-on-arab-parties?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
-      "description": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
+      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+      "description": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "UK-Iranian dual national arrested over RAF Fairford released on bail",
+      "description": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "6h ago"
+    },
+    {
+      "title": "Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage",
+      "description": "The Conservative leader is expected to set out a return to core conservative principles at the party’s annual conference.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmn8e887716vo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "7h ago"
+    },
+    {
+      "title": "Opinion: A Hawk is not the same as a Hawkeye",
+      "description": "This was emphasized to people watching a Senate hearing this week, where confusion over two basketball teams was on display.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/03/nx-s1-5981300/opinion-a-hawk-is-not-the-same-as-a-hawkeye",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "5h ago"
+    },
+    {
+      "title": "Economist Betsey Stevenson breaks down the gender gap in recent hiring reports",
+      "description": "The U.S. economy added fewer jobs than expected last month and unemployment ticked up to 4.2%. NPR's Scott Simon talks to Betsey Stevenson, an economist at the University of Michigan.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/03/nx-s1-5989546/economist-betsey-stevenson-breaks-down-the-gender-gap-in-recent-hiring-reports",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "5h ago"
+    },
+    {
+      "title": "Tennessee prison chief to resign after Christa Pike's failed execution, governor says",
+      "description": "Pike survived two lethal injections on Wednesday and is currently in critical condition in hospital.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "‘I want the truth’: NY governor appoints prosecutor in Cornell rape case",
-      "description": "New York Governor Kathy Hochul says local authorities failed to properly investigate the 2024 allegations.",
+      "title": "Somalia won’t accept Israeli presence ‘under any circumstances’: President",
+      "description": "In exclusive Al Jazeera interview, President Hassan Sheikh Mohamud says Israel planning a naval base in Berbera.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/2/i-want-the-truth-ny-governor-appoints-prosecutor-in-cornell-rape-case?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Jerusalem Daily: Who gets to run in Israel’s elections?",
-      "description": "Palestinians in Israel are asking whether they will have a fair say in the upcoming Israeli elections.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/jerusalem-daily-who-gets-to-run-in-israels-elections?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-      "description": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+      "title": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack",
+      "description": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/jerusalem-daily-uae-says-flydubai-co-pilot-attempted-terrorist-attack?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "9h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
-      "description": "EU countries are set for crisis talks on soaring diesel prices, with officials warning a U.S. export ban could hurt Europe’s economic outlook.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
+      "description": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
     },
     {
-      "title": "How much higher can bond yields rise — and what does it mean for stocks?",
-      "description": "Also in Weekend Reads: Adjustable-rate mortgage loans, Gen Z entrepreneurs and advice from the Moneyist.",
+      "title": "Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference",
+      "description": "Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-reporters-verbal-attack-cuts-short-ireland-press-conference?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "What we know about the co-pilot accused in Flydubai attack",
+      "description": "The co-pilot accused of attacking a Flydubai captain has reportedly been identified as Hamam al-Hammami.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/what-we-know-about-the-co-pilot-accused-in-flydubai-attack?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "A tough job market is pushing more young Americans to make a big bet: on themselves",
+      "description": "There has been a rise in entrepreneurship among young Americans as the entry-level labor market has become tougher to join.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-much-higher-can-bond-yields-rise-and-what-does-it-mean-for-stocks-12883d6c?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/a-tough-job-market-is-pushing-more-young-americans-to-make-a-big-bet-on-themselves-1aaddeca?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Europe’s leaders rush to release diesel from stockpiles as fuel shock hangs over U.S. midterms",
-      "description": "Europe leaders agreed Friday to release some of diesel stockpiles, pulling prices of oil down by more than 4%.",
+      "title": "Switching jobs to get higher pay works best in these industries",
+      "description": "Finding a new job is one way to get a pay increase at a time when inflation has been outpacing wage growth.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Men are losing ground in the labor market. Here's why",
-      "description": "Women outnumbered men in the workforce for eight straight months as of September, according to one analysis.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/men-labor-market-jobs-report.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Why bond investors quickly lost their enthusiasm for weak jobs figures",
-      "description": "A weak U.S. labor report did what bad news hadn’t done in a while: It made U.S. debt look like a safe haven again — albeit briefly.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-bond-investors-quickly-lost-their-enthusiasm-for-weak-labor-figures-7a9727da?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/the-best-industry-to-change-jobs-to-get-paid-more-money-and-the-worst-ae33a3a7?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
@@ -200,36 +176,60 @@
       "timeAgo": "1h ago"
     },
     {
-      "title": "The opportunity awaiting Mississippi State against No. 7 Alabama",
-      "description": "An undefeated start and surging momentum under Jeff Lebby have Starkville buzzing as the Bulldogs look to snap a losing streak against the Crimson Tide that dates back to 2007",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/the-opportunity-awaiting-mississippi-state-against-no-7-alabama/",
-      "category": "🏀 SPORTS",
+      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+      "description": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Underdog promo code and prediction markets review: Use code CBS for up to $1,000 Bonus",
-      "description": "Learn about the Underdog Prediction Picks product within the Underdog app and use Underdog promo code CBS for up to $1,000 in bonus funds and more, as of October 2.",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/prediction/news/underdog-promo-code/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
+      "title": "Berkshire buys more Lennar shares, but pace of purchases slows",
+      "description": "Berkshire Hathaway added to its bet on Lennar this week, raising its stake in the homebuilder to 11.2%, although the pace of its buying appears to be slowing.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/03/berkshire-buys-more-lennar-shares-but-pace-of-purchases-slows.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "4h ago"
     },
     {
-      "title": "Watt is going on in Pittsburgh? Frustrations boil over on Steelers' sideline during loss to Browns",
-      "description": "Multiple Steelers players were seen sounding off during the divisional game on Thursday night",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/frustrations-boil-over-steelers-sideline-during-loss-to-browns/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
+      "title": "FlyDubai plane attack by co-pilot was an attempted 'terrorist' act, UAE says",
+      "description": "The FlyDubai co-pilot attacked the pilot inside the cockpit with a crash axe and attempted to take control of the aircraft, the UAE prosecutor general said.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/03/flydubai-co-pilot-attacked-pilot-with-axe-uae-says.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "4h ago"
     },
     {
-      "title": "Should the Phillies trade Bryce Harper or Kyle Schwarber? Why blockbuster deal doesn't make sense",
-      "description": "Moving on from the veteran sluggers wouldn't help Philadelphia in the short term and probably not the long term either",
+      "title": "How to bet on 2026 NFL Week 4: Betting odds, game previews, trends, tips, schedule, sportsbook promos, offers",
+      "description": "Our NFL betting guide tells you where to bet on NFL Week 4, while providing odds, betting trends, schedule, promo offers, and more",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/mlb/news/phillies-trade-rumors-bryce-harper-kyle-schwarber/",
+      "url": "https://www.cbssports.com/betting/news/how-to-bet-on-2026-nfl-week-4-betting-odds-game-previews-trends-tips-schedule-sportsbook-promos-offers/",
       "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
+    },
+    {
+      "title": "2026 WWE Money in the Bank card, matches, date rumors and predictions for annual event",
+      "description": "Money in the Bank takes place in New Orleans on Oct. 10",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/wwe/news/2026-wwe-money-in-the-bank-card-matches-date-rumors-match-card-predictions/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets by targeting Ohio State-Iowa, Clemson-Miami Saturday",
+      "description": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for college football on Saturday",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-ohio-state-iowa-clemson-miami-saturday/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Miami vs. Clemson prediction, pick, odds, spread: Hurricanes look to prove status as ACC's king",
+      "description": "ACC frontrunner and No. 4 Miami travels to Death Valley for a Saturday night clash at Clemson",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/miami-clemson-prediction-picks-odds-spread-where-to-watch-live/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
     }
   ]
 }
