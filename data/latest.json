@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-05T21:11:44.884967+00:00",
-  "edition": "#243",
+  "date": "2026-10-06T18:59:55.059843+00:00",
+  "edition": "#244",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Opus 5.5 agents discover 2 room-temperature magnetic semiconductor candidates",
-      "description": "Article URL: https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors Comments URL: https://news.ycombinator.com/item?id=49970667 Points: 6 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-      "description": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "title": "Hark releases an AI personal assistant with a focus on privacy",
+      "description": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Etched fields funding offers at $40B+ valuation, sources say",
-      "description": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "GitHub Actions Has Problems",
-      "description": "Article URL: https://www.githubstatus.com/incidents/3q1yb5m7ltvb Comments URL: https://news.ycombinator.com/item?id=49969961 Points: 50 # Comments: 30",
-      "source": "Hacker News",
-      "url": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb",
+      "title": "Paramount completes $111B Warner merger, creating “Skydance” behemoth",
+      "description": "Paramount now owns Warner Bros. as last-ditch effort to stop $111B merger fails.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "The mental health of young men is declining. Experts warn it could get worse",
-      "description": "Article URL: https://www.cbc.ca/news/health/the-mental-health-of-young-men-is-declining-experts-warn-it-could-get-worse-9.7361010 Comments URL: https://news.ycombinator.com/item?id=49969933 Points: 29 # Comments: 12",
-      "source": "Hacker News",
-      "url": "https://www.cbc.ca/news/health/the-mental-health-of-young-men-is-declining-experts-warn-it-could-get-worse-9.7361010",
+      "title": "Support Ars and get a better reading experience in return",
+      "description": "ArsPro gives you more ways to read while directly supporting our journalism.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/staff/2026/10/make-ars-better-with-an-arspro-subscription/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "After Factory’s public spat with Khosla, Menlo proudly invests",
-      "description": "Days after Vinod Khosla called Factory a struggling also-ran, Menlo has shown up with a check and a glowing blog post.",
+      "title": "India’s JioHotstar takes partnership route for Middle East expansion",
+      "description": "JioHotstar will be offered inside Starzplay rather than through a stand-alone service.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/",
+      "url": "https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Author and former politician Jeffrey Archer dies aged 86",
-      "description": "His last book, Adam and Eve, is set to release this month.",
+      "title": "Amazon kills Alexa’s ability to control Echo speakers' AUX input",
+      "description": "Amazon hasn't made an Echo with a 3.5mm port in six years.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/10/amazon-bricks-alexas-ability-to-control-echo-speakers-aux-input/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "California Closed the Montana License Plate Loophole",
+      "description": "Article URL: https://www.thedrive.com/news/heres-how-california-closed-the-montana-license-plate-loophole Comments URL: https://news.ycombinator.com/item?id=49981186 Points: 24 # Comments: 16",
+      "source": "Hacker News",
+      "url": "https://www.thedrive.com/news/heres-how-california-closed-the-montana-license-plate-loophole",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Tear gas in Paris and Marseille as school protests grow across France",
+      "description": "Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
-      "description": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+      "title": "Asos confirms hackers sent 'unauthorised' notification to app users",
+      "description": "Asos confirmed an \"unauthorised customer notification\" was sent out via its app on Tuesday, after users raised alarm.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "British national arrested in connection with RAF Fairford incident",
+      "description": "It is the seventh arrest in connection to the incident near RAF Fairford last month.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqlye0xd72wdo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "Watch: At the scene of student protests in Lille",
+      "description": "The BBC's Europe correspondent Nick Beake reports from a large demonstration in northern France.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cwzd650e2jqdo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "Cornell names former acting U.S. attorney general to review rape case",
+      "description": "Cornell University names Sally Yates, former acting U.S. attorney general and career federal prosecutor, to lead an independent review into how the school handled a former student's rape allegations.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/06/nx-s1-5992799/cornell-yates-rape-case-updates-review",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "King's funding for Andrew not to be used for legal action against police",
-      "description": "Andrew Mountbatten-Windsor is taking action over search warrants issued ahead of his arrest in February.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9ly0l028d1go?at_medium=RSS&at_campaign=rss",
+      "title": "France's police fire tear gas and water cannons as school protests sweep the country",
+      "description": "More than a quarter of a million people rallied nationwide to support school students demanding more education funding, according to government figures, with thousands of arrests.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/06/nx-s1-5992819/france-student-protests-schools",
       "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Amid protests, Kosovo’s political deadlock raises prospect of new elections",
+      "description": "Kosovo faces tensions as protests against former rebel leaders’ convictions coincide with the prospect of new elections.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/6/amid-protests-kosovos-political-deadlock-raises-prospect-of-new-elections?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
+      "description": "New York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify her.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Indian opposition leaders detained during voter lists protest",
+      "description": "Police detained Indian opposition leaders during a protest outside the Election Commission in New Delhi where lawmakers",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/indian-opposition-leaders-detained-during-voter-lists-protest?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Tuareg rebels withdraw from strategic town of Kidal in northern Mali",
+      "description": "The Azawad Liberation Front said sustained air strikes by Malian troops and Russian allies forced its tactical retreat.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/6/tuareg-rebels-withdraw-from-strategic-town-of-kidal-in-northern-mali?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Jerusalem Daily:  Tension high in Israel ahead of October 7",
+      "description": "Jerusalem Daily: Tension high in Israel ahead of October 7",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/jerusalem-daily-tension-high-in-israel-ahead-of-october-7?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+      "description": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "2h ago"
     },
     {
-      "title": "The iconic Arthur Read made his TV debut 30 years ago",
-      "description": "The animated series \"Arthur\" premiered on PBS Kids on Oct. 7, 1996.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/05/g-s1-146052/arthur-read-tv-debut-30-anniversary",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "What we know about Andrew Mountbatten-Windsor's legal action against police",
-      "description": "Andrew Mountbatten-Windsor is taking legal action against Thames Valley Police over his arrest in February.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cv62yd93z906o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "8h ago"
-    },
-    {
-      "title": "Dennis Hastert, longtime Republican House speaker who went to prison, dies at age 84",
-      "description": "ennis Hastert, whose political legacy as Congress' longest-serving Republican House speaker was later fouled by allegations that he had molested high school athletes during his prior career as a teacher and wrestling co…",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/05/g-s1-146452/dennis-hastert-republican-house-speaker-dies-obit",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "6h ago"
-    },
-    {
-      "title": "Brazil’s presidential race head for a tough runoff",
-      "description": "Brazil is heading into a fiercely contested presidential runoff after the first round revealed major gains for Bolsonaro",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/brazils-presidential-race-head-for-a-tough-runoff?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "What’s next for Bosnia after elections?",
-      "description": "Bosnia and Herzegovina’s election strengthened nationalist parties.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/whats-next-for-bosnia-after-elections?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Can Yemen retake territory seized by Houthis?",
-      "description": "The group has taken control of much of the Red Sea coast.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/5/can-yemen-retake-territory-seized-by-houthis?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Israeli forces kill one, injure several in occupied West Bank",
-      "description": "Palestinians in West Bank are suffering increasing Israeli violence and repression.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/5/israeli-forces-kill-one-injure-several-in-occupied-west-bank?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Teenager's hand blown off during confrontation between France school protesters and police",
-      "description": "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
-      "description": "The vessel's captain was killed and 11 crew members were rescued after the attack on the Turkish-owned ship, Ukraine's leader says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "5h ago"
-    },
-    {
-      "title": "'We had a threat': Trump explains U.S. moving long-range bombers from UK",
-      "description": "The U.S. Air Force B-1 bombers removed from England have been used in strikes on Iran.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/05/trump-bombers-uk-iran.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Trump is promising $90 Medicare rebate checks ahead of the midterms. Here’s the hidden cost.",
-      "description": "The president is betting that he can make seniors forget rising healthcare costs",
+      "title": "‘Trump accounts’ could force MAGA children to own New York Times stock",
+      "description": "This is going to bring a lot of problems that almost anyone could have predicted",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/trump-is-promising-90-medicare-rebate-checks-ahead-of-the-midterms-heres-the-hidden-cost-14b7e2ce?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/trump-accounts-could-force-maga-children-to-own-new-york-times-stock-46177c96?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "House Democrat targets candidate prediction market trades after opponent’s Kalshi penalty",
-      "description": "The bill bans federal candidates from trading prediction market contracts related to their own elections and would result in a fine if violated.",
+      "title": "Kalshi launches transparency features on its election contracts ahead of midterms",
+      "description": "The platform will now provide tags that indicate which election markets have low volumes.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html",
+      "url": "https://www.cnbc.com/2026/10/06/kalshi-launches-transparency-features-on-its-election-contracts-ahead-of-midterms-.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Intel’s stock drops after Musk hints at an additional partner for big chip venture",
-      "description": "Intel may not be the only semiconductor company tapped to help with chip manufacturing for the Terafab project, as Elon Musk said discussions with TSMC are ongoing.",
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "description": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Investors see big opportunity in ferocious 2026 bond-market rout",
-      "description": "The bond market rout of 2026 may be jolting markets, but it’s also gaining a important following among savers and the risk averse.",
+      "title": "Marvell just impressed Wall Street with ‘good numbers plus a better story’",
+      "description": "Marvell’s stock is popping after the company not only delivered with its financial forecasts but also demonstrated its diversified mix of customers and products.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/investors-see-big-opportunity-in-ferocious-2026-bond-market-rout-e5cc94f3?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "SpaceX stock climbs to highest since June, returning Musk to trillionaire status",
-      "description": "SpaceX shares have bounced almost 60% off their low in early August, boosted by the company's AI business and Starship progress.",
+      "title": "How Meta’s stock can surge to $1,000, according to the biggest bull on Wall Street",
+      "description": "A Wells Fargo analyst warns of a near-term profit hit from AI infrastructure spending and legal costs — but thinks that will set up massive gains by 2028.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-metas-stock-can-surge-to-1-000-according-to-the-biggest-bull-on-wall-street-a91afff3?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
+      "description": "The expansion marks the AI company's latest push to deepen its ties to founders and fast-growing companies.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/05/spacex-stock-climbs-highest-since-june-returning-musk-to-trillionaire.html",
+      "url": "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "NFL just doled out a punishment it hasn't used in 8 years -- to two separate offenders",
-      "description": "A look at how rare it is for an NFL official to be punished by the league",
+      "title": "Fantasy football Week 5 RB preview: Walker and Hubbard on bye; Allen and Pollard move into must-start range",
+      "description": "Byes, injuries to star rushers, and messy committees have depleted the position, opening the door for Allen and Pollard to climb into the top 20",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/nfl-doled-out-punishment-not-used-8-years-officials/",
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-5-preview-starters-to-replace-walker-hubbard/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Boxing schedule for 2026: When Canelo Alvarez, Isaac Cruz, Sebastian Fundora and more are set to return",
-      "description": "The 2026 boxing calendar is hitting the fall with some great fights on the books",
+      "title": "Ranking NFL division leaders by which are most vulnerable after opening month",
+      "description": "We have some surprising division leaders after the first month, including the Browns and Giants. Will they hold on?",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/boxing/news/boxing-schedule-for-2026-dates-location-fights-canelo-alvarez-sebastian-fundora/",
+      "url": "https://www.cbssports.com/nfl/news/ranking-nfl-division-leaders-by-most-vulnerable-teams/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Saints vs. Falcons prediction, odds, time: Week 4 'Monday Night Football' picks from proven model",
-      "description": "SportsLine's model has revealed its Atlanta Falcons vs. New Orleans Saints picks for 'Monday Night Football'",
+      "title": "Michael Penix Jr. has completely revived the Falcons' offense. Can it continue after a hot start?",
+      "description": "The Falcons are leading the league in scoring over the last two weeks with Penix, but the question remains whether this is real or a mirage",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/saints-vs-falcons-prediction-odds-time-week-4-monday-night-football-picks-best-bets/",
+      "url": "https://www.cbssports.com/nfl/news/michael-penix-jr-has-completely-revived-the-falcons-offense/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "NFL suspends official Jeff Seeman for incident with Cardinals' Trey McBride",
-      "description": "The altercation between the two went viral following New York's win over Arizona",
+      "title": "Seahawks decide not to sign Joe Mixon after physical, per report",
+      "description": "Mixon missed the entire 2025 season with a foot injury, but he ran over 1,000 yards and over 10 TD in 2024",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/nfl-reviewing-incident-between-official-cardinals-trey-mcbride/",
+      "url": "https://www.cbssports.com/nfl/news/seahawks-signing-veteran-rb-joe-mixon/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
