@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-07T19:27:34.191945+00:00",
-  "edition": "#245",
+  "date": "2026-10-08T19:21:53.094570+00:00",
+  "edition": "#246",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,228 +8,228 @@
   },
   "stories": [
     {
-      "title": "ICANN Reveals 2026 Round Applications for New Generic Top-Level Domains",
-      "description": "Article URL: https://www.icann.org/en/announcements/details/icann-reveals-2026-round-applications-for-new-generic-top-level-domains-07-10-2026-en Comments URL: https://news.ycombinator.com/item?id=49997301 Points: 5 # C…",
+      "title": "LGTM (Looks Good to Me) – Claude Opus 5.5 Music Video",
+      "description": "Article URL: https://www.youtube.com/watch?v=3TNpOD6bov8 Comments URL: https://news.ycombinator.com/item?id=50010330 Points: 4 # Comments: 1",
       "source": "Hacker News",
-      "url": "https://www.icann.org/en/announcements/details/icann-reveals-2026-round-applications-for-new-generic-top-level-domains-07-10-2026-en",
+      "url": "https://www.youtube.com/watch?v=3TNpOD6bov8",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Meta and Microsoft Limit Employee Use of Claude AI Tools",
-      "description": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points: 22 # Comments: 12",
+      "title": "What ArtCraft's Vibe-Coded Apps Say About Adobe",
+      "description": "Article URL: https://tedium.co/2026/10/08/artcraft-vibe-coding-creative-cloud-remake/ Comments URL: https://news.ycombinator.com/item?id=50010170 Points: 3 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+      "url": "https://tedium.co/2026/10/08/artcraft-vibe-coding-creative-cloud-remake/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Push Ifs Up and Fors Down: The Idiom, Its Algebra, and Its Limits",
-      "description": "Article URL: https://debasishg.github.io/blog/push-ifs-up-fors-down/ Comments URL: https://news.ycombinator.com/item?id=49997073 Points: 3 # Comments: 0",
+      "title": "Cloudflare Keeps 1.1.1.1 Out of Piracy Blocking, Escapes Penalties in France",
+      "description": "Article URL: https://torrentfreak.com/cloudflare-keeps-1-1-1-1-out-of-piracy-blocking-escapes-penalties-in-france/ Comments URL: https://news.ycombinator.com/item?id=50009965 Points: 6 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
+      "url": "https://torrentfreak.com/cloudflare-keeps-1-1-1-1-out-of-piracy-blocking-escapes-penalties-in-france/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
-      "description": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+      "title": "Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal",
+      "description": "A fictionalized Sam Bankman-Fried is coming to your TV screen on November 19.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+      "url": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-      "description": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+      "title": "Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)",
+      "description": "Article URL: https://github.com/p10node/k10s Comments URL: https://news.ycombinator.com/item?id=50009904 Points: 28 # Comments: 11",
+      "source": "Hacker News",
+      "url": "https://github.com/p10node/k10s",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "description": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just…",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "X expands its ‘Gametime’ sports hub beyond the NFL, starting with MLB",
-      "description": "X is turning its NFL-focused Gametime feature into a year-round sports destination, starting with MLB and with other professional leagues to follow.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/",
-      "category": "🤖 TECH & AI",
+      "title": "Two Latvian men arrested on suspicion of trespass at RAF base in Cambridgeshire",
+      "description": "Police say they apprehended two Latvian men at about 02:00 BST while they were inside the perimeter.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
-      "description": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
+      "title": "Watch: What does the ruling mean for the investigation into the former prince?",
+      "description": "Special correspondent Lucy Manning explains why the Hight Court has ruled that search warrants used to search Mr Mountbatten-Windsor's home were unlawful.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/videos/c6qxn8dd0zllo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Boots sold in £7bn deal to Canadian billionaire family",
-      "description": "The sale of the High Street chain was announced on Wednesday.",
+      "title": "Warrants used to search Andrew Mountbatten-Windsor's homes were unlawful, court says",
+      "description": "A criminal investigation into the former prince continues and police have retained material seized from his homes.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Chris Mason: Tories united behind Badenoch - but party still needs to win over voters",
-      "description": "Kemi Badenoch has the support of her party but the Tories still trail Labour and Reform in opinion polls.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm1j3rj2r72xo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cr1exlvpzylvo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Trump approved the military's 1st firing squad execution since WWII. Why now?",
-      "description": "The Pentagon says Nidal Hasan will be executed by firing squad in December at Fort Hood, where he killed 13 people in 2009. The announcement came days after a botched lethal injection in Tennessee.",
+      "title": "Suicide is up among Black Americans. We need to talk about it.",
+      "description": "NPR's Michel Martin hosted a panel conversation about mental health and suicide in the Black community, exploring a difficult subject in deeply personal conversations.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/10/07/nx-s1-5993539/firing-squad-execution-nidal-hasan-fort-hood",
+      "url": "https://www.npr.org/2026/10/08/nx-s1-5963905/suicide-black-americans-discussion-analysis",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Badenoch says Tories would scrap inheritance tax on family homes",
-      "description": "Tory leader says her party is \"coming back\", as she aims to convince voters it has changed after 2024 election defeat.",
+      "title": "Three sisters who drowned in sea off Brighton took own lives, inquest finds",
+      "description": "Jane Adetoro, Christina Walters and Rebecca Walters, who lived in London, drowned in the sea in May.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c689zxd8w87lo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
+      "timeAgo": "6h ago"
     },
     {
-      "title": "Why Trump just loosened the rules on 'dyed diesel' — normally a farm fuel",
-      "description": "Trump is temporarily allowing this fuel to be used on highways, although it's typically just for off-road farm and construction vehicles. Could that lower the price of diesel?",
+      "title": "New U.S. indictment charges former Venezuelan President Nicolás Maduro with torture",
+      "description": "U.S. authorities added new torture charges to their case against former Venezuelan President Nicolás Maduro, ramping up pressure on the ousted authoritarian leader already fighting drug trafficking allegations.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/10/07/nx-s1-5992963/dyed-diesel-fuel-price-farmers-trucks",
+      "url": "https://www.npr.org/2026/10/08/nx-s1-5995360/venezuela-nicolas-maduro-torture-charges",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "Ultra-Orthodox rabbi’s anti-Zionist remarks stir Israel election row",
-      "description": "Rabbi Dov Lando's comments expose tensions over Zionism, conscription and Netanyahu's ultra-Orthodox allies.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/7/ultra-orthodox-rabbis-anti-zionist-remarks-stir-israel-election-row?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Witnesses spot Eritrean troops inside northern Ethiopia as tensions flare",
-      "description": "Eritrea dismisses allegation as Ethiopia's pretext for more war.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/7/witnesses-spot-eritrean-troops-inside-northern-ethiopia-as-tensions-flare?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "At least 24 killed as Russia launches massive attack on Ukraine",
-      "description": "Ukraine says Russia launched a massive overnight barrage of 130 drones, 48 cruise missiles and ballistic missiles",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/at-least-24-killed-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Kenya on high alert amid concern over screening after first Ebola death",
-      "description": "Kenya’s government has intensified Ebola preparedness efforts amid growing concern over lapses in border screening.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/kenya-on-high-alert-amid-concern-over-screening-after-first-ebola-death?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Trump to speak to Putin about plague lab worker's death in Russia",
-      "description": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
+      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+      "description": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
-      "description": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
+      "title": "Israel opens first-ever pavilion at Morocco defence show",
+      "description": "Israel opened its first national pavilion at Morocco's Marrakech Air Show, joined by Israel's top military contractors.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/8/israel-opens-first-ever-pavilion-at-morocco-defence-show?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Colombian embassy to open in Jerusalem, Israeli FM says",
+      "description": "Colombian President Abelardo De la Espriella had promised closer ties with Israel on the campaign trail.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/8/colombian-embassy-to-open-in-jerusalem-israeli-fm-says?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Two Latvian men arrested inside UK military base after breach",
+      "description": "Police say nothing so far suggests the incident at RAF Molesworth linked ​to events surrounding RAF Fairford last month.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/8/two-latvian-men-arrested-inside-uk-military-base-after-breach?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Hurricane Isaias charges towards the US Gulf Coast with dangerous winds",
+      "description": "The storm is forecast to strike Florida, Alabama and Mississippi with up to 10 inches of rain this weekend.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/8/hurricane-isaias-charges-towards-the-us-gulf-coast-with-dangerous-winds?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
+      "description": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Microsoft and Nvidia are teaming up on a supercharged AI laptop",
-      "description": "Powered by Nvidia’s RTX Spark chip, the latest Windows laptop is designed to run AI models and workloads directly on the device.",
+      "title": "Why a Starbucks takeover of Chipotle would — and wouldn't — make sense for both companies",
+      "description": "Starbucks has reportedly been working with advisers on a takeover proposal for Chipotle, but a potential deal comes with pros and cons for investors.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/08/starbucks-chipotle-acquisition.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+      "description": "“Both properties will be solely in his name.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/microsoft-and-nvidia-are-teaming-up-on-a-supercharged-ai-laptop-f58b28d8?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
-      "description": "The new device shows Microsoft remains committed to making its own PCs even though it's not one of the top device makers.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Supertanker chartered from Gulf Coast to China for $76 million, 10 times higher than pre-war level",
-      "description": "Shipping costs have exploded as the war in the Persian Gulf has led to a shortage of available tankers.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/07/supertanker-from-us-to-china-chartered-for-76-million-source.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "10-year Treasury yield backs off from 24-year high after solid bond auction eases demand fears",
-      "description": "U.S. Treasury yields came off their highs after a solid sale of 10-year notes.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Fed officials see another hike coming, but no sign as to when, minutes show",
-      "description": "The Federal Reserve on Wednesday released minutes from its Sept. 15-16 policy meeting.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Stocks are increasingly their own best hedge. This chart shows why.",
-      "description": "For decades, investors concerned about stocks sought succor in the bond market. But these days, the best shield against an outbreak of volatility might just be owning other stocks.",
+      "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?",
+      "description": "“I keep thinking about giving each child $750,000 toward a house.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/stocks-are-increasingly-their-own-best-hedge-this-chart-shows-why-19a79b68?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Cam Jurgens trade grades: Eagles send two-time Pro Bowl center to the Ravens for two draft selections",
-      "description": "Baltimore is reportedly sending Philadelphia a 2027 fifth-round pick and a 2028 second-rounder for Jurgens and a 2027 seventh-round pick",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/cam-jurgens-trade-eagles-ravens-nfl-draft-picks/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
+      "title": "U.S. suspends Microsoft, Adobe from green card labor program in foreign worker crackdown",
+      "description": "Labor Secretary Keith Sonderling cited \"multiple active federal investigations\" around the two companies' involvement in the program Thursday.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/08/microsoft-adobe-green-card-labor-suspension.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
     },
     {
-      "title": "Guardians vs. White Sox prediction, odds, time: 2026 MLB ALDS Game 3 picks for Wednesday, Oct. 7 by model",
-      "description": "SportsLine's model simulated Cleveland Guardians vs. Chicago White Sox 10,000 times and revealed its MLB picks for Wednesday's AL Division Series Game 3 matchup",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/guardians-white-sox-prediction-odds-line-time-2026-mlb-playoff-alds-game-3-picks/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
+      "title": "The options market is reminding investors there’s a cure for rising bond yields — higher yields",
+      "description": "The MOVE Index — the Treasury market’s “fear gauge” — has reached heights that in the past suggested yields may have peaked, at least for now.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-options-market-is-reminding-investors-theres-a-cure-for-rising-bond-yields-higher-yields-2dcac640?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
     },
     {
-      "title": "NFL longshot parlay picks, bets for Week 5, 2026: Get an epic return of nearly +12,000,000",
-      "description": "SportsLine's computer simulation model has locked in a $10 NFL Week 5 parlay that pays out almost $1.2 million",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/nfl-longshot-parlay-picks-bets-week-5-2026/",
-      "category": "🏀 SPORTS",
-      "timeAgo": "2h ago"
+      "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
+      "description": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
     },
     {
-      "title": "Napheesa Collier landing spots: Three potential destinations if five-time All-Star leaves Lynx as free agent",
-      "description": "There have been questions about Collier's future in Minnesota since she opted for a one-year deal last offseason instead of a long-term contract",
+      "title": "How Ashley Sanchez found the joy in soccer again, thrived in a new position and got back into USWNT picture",
+      "description": "A tactical shift to winger under club coach Mak Lind and a renewed focus on enjoying the game helped the Courage star rebound from career lows and earn her way back to the national team",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/wnba/news/napheesa-collier-landing-spots-minnesota-lynx-wnba-free-agent/",
+      "url": "https://www.cbssports.com/soccer/news/ashley-sanchez-uswnt-return-camp-nwsl-nc-courage-2026/",
       "category": "🏀 SPORTS",
-      "timeAgo": "2h ago"
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Texas, Indiana among top-25 teams on upset alert in a Week 6 loaded with College Football Playoff stakes",
+      "description": "Five games to watch closely in a Week 6 teeming with upset potential",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/texas-indiana-top-25-upset-alert-week-6-college-football-playoff/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Kelsey Mitchell landing spots: Three title contenders that make sense if WNBA scoring champion leaves Fever",
+      "description": "Could Mitchell leave the Fever and backcourt mate Caitlin Clark? It's on the table this offseason",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/wnba/news/kelsey-mitchell-landing-spots-fever/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Fantasy football rankings Week 5: Dave Richard's tough start/sit calls include benching Jalen Hurts",
+      "description": "Justin Herbert also faces a tough Week 5 matchup, while Ollie Gordon, Woody Marks and T.J. Hockenson offer intriguing starting options",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/fantasy/football/news/2026-fantasy-football-rankings-week-5-dave-richards-startsit-calls/",
+      "category": "🏀 SPORTS",
+      "timeAgo": "just now"
     }
   ]
 }
