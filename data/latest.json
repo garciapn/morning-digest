@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-10T17:56:39.070327+00:00",
-  "edition": "#248",
+  "date": "2026-10-11T18:21:01.808652+00:00",
+  "edition": "#249",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,228 +8,228 @@
   },
   "stories": [
     {
-      "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
-      "description": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
+      "title": "We're unlocking the biggest mysteries of the clitoris",
+      "description": "Article URL: https://www.sciencefocus.com/the-human-body/were-finally-unlocking-the-biggest-mysteries-of-the-clitoris-2 Comments URL: https://news.ycombinator.com/item?id=50045895 Points: 8 # Comments: 0",
+      "source": "Hacker News",
+      "url": "https://www.sciencefocus.com/the-human-body/were-finally-unlocking-the-biggest-mysteries-of-the-clitoris-2",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Cloudflare acquires Deno to improve its Workers programming model",
-      "description": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
+      "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "description": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt Oct. 13.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+      "url": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "YouTuber builds 'Flock-like' camera to track police vehicles, gets police visit",
+      "description": "Article URL: https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns Comments URL: ht…",
+      "source": "Hacker News",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "apsw: Another Python SQLite Wrapper",
+      "description": "Article URL: https://github.com/rogerbinns/apsw Comments URL: https://news.ycombinator.com/item?id=50045273 Points: 11 # Comments: 2",
+      "source": "Hacker News",
+      "url": "https://github.com/rogerbinns/apsw",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "AI Is Throwing a Roadside Picnic",
-      "description": "Article URL: https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic Comments URL: https://news.ycombinator.com/item?id=50034363 Points: 20 # Comments: 19",
-      "source": "Hacker News",
-      "url": "https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic",
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "description": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Knuth Reward Check",
-      "description": "Article URL: https://www.thomas-huehn.com/knuth-reward-check Comments URL: https://news.ycombinator.com/item?id=50034081 Points: 39 # Comments: 14",
+      "title": "How to Build Wealth as a Career Person",
+      "description": "Article URL: https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/ Comments URL: https://news.ycombinator.com/item?id=50044715 Points: 20 # Comments: 12",
       "source": "Hacker News",
-      "url": "https://www.thomas-huehn.com/knuth-reward-check",
+      "url": "https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/",
       "category": "🤖 TECH & AI",
       "timeAgo": "2h ago"
     },
     {
-      "title": "How Protein Took over the World",
-      "description": "Article URL: https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd Comments URL: https://news.ycombinator.com/item?id=50034008 Points: 24 # Comments: 36",
-      "source": "Hacker News",
-      "url": "https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd",
-      "category": "🤖 TECH & AI",
+      "title": "PM says it is 'clear' Russia interfered with Brexit vote",
+      "description": "He says voters were not \"sufficiently\" informed about how foreign actors sought to disrupt UK democracy.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Saudi capital airport hit by second Houthi strike in two days",
+      "description": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
+      "description": "While the physical damage from Houthi attacks can be quickly repaired, the Saudi reputation for stability is taking a battering.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial",
-      "description": "Article URL: https://chronicles.popvax.com/p/popvax-goes-clinical Comments URL: https://news.ycombinator.com/item?id=50033721 Points: 42 # Comments: 11",
-      "source": "Hacker News",
-      "url": "https://chronicles.popvax.com/p/popvax-goes-clinical",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-      "description": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
+      "title": "Wildlife park remains closed after fatal tiger attack",
+      "description": "Yorkshire Wildlife Park remains closed after a man entered the tiger enclosure and was fatally attacked on Saturday.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Man dies after tiger attack at wildlife park",
-      "description": "The visitor attraction near Doncaster was evacuated on Saturday and remains closed for the weekend.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-      "description": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Sara Sharif's grandfather granted guardianship of her siblings in Pakistan",
-      "description": "All five children have been living with him in Pakistan since 2023, when 10-year-old Sara was murdered.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqdjvdpxmvn3o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "At least 2 deaths attributed to Isaias after hurricane bashes Florida and Alabama",
-      "description": "Hurricane Isaias is blamed for at least two deaths, after the storm made landfall on the Florida coast and ran through Alabama. The are numerous reports of downed trees, with hundreds of thousands of people without powe…",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/10/g-s1-147632/at-least-2-deaths-attributed-to-isaias-after-hurricane-bashes-florida-and-alabama",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Opinion: Can I keep the baseball I caught?",
-      "description": "What would you do if you caught a baseball during the MLB playoffs? Give it to a kid nearby or keep it? This very scenario played out this week, with a fan deciding to keep the ball.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/10/nx-s1-5982500/opinion-can-i-keep-the-baseball-i-caught",
+      "url": "https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "5h ago"
     },
     {
-      "title": "Pope says death penalty ‘inadmissible’ as US plans to livestream execution",
-      "description": "Pope Leo XIV describes capital punishment as an 'attack on the inviolability and dignity of the person' in post on X.",
+      "title": "Pope Leo XIV to undergo lung surgery this week",
+      "description": "Pope Leo XIV said he would undergo surgery after doctors found a \"localized nodule\" in his lung.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "5h ago"
+    },
+    {
+      "title": "Hurricane Simon nears Mexico with 155 mph winds and flooding fears",
+      "description": "The eye of Hurricane Simon was just off the Pacific coast of Mexico early Sunday and was expected to move inland later in the day as an extremely powerful storm.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/11/nx-s1-5998022/hurricane-simon-nears-mexico-155-mph-winds-flooding-fears",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "6h ago"
+    },
+    {
+      "title": "Liverpool fans give Manchester City a fiery welcome at Anfield",
+      "description": "'Cheats cheats cheats' This is how Liverpool fans greeted Manchester City as they arrived at Anfield",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/10/pope-says-death-penalty-inadmissible-as-us-plans-to-livestream-execution?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/liverpool-fans-give-manchester-city-a-fiery-welcome-at-anfield?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Video shows rare albino Asian black bear",
-      "description": "A rare albino Asian black bear was captured on camera in China’s Shennongjia National Park",
+      "title": "Man City beat 10-man Liverpool 3-0 in first game after guilty verdict",
+      "description": "Erling Haaland, Jeremy Doku and Rayan Cherki score second half goals after Ryan Gravenberch sent off.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/video-shows-rare-albino-asian-black-bear?traffic_source=rss",
+      "url": "https://www.aljazeera.com/sports/2026/10/11/man-city-beat-10-man-liverpool-3-0-in-first-game-after-guilty-verdict?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Christa Pike discharged from hospital and returned to Tennessee prison",
-      "description": "Pike survived two doses of lethal-injection drugs on September 30, renewing scrutiny of capital punishment.",
+      "title": "Is the Yemen war entering a new phase?",
+      "description": "Saudi Arabia has accused Yemen’s Houthis of killing 12 people and injuring 300 in Saturday's attack on King Khalid Inter",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/10/christa-pike-discharged-from-hospital-and-returned-to-tennessee-prison?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/is-the-yemen-war-entering-a-new-phase?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Several injured in attack on airport in Saudi capital Riyadh",
-      "description": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
+      "title": "Poland detains man suspected of planning assassination of PM Tusk",
+      "description": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Israel pushes its ‘Yellow Line’ deeper into Gaza",
+      "description": "Israel pushes its ‘Yellow Line’ deeper into Gaza",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/israel-pushes-its-yellow-line-deeper-into-gaza?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Celebrations in Ethiopian city after reported Eritrean ‘incursion’",
-      "description": "People in northern Ethiopia are celebrating after a reported withdrawal of Eritrean forces accused of an incursion.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/celebrations-in-ethiopian-city-after-reported-eritrean?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
-      "description": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+      "description": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Elon Musk is now richer than any American ever — and it’s not even close",
-      "description": "Musk’s trillioniare status means he’s wealthier than his next three contemporaries combined — and also worth more than historical tycoons like John D. Rockefeller.",
+      "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
+      "description": "There will be no Medicare Advantage plans in 181 counties in 2027, up from 67 in 2026.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/elon-musk-is-now-richer-than-any-american-ever-and-its-not-even-close-58f31401?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "A friend in her 80s fell down her basement stairs. Is this a hidden danger lurking in people’s home?",
-      "description": "“She developed pleural effusion — fluid between the lungs and ribs — compressing her lungs and making it hard for her to breathe.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
+      "title": "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
+      "description": "U.S. military involvement in the fight against the Houthis would stretch resources in the Middle East already committed to fighting Iran, analysts said.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-      "description": "“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
-      "description": "“I presume these are sophisticated investors taking a profit.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Vance says Microsoft replaced laid-off workers with foreign hires. Here’s what the visa data shows",
-      "description": "The administration barred Microsoft and seven other firms from sponsoring green cards over claims they favor foreign workers. Here's what the visa data shows.",
+      "title": "AI’s quiet safety gatekeepers are stepping into the spotlight",
+      "description": "The intensifying AI safety debate is bringing a small group of third-party evaluators into the center of a multitrillion-dollar industry.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Putin relayed Iran war proposal to Trump, Kremlin says",
-      "description": "Putin's reported call with Trump regarding the Iran war comes on the heels of a deal for the U.S. to buy Russian diesel amid a surge in fuel prices.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html",
+      "url": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html",
       "category": "📈 MARKETS",
       "timeAgo": "4h ago"
     },
     {
-      "title": "Navy vs. Tulsa live stream, where to watch online, CBS Sports Network channel finder",
-      "description": "A full week of college football action on CBS Sports Network is on tap Saturday",
+      "title": "We’re about to get a huge read on whether earnings can keep propping up the stock market",
+      "description": "High hopes for third-quarter earnings are outweighing concerns around interest rates and oil prices — but one expert warns markets have gotten “extremely complacent.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/were-about-to-get-a-huge-read-on-whether-earnings-can-keep-propping-up-the-stock-market-459b565b?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "The bull market is turning 4 years old — but yields could crash the party",
+      "description": "For four years, tech has been the answer to almost every question about this bull market.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "5h ago"
+    },
+    {
+      "title": "NBA commissioner Adam Silver says league could introduce ‘smart ball’ technology as soon as next year",
+      "description": "Commissioner Adam Silver says the NBA could begin using a new \"smart ball\" in games as soon as next year, potentially transforming how officials make calls.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/11/commissioner-adam-silver-nba-could-launch-smart-ball-tech-next-year.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "5h ago"
+    },
+    {
+      "title": "Coaches Poll top 25: Texas drops from No. 1, LSU tumbles outside top 20 in Week 7 college football rankings",
+      "description": "Texas dropped outside the top five while UCLA surged in this week's Coaches Poll",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/navy-tulsa-live-stream-where-to-watch-online-cbs-sports-network-channel-finder/",
+      "url": "https://www.cbssports.com/college-football/news/coaches-poll-top-25-texas-no-1-lsu-week-7-college-football-rankings/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "2026 Week 5 NFL odds, picks, best bets, predictions: Experts backing Bears, Titans, Seahawks on Sunday",
-      "description": "SportsLine's experts have revealed their Week 5 NFL picks and best bets for Sunday",
+      "title": "NFL DFS, Ravens-Falcons: Top daily Fantasy football picks, lineups, advice for 'Sunday Night Football'",
+      "description": "DFS millionaire Mike McClure shares his top daily Fantasy picks and lineups for Atlanta vs. Baltimore on 'Sunday Night Football'",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/2026-week-5-nfl-odds-picks-best-bets-predictions-experts-backing-bears-titans-seahawks-sunday/",
+      "url": "https://www.cbssports.com/betting/news/nfl-dfs-ravens-falcons-top-daily-fantasy-football-picks-fanduel-draftkings-lineups-sunday-night-football/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Week 5 NFL score predictions, odds, picks, betting advice: Proven model gives projections for every game",
-      "description": "Make NFL best bets at NFL betting sites by seeing NFL score predictions from our advanced model",
+      "title": "Five-star WR Easton Royal flips commitment from Texas to Florida before Longhorns host Gators",
+      "description": "The No. 2 receiver in the 2027 class made his move just six days before the two teams meet in Week 7, giving Jon Sumrall his second five-star pledge of the cycle",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/week-5-nfl-score-predictions-odds-picks-betting-advice-proven-model-gives-projections-for-every-game/",
+      "url": "https://www.cbssports.com/college-football/news/easton-royal-flips-commitment-texas-florida-five-star-wr/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "USC vs. Penn State prediction, pick, odds, spread: Trojans, Nittany Lions clash at Happy Valley",
-      "description": "No. 19 USC desperately needs a win to remain in the CFP hunt, while Penn State looks to avoid a 0-3 start in the Big Ten",
+      "title": "NFL Week 5 odds, predictions, expert picks: Who has edge in 49ers vs. Seahawks?",
+      "description": "CBSSports.com and SportsLine break down every single NFL game in Week 5",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/usc-penn-state-prediction-picks-odds-spread-where-to-watch-live/",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-5-odds-predictions-expert-picks/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     }
   ]
 }
