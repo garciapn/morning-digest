@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-12T21:49:15.023172+00:00",
-  "edition": "#250",
+  "date": "2026-10-13T19:55:44.032881+00:00",
+  "edition": "#251",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
-      "description": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "description": "Guitoro is a free browser guitar using recordings of real instruments. You can strum with your keyboard, mouse, or touchscreen, choose acoustic, classical, electric guitar or bass, and see chord fingering and each strok…",
+      "source": "Hacker News",
+      "url": "https://guitoro.com/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "After a 10-year redemption arc, No Man's Sky is coming to the iPhone and iPad",
-      "description": "You can get a universe in your pocket if you have an iPhone 11 or later.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/",
+      "title": "Niobia takes the guesswork out of some of tech’s most expensive mistakes",
+      "description": "The San Francisco startup aims to help battery and chip manufacturers identify defects on production lines, reducing downtime and costly mistakes.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain",
+      "description": "Article URL: https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain Comments URL: https://news.ycombinator.com/item?id=50076503 Points: 11 # Comments: 1",
+      "source": "Hacker News",
+      "url": "https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Epic Games tells employees to use AI to get Disney game done",
-      "description": "Article URL: https://www.avclub.com/epic-games-disney-ai-delay Comments URL: https://news.ycombinator.com/item?id=50062237 Points: 43 # Comments: 18",
-      "source": "Hacker News",
-      "url": "https://www.avclub.com/epic-games-disney-ai-delay",
+      "title": "Rivian spinoff Mind Robotics hires former Ford EV chief Doug Field",
+      "description": "Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/13/rivian-spinoff-mind-robotics-hires-former-ford-ev-chief-doug-field/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Writing a Demoscene Intro for the ZX Spectrum",
-      "description": "Article URL: https://www.markround.com/blog/2026/zx-spectrum-intro Comments URL: https://news.ycombinator.com/item?id=50061859 Points: 35 # Comments: 2",
-      "source": "Hacker News",
-      "url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
+      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+      "description": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Making big downloads resumable in Firefox",
-      "description": "Article URL: https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html Comments URL: https://news.ycombinator.com/item?id=50061791 Points: 5 # Comments: 0",
+      "title": "A plea not to use uv-build",
+      "description": "Article URL: https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/ Comments URL: https://news.ycombinator.com/item?id=50076048 Points: 37 # Comments: 20",
       "source": "Hacker News",
-      "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+      "url": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "OpenFatigue™ – Open is the new closed",
-      "description": "Article URL: https://openfatigue.ai/ Comments URL: https://news.ycombinator.com/item?id=50061278 Points: 160 # Comments: 30",
-      "source": "Hacker News",
-      "url": "https://openfatigue.ai/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-      "description": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
+      "title": "Man killed in tiger attack identified as William Chapman",
+      "description": "Chapman, who was in his 20s, died after entering the tiger's enclosure at Yorkshire Wildlife Park.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c3ewegny45jvo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-      "description": "While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little.",
+      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+      "description": "Guilfoyle the allegations of improper conduct are \"false\" and being ambassador was the \"honour of a lifetime\".",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Government expands police support to political figures who are not MPs",
-      "description": "Shabana Mahmood says there is \"insufficient protection\" for those who play a role in public life.",
+      "title": "Football regulator says he would quit over any political interference in Man City case",
+      "description": "The head of English football's independent regulator says he will resign if he encounters any political interference over Manchester City's future.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3gr82rk70l8o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "Burnham to push for new post-Brexit deals at EU summit",
-      "description": "Conservative leader Kemi Badenoch said the prime minister was \"unpicking\" the deal the UK signed with the EU.",
+      "title": "Bipartisan group of senators call on Trump to rescind Russian diesel deal",
+      "description": "Six Democratic and six Republican senators wrote a letter calling on President Trump to withdraw from his recent deal with Russian President Vladimir Putin.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/13/g-s1-147871/trump-russia-diesel-deal-congressional-response",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+      "description": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqev3xvejyvjo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "4h ago"
     },
     {
-      "title": "Federal agents search Rep. Ilhan Omar's DC home, DOJ says it approved the warrant",
-      "description": "The Justice Department says the search is part of an \"ongoing federal investigation\", while Omar calls it \"an attempt to target political enemies\"",
+      "title": "A judge blocks the government's tree-clearing spree at a municipal D.C. golf course",
+      "description": "Locals and preservationists have long opposed Trump's plan to redevelop a municipal D.C. golf course. That legal fight escalated after the government cleared hundreds of trees on short notice.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/10/12/nx-s1-5998856/federal-agents-search-congressperson-home-dc-doj",
+      "url": "https://www.npr.org/2026/10/13/nx-s1-6000055/east-potomac-golf-course-tree-clearing-judge",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "India's opposition parties march to top court as protests over voter lists escalate",
-      "description": "Opposition parties say revisions to the list of eligible voters favor Prime Minister Narendra Modi's party. Authorities have removed more than 130 million names from the voter roll.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/12/nx-s1-5998831/india-opposition-protests",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "5h ago"
-    },
-    {
-      "title": "Canada’s Carney calls for unity as Alberta prepares for secession vote",
-      "description": "Prime Minister Mark Carney's Thanksgiving message comes a week ahead of Alberta's referendum to secede.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/12/canadas-carney-calls-for-unity-as-alberta-prepares-for-secession-vote?traffic_source=rss",
-      "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Conflict, drought increasing risk of famine in Sudan: Monitor",
-      "description": "El Nino-induced drought is affecting roughly half of the country as three-year long war continues.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/12/conflict-drought-increasing-risk-of-famine-in-sudan-monitor?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Why do Iran’s oil ‘intermediaries’ owe the government billions?",
-      "description": "Iran says intermediaries handling its oil sales owe it billions of dollars, but how did the debts accumulate?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/12/why-do-irans-oil-intermediaries-owe-the-government-billions?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Abdi-Wali makes history as first Somali-born refugee in UK Parliament",
-      "description": "Newly sworn-in Labour MP Sagal Abdi-Wali has become the first Somali-born refugee woman elected to UK Parliament.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/abdi-wali-makes-history-as-first-somali-born-refugee-in-uk-parliament?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-      "description": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
+      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+      "description": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
-      "description": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
+      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+      "description": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "16h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Trump 'not happy' with Kimberly Guilfoyle, weighs firing her as ambassador to Greece",
-      "description": "The former Fox News personality Guilfoyle was previously engaged to the president's son, Donald Trump Jr.",
+      "title": "Iconic Iguazu Falls walkway dismantled amid record water levels",
+      "description": "The Devil’s Throat walkway at Iguazu Falls is dismantled as water surged to nearly eight times its average.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/iconic-iguazu-falls-walkway-dismantled-amid-record-water-levels?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "DR Congo Ebola cases pass 9,000 as efforts to curb transmission falter",
+      "description": "The Bundibugyo strain fuels deadliest Ebola outbreak in DRC’s history as health workers face mistrust from communities.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/13/dr-congo-ebola-cases-pass-9000-as-efforts-to-curb-transmission-falter?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Trump says Houthis trying to increase oil prices before US elections",
+      "description": "US president suggests that Yemen-based group are 'purposefully trying to drive up oil prices' before November vote.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/13/trump-says-houthis-trying-to-increase-oil-prices-before-us-elections?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Will NATO’s ‘theory of victory’ work?",
+      "description": "The alliance presents a common vision to deter adversaries.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/13/will-natos-theory-of-victory-work?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
+      "description": "New York Fed President John Williams sees one more rate hike in 2026 but no additional increase in 2027 as inflation pressures ease.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/12/trump-kimberly-guilfoyle-ambassador.html",
+      "url": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Nvidia and AMD shares fall as new AI announcements fail to re-energize investors",
-      "description": "The chip makers introduced hardware and software designs for future AI data centers, but the revenue potential is still far out, an analyst says.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nvidia-and-amd-shares-fall-as-new-ai-announcements-fail-to-re-energize-investors-4a0dd766?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 midterm donor",
-      "description": "Musk’s record midterm election spending comes as the Tesla and SpaceX CEO rebuilds his relationship with Trump and has business ties to the federal government.",
+      "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
+      "description": "JPMorgan Chase CEO Jamie Dimon warned of rogue agents operating at scale and said the bank is building defensive tools.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "‘The house is worth $925,000’: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
-      "description": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Why Ciena, Lumentum and other optical stocks were among the market’s biggest losers on Monday",
-      "description": "The sharp moves could partly be a reaction to recent cautious commentary on AI spending.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-ciena-lumentum-and-other-optical-stocks-were-among-the-markets-biggest-losers-on-monday-b3e53f6a?mod=mw_rss_topstories",
+      "url": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "‘The prospectus looks impressive’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-      "description": "“I’m in my 60s, recently retired and living my best life.”",
+      "title": "Fake shopping sprees and ‘happiness insurance’: The latest fintech apps reveal our financial anxieties",
+      "description": "Fintech companies are catching on to how Americans are altering their financial habits, and they’ve created new products to try to meet the moment.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties-77770a46?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Cowboys hire former NFL head coach, Packers' DC to help fix struggling defense",
-      "description": "Brian Schottenheimer is calling in reinforcements after Thursday night's loss against the Bucs",
+      "title": "More Republicans come out against Trump's diesel deal with Putin",
+      "description": "Senators told Trump, the deal with Russian President Vladimir Putin \"will not achieve just ends, nor will it benefit Americans.\"",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/trump-russia-diesel-republicans.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Gen Z renters are the only group more likely to feel successful by investing than buying a house",
+      "description": "“Instead of focusing on homeownership, many are prioritizing financial freedom and debt-free living.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "The latest inflation data is expected to show price increases are accelerating",
+      "description": "Economists expect the consumer price index for September to rise 0.6% on the month and 3.6% year over year.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/september-consumer-price-index-inflation.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "NFL eyeing possible schedule change with Sunday night flex in Week 8, but league doesn't have a lot of options",
+      "description": "With Philadelphia and Washington struggling, the league has until Oct. 20 to make a move, but scheduling conflicts across the Week 8 slate leave few viable replacement options",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/cowboys-hire-mike-pettine-to-help-defense-christian-parker/",
+      "url": "https://www.cbssports.com/nfl/news/nfl-eyeing-possible-schedule-change-week-8/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "'Monday Night Football' prediction, odds, spread, time: Rams vs. Bills picks from expert on 28-10 roll",
-      "description": "Larry Hartstein reveals his picks for Buffalo Bills vs. Los Angeles Rams in the 2026 Week 5 'Monday Night Football' matchup",
+      "title": "Brian Flores-NFL lawsuit: Recruiting firm memo filled with racial stereotypes, attorneys claim",
+      "description": "Flores, Steve Wilks and Ray Horton have an ongoing lawsuit against the NFL for racial discrimination",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/monday-night-football-prediction-odds-line-time-rams-bills-expert-picks-best-bets/",
+      "url": "https://www.cbssports.com/nfl/news/brian-flores-recruiting-memo-filled-with-racial-stereotypes-attorneys-claim/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Rams vs. Bills SGP: 'Monday Night Football' same-game parlay picks, bets, props from SportsLine AI",
-      "description": "SportsLine's machine-learning AI reveals its 'Monday Night Football' SGP for Buffalo vs. Los Angeles",
+      "title": "Deion Sanders downplays 'leaked' Colorado play call sheet before Texas Tech loss",
+      "description": "The Buffaloes coach gave an interesting answer about the viral story involving an offensive play sheet",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/rams-bills-sgp-monday-night-football-same-game-parlay-picks-best-bets-player-props/",
+      "url": "https://www.cbssports.com/college-football/news/deion-sanders-colorado-leaked-play-call-sheet/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Rams-Bills, NFL betting promos: Pocket more than $3,000 in bonuses from top online betting apps, sportsbooks",
-      "description": "Top Week 5 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+      "title": "Week 6 NFL odds, picks, predictions: Computer model backs Patriots and Cardinals",
+      "description": "SportsLine's advanced model has simulated every game in the Week 6 NFL schedule 10,000 times and locked in its NFL best bets today",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/rams-bills-nfl-betting-promos-pocket-more-than-3000-in-bonuses-from-top-online-betting-apps-sportsbooks/",
+      "url": "https://www.cbssports.com/betting/news/nfl-odds-picks-predictions-bets-week-6-2026/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
