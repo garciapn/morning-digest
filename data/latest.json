@@ -1,235 +1,219 @@
 {
-  "date": "2026-10-13T19:55:44.032881+00:00",
-  "edition": "#251",
-  "totalStories": 28,
+  "date": "2026-10-14T18:07:34.548861+00:00",
+  "edition": "#252",
+  "totalStories": 26,
   "podcast": {
     "show": "The Daily",
     "description": "The New York Times' daily news podcast — today's top story in 20 minutes."
   },
   "stories": [
     {
-      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-      "description": "Guitoro is a free browser guitar using recordings of real instruments. You can strum with your keyboard, mouse, or touchscreen, choose acoustic, classical, electric guitar or bass, and see chord fingering and each strok…",
-      "source": "Hacker News",
-      "url": "https://guitoro.com/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Niobia takes the guesswork out of some of tech’s most expensive mistakes",
-      "description": "The San Francisco startup aims to help battery and chip manufacturers identify defects on production lines, reducing downtime and costly mistakes.",
+      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+      "description": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/",
+      "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain",
-      "description": "Article URL: https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain Comments URL: https://news.ycombinator.com/item?id=50076503 Points: 11 # Comments: 1",
+      "title": "Neckbeard – a DevOps/platform/SRE plugin for your agent",
+      "description": "Article URL: https://github.com/bealesh/neckbeard Comments URL: https://news.ycombinator.com/item?id=50091794 Points: 3 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain",
+      "url": "https://github.com/bealesh/neckbeard",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Rivian spinoff Mind Robotics hires former Ford EV chief Doug Field",
-      "description": "Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/13/rivian-spinoff-mind-robotics-hires-former-ford-ev-chief-doug-field/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-      "description": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "A plea not to use uv-build",
-      "description": "Article URL: https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/ Comments URL: https://news.ycombinator.com/item?id=50076048 Points: 37 # Comments: 20",
+      "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+      "description": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 15 # Comments: 1",
       "source": "Hacker News",
-      "url": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "US report details extent of 'devastating' dating-app scams",
+      "description": "Article URL: https://www.theguardian.com/us-news/2026/oct/14/dating-app-scams-us-congress Comments URL: https://news.ycombinator.com/item?id=50091519 Points: 21 # Comments: 2",
+      "source": "Hacker News",
+      "url": "https://www.theguardian.com/us-news/2026/oct/14/dating-app-scams-us-congress",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
+      "description": "Mosqitter is turning its mosquito-trapping hardware into an AI-powered surveillance network designed to identify species, monitor populations, and provide earlier warnings of mosquito-borne disease risks.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Man killed in tiger attack identified as William Chapman",
-      "description": "Chapman, who was in his 20s, died after entering the tiger's enclosure at Yorkshire Wildlife Park.",
+      "title": "Linus Torvalds's first LLM-assisted patch series",
+      "description": "Article URL: https://lwn.net/Articles/1100449/ Comments URL: https://news.ycombinator.com/item?id=50090842 Points: 53 # Comments: 18",
+      "source": "Hacker News",
+      "url": "https://lwn.net/Articles/1100449/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins",
+      "description": "The actor and comedian has pleaded not guilty to three counts of rape, three counts of sexual assault and one of indecent assault.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3ewegny45jvo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-      "description": "Guilfoyle the allegations of improper conduct are \"false\" and being ambassador was the \"honour of a lifetime\".",
+      "title": "Burnham treads carefully in Zelensky visit, balancing Trump and Ukraine",
+      "description": "The UK's prime minister meets with Volodymyr Zelensky after a rocky week for the Ukraine president.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cmx23q4dwvneo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Football regulator says he would quit over any political interference in Man City case",
-      "description": "The head of English football's independent regulator says he will resign if he encounters any political interference over Manchester City's future.",
+      "title": "Sally Rooney books withdrawn in UK over Palestine Action support",
+      "description": "The Irish writer is best known for novels such as Normal People, Intermezzo and Conversations With Friends.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cmx23q4g307vo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Bipartisan group of senators call on Trump to rescind Russian diesel deal",
-      "description": "Six Democratic and six Republican senators wrote a letter calling on President Trump to withdraw from his recent deal with Russian President Vladimir Putin.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/13/g-s1-147871/trump-russia-diesel-deal-congressional-response",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-      "description": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
+      "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
+      "description": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "4h ago"
     },
     {
-      "title": "A judge blocks the government's tree-clearing spree at a municipal D.C. golf course",
-      "description": "Locals and preservationists have long opposed Trump's plan to redevelop a municipal D.C. golf course. That legal fight escalated after the government cleared hundreds of trees on short notice.",
+      "title": "Inflation sizzled in September — and Social Security benefits will get a boost",
+      "description": "Consumer prices in September jumped 3.7% from a year ago. The Social Security Administration said benefits will increase next year to help keep pace with the rising cost of living.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/10/13/nx-s1-6000055/east-potomac-golf-course-tree-clearing-judge",
+      "url": "https://www.npr.org/2026/10/14/nx-s1-6000593/inflation-consumer-prices-cpi-social-security-benefits",
       "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "Hands-on with the Ocarina of Time remake, the most ornate Zelda game ever made",
+      "description": "We got to play The Legend of Zelda: Ocarina of Time early. Here are our impressions of the remake and its elaborate new style.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/14/nx-s1-5961483/preview-zelda-ocarina-of-time-remake-switch-2",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "5h ago"
+    },
+    {
+      "title": "Ex-UK army chef jailed for ‘terror’-related offence",
+      "description": "The former British Army member harboured 'extreme right-wing' views and was ordering explosives components, say police.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/14/ex-uk-army-chef-jailed-for-terror-related-offence?traffic_source=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-      "description": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
+      "title": "Saudi tennis ‘slam’ with Alcaraz, Djokovic postponed amid Houthi attacks",
+      "description": "The Six Kings Slam exhibition tournament has been pushed from October to December by Saudi organisers.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/10/14/saudi-tennis-slam-with-alcaraz-djokovic-postponed-amid-houthi-attacks?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Palestinian collective uses art to connect Gaza and the West Bank",
+      "description": "A Palestinian exhibition opening simultaneously in Bethlehem and Gaza is challenging Israeli restrictions.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/palestinian-collective-uses-art-to-connect-gaza-and-the-west-bank?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Settlers attack Palestinian mosque near occupied East Jerusalem",
+      "description": "Settlers attack Palestinian mosque near occupied East Jerusalem",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/settlers-attack-palestinian-mosque-near-occupied-east-jerusalem?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "US inflation rises more than expected - here's what is happening with prices",
+      "description": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "just now"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "description": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
+      "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
+      "description": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "just now"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Iconic Iguazu Falls walkway dismantled amid record water levels",
-      "description": "The Devil’s Throat walkway at Iguazu Falls is dismantled as water surged to nearly eight times its average.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/iconic-iguazu-falls-walkway-dismantled-amid-record-water-levels?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "DR Congo Ebola cases pass 9,000 as efforts to curb transmission falter",
-      "description": "The Bundibugyo strain fuels deadliest Ebola outbreak in DRC’s history as health workers face mistrust from communities.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/13/dr-congo-ebola-cases-pass-9000-as-efforts-to-curb-transmission-falter?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Trump says Houthis trying to increase oil prices before US elections",
-      "description": "US president suggests that Yemen-based group are 'purposefully trying to drive up oil prices' before November vote.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/13/trump-says-houthis-trying-to-increase-oil-prices-before-us-elections?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Will NATO’s ‘theory of victory’ work?",
-      "description": "The alliance presents a common vision to deter adversaries.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/13/will-natos-theory-of-victory-work?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
-      "description": "New York Fed President John Williams sees one more rate hike in 2026 but no additional increase in 2027 as inflation pressures ease.",
+      "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
+      "description": "Iran has escalated its strikes on commercial ships transiting Hormuz in recent weeks, as it tries to choke off a rebound in crude oil exports.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html",
+      "url": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
-      "description": "JPMorgan Chase CEO Jamie Dimon warned of rogue agents operating at scale and said the bank is building defensive tools.",
+      "title": "How high inflation became a 'fact of life' in the U.S.",
+      "description": "U.S. inflation has stayed elevated for years, raising concern at the Federal Reserve that consumers may come to expect stubbornly high prices.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
+      "url": "https://www.cnbc.com/2026/10/14/high-inflation-fed-expectations.html",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Fake shopping sprees and ‘happiness insurance’: The latest fintech apps reveal our financial anxieties",
-      "description": "Fintech companies are catching on to how Americans are altering their financial habits, and they’ve created new products to try to meet the moment.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties-77770a46?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "More Republicans come out against Trump's diesel deal with Putin",
-      "description": "Senators told Trump, the deal with Russian President Vladimir Putin \"will not achieve just ends, nor will it benefit Americans.\"",
+      "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
+      "description": "Shares of CoreWeave sank 15%, while yields in its bonds blew out further.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/trump-russia-diesel-republicans.html",
+      "url": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Gen Z renters are the only group more likely to feel successful by investing than buying a house",
-      "description": "“Instead of focusing on homeownership, many are prioritizing financial freedom and debt-free living.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "The latest inflation data is expected to show price increases are accelerating",
-      "description": "Economists expect the consumer price index for September to rise 0.6% on the month and 3.6% year over year.",
+      "title": "Treasury says largest U.S. banks let politics influence who received banking services",
+      "description": "New Treasury Department findings may lend weight to President Donald Trump’s long-running grievance that major banks have discriminated against conservatives.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/september-consumer-price-index-inflation.html",
+      "url": "https://www.cnbc.com/2026/10/14/treasury-banks-debanking-trump-reputation-risk.html",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "NFL eyeing possible schedule change with Sunday night flex in Week 8, but league doesn't have a lot of options",
-      "description": "With Philadelphia and Washington struggling, the league has until Oct. 20 to make a move, but scheduling conflicts across the Week 8 slate leave few viable replacement options",
+      "title": "Could returning to Texas for 2027 finally make Arch Manning a top-five NFL Draft pick?",
+      "description": "From Jayden Daniels and Cam Ward to Garrett Nussmeier and Carson Beck, recent quarterbacks offer lessons about the benefits and risks of staying in school",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/nfl-eyeing-possible-schedule-change-week-8/",
+      "url": "https://www.cbssports.com/nfl/draft/news/arch-manning-return-to-texas-2027-nfl-draft-decision/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Brian Flores-NFL lawsuit: Recruiting firm memo filled with racial stereotypes, attorneys claim",
-      "description": "Flores, Steve Wilks and Ray Horton have an ongoing lawsuit against the NFL for racial discrimination",
+      "title": "Lakers coach JJ Redick on Bronny James: 'I don't think he's played well' in preseason games",
+      "description": "Bronny has struggled this preseason, combining for 11 points and 12 turnovers in four games",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/brian-flores-recruiting-memo-filled-with-racial-stereotypes-attorneys-claim/",
+      "url": "https://www.cbssports.com/nba/news/bronny-james-lakers-roster-jj-redick-lebron-james/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Deion Sanders downplays 'leaked' Colorado play call sheet before Texas Tech loss",
-      "description": "The Buffaloes coach gave an interesting answer about the viral story involving an offensive play sheet",
+      "title": "Joe Brady admits clock-management mistake despite overtime win over Rams",
+      "description": "Brady said Buffalo could have taken two knees before Tyler Bass' winning field goal, limiting the Rams' opportunity to answer if the kick missed",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/deion-sanders-colorado-leaked-play-call-sheet/",
+      "url": "https://www.cbssports.com/nfl/news/joe-brady-bills-rams-overtime-mistake/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Week 6 NFL odds, picks, predictions: Computer model backs Patriots and Cardinals",
-      "description": "SportsLine's advanced model has simulated every game in the Week 6 NFL schedule 10,000 times and locked in its NFL best bets today",
+      "title": "Is Polymarket Legal in California? October 2026 Status",
+      "description": "Find out if Polymarket is legal in California, how it's regulated, and what you can trade there in 2026.",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/nfl-odds-picks-predictions-bets-week-6-2026/",
+      "url": "https://www.cbssports.com/prediction/news/polymarket-california/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     }
   ]
 }
