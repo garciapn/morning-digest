@@ -1,219 +1,235 @@
 {
-  "date": "2026-10-14T18:07:34.548861+00:00",
-  "edition": "#252",
-  "totalStories": 26,
+  "date": "2026-10-15T17:50:43.440338+00:00",
+  "edition": "#253",
+  "totalStories": 28,
   "podcast": {
     "show": "The Daily",
     "description": "The New York Times' daily news podcast — today's top story in 20 minutes."
   },
   "stories": [
     {
-      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-      "description": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+      "title": "Volvo makes a bigger bet on Nvidia",
+      "description": "Volvo is leveling up its automated driving system through an expansion of its nearly decade-long partnership with Nvidia that will extend beyond its battery electric vehicles.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+      "url": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Neckbeard – a DevOps/platform/SRE plugin for your agent",
-      "description": "Article URL: https://github.com/bealesh/neckbeard Comments URL: https://news.ycombinator.com/item?id=50091794 Points: 3 # Comments: 0",
+      "title": "More on Anthropic's Scion ripping off Mononoke",
+      "description": "Article URL: https://sunshowers.io/posts/anthropic-mononoke-2/ Comments URL: https://news.ycombinator.com/item?id=50106738 Points: 24 # Comments: 1",
       "source": "Hacker News",
-      "url": "https://github.com/bealesh/neckbeard",
+      "url": "https://sunshowers.io/posts/anthropic-mononoke-2/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
-      "description": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html Comments URL: https://news.ycombinator.com/item?id=50091788 Points: 15 # Comments: 1",
+      "title": "An Israeli firm is sending zero-click spyware through online ads",
+      "description": "Article URL: https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware Comments URL: https://news.ycombinator.com/item?id=50106676 Points: 24 # Comments: 1",
       "source": "Hacker News",
-      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "url": "https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "US report details extent of 'devastating' dating-app scams",
-      "description": "Article URL: https://www.theguardian.com/us-news/2026/oct/14/dating-app-scams-us-congress Comments URL: https://news.ycombinator.com/item?id=50091519 Points: 21 # Comments: 2",
+      "title": "Muse Spark Open, the Most Capable US Open‑Weight Model to Date",
+      "description": "Article URL: https://research.meta.ai/blog/muse-spark-open Comments URL: https://news.ycombinator.com/item?id=50106620 Points: 38 # Comments: 1",
       "source": "Hacker News",
-      "url": "https://www.theguardian.com/us-news/2026/oct/14/dating-app-scams-us-congress",
+      "url": "https://research.meta.ai/blog/muse-spark-open",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
-      "description": "Mosqitter is turning its mosquito-trapping hardware into an AI-powered surveillance network designed to identify species, monitor populations, and provide earlier warnings of mosquito-borne disease risks.",
+      "title": "Rocket Lab announces another delay for its medium-lift Neutron rocket",
+      "description": "Rocket Lab announced the Neutron rocket in 2021, aiming for a first flight in 2024.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
+      "description": "SK Hynix’s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/",
+      "url": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Linus Torvalds's first LLM-assisted patch series",
-      "description": "Article URL: https://lwn.net/Articles/1100449/ Comments URL: https://news.ycombinator.com/item?id=50090842 Points: 53 # Comments: 18",
-      "source": "Hacker News",
-      "url": "https://lwn.net/Articles/1100449/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins",
-      "description": "The actor and comedian has pleaded not guilty to three counts of rape, three counts of sexual assault and one of indecent assault.",
+      "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+      "description": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Burnham treads carefully in Zelensky visit, balancing Trump and Ukraine",
-      "description": "The UK's prime minister meets with Volodymyr Zelensky after a rocky week for the Ukraine president.",
+      "title": "Russell Brand accuser says he turned 'monster-like' before alleged rape",
+      "description": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmx23q4dwvneo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Sally Rooney books withdrawn in UK over Palestine Action support",
-      "description": "The Irish writer is best known for novels such as Normal People, Intermezzo and Conversations With Friends.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmx23q4g307vo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7ldzl7j4po?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
-      "description": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+      "title": "Trans people should use hospital spaces according to biological sex, NHS England says",
+      "description": "New guidance says trans patients should be cared for on single-sex hospital wards or bays that align with their biological sex.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cry83dyddv6no?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Inflation sizzled in September — and Social Security benefits will get a boost",
-      "description": "Consumer prices in September jumped 3.7% from a year ago. The Social Security Administration said benefits will increase next year to help keep pace with the rising cost of living.",
+      "title": "Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse",
+      "description": "Jeffrey Donaldson was convicted of 18 counts of sex abuse, including one of rape, which he committed against two women when they were children.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Inside the race between Elon Musk and Jeff Bezos for control of outer space",
+      "description": "The Atlantic writer Josh Tyrangiel says Musk and Bezos each want to colonize the moon, mine its resources and launch thousands more satellites. He says their only real competition is each other.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/10/14/nx-s1-6000593/inflation-consumer-prices-cpi-social-security-benefits",
+      "url": "https://www.npr.org/2026/10/15/nx-s1-6002922/inside-the-race-between-elon-musk-and-jeff-bezos-for-control-of-outer-space",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Hands-on with the Ocarina of Time remake, the most ornate Zelda game ever made",
-      "description": "We got to play The Legend of Zelda: Ocarina of Time early. Here are our impressions of the remake and its elaborate new style.",
+      "title": "Social Security benefits to get a boost. And, Hasan Piker defends his rhetoric",
+      "description": "Social Security benefits are set to get a boost to offset rising consumer prices. And, streamer Hasan Piker says the GOP's \"guilt-by-association politics\" won't drag Democrats down in the midterms.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/10/14/nx-s1-5961483/preview-zelda-ocarina-of-time-remake-switch-2",
+      "url": "https://www.npr.org/2026/10/15/g-s1-148199/up-first-newsletter-inflation-social-security-ukraine-russia-yemen-saudi-arabia",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "5h ago"
+      "timeAgo": "6h ago"
     },
     {
-      "title": "Ex-UK army chef jailed for ‘terror’-related offence",
-      "description": "The former British Army member harboured 'extreme right-wing' views and was ordering explosives components, say police.",
+      "title": "Pope Leo resumes work in hospital while recovering from surgery",
+      "description": "Catholic leader met top Vatican aide, as doctors say recovery proceeding after lung surgery to remove cancerous growth.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/14/ex-uk-army-chef-jailed-for-terror-related-offence?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/10/15/pope-leo-resumes-work-in-hospital-while-recovering-from-surgery?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Saudi tennis ‘slam’ with Alcaraz, Djokovic postponed amid Houthi attacks",
-      "description": "The Six Kings Slam exhibition tournament has been pushed from October to December by Saudi organisers.",
+      "title": "DR Congo protests Formula 1’s ‘indefensible’ decision to race in Rwanda",
+      "description": "Formula One returns to Africa for the first time since 1993, but DRC slams decision to stage race in Rwanda.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/14/saudi-tennis-slam-with-alcaraz-djokovic-postponed-amid-houthi-attacks?traffic_source=rss",
+      "url": "https://www.aljazeera.com/sports/2026/10/15/congo-protests-formula-1s-indefensible-decision-to-race-in-rwanda?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Palestinian collective uses art to connect Gaza and the West Bank",
-      "description": "A Palestinian exhibition opening simultaneously in Bethlehem and Gaza is challenging Israeli restrictions.",
+      "title": "Dying in Detention",
+      "description": "Fault Lines investigates the soaring death rates in immigration detention centres following President Trump’s crackdown.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/palestinian-collective-uses-art-to-connect-gaza-and-the-west-bank?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/fault-lines/2026/10/15/dying-in-detention?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Settlers attack Palestinian mosque near occupied East Jerusalem",
-      "description": "Settlers attack Palestinian mosque near occupied East Jerusalem",
+      "title": "Houthis target Yemen’s presidential palace in Aden with missiles",
+      "description": "Saudi-led coalition accuses Houthis of obtaining missile parts from regional states.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/settlers-attack-palestinian-mosque-near-occupied-east-jerusalem?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "US inflation rises more than expected - here's what is happening with prices",
-      "description": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
+      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+      "description": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+      "description": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
-      "description": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
-      "description": "Iran has escalated its strikes on commercial ships transiting Hormuz in recent weeks, as it tries to choke off a rebound in crude oil exports.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
+      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
+      "description": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "How high inflation became a 'fact of life' in the U.S.",
-      "description": "U.S. inflation has stayed elevated for years, raising concern at the Federal Reserve that consumers may come to expect stubbornly high prices.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/14/high-inflation-fed-expectations.html",
+      "title": "‘I like the idea of a big return’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+      "description": "“I know you’re not supposed to put money you can’t afford to lose into speculative stuff.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
-      "description": "Shares of CoreWeave sank 15%, while yields in its bonds blew out further.",
+      "title": "Did this year’s COLA beat inflation? Here’s how spending by American seniors stacks up so far in 2026.",
+      "description": "The cost-of-living adjustment for 2027 will be 3.6%, which will give Social Security recipients an average of $75 more per month.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "The COLA wars are coming for Social Security",
+      "description": "The annual cost-of-living adjustment may soon be capped, curtailed, means-tested or scrapped altogether under various proposals being actively considered",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-cola-wars-are-coming-for-social-security-10c177f1?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Nvidia, AMD, Dell sell-off in global tech rout on AI funding worries",
+      "description": "A sell-off in global technology hardware stocks deepened Thursday.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
+      "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Treasury says largest U.S. banks let politics influence who received banking services",
-      "description": "New Treasury Department findings may lend weight to President Donald Trump’s long-running grievance that major banks have discriminated against conservatives.",
+      "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
+      "description": "September producer prices were expected to increase 0.6% month over month and 5.5% annually, according to the consensus estimate by Dow Jones.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/14/treasury-banks-debanking-trump-reputation-risk.html",
+      "url": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Could returning to Texas for 2027 finally make Arch Manning a top-five NFL Draft pick?",
-      "description": "From Jayden Daniels and Cam Ward to Garrett Nussmeier and Carson Beck, recent quarterbacks offer lessons about the benefits and risks of staying in school",
+      "title": "Week 6 NFL odds, spreads, totals, lines for all 14 games, including Broncos-Seahawks, Packers-Cowboys",
+      "description": "Week 6 opens with Broncos-Seahawks on Thursday, while Packers-Cowboys and 49ers-Commanders headline primetime.",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/draft/news/arch-manning-return-to-texas-2027-nfl-draft-decision/",
+      "url": "https://www.cbssports.com/betting/news/week-6-nfl-betting-odds-lines-spreads-totals/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Lakers coach JJ Redick on Bronny James: 'I don't think he's played well' in preseason games",
-      "description": "Bronny has struggled this preseason, combining for 11 points and 12 turnovers in four games",
+      "title": "Jalen Hurts ruled out of Eagles' Week 6 matchup vs. Panthers due to superficial blood clot",
+      "description": "A follow-up ultrasound this week revealed movement in the clot, which was originally discovered before the London game",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nba/news/bronny-james-lakers-roster-jj-redick-lebron-james/",
+      "url": "https://www.cbssports.com/nfl/news/eagles-rule-out-jalen-hurts-for-week-6-vs-panthers/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Joe Brady admits clock-management mistake despite overtime win over Rams",
-      "description": "Brady said Buffalo could have taken two knees before Tyler Bass' winning field goal, limiting the Rams' opportunity to answer if the kick missed",
+      "title": "Use DraftKings promo code to get $200 in bonus bets, free NBA League Pass for Broncos vs. Seahawks on TNF",
+      "description": "DraftKings offers $200 in bonus bets and three free months of NBA League Pass after your first $5 wager for Broncos vs. Seahawks on Thursday Night Football",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/joe-brady-bills-rams-overtime-mistake/",
+      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-bets-free-nba-league-pass-for-broncos-seahawks-thursday-night-football/",
       "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Is Polymarket Legal in California? October 2026 Status",
-      "description": "Find out if Polymarket is legal in California, how it's regulated, and what you can trade there in 2026.",
+      "title": "Week 6 NFL picks, best bets from proven model: This 5-leg parlay returns more than 25-1",
+      "description": "After 10,000 simulations, SportsLine's model reveals its top Week 6 NFL parlay",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/prediction/news/polymarket-california/",
+      "url": "https://www.cbssports.com/betting/news/nfl-parlay-picks-predictions-top-bets-today-week-6-2026/",
       "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     }
   ]
 }
