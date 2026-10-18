@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-17T16:36:14.763415+00:00",
-  "edition": "#255",
+  "date": "2026-10-18T16:45:01.672914+00:00",
+  "edition": "#256",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,156 +8,156 @@
   },
   "stories": [
     {
-      "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
-      "description": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "description": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainm…",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "TechCrunch Mobility: Rivian’s next act",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "macOS 15.8.2 Breaks OpenGL",
+      "description": "Article URL: https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550 Comments URL: https://news.ycombinator.com/item?id=50141909 Points: 76 # Comments: 35",
+      "source": "Hacker News",
+      "url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Ad-tech company was a delivery system for \"mercenary spyware\"",
-      "description": "Article URL: https://pluralistic.net/2026/10/17/mercenary-spyware/#discover-tech Comments URL: https://news.ycombinator.com/item?id=50131881 Points: 49 # Comments: 10",
+      "title": "Will it be a golden age or a dark age for mathematics (and science)?",
+      "description": "Article URL: https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/ Comments URL: https://news.ycombinator.com/item?id=50141681 Points: 59 # Comments: 68",
       "source": "Hacker News",
-      "url": "https://pluralistic.net/2026/10/17/mercenary-spyware/#discover-tech",
+      "url": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "US federal budget deficit jumps 12% in one year to nearly $2 Trillion",
-      "description": "Article URL: https://finance.yahoo.com/economy/policy/article/the-us-federal-budget-deficit-for-2026-just-came-in-its-1992-trillion-191917669.html Comments URL: https://news.ycombinator.com/item?id=50131440 Points: 82 #…",
+      "title": "Websites are closing their doors to AI agents",
+      "description": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 77 # Comments: 56",
       "source": "Hacker News",
-      "url": "https://finance.yahoo.com/economy/policy/article/the-us-federal-budget-deficit-for-2026-just-came-in-its-1992-trillion-191917669.html",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
       "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Solar surpasses nuclear power globally for first time – pv magazine Global",
-      "description": "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 179 # Comments: 93",
+      "title": "Java sealed classes and exhaustive pattern matching",
+      "description": "Article URL: https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/ Comments URL: https://news.ycombinator.com/item?id=50141579 Points: 21 # Comments: 3",
       "source": "Hacker News",
-      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+      "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Making Chicken Transparent Using Dorito Dust",
-      "description": "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 79 # Comments: 32",
-      "source": "Hacker News",
-      "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Science says your boss should talk less in meetings",
-      "description": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "5h ago"
-    },
-    {
-      "title": "More NHS staff sacked over attacks victims' records",
-      "description": "Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.",
+      "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
+      "description": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Noah Adams, longtime host of NPR's All Things Considered, has died",
+      "description": "One of NPR's most gifted storytellers, his soft voice and vivid writing helped define the network's sound for a generation of Americans.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/18/nx-s1-5556931/noah-adams-all-things-considered-has-died",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Scotland 'not like Manchester', Swinney says in dig at PM Burnham",
-      "description": "The first minister also used his SNP conference speech to announce plans for Scotland's bus network to be brought under public control.",
+      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+      "description": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2844n7nepo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "4h ago"
     },
     {
-      "title": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says",
-      "description": "Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss",
+      "title": "Pope Leo says he will gradually resume duties after cancer surgery",
+      "description": "Pope Leo XIV thanked thousands of faithful in St. Peter's Square on Sunday for their prayers while he was hospitalized, and said he plans to gradually return to his usual duties.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery",
       "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Watch: 'Mood has really shifted' as Paris protesters clash with police",
-      "description": "The BBC is on the ground at the Place de la République, where protesters and police clash after weeks of students demonstrations.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss",
+      "title": "If you have the scratch, they have the scares",
+      "description": "Scary stories are more than fun, they're big business.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/18/nx-s1-5985869/if-you-have-the-scratch-they-have-the-scares",
       "category": "🌎 TOP NEWS",
       "timeAgo": "4h ago"
     },
     {
-      "title": "Scuffles and fires break out as protesters rally across France, joining students",
-      "description": "Demonstrators across France converged with students Saturday to protest rising living costs, as the country's fiscal crisis deepens.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Pope Leo XIV leaves hospital days after lung cancer surgery",
-      "description": "The Pope left Rome's Gemelli Hospital Saturday, days after surgery for lung cancer removed the lower lobe of his right lung. He is currently scheduled to travel to Latin America in November.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Buildings and cars set on fire as cost of living protests rock France",
-      "description": "Protesters have set fire to cars and buildings in France as demonstrations escalate.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-clip-france-clashes-protests-fr?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Pope Leo leaves hospital after lung cancer surgery",
-      "description": "Pope Leo left Rome's Gemelli Hospital on Saturday after successful lung cancer surgery",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/pope-leo-leaves-hospital-after-lung-cancer-surgery?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Neto’s brace fires Chelsea past Everton but Martinez head injury mars win",
-      "description": "Argentinian international taken to hospital for precautionary tests after head clash with Everton's Jarrad Branthwaite.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/17/neto-brace-fires-chelsea-past-everton-but-martinez-head-injury-mars-win?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Ilhan Omar’s lawyers demand the return of property seized in house raid",
-      "description": "Omar’s legal team says the search violated safeguards designed to protect constitutional rights of members of Congress.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/17/ilhan-omars-lawyers-demand-the-return-of-property-seized-in-house-raid?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+      "title": "Watch: Police hunt for synthetic drugs in Chicago jail",
+      "description": "BBC News hears from users, dealers, prison and recovery workers as America battles with a deadly new drug epidemic.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/videos/cq8ez4jz1z04o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "11h ago"
+    },
+    {
+      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+      "description": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Photos: Antigovernment protesters clash with police in Albania’s capital",
+      "description": "Police crack down on sixth day of student-led demonstrations calling for Prime Minister Rama to resign.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/10/18/photos-antigovernment-protesters-clash-with-police-in-albanias-capital?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Manchester United held at Leeds despite improved performance for Carrick",
+      "description": "Bryan Mbeumo's goal is not enough to win it for beleaguered United as Dominic Calvert-Lewin levels for Leeds.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/10/18/manchester-united-held-at-leeds-despite-improved-performance-under-carrick?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "EU condemns Israeli settler attack on diplomats in occupied West Bank",
+      "description": "EU demands accountability after settlers attack European diplomats amid violence against Palestinian olive farmers.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/18/eu-condemns-israeli-settler-attack-on-diplomats-in-occupied-west-bank?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Tirana sees sixth day of violent protests as Albania’s PM refuses to resign",
+      "description": "Police crack down on hundreds of protesters in Albania's capital, using rubber bullets, water cannons and tear gas.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/18/chaos-in-tirana-demonstrators-determined-to-not-give-up-so-easily?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "4h ago"
     },
     {
-      "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
-      "description": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "6h ago"
-    },
-    {
-      "title": "Software’s new consolidator gets big vote of confidence from Berkshire",
-      "description": "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway.",
+      "title": "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink",
+      "description": "Starlink, high-speed satellite internet provided by Elon Musk's SpaceX, is critical to Ukraine's defense.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
+      "url": "https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
       "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
@@ -165,69 +165,69 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "3h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
-      "description": "Individual investors and second-home buyers accounted for 1 in 5 home purchases in September — the highest share in a little over a year.",
+      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
+      "description": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "3h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO",
-      "description": "Berkshire Hathaway shares are at their highest level since Warren Buffett told shareholders at the May 2025 annual meeting he planned to step down as CEO at the end of that year.",
+      "title": "I’m 64 with two sons, but only one works in the family business. Is it ethical to leave him 70% of the company?",
+      "description": "“I have some reservations about the long-term stability of my younger son’s marriage.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+      "description": "“My plan is to continue working as long as I’m able to do so and invest my Social Security benefits while I’m still earning a paycheck.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes",
+      "description": "Mohsen Rezaei, secretary of Iran's Supreme National Security Council, said the country's military has prepared a response to any new attacks.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/17/berkshire-rally-to-highest-since-buffett-announcement.html",
+      "url": "https://www.cnbc.com/2026/10/18/iran-us-war-rezaei-operational-plan-shipping-attacks.html",
       "category": "📈 MARKETS",
-      "timeAgo": "3h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Influencers and biohackers swear by fasting. Here’s what the science says.",
-      "description": "Fasting can help some people reduce how many calories they eat — but it’s not “effortless” as some would have you believe.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/influencers-and-biohackers-swear-by-fasting-heres-what-the-science-says-3318191f?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "Silver’s recent 50% drop from a record high hints that an economic slowdown looms",
-      "description": "There’s a relatively off-the-radar commodity that can provide hints on where the economy is headed — and it’s seen its value drop more than 50% from a record high earlier this year.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "LSU vs. Mississippi State odds, predictions, picks: Use Polymarket promo code CBSSPORTS for $25 bonus",
-      "description": "LSU hosts Mississippi State on Saturday in an SEC matchup. See the preview, two predictions and latest Polymarket prices.",
+      "title": "Cardinals vs. Rams odds, predictions: Kalshi promo code CBSSPORTS55 for $55 bonus on NFL Week 6 division game",
+      "description": "The Rams host the Cardinals in an NFC West battle Sunday, and we're looking at the trading markets available on the game at Kalshi",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/prediction/news/lsu-vs-mississippi-state-odds-predictions-picks-use-polymarket-promo-code-cbssports-for-25-bonus/",
+      "url": "https://www.cbssports.com/prediction/news/cardinals-vs-rams-odds-predictions-kalshi-promo-code-cbssports55-for-55-bonus-on-nfl-week-6-division-game/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Boxing predictions, start times: Daniel Dubois vs. Fabio Wardley 2, Sebastian Fundora return set this weekend",
-      "description": "A pair of title fights headline this weekend's action in both England and the U.S.",
+      "title": "Week 6 NFL odds, spreads, totals, lines for every game, including Chargers-Chiefs, Packers-Cowboys",
+      "description": "See everything you need to know to bet on the NFL in our full NFL betting guide for Week 6",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/boxing/news/boxing-predictions-start-times-daniel-dubois-fabio-wardley-sebastian-fundora/",
+      "url": "https://www.cbssports.com/betting/news/week-6-nfl-spreads-betting-odds-totals-lines/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Bills vs. Raiders prediction: Can Las Vegas end losing streak? Everything to know for AFC matchup",
-      "description": "Everything you need to know to catch this AFC matchup",
+      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Steelers-Buccaneers, Chargers-Chiefs, NFL Week 6",
+      "description": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for NFL betting on Sunday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/bills-vs-raiders-prediction-where-to-watch/",
+      "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-steelers-buccaneers-chargers-chiefs-nfl-week-6/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Indiana vs. Ohio State odds, picks, predictions, line, spread: Saturday college football betting preview",
-      "description": "Indiana hosts Ohio State on Saturday for a Week 7 college football matchup",
+      "title": "Use FanDuel promo code to get $350 in bonus bets by targeting Browns-Ravens, Chargers-Chiefs, NFL Week 6",
+      "description": "Sign up and bet with the latest FanDuel promo code on Sunday to get your bonus bets",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/indiana-vs-ohio-state-odds-picks-predictions-line-spread-saturday-college-football-betting-preview/",
+      "url": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-350-bonus-bets-browns-ravens-chargers-chiefs-nfl-week-6/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
