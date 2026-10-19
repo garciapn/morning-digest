@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-18T16:45:01.672914+00:00",
-  "edition": "#256",
+  "date": "2026-10-19T19:25:17.908818+00:00",
+  "edition": "#257",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "description": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainm…",
+      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "description": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "TechCrunch Mobility: Rivian’s next act",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "title": "Towards Company World Models",
+      "description": "Article URL: https://www.beaconholdings.com/research/towards-company-world-models Comments URL: https://news.ycombinator.com/item?id=50156332 Points: 3 # Comments: 0",
+      "source": "Hacker News",
+      "url": "https://www.beaconholdings.com/research/towards-company-world-models",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+      "description": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
+      "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "macOS 15.8.2 Breaks OpenGL",
-      "description": "Article URL: https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550 Comments URL: https://news.ycombinator.com/item?id=50141909 Points: 76 # Comments: 35",
-      "source": "Hacker News",
-      "url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "description": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "AI assistant startup Town nabs unicorn valuation four months after launch",
+      "description": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Will it be a golden age or a dark age for mathematics (and science)?",
-      "description": "Article URL: https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/ Comments URL: https://news.ycombinator.com/item?id=50141681 Points: 59 # Comments: 68",
+      "title": "Show HN: Open-source early-reading reader with phonics help",
+      "description": "My kid is 6 y/o and she is learning to read. She's moved through the basic phonics with Teach Your Monster to Read but was struggling with how repetitive it was. I wanted to give her some stories to read, but she still…",
       "source": "Hacker News",
-      "url": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
+      "url": "https://github.com/finereli/yarareads",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Websites are closing their doors to AI agents",
-      "description": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 77 # Comments: 56",
-      "source": "Hacker News",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Java sealed classes and exhaustive pattern matching",
-      "description": "Article URL: https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/ Comments URL: https://news.ycombinator.com/item?id=50141579 Points: 21 # Comments: 3",
-      "source": "Hacker News",
-      "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
-      "description": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
+      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+      "description": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Noah Adams, longtime host of NPR's All Things Considered, has died",
-      "description": "One of NPR's most gifted storytellers, his soft voice and vivid writing helped define the network's sound for a generation of Americans.",
+      "title": "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
+      "description": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Australian MP critically injured after being hit by car in apparent attack",
+      "description": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "5h ago"
+    },
+    {
+      "title": "Watch: Are the French riots a warning of an intense election to come?",
+      "description": "Rioting, looting and vandalism has gripped France over the weekend after protests spiralled out of control across the country.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "5h ago"
+    },
+    {
+      "title": "Australian prime minister says lawmaker critically injured by car is 'no accident'",
+      "description": "A car hit an Australian federal independent lawmaker on Monday, critically injuring her in an apparent deliberate attack, Prime Minister Anthony Albanese said. The driver was arrested.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/10/18/nx-s1-5556931/noah-adams-all-things-considered-has-died",
+      "url": "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
+      "timeAgo": "7h ago"
     },
     {
-      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-      "description": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "Pope Leo says he will gradually resume duties after cancer surgery",
-      "description": "Pope Leo XIV thanked thousands of faithful in St. Peter's Square on Sunday for their prayers while he was hospitalized, and said he plans to gradually return to his usual duties.",
+      "title": "2026 midterms could be the most expensive on record. And, Macron condemns protests",
+      "description": "More than $15 billion has been raised in this year's midterm elections. And, France's president is condemning the violent protests erupting across the country.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery",
+      "url": "https://www.npr.org/2026/10/19/g-s1-148733/up-first-newsletter-ukraine-russia-campaign-finances-france-protests",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
+      "timeAgo": "8h ago"
     },
     {
-      "title": "If you have the scratch, they have the scares",
-      "description": "Scary stories are more than fun, they're big business.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/18/nx-s1-5985869/if-you-have-the-scratch-they-have-the-scares",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
+      "title": "Protesters block Louvre in support of French student movement",
+      "description": "French students are now blockading the world’s busiest museum.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/protesters-block-louvre-in-support-of-french-student-movement?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
     },
     {
-      "title": "Watch: Police hunt for synthetic drugs in Chicago jail",
-      "description": "BBC News hears from users, dealers, prison and recovery workers as America battles with a deadly new drug epidemic.",
+      "title": "Ex-OpenAI employee accused of planting device has Saudi backing: Prosecutor",
+      "description": "US federal prosecutors allege the defendant was in frequent contact with unnamed member of royal family.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/19/ex-openai-employee-accused-of-planting-device-has-saudi-backing-prosecutor?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Netanyahu’s new security doctrine: Regional strategy or election ploy?",
+      "description": "Experts say Netanyahu's security doctrine and map of regional alliances serve his political ambitions ahead of elections",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/19/netanyahus-new-security-doctrine-regional-strategy-or-election-ploy?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Benny Gantz drops out of Israel’s election race",
+      "description": "Decision comes after polls showed his Blue and White party below the 3.25 percent threshold needed to enter the Knesset.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/19/benny-gantz-drops-out-of-israels-election-race?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+      "description": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cq8ez4jz1z04o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "11h ago"
-    },
-    {
-      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-      "description": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Photos: Antigovernment protesters clash with police in Albania’s capital",
-      "description": "Police crack down on sixth day of student-led demonstrations calling for Prime Minister Rama to resign.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/10/18/photos-antigovernment-protesters-clash-with-police-in-albanias-capital?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Manchester United held at Leeds despite improved performance for Carrick",
-      "description": "Bryan Mbeumo's goal is not enough to win it for beleaguered United as Dominic Calvert-Lewin levels for Leeds.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/10/18/manchester-united-held-at-leeds-despite-improved-performance-under-carrick?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "EU condemns Israeli settler attack on diplomats in occupied West Bank",
-      "description": "EU demands accountability after settlers attack European diplomats amid violence against Palestinian olive farmers.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/18/eu-condemns-israeli-settler-attack-on-diplomats-in-occupied-west-bank?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Tirana sees sixth day of violent protests as Albania’s PM refuses to resign",
-      "description": "Police crack down on hundreds of protesters in Albania's capital, using rubber bullets, water cannons and tear gas.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/18/chaos-in-tirana-demonstrators-determined-to-not-give-up-so-easily?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink",
-      "description": "Starlink, high-speed satellite internet provided by Elon Musk's SpaceX, is critical to Ukraine's defense.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "description": "”I earn $110,000 a year.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
-      "description": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "I’m 64 with two sons, but only one works in the family business. Is it ethical to leave him 70% of the company?",
-      "description": "“I have some reservations about the long-term stability of my younger son’s marriage.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
-      "description": "“My plan is to continue working as long as I’m able to do so and invest my Social Security benefits while I’m still earning a paycheck.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes",
-      "description": "Mohsen Rezaei, secretary of Iran's Supreme National Security Council, said the country's military has prepared a response to any new attacks.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/18/iran-us-war-rezaei-operational-plan-shipping-attacks.html",
-      "category": "📈 MARKETS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Cardinals vs. Rams odds, predictions: Kalshi promo code CBSSPORTS55 for $55 bonus on NFL Week 6 division game",
-      "description": "The Rams host the Cardinals in an NFC West battle Sunday, and we're looking at the trading markets available on the game at Kalshi",
+      "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+      "description": "The Saudi government did not immediately respond to BBC requests for comment.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "CoreWeave’s selloff is a lesson in ‘Finance 101’ — and Wall Street says the stock can recover",
+      "description": "Analysts argue CoreWeave’s underlying economics are far sturdier than nervous debt and equity investors realize.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/coreweaves-selloff-is-a-lesson-in-finance-101-and-wall-street-says-the-stock-can-recover-23ca5377?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "OpenAI bugging case: Saudi consulate offers to pay bail for suspect",
+      "description": "Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "One of this year’s most important relationships in global financial markets is falling apart",
+      "description": "One of the most important relationships in global markets has started to unravel over the past couple of weeks. Investors are scrambling to figure out what it might mean for the economy, and their portfolios.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/one-of-this-years-most-important-relationships-in-global-financial-markets-is-falling-apart-2cf58121?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "When should you dump your target-date funds?",
+      "description": "Target-date funds aren’t necessarily built to handle many of the decisions retirees face.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/when-should-you-dump-your-target-date-funds-18082148?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "‘My husband suffered a massive stroke at 53’: I’m 64 and will rent for the rest of my life — but I’m still hopeful",
+      "description": "“Ill-timed circumstances can change our financial future in unexpected ways.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Apple announces product launch event for Oct. 28. Analysts expect touchscreen laptop",
+      "description": "Apple sent invitations for an event next week, calling it \"Pro and tell.\"",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/19/apple-product-launch-event-oct-28-analysts-expect-touchscreen-laptop.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Cowboys' Stephen Jones addresses Brian Schottenheimer's job status after team's 2-4 start",
+      "description": "Dallas is 10-13 under Schottenheimer after a lackluster loss against the Packers on Sunday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/prediction/news/cardinals-vs-rams-odds-predictions-kalshi-promo-code-cbssports55-for-55-bonus-on-nfl-week-6-division-game/",
+      "url": "https://www.cbssports.com/nfl/news/cowboys-stephen-jones-addresses-brian-schottenheimers-status/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Week 6 NFL odds, spreads, totals, lines for every game, including Chargers-Chiefs, Packers-Cowboys",
-      "description": "See everything you need to know to bet on the NFL in our full NFL betting guide for Week 6",
+      "title": "Mike Norvell blasts late holding call that wiped out Florida State's potential game-tying TD vs. Miami",
+      "description": "Norvell says the 'absolutely terrible' call in double overtime denied the Seminoles a chance to 'finish the game on the field'",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/week-6-nfl-spreads-betting-odds-totals-lines/",
+      "url": "https://www.cbssports.com/college-football/news/mike-norvell-holding-call-florida-state-miami/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Steelers-Buccaneers, Chargers-Chiefs, NFL Week 6",
-      "description": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for NFL betting on Sunday",
+      "title": "College basketball rankings: Florida earns No. 1 spot in preseason Coaches Poll as well as AP Top 25",
+      "description": "Florida, Duke and Illinois are the consensus top-three teams in, but the coaches tabbed Arizona, not UConn, for the fourth spot",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-steelers-buccaneers-chargers-chiefs-nfl-week-6/",
+      "url": "https://www.cbssports.com/college-basketball/news/college-basketball-rankings-florida-preseason-coaches-poll-duke-illinois/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Use FanDuel promo code to get $350 in bonus bets by targeting Browns-Ravens, Chargers-Chiefs, NFL Week 6",
-      "description": "Sign up and bet with the latest FanDuel promo code on Sunday to get your bonus bets",
+      "title": "Shakur Stevenson says he has been granted release from Zuffa Boxing after three months",
+      "description": "Stevenson had yet to fight for the promotion after joining in August",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-350-bonus-bets-browns-ravens-chargers-chiefs-nfl-week-6/",
+      "url": "https://www.cbssports.com/boxing/news/shakur-stevenson-zuffa-boxing-release/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
