@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-19T19:25:17.908818+00:00",
-  "edition": "#257",
+  "date": "2026-10-20T18:04:15.246327+00:00",
+  "edition": "#258",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,183 +8,183 @@
   },
   "stories": [
     {
-      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-      "description": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+      "description": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Towards Company World Models",
-      "description": "Article URL: https://www.beaconholdings.com/research/towards-company-world-models Comments URL: https://news.ycombinator.com/item?id=50156332 Points: 3 # Comments: 0",
+      "title": "What Shall I Teach My Son?",
+      "description": "Article URL: https://stevekrouse.com/ends Comments URL: https://news.ycombinator.com/item?id=50169707 Points: 17 # Comments: 8",
       "source": "Hacker News",
-      "url": "https://www.beaconholdings.com/research/towards-company-world-models",
+      "url": "https://stevekrouse.com/ends",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-      "description": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+      "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+      "description": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI ri…",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-      "description": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "AI assistant startup Town nabs unicorn valuation four months after launch",
-      "description": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Show HN: Open-source early-reading reader with phonics help",
-      "description": "My kid is 6 y/o and she is learning to read. She's moved through the basic phonics with Teach Your Monster to Read but was struggling with how repetitive it was. I wanted to give her some stories to read, but she still…",
+      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+      "description": "Article URL: https://github.com/google-pytorch/torch_tpu Comments URL: https://news.ycombinator.com/item?id=50169053 Points: 48 # Comments: 13",
       "source": "Hacker News",
-      "url": "https://github.com/finereli/yarareads",
+      "url": "https://github.com/google-pytorch/torch_tpu",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-      "description": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
+      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’",
+      "description": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+      "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
-      "description": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Australian MP critically injured after being hit by car in apparent attack",
-      "description": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "5h ago"
-    },
-    {
-      "title": "Watch: Are the French riots a warning of an intense election to come?",
-      "description": "Rioting, looting and vandalism has gripped France over the weekend after protests spiralled out of control across the country.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "5h ago"
-    },
-    {
-      "title": "Australian prime minister says lawmaker critically injured by car is 'no accident'",
-      "description": "A car hit an Australian federal independent lawmaker on Monday, critically injuring her in an apparent deliberate attack, Prime Minister Anthony Albanese said. The driver was arrested.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "7h ago"
-    },
-    {
-      "title": "2026 midterms could be the most expensive on record. And, Macron condemns protests",
-      "description": "More than $15 billion has been raised in this year's midterm elections. And, France's president is condemning the violent protests erupting across the country.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/19/g-s1-148733/up-first-newsletter-ukraine-russia-campaign-finances-france-protests",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "8h ago"
-    },
-    {
-      "title": "Protesters block Louvre in support of French student movement",
-      "description": "French students are now blockading the world’s busiest museum.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/protesters-block-louvre-in-support-of-french-student-movement?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Ex-OpenAI employee accused of planting device has Saudi backing: Prosecutor",
-      "description": "US federal prosecutors allege the defendant was in frequent contact with unnamed member of royal family.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/19/ex-openai-employee-accused-of-planting-device-has-saudi-backing-prosecutor?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Netanyahu’s new security doctrine: Regional strategy or election ploy?",
-      "description": "Experts say Netanyahu's security doctrine and map of regional alliances serve his political ambitions ahead of elections",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/19/netanyahus-new-security-doctrine-regional-strategy-or-election-ploy?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Benny Gantz drops out of Israel’s election race",
-      "description": "Decision comes after polls showed his Blue and White party below the 3.25 percent threshold needed to enter the Knesset.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/19/benny-gantz-drops-out-of-israels-election-race?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-      "description": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
+      "title": "Voxtral 3",
+      "description": "Article URL: https://mistral.ai/news/voxtral-3/ Comments URL: https://news.ycombinator.com/item?id=50168396 Points: 191 # Comments: 51",
+      "source": "Hacker News",
+      "url": "https://mistral.ai/news/voxtral-3/",
+      "category": "🤖 TECH & AI",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
-      "description": "The Saudi government did not immediately respond to BBC requests for comment.",
+      "title": "Google resolves cloud outage affecting UK banks and websites",
+      "description": "Revolut was one of the hardest hit, with banking services going down for many customers.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Two re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
+      "description": "The head of UK Counter Terrorism Policing said they consider Iranian state involvement \"highly likely\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
+      "description": "The sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close",
+      "description": "The closures are announced as the corporation continues to try to save £500m over two years.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2v800nnr2o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "Vanessa Kerry is the new WHO envoy for health resilience. What's on her to-do list?",
+      "description": "A respected figure in the world of global health, Dr. Kerry takes on a new responsibility. She says it's challenging but not \"daunting.\"",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/20/g-s1-147952/vanessa-kerry-resilience-world-health-organization",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns",
+      "description": "The Justice Department has charged 28 people in California with voting crimes as Election Day nears. And, TikTok staff raised child safety concerns with executives, who failed to act, court records show.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/20/g-s1-148877/up-first-newsletter-california-elections-doj-midterms-trump-tiktok",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "6h ago"
+    },
+    {
+      "title": "Kenya confirms ninth Ebola case amid concerns about regional spread",
+      "description": "A 24-year-old man, who was already being held in quarantine, is the latest to test positive.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "CoreWeave’s selloff is a lesson in ‘Finance 101’ — and Wall Street says the stock can recover",
-      "description": "Analysts argue CoreWeave’s underlying economics are far sturdier than nervous debt and equity investors realize.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/coreweaves-selloff-is-a-lesson-in-finance-101-and-wall-street-says-the-stock-can-recover-23ca5377?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "OpenAI bugging case: Saudi consulate offers to pay bail for suspect",
-      "description": "Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco.",
+      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+      "description": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "As Macron visits Gulf, can France forge its own energy-for-security future?",
+      "description": "President Macron's Gulf visit aims to address rising energy prices and strengthen ties amid regional security concerns.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/20/as-macron-visits-gulf-can-france-forge-its-own-energy-for-security-future?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "How does language affect how we think?",
+      "description": "Does language shape the way we think?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/doha-debates/2026/10/20/how-does-language-affect-how-we-think?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "JERUSALEM DAILY: Half a million Palestinians lose food aid",
+      "description": "Israeli strikes kill Palestinians in Gaza as funding shortages threaten food aid for half a million people",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/jerusalem-daily-half-a-million-palestinians-lose-food-aid?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
+      "description": "The Canadian province has voted overwhelmingly to remain part of Canada, though deep political divisions endure.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+      "description": "Housing data deteriorated further in September, according to separate reports Tuesday.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
+      "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "One of this year’s most important relationships in global financial markets is falling apart",
-      "description": "One of the most important relationships in global markets has started to unravel over the past couple of weeks. Investors are scrambling to figure out what it might mean for the economy, and their portfolios.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/one-of-this-years-most-important-relationships-in-global-financial-markets-is-falling-apart-2cf58121?mod=mw_rss_topstories",
+      "title": "Trump sued over 50% tariffs on Canada in latest trade challenge",
+      "description": "A new lawsuit challenges President Donald Trump's tariffs on a range of Canadian goods using Section 338 of the Tariff Act of 1930.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/20/trump-tariffs-canada-section-338-lawsuit.html",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "When should you dump your target-date funds?",
-      "description": "Target-date funds aren’t necessarily built to handle many of the decisions retirees face.",
+      "title": "Investors’ search for safety has made toothpaste stocks more expensive than tech",
+      "description": "Wall Street is fleeing tech for toothpaste and shampoo. Even those stocks are getting expensive.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/when-should-you-dump-your-target-date-funds-18082148?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/investors-search-for-safety-has-made-toothpaste-stocks-more-expensive-than-tech-57a75e56?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "‘My husband suffered a massive stroke at 53’: I’m 64 and will rent for the rest of my life — but I’m still hopeful",
+      "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
+      "description": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s why I’m still hopeful",
       "description": "“Ill-timed circumstances can change our financial future in unexpected ways.”",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
@@ -192,42 +192,42 @@
       "timeAgo": "1h ago"
     },
     {
-      "title": "Apple announces product launch event for Oct. 28. Analysts expect touchscreen laptop",
-      "description": "Apple sent invitations for an event next week, calling it \"Pro and tell.\"",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/19/apple-product-launch-event-oct-28-analysts-expect-touchscreen-laptop.html",
+      "title": "It’s not just California’s billionaire tax. Wealth is on the ballot in the midterm elections.",
+      "description": "Several states are dealing with ballot measures tied to taxing the rich — and there may be even more initiatives on this front in 2028.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/its-not-just-californias-billionaire-tax-wealth-is-on-the-ballot-in-the-midterm-elections-a50fc12c?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Cowboys' Stephen Jones addresses Brian Schottenheimer's job status after team's 2-4 start",
-      "description": "Dallas is 10-13 under Schottenheimer after a lackluster loss against the Packers on Sunday",
+      "title": "What is the 'Peanut Punch' showing up across NFL? Why it's changing how defenses attack the football",
+      "description": "What was once a novelty is now a tool every defensive player uses",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/cowboys-stephen-jones-addresses-brian-schottenheimers-status/",
+      "url": "https://www.cbssports.com/nfl/news/what-is-the-peanut-punch-nfl-football/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Mike Norvell blasts late holding call that wiped out Florida State's potential game-tying TD vs. Miami",
-      "description": "Norvell says the 'absolutely terrible' call in double overtime denied the Seminoles a chance to 'finish the game on the field'",
+      "title": "NBA player props, odds, picks, lines: 76ers new star LeBron James part of best bets for Opening Night",
+      "description": "We'll highlight some of our favorite player props for Tuesday's NBA games with help from the SportsLine Projection Model",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/mike-norvell-holding-call-florida-state-miami/",
+      "url": "https://www.cbssports.com/betting/news/nba-player-props-odds-picks-lines-76ers-new-star-lebron-james-part-of-best-bets-for-opening-night/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "College basketball rankings: Florida earns No. 1 spot in preseason Coaches Poll as well as AP Top 25",
-      "description": "Florida, Duke and Illinois are the consensus top-three teams in, but the coaches tabbed Arizona, not UConn, for the fourth spot",
+      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for NBA Opening Night, 76ers-Knicks, Thunder-Spurs",
+      "description": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for NBA, NFL betting on Tuesday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-basketball/news/college-basketball-rankings-florida-preseason-coaches-poll-duke-illinois/",
+      "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-nba-opening-night-76ers-knicks-thunder-spurs/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Shakur Stevenson says he has been granted release from Zuffa Boxing after three months",
-      "description": "Stevenson had yet to fight for the promotion after joining in August",
+      "title": "College Basketball Final Four tiers: Ranking the preseason Top 25 by their chances to reach final weekend",
+      "description": "The preseason AP Top 25 poll was released on Monday. Which teams realistically have a chance to reach the Final Four in Detroit?",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/boxing/news/shakur-stevenson-zuffa-boxing-release/",
+      "url": "https://www.cbssports.com/college-basketball/news/final-four-tiers-preseason-ap-top-25-duke-florida-uconn-illinois/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
