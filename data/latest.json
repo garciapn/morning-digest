@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-20T18:04:15.246327+00:00",
-  "edition": "#258",
+  "date": "2026-10-21T18:11:12.987543+00:00",
+  "edition": "#259",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-      "description": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+      "title": "GM is giving OnStar an AI makeover",
+      "description": "It's one of the biggest overhauls ever to the 30-year-old connected car product.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+      "url": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "What Shall I Teach My Son?",
-      "description": "Article URL: https://stevekrouse.com/ends Comments URL: https://news.ycombinator.com/item?id=50169707 Points: 17 # Comments: 8",
-      "source": "Hacker News",
-      "url": "https://stevekrouse.com/ends",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
-      "description": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI ri…",
+      "title": "PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "description": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-      "description": "Article URL: https://github.com/google-pytorch/torch_tpu Comments URL: https://news.ycombinator.com/item?id=50169053 Points: 48 # Comments: 13",
+      "title": "EA is shutting down BioWare",
+      "description": "Article URL: https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware Comments URL: https://news.ycombinator.com/item?id=50184586 Points: 51 # Comments: 17",
       "source": "Hacker News",
-      "url": "https://github.com/google-pytorch/torch_tpu",
+      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+      "description": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Waymo starts offering rides at the Las Vegas airport",
+      "description": "Pickups and dropoffs will happen at dedicated \"autonomous vehicle zones\" at Terminal 1 and Terminal 3.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’",
-      "description": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+      "title": "SpaceX to attempt Starship catch on next flight, with eye on rapid cadence increase",
+      "description": "\"We have had significant constructive engagement with the FAA.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Voxtral 3",
-      "description": "Article URL: https://mistral.ai/news/voxtral-3/ Comments URL: https://news.ycombinator.com/item?id=50168396 Points: 191 # Comments: 51",
-      "source": "Hacker News",
-      "url": "https://mistral.ai/news/voxtral-3/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Google resolves cloud outage affecting UK banks and websites",
-      "description": "Revolut was one of the hardest hit, with banking services going down for many customers.",
+      "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+      "description": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Two re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
-      "description": "The head of UK Counter Terrorism Policing said they consider Iranian state involvement \"highly likely\".",
+      "title": "Google staff resign in backlash over its AI contracts with military",
+      "description": "The BBC speaks to several current and former Google DeepMind employees about their concerns with AI use on the battlefield.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
-      "description": "The sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cmreyvepnv0po?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close",
-      "description": "The closures are announced as the corporation continues to try to save £500m over two years.",
+      "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
+      "description": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2v800nnr2o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament",
+      "description": "While not naming the disgraced former MP, the Metropolitan Police has issued a statement confirming a 63-year-old man is being investigated.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "How Trump's attacks on voting system integrity might affect upcoming elections",
+      "description": "Election law expert Rick Hasen explains Trump's interference in the midterms, including threatening local officials with criminal prosecution unless they strike alleged noncitizens from voter rolls.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/21/nx-s1-6010463/how-trumps-attacks-on-voting-system-integrity-might-affect-upcoming-elections",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Why local officials are feeling 'on edge' as election day approaches",
+      "description": "Al Schmidt is the chief election official in the state of Pennsylvania. President Trump's insults put him in danger during the 2020 ballot count. Now Schmidt talks about preparing for the midterms.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/21/nx-s1-6010517/why-local-officials-are-feeling-on-edge-as-election-day-approaches",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "What’s behind protests in Portugal?",
+      "description": "What's behind protests in Portugal?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/whats-behind-protests-in-portugal-2?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Macron makes surprise Saudi visit as France secures extra diesel supplies",
+      "description": "French president meets Mohammed bin Salman in Riyadh to discuss energy, security, and infrastructure.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/21/macron-makes-surprise-saudi-visit-as-france-secures-extra-diesel-supplies?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Paris shopkeepers fear more destruction after riots destroy livelihoods",
+      "description": "‘I have nothing left.’ Small business owners in Paris say they are traumatised after rioters looted their shops.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/10-21-reported-paris-shopkeepers-truamatised?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Macron’s surprise ‘solidarity’ visit to Saudi Arabia",
+      "description": "French President Emmanuel Macron made a surprise stop in Riyadh to meet Saudi Crown Prince during his ongoing Gulf tour.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/macrons-surprise-solidarity-visit-to-saudi-arabia?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Macron accuses foreign leaders of exploiting French riots",
+      "description": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "4h ago"
     },
     {
-      "title": "Vanessa Kerry is the new WHO envoy for health resilience. What's on her to-do list?",
-      "description": "A respected figure in the world of global health, Dr. Kerry takes on a new responsibility. She says it's challenging but not \"daunting.\"",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/20/g-s1-147952/vanessa-kerry-resilience-world-health-organization",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns",
-      "description": "The Justice Department has charged 28 people in California with voting crimes as Election Day nears. And, TikTok staff raised child safety concerns with executives, who failed to act, court records show.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/20/g-s1-148877/up-first-newsletter-california-elections-doj-midterms-trump-tiktok",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "6h ago"
-    },
-    {
-      "title": "Kenya confirms ninth Ebola case amid concerns about regional spread",
-      "description": "A 24-year-old man, who was already being held in quarantine, is the latest to test positive.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
-      "description": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
+      "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
+      "description": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "just now"
+      "timeAgo": "9h ago"
     },
     {
-      "title": "As Macron visits Gulf, can France forge its own energy-for-security future?",
-      "description": "President Macron's Gulf visit aims to address rising energy prices and strengthen ties amid regional security concerns.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/20/as-macron-visits-gulf-can-france-forge-its-own-energy-for-security-future?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "How does language affect how we think?",
-      "description": "Does language shape the way we think?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/doha-debates/2026/10/20/how-does-language-affect-how-we-think?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "JERUSALEM DAILY: Half a million Palestinians lose food aid",
-      "description": "Israeli strikes kill Palestinians in Gaza as funding shortages threaten food aid for half a million people",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/jerusalem-daily-half-a-million-palestinians-lose-food-aid?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
-      "description": "The Canadian province has voted overwhelmingly to remain part of Canada, though deep political divisions endure.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-      "description": "Housing data deteriorated further in September, according to separate reports Tuesday.",
+      "title": "GM aims to develop vehicles in as little as two years with AI, software push",
+      "description": "General Motors is targeting a roughly two-year vehicle development cycle as it expands its use of artificial intelligence, simulation and vehicle software.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+      "url": "https://www.cnbc.com/2026/10/21/gm-vehicle-development-ai-software.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Trump sued over 50% tariffs on Canada in latest trade challenge",
-      "description": "A new lawsuit challenges President Donald Trump's tariffs on a range of Canadian goods using Section 338 of the Tariff Act of 1930.",
+      "title": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
+      "description": "Meta to pay $25 billion in penalties related to Cambridge Analytica scandal in New Mexico.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/20/trump-tariffs-canada-section-338-lawsuit.html",
+      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Investors’ search for safety has made toothpaste stocks more expensive than tech",
-      "description": "Wall Street is fleeing tech for toothpaste and shampoo. Even those stocks are getting expensive.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/investors-search-for-safety-has-made-toothpaste-stocks-more-expensive-than-tech-57a75e56?mod=mw_rss_topstories",
+      "title": "How Ukraine’s drone strikes on Russia crippled the world’s second-largest diesel supplier",
+      "description": "President Donald Trump has blamed Ukraine for surging diesel prices that are hurting Republicans' election chances with the midterms just two weeks away.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/21/ukraine-russia-drone-diesel-refinery-trump-putin-zelenskyy.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
-      "description": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
+      "title": "Medicare is a bargain. What America can’t afford is private health insurance.",
+      "description": "Private insurance costs way more for the same results — or worse.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s why I’m still hopeful",
-      "description": "“Ill-timed circumstances can change our financial future in unexpected ways.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/medicare-is-a-bargain-what-america-cant-afford-is-private-health-insurance-8a834023?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "It’s not just California’s billionaire tax. Wealth is on the ballot in the midterm elections.",
-      "description": "Several states are dealing with ballot measures tied to taxing the rich — and there may be even more initiatives on this front in 2028.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/its-not-just-californias-billionaire-tax-wealth-is-on-the-ballot-in-the-midterm-elections-a50fc12c?mod=mw_rss_topstories",
+      "title": "SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up",
+      "description": "SpaceX shares jumped after the company reported surging revenue growth in its third quarter, and owner Elon Musk floated a potential SpaceX-Tesla merger.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "What is the 'Peanut Punch' showing up across NFL? Why it's changing how defenses attack the football",
-      "description": "What was once a novelty is now a tool every defensive player uses",
+      "title": "Polymarket traders see a 10% chance the AI bubble bursts before New Year’s Day",
+      "description": "For investors worried that the runaway artificial-intelligence trade might be about to hit the skids, prediction markets are already starting to reflect that anxiety.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/polymarket-traders-see-a-10-chance-the-ai-bubble-bursts-before-new-years-day-ad33258b?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Big Ten Power Rankings, Week 8: Ohio State new No. 1 as QB issues linger in Columbus, elsewhere",
+      "description": "Beating Indiana gets Ohio State to the top spot, but Julian Sayin's injury throws a wrench into the Buckeyes' long-term plans",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/what-is-the-peanut-punch-nfl-football/",
+      "url": "https://www.cbssports.com/college-football/news/big-ten-power-rankings-week-8-ohio-state-qb-issues/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "NBA player props, odds, picks, lines: 76ers new star LeBron James part of best bets for Opening Night",
-      "description": "We'll highlight some of our favorite player props for Tuesday's NBA games with help from the SportsLine Projection Model",
+      "title": "Patriots vs. Bears prediction, odds, time: 'Thursday Night Football' picks by proven model",
+      "description": "SportsLine's model has revealed its New England Patriots vs. Chicago Bears picks for 'Thursday Night Football'",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/nba-player-props-odds-picks-lines-76ers-new-star-lebron-james-part-of-best-bets-for-opening-night/",
+      "url": "https://www.cbssports.com/betting/news/patriots-bears-prediction-odds-time-thursday-night-football-picks-bets/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for NBA Opening Night, 76ers-Knicks, Thunder-Spurs",
-      "description": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for NBA, NFL betting on Tuesday",
+      "title": "Kansas' Bill Self knows retirement rumors persist, but is 'certainly not thinking like it's my last' season",
+      "description": "Self is returning for his 24th season at Kansas after retirement rumors surrounded him last season",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-nba-opening-night-76ers-knicks-thunder-spurs/",
+      "url": "https://www.cbssports.com/college-basketball/news/kansas-bill-self-retirement-rumors-big-12-media-days-2026-27-season/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "College Basketball Final Four tiers: Ranking the preseason Top 25 by their chances to reach final weekend",
-      "description": "The preseason AP Top 25 poll was released on Monday. Which teams realistically have a chance to reach the Final Four in Detroit?",
+      "title": "College football score predictions for Week 8, 2026: Model backs Texas (-3.5) against Ole Miss",
+      "description": "SportsLine's model has revealed its Week 8 college football score predictions for matchups such as Texas vs. Ole Miss, Indiana vs. Michigan and Houston vs. Utah",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-basketball/news/final-four-tiers-preseason-ap-top-25-duke-florida-uconn-illinois/",
+      "url": "https://www.cbssports.com/betting/news/college-football-score-predictions-top-picks-for-week-8-2026/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
