@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-23T17:55:44.948652+00:00",
-  "edition": "#261",
+  "date": "2026-10-24T16:50:54.481476+00:00",
+  "edition": "#262",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,188 +8,156 @@
   },
   "stories": [
     {
-      "title": "Crows can evaluate visual info twice as fast as mammals",
-      "description": "Birds' compact nervous system seems to help them handle tasks very quickly.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/",
+      "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+      "description": "Instacart might sell itself to a larger competitor.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
-      "description": "Company says foreign-made robotic vehicles are crucial to US chip production.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Can we replace a $150k Looker with a bucket of HTML files?",
-      "description": "Article URL: https://david.lequin.dev/blog/bi-software-is-dead/ Comments URL: https://news.ycombinator.com/item?id=50212320 Points: 13 # Comments: 2",
+      "title": "Roku developer repositories moved from GitHub to GitLab",
+      "description": "Article URL: https://blog.roku.com/developer/gitlab-move Comments URL: https://news.ycombinator.com/item?id=50222622 Points: 38 # Comments: 5",
       "source": "Hacker News",
-      "url": "https://david.lequin.dev/blog/bi-software-is-dead/",
+      "url": "https://blog.roku.com/developer/gitlab-move",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Time Nuts (2005)",
-      "description": "Article URL: http://leapsecond.com/time-nuts.htm Comments URL: https://news.ycombinator.com/item?id=50212281 Points: 14 # Comments: 8",
+      "title": "Block’s new voice model sounds eerily human",
+      "description": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Neural chip decodes interactions between brain regions",
+      "description": "Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/ Comments URL: https://news.ycombinator.com/item?id=50222525 Points: 20 # Comments: 0",
       "source": "Hacker News",
-      "url": "http://leapsecond.com/time-nuts.htm",
+      "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "AI Is Not a Tool",
-      "description": "Article URL: https://write.as/4tezac6y61b78 Comments URL: https://news.ycombinator.com/item?id=50212079 Points: 4 # Comments: 0",
+      "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+      "description": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "FreeDNS",
+      "description": "Article URL: https://freedns.afraid.org/ Comments URL: https://news.ycombinator.com/item?id=50222133 Points: 86 # Comments: 14",
       "source": "Hacker News",
-      "url": "https://write.as/4tezac6y61b78",
+      "url": "https://freedns.afraid.org/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "description": "https://www.kimi.com/code/docs/en/kimi-code/models.html Comments URL: https://news.ycombinator.com/item?id=50212065 Points: 169 # Comments: 79",
-      "source": "Hacker News",
-      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
-      "description": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
+      "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
+      "description": "The full feasibility study will look in detail at how hosting the Games in northern England could work.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
-      "description": "The Duchess of Sussex issues a statement following reports her father Thomas Markle is being investigated over child sex abuse images in the Philippines.",
+      "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
+      "description": "The Met said it passed information to the duchess but did not share it with other law enforcement agencies.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "A D.C. park was made 'for the pleasure of the people.' Trump's plan would change that",
-      "description": "Trump's most recent rendering of East Potomac Park overtakes the D.C. peninsula with a sprawling golf course, without the grassy areas and road beloved by locals. That's prompted grassroots pushback.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/23/nx-s1-6010488/east-potomac-trump-golf-hains-point",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Watch: Moment part of Brighton's historic West Pier collapses",
-      "description": "Footage taken during Storm Austen shows a section of the famous landmark battered by large waves and collapsing into the water.",
+      "title": "Between quick wins and big dreams lies Burnham's biggest test",
+      "description": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cwe8ln10l6nyo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "Burnham suggests stocking up on tinned food and bottled water",
-      "description": "The prime ministers says unexpected events seem to be becoming more common and it was wise to prepare.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5yz2pqqppo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "5h ago"
     },
     {
-      "title": "Ex-FBI employees charged with lying to Congress over Hunter Biden inquiries",
-      "description": "Republicans have long accused the FBI of mishandling the laptop and the investigations into the younger Biden.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/23/g-s1-149534/justice-fbi-charged-hunter-biden-laptop",
+      "title": "Mum dies after trying to rescue sons swept away at sea in Bahamas",
+      "description": "The children were subsequently rescued from the water, police say.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
+      "timeAgo": "7h ago"
     },
     {
-      "title": "Jerusalem Daily: Israel to ‘lock down’ occupied West Bank",
-      "description": "Israeli Prime Minister Benjamin Netanyahu orders a “full lockdown” of the occupied West Bank following a shooting.",
+      "title": "Perspective: The next James Bond",
+      "description": "A new James Bond is nigh, to replace the last actor in the 64 year-old movie franchise. What evil forces will the new 007 face? Killer Drones? Killer AI? Killer lettuce?",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6004258/perspective-the-next-james-bond",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
+      "description": "Footage broadcast on Jordanian state television showed three gunmen firing shots at a Greek Orthodox church in the city of Karak on Friday.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "Serbian elections: A country where students may actually take power",
+      "description": "Serbia is voting in an early election, where the most powerful politician in the country, has a serious rival.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/jerusalem-daily-netanyahu-orders-a-full-lockdown-of-the-occupied-west-ba?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbian-elections-a-country-where-students-may-actually-take-power?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "US consumer sentiment hits a near-record low before midterm elections",
-      "description": "Independent voters’ economic anxieties highlight political implications of plummeting US consumer sentiment.",
+      "title": "Barcelona vs Real Madrid: La Liga – El Clasico preview, predictions, teams",
+      "description": "Bragging rights are up for grabs in Sunday's El Clasico between La Liga leaders Barcelona and third-placed Real Madrid.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/23/us-consumer-sentiment-hits-a-near-record-low-before-midterm-elections?traffic_source=rss",
+      "url": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-la-liga-el-clasico-preview-predictions-teams?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Romania blames Russia after drone sinks ship in the Black Sea",
-      "description": "One sailor killed and three others missing after Comoros-flagged Khoryv hit near Romanian waters.",
+      "title": "More than 2,000 forced from homes in Hebron amid Israel’s West Bank raids",
+      "description": "Palestinians in Hebron are 'living in fear' with the city closed, while Israeli forces arrest dozens across the West Bank.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/23/romania-blames-russia-after-drone-sinks-ship-in-the-black-sea?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Why Chinese families are rushing to buy gold",
-      "description": "China is experiencing a gold rush as families buy more of it, but not necessarily to wear as jewellery.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/why-chinese-families-are-rushing-to-buy-gold?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
-      "description": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-      "description": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses",
-      "description": "There are two Dan Sullivans on the ballot in the Senate race in Alaska. The DOJ says that fact could help Democratic nominee Mary Peltola defeat both of them.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "title": "Brazil’s Lula and Bolsonaro about even ahead of election run-off: Poll",
+      "description": "The race between Brazil's president and the right-wing senator has tightened in recent days.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-about-even-ahead-of-election-run-off-poll?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
-      "description": "Since last week, Ukraine has reported restrictions on a version of Starshield, a version of SpaceX's Starlink, hampering its military operations against Russia.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "description": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Investors are starting to find opportunities in the battered bond market",
-      "description": "Some market participants see reason for hope in a market bludgeoned this year.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/23/investors-are-starting-to-find-opportunities-in-the-battered-bond-market.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "title": "Ukraine says Starlink connection 'now stable' after network limits",
+      "description": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "4h ago"
     },
     {
-      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "description": "”I earn $110,000 a year.”",
+      "title": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
+      "description": "Social Security is looking to reverse an initially slow uptake on Trump accounts",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
-    },
-    {
-      "title": "AI's 'Black October': Critical PHP flaws set off global security scramble",
-      "description": "Governments and businesses around the globe are scrambling to contain the fallout after the PHP vulnerabilities leaked online.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
     },
     {
       "title": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.",
@@ -197,39 +165,71 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/walmart-best-buy-and-other-stores-now-use-digital-price-tags-critics-say-they-could-lead-to-different-prices-for-different-shoppers-19e2f4da?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Retire on 8% a year with little or no risk? How to use annuities the right way.",
+      "description": "Market turmoil has created a remarkable opportunity in recent weeks for retirees and those seeking secure, stable income for life.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/retire-on-8-a-year-with-little-or-no-risk-how-to-use-annuities-the-right-way-06ababc5?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
+      "description": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Why popular airplanes are getting scrapped years early",
+      "description": "Airplanes are getting dismantled for parts years ahead of schedule because engines and other components are in short supply.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
+      "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Week 7 NFL picks, best bets from proven model: This 5-leg parlay returns nearly 25-1",
-      "description": "After 10,000 simulations, SportsLine's model reveals its top Week 7 NFL parlay",
+      "title": "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung cancer",
+      "description": "A drug from Amgen could give patients with an aggressive form of lung cancer significantly more time to live when added to an immunotherapy from AstraZeneca.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/24/amgen-imdelltra-lung-cancer-data.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "NFL DFS, Sunday: Top daily Fantasy picks, lineup advice for the Week 7 main slate",
+      "description": "DFS millionaire Mike McClure shares his top daily Fantasy picks and lineups for the Week 7 NFL main slate on Sunday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/nfl-parlay-picks-betting-predictions-week-7-2026/",
+      "url": "https://www.cbssports.com/betting/news/nfl-dfs-sunday-daily-fantasy-picks-fanduel-draftkings-lineup-advice-strategy-week-7-main-slate/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "The Dream are undefeated when Angel Reese makes a 3-pointer: Inside how she rebuilt her shot 'from scratch'",
-      "description": "Opponents once dared Reese to shoot, but her 'remarkable' improvement has helped push Atlanta to the verge of a WNBA title",
+      "title": "UFC 333 -- Alexander Volkanovski vs. Movsar Evloev: Fight card, date, odds, location and more",
+      "description": "All the news, information, complete fight card and more for this weekend's festivities in Abu Dhabi",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/wnba/news/angel-reese-atlanta-dream-rebuilt-3-point-shot-karl-smesko/",
+      "url": "https://www.cbssports.com/ufc/news/ufc-333-fight-card-alexander-volkanovski-movsar-evloev-date-odds-location-complete-guide/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "World Series Game 1 odds, time: Brewers vs. Rays predictions by expert on 58-28 run",
-      "description": "SportsLine expert Eric Cohen, who is on a 58-28 run on MLB money-line picks, reveals his Rays vs. Brewers bets for Game 1 of the World Series 2026",
+      "title": "How William Contreras, the MVP of this Brewers playoff run, is commanding the game from every angle",
+      "description": "The Brewers catcher is knocking in runs, throwing out runners and keeping his pitching staff calm this October",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/world-series-2026-game-1-odds-time-brewers-rays-expert-predictions-bets/",
+      "url": "https://www.cbssports.com/mlb/news/william-contreras-mvp-brewers-playoff-run-commanding-the-game/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Baker Mayfield set to return for Buccaneers after three-game absence, will wear custom glove",
-      "description": "After a three-week absence, Mayfield is back under center for Tampa Bay",
+      "title": "Self-learning AI releases NFL picks, score predictions for every Week 7 game",
+      "description": "SportsLine AI evaluated the Week 7 NFL odds and revealed its NFL score predictions and best NFL picks",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/buccaneers-baker-mayfield-cleared-to-play-thumb-injury-glove/",
+      "url": "https://www.cbssports.com/betting/news/nfl-picks-ai-score-predictions-betting-advice-for-every-week-7-2026-game/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     }
   ]
 }
