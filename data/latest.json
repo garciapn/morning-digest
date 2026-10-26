@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-25T17:10:30.214849+00:00",
-  "edition": "#263",
+  "date": "2026-10-26T19:29:40.941789+00:00",
+  "edition": "#264",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-      "description": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "title": "Uh oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
+      "description": "A small number of early adopters of the much hyped new foldable phone from Apple have complained of screens cracking.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "A Mathematician Reads the AI Future",
-      "description": "Article URL: https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/ Comments URL: https://news.ycombinator.com/item?id=50233347 Points: 8 # Comments: 1",
+      "title": "The EPA Is Quietly Killing Its Web Archive",
+      "description": "Article URL: https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/ Comments URL: https://news.ycombinator.com/item?id=50249275 Points: 8 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+      "url": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Bentley's Kyiv deadlership among the strongest, despite the war",
-      "description": "Article URL: https://www.autonext.co/news/bentley-kyiv-among-the-world-s-best-dealerships-despite-the-war Comments URL: https://news.ycombinator.com/item?id=50233238 Points: 5 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://www.autonext.co/news/bentley-kyiv-among-the-world-s-best-dealerships-despite-the-war",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
+      "description": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
+      "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Anthropic Wanted to Replace Engineers. Instead, They Shot Their Own Customers",
-      "description": "Article URL: https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace Comments URL: https://news.ycombinator.com/item?id=50232682 Points: 13 # Comments: 6",
+      "title": "Boston Dynamics employees want to block sale of robot dogs to ICE",
+      "description": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "US designates helium as a critical material",
+      "description": "Article URL: https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c Comments URL: https://news.ycombinator.com/item?id=50248665 Points: 32 # Comments: 7",
       "source": "Hacker News",
-      "url": "https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace",
+      "url": "https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
-      "description": "I was playing around with visualising the S&P 500 by market cap and decided to add employees to each company's bubble. What surprised me was how empty some of the biggest companies looked. Nvidia is worth $5.2 trillion…",
+      "title": "Microsoft Announces Type Server Protocol, Extension of Language Server Protocol",
+      "description": "Article URL: https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md Comments URL: https://news.ycombinator.com/item?id=50248371 Points: 44 # Comments: 10",
       "source": "Hacker News",
-      "url": "https://bigwhalehunting.com/workforce/",
+      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
       "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Couple were celebrating anniversary before Bahamas tragedy",
-      "description": "Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons swept out to sea.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Venezuela's opposition leader María Corina Machado returns after months in exile",
-      "description": "Machado announced her arrival on social media, writing \"I am here. With you.\"",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Burnham open to 'honest discussion' on EU free movement",
-      "description": "The PM says he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "Israelis have changed. Will they change their leadership?",
-      "description": "Israel is holding a general election this week after years of war. For many Israelis, shaken by the Oct. 7, 2023, attacks and years of war, it is the most consequential in decades.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu",
-      "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "What makes a good spine-tingler? Stephen Graham Jones says it's all in the ending",
-      "description": "Horror writer Stephen Graham Jones says horror's current moment is powered by more than just fear.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/25/nx-s1-6007348/what-makes-a-good-spine-tingler-stephen-graham-jones-says-its-all-in-the-ending",
+      "title": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
+      "description": "The Met Office has issued a fresh wind warning from 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern Ireland.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Trump’s tariff pause angers some US ranchers, boosts Brazilian beef imports",
-      "description": "Just as American cattle went to market, Trump's action added unease to an industry already facing uncertainty.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Israel’s ‘Generation Right’ could shape Netanyahu’s future",
-      "description": "The global trend may show young people leaning politically to the left, but in Israel… they’re leaning to the right.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Barcelona vs Real Madrid LIVE: La Liga El Clasico",
-      "description": "Follow updates from El Clasico at Camp Nou, including the build-up, analysis and live text commentary of the game.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Jordanians mourn victims of deadly church attack",
-      "description": "Jordanians mourn victims of deadly church attack",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Early reports suggest record high turnout in Serbia elections",
-      "description": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
+      "title": "Israel and the US are both going to the polls - the consequences will be global",
+      "description": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Independent review announced into murder of student Henry Nowak",
+      "description": "\"We must get to truth of what happened before, during and after that awful night,\" the home secretary says while announcing the review.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "Drivers who killed mum and girl while racing jailed",
+      "description": "Justyna Hulboj and her daughter Lena died when they were hit by a car in Leeds in January 2023.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqy0r3n17gjyo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "Trump administration pushes for food assistance card upgrade to fight fraud",
+      "description": "The proposed rule is a major step forward in addressing a form of fraud that has robbed SNAP recipients of millions.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/26/nx-s1-6017810/snap-benefits-ebt-card-chip-usda-rule",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Judge says DOJ illegally fired the daughter of former FBI director Comey",
+      "description": "Maurene Comey served as a federal prosecutor in Manhattan for around a decade. A judicial ruling finding her dismissal unlawful adds to concerns of politically motivated firings at the DOJ.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/26/g-s1-149960/judge-maurene-comey-illegal-dismissal",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Trump faces private citizens lawsuit over limiting White House media access",
+      "description": "The plaintiffs argue they are losing access to vital information media outlets covering Trump used to provide.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/26/trump-faces-private-citizens-lawsuit-over-limiting-white-house-media-access?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "description": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+      "title": "Brazil’s real sinks after Lula’s re-election victory",
+      "description": "Investors react to Lula's victory with a sharp decline in the real and concern over increased spending and fiscal challenges.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/26/brazils-real-sinks-after-lulas-re-election-victory?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "8h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "My partner of 17 years left me his $1 million home. His children are livid. Am I obliged to split it with them?",
-      "description": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
+      "title": "Lula wins fourth term in dramatic Brazil election comeback",
+      "description": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Could the midterms change US military support for Israel?",
+      "description": "From Texas to Michigan, Senate candidates are challenging US weapons transfers to Israel.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/could-the-midterms-change-americas-military-support-for-israel?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "US midterm elections 2026 in maps and charts",
+      "description": "On November 3, Americans decide which party controls the US Congress for the second half of Donald Trump's presidency.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/26/us-midterm-elections-2026-in-maps-and-charts?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+      "description": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "McDonald’s new bet on chicken hits a snag as franchisees say the birds are too big",
+      "description": "McDonald’s franchisees have complained about “tough meat” and other issues with new hand-breaded chicken, an analyst said.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
-      "description": "“I don’t want to enter retirement owing six figures when we have the cash to clear it.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
-      "description": "“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-      "description": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
-      "description": "Audi's CEO defended the company's plans for a $4 billion plant in Georgia, calling it a business decision to grow sales and reduce exposure to U.S. tariffs.",
+      "title": "Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
+      "description": "Apple on Monday said it was aware of the issue and that it would replace the devices under its AppleCare warranty.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
+      "url": "https://www.cnbc.com/2026/10/26/apple-responds-to-user-reports-of-broken-iphone-duo-screens.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "In pictures: Initially peaceful protests across France over inequality again descend into violence",
-      "description": "Protests over inequality and living costs drew an estimated 410,000 people across France, with clashes in several cities for a second straight weekend.",
+      "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
+      "description": "Meta is looking to raise a total of $95 billion through stock-related deals that stretch into early next year.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?",
+      "description": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "These energy stocks are poised to profit from an imminent AI power crunch",
+      "description": "Bloom Energy and Solaris Energy would benefit from an urgency around securing power to AI developers.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/these-energy-stocks-are-poised-to-profit-from-an-imminent-ai-power-crunch-00c1a50d?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
+      "description": "Microsoft is trying to balance a rapid AI infrastructure build-out with capital efficiency.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
+      "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
       "category": "📈 MARKETS",
-      "timeAgo": "2h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "NFL Week 7 odds, predictions, expert picks: Who wins Packers-Lions showdown? Rams get back on track?",
-      "description": "Our experts make their selections for every game on the Week 7 schedule",
+      "title": "Eagles vs. Cowboys odds, picks, player props: Expert's best bets for NFL Week 7 Monday Night Football",
+      "description": "Take the underdog Eagles getting 4.5 points, back CeeDee Lamb to bounce back through the air and target value on a pair of red-zone tight ends",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-7-picks-odds-predictions-expert-picks-against-the-spread/",
+      "url": "https://www.cbssports.com/betting/news/eagles-vs-cowboys-odds-picks-player-props-experts-best-bets-for-nfl-week-7-monday-night-football/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "'Sunday Night Football' prediction, odds, time: Seahawks vs. Chiefs picks from expert who's on a 28-16 roll",
-      "description": "Emory Hunt reveals his picks for Kansas City Chiefs vs. Seattle Seahawks in the 2026 Week 7 'Sunday Night Football' matchup",
+      "title": "NFL trade deadline matchmaker: Vikings add Jonathan Taylor to boost offense, Chiefs nab WR",
+      "description": "Moves for several contenders who could look to buy",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/sunday-night-football-prediction-odds-time-seahawks-chiefs-picks/",
+      "url": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-matchmaker-vikings-jonathan-taylor-chiefs/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Nikola Jokić says Nuggets fans who booed during comeback win over Pelicans are 'not welcome anymore'",
-      "description": "Denver's home fans shared their displeasure as the Nuggets fell behind by more than 20 points to the Pelicans",
+      "title": "Kalshi cricket 2026: How to trade on cricket prediction markets",
+      "description": "You can use Kalshi prediction markets to trade event contracts during cricket matches",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nba/news/nikola-jokic-nuggets-fans-boos-pelicans/",
+      "url": "https://www.cbssports.com/prediction/news/kalshi-cricket/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Oregon fires offensive coordinator Drew Mehringer amid continued scoring struggles",
-      "description": "The first-year offensive coordinator lasted just eight games before his firing",
+      "title": "Eagles vs. Cowboys SGP: 'Monday Night Football' same-game parlay picks, bets, props from SportsLine AI",
+      "description": "SportsLine's machine-learning AI reveals its 'Monday Night Football' SGP for Dallas vs. Philadelphia",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/oregon-fires-offensive-coordinator-drew-mehringer/",
+      "url": "https://www.cbssports.com/betting/news/eagles-cowboys-sgp-monday-night-football-same-game-parlay-picks-best-bets-props/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
