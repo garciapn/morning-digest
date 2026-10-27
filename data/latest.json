@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-26T19:29:40.941789+00:00",
-  "edition": "#264",
+  "date": "2026-10-27T18:51:30.979982+00:00",
+  "edition": "#265",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Uh oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
-      "description": "A small number of early adopters of the much hyped new foldable phone from Apple have complained of screens cracking.",
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "description": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "The EPA Is Quietly Killing Its Web Archive",
-      "description": "Article URL: https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/ Comments URL: https://news.ycombinator.com/item?id=50249275 Points: 8 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
-      "description": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Boston Dynamics employees want to block sale of robot dogs to ICE",
-      "description": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "US designates helium as a critical material",
-      "description": "Article URL: https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c Comments URL: https://news.ycombinator.com/item?id=50248665 Points: 32 # Comments: 7",
-      "source": "Hacker News",
-      "url": "https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Microsoft Announces Type Server Protocol, Extension of Language Server Protocol",
-      "description": "Article URL: https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md Comments URL: https://news.ycombinator.com/item?id=50248371 Points: 44 # Comments: 10",
-      "source": "Hacker News",
-      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
-      "description": "The Met Office has issued a fresh wind warning from 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern Ireland.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
+      "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
+      "description": "Article URL: https://www.liquid.ai/blog/lfm3 Comments URL: https://news.ycombinator.com/item?id=50262229 Points: 29 # Comments: 11",
+      "source": "Hacker News",
+      "url": "https://www.liquid.ai/blog/lfm3",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Ghostty 1.4.0",
+      "description": "Article URL: https://ghostty.org/docs/install/release-notes/1-4-0 Comments URL: https://news.ycombinator.com/item?id=50261998 Points: 210 # Comments: 78",
+      "source": "Hacker News",
+      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "category": "🤖 TECH & AI",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Israel and the US are both going to the polls - the consequences will be global",
-      "description": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
+      "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
+      "description": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 178 # Comments: 104",
+      "source": "Hacker News",
+      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+      "category": "🤖 TECH & AI",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Independent review announced into murder of student Henry Nowak",
-      "description": "\"We must get to truth of what happened before, during and after that awful night,\" the home secretary says while announcing the review.",
+      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "description": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Classification of Finite Simple Groups Formalized in Lean",
+      "description": "Article URL: https://cfsg.axiommath.ai/ Comments URL: https://news.ycombinator.com/item?id=50261647 Points: 65 # Comments: 20",
+      "source": "Hacker News",
+      "url": "https://cfsg.axiommath.ai/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Two in court over alleged Iran-linked plot at RAF Fairford",
+      "description": "Mohmed Abdulkarim and Nouman Essghir, both 24, appear at Westminster Magistrates' Court on Tuesday.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Men abused woman after her husband drugged and advertised her online, court told",
+      "description": "Four men stand trial after the woman's ex-husband has pleaded guilty to drugging and raping her.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5m2d83kmkkyo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+      "description": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Drivers who killed mum and girl while racing jailed",
-      "description": "Justyna Hulboj and her daughter Lena died when they were hit by a car in Leeds in January 2023.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqy0r3n17gjyo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Trump administration pushes for food assistance card upgrade to fight fraud",
-      "description": "The proposed rule is a major step forward in addressing a form of fraud that has robbed SNAP recipients of millions.",
+      "title": "A judge halted D.C. golf course renovations. Trump says they'll still start next month",
+      "description": "A federal judge has barred the government from clearing more trees or making other alterations to D.C.'s East Potomac Park without proper notice. Trump says his administration will appeal.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/10/26/nx-s1-6017810/snap-benefits-ebt-card-chip-usda-rule",
+      "url": "https://www.npr.org/2026/10/27/nx-s1-6019192/east-potomac-golf-course-renovations-blocked-appeal",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Judge says DOJ illegally fired the daughter of former FBI director Comey",
-      "description": "Maurene Comey served as a federal prosecutor in Manhattan for around a decade. A judicial ruling finding her dismissal unlawful adds to concerns of politically motivated firings at the DOJ.",
+      "title": "Bolsonaro's party accepts Brazil election defeat, but he refuses to concede",
+      "description": "Brazil's opposition party accepts President Luiz Inácio Lula da Silva's election victory, but Flávio Bolsonaro won't concede, while President Trump calls the vote \"rigged\" without offering evidence.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/10/26/g-s1-149960/judge-maurene-comey-illegal-dismissal",
+      "url": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump",
       "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "What does Israel's election mean for Gaza and the wider world?",
+      "description": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "8h ago"
+    },
+    {
+      "title": "Norway and Finland leaders hold rare call with Putin",
+      "description": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Trump faces private citizens lawsuit over limiting White House media access",
-      "description": "The plaintiffs argue they are losing access to vital information media outlets covering Trump used to provide.",
+      "title": "‘If they’re honest’: Trump casts latest suspicion on US midterm elections",
+      "description": "Trump's comments come as his administration files legal challenges to Democrat-led US states over election integrity.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/trump-faces-private-citizens-lawsuit-over-limiting-white-house-media-access?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/10/27/if-theyre-honest-trump-casts-latest-suspicion-on-us-midterm-elections?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Jerusalem Daily: Israeli elections underway",
+      "description": "Voting has begun in Israel, with over seven million eligible voters expected at the polls.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/jerusalem-daily-israeli-elections-underway?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Arab parties in Israel accuse Netanyahu of inciting hatred to scare voters",
+      "description": "In one social media post, PM Netanyahu accused Arab voters of 'raiding the polling stations and stealing the elections'.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/27/arab-parties-in-israel-accuse-netanyahu-of-inciting-hatred-to-scare-voters?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Protesters storm Serbian pro-Vucic TV station after his loss at polls",
+      "description": "President Vucic called the incident an attack on free speech and the freedom of journalism.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/27/protesters-storm-serbian-pro-vucic-tv-station-after-his-loss-at-polls?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Brazil’s real sinks after Lula’s re-election victory",
-      "description": "Investors react to Lula's victory with a sharp decline in the real and concern over increased spending and fiscal challenges.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/26/brazils-real-sinks-after-lulas-re-election-victory?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Lula wins fourth term in dramatic Brazil election comeback",
-      "description": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
+      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+      "description": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Could the midterms change US military support for Israel?",
-      "description": "From Texas to Michigan, Senate candidates are challenging US weapons transfers to Israel.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/could-the-midterms-change-americas-military-support-for-israel?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "US midterm elections 2026 in maps and charts",
-      "description": "On November 3, Americans decide which party controls the US Congress for the second half of Donald Trump's presidency.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/us-midterm-elections-2026-in-maps-and-charts?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-      "description": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "3h ago"
     },
     {
-      "title": "McDonald’s new bet on chicken hits a snag as franchisees say the birds are too big",
-      "description": "McDonald’s franchisees have complained about “tough meat” and other issues with new hand-breaded chicken, an analyst said.",
+      "title": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
+      "description": "“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
-      "description": "Apple on Monday said it was aware of the issue and that it would replace the devices under its AppleCare warranty.",
+      "title": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
+      "description": "Amazon has rapidly integrated AI across the e-commerce giant's sprawling business operations under CEO Andy Jassy.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/26/apple-responds-to-user-reports-of-broken-iphone-duo-screens.html",
+      "url": "https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
-      "description": "Meta is looking to raise a total of $95 billion through stock-related deals that stretch into early next year.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?",
-      "description": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "These energy stocks are poised to profit from an imminent AI power crunch",
-      "description": "Bloom Energy and Solaris Energy would benefit from an urgency around securing power to AI developers.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/these-energy-stocks-are-poised-to-profit-from-an-imminent-ai-power-crunch-00c1a50d?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
-      "description": "Microsoft is trying to balance a rapid AI infrastructure build-out with capital efficiency.",
+      "title": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
+      "description": "Companies from Royal Caribbean to Coca-Cola and UPS say they are seeing steady consumer spending despite high inflation.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+      "url": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "The big reason Boeing’s stock is falling so hard after earnings",
+      "description": "Boeing will come up short on 737 Max deliveries, casting doubt on its turnaround plans.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-big-reason-boeings-stock-is-falling-so-hard-after-earnings-d31b400d?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "‘CryptoDad’ on stablecoins, bitcoin’s role in a portfolio and why he does not directly own any crypto",
+      "description": "What former CFTC Chairman Chris Giancarlo tells his own children about buying their first crypto coin.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/cryptodad-on-stablecoins-bitcoins-role-in-a-portfolio-and-why-he-does-not-directly-own-any-crypto-72472bc1?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Anthropic's IPO could be 'speculative fiction' or a 'generational moment' — investors are split",
+      "description": "Investors are digesting Anthropic's S-1 filing that the Securities and Exchange Commission released on Monday.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/27/-anthropic-ipo-investors-growth-losses-s-1.html",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Eagles vs. Cowboys odds, picks, player props: Expert's best bets for NFL Week 7 Monday Night Football",
-      "description": "Take the underdog Eagles getting 4.5 points, back CeeDee Lamb to bounce back through the air and target value on a pair of red-zone tight ends",
+      "title": "Quenton Nelson trade grades: Seahawks add eight-time Pro Bowler, while Colts look to sell pieces",
+      "description": "Seattle shores up protection for Sam Darnold with an eight-time Pro Bowler, while Indianapolis opens the door to sell more",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/eagles-vs-cowboys-odds-picks-player-props-experts-best-bets-for-nfl-week-7-monday-night-football/",
+      "url": "https://www.cbssports.com/nfl/news/quenton-nelson-trade-grades-seahawks-colts/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "NFL trade deadline matchmaker: Vikings add Jonathan Taylor to boost offense, Chiefs nab WR",
-      "description": "Moves for several contenders who could look to buy",
+      "title": "Is Polymarket Legal in California? October 2026 Status",
+      "description": "Find out if Polymarket is legal in California, how it's regulated, and what you can trade there in 2026.",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-matchmaker-vikings-jonathan-taylor-chiefs/",
+      "url": "https://www.cbssports.com/prediction/news/polymarket-california/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Kalshi cricket 2026: How to trade on cricket prediction markets",
-      "description": "You can use Kalshi prediction markets to trade event contracts during cricket matches",
+      "title": "Ex-North Carolina coach Hubert Davis joining TNT Sports as a college basketball studio and game analyst",
+      "description": "Hubert will join TNT Sports as a studio and game analyst for the 2026-27 college basketball season",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/prediction/news/kalshi-cricket/",
+      "url": "https://www.cbssports.com/college-basketball/news/north-carolina-unc-coach-hubert-davis-tnt-sports-studio-analyst/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Eagles vs. Cowboys SGP: 'Monday Night Football' same-game parlay picks, bets, props from SportsLine AI",
-      "description": "SportsLine's machine-learning AI reveals its 'Monday Night Football' SGP for Dallas vs. Philadelphia",
+      "title": "WWE Crown Jewel 2026 card: Complete list of matches and participants set for Saudi Arabia",
+      "description": "Crown Jewel takes place in Riyadh, Saudi Arabia, on Saturday, Nov. 7",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/eagles-cowboys-sgp-monday-night-football-same-game-parlay-picks-best-bets-props/",
+      "url": "https://www.cbssports.com/wwe/news/wwe-crown-jewel-card-matches-2026/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
