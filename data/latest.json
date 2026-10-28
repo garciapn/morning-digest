@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-27T18:51:30.979982+00:00",
-  "edition": "#265",
+  "date": "2026-10-28T19:00:41.868263+00:00",
+  "edition": "#266",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-      "description": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "title": "Amazon turns its most capable smart speaker into a smart camera, too",
+      "description": "The Echo Studio with Home Camera can \"see and understand what's in front of the camera.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Cadillac Escalade IQ review: Huge battery, huge range, huge SUV",
+      "description": "With more than 200 kWh, this luxury three-row can go 460 miles on a charge.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/10/cadillac-escalade-iq-review-4-tons-of-electric-american-luxury-on-wheels/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
-      "description": "Article URL: https://www.liquid.ai/blog/lfm3 Comments URL: https://news.ycombinator.com/item?id=50262229 Points: 29 # Comments: 11",
-      "source": "Hacker News",
-      "url": "https://www.liquid.ai/blog/lfm3",
+      "title": "Google AI gets cagey when asked who won the 2020 elections",
+      "description": "But the AI responses get more forthright when asked outside the US.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Ghostty 1.4.0",
-      "description": "Article URL: https://ghostty.org/docs/install/release-notes/1-4-0 Comments URL: https://news.ycombinator.com/item?id=50261998 Points: 210 # Comments: 78",
-      "source": "Hacker News",
-      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "title": "Florida county won’t investigate sketchy Flock cameras removed by mystery owners",
+      "description": "Florida county claims it lacks resources to find owners of unpermitted Flock cameras.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/florida-county-wont-investigate-sketchy-flock-cameras-removed-by-mystery-owners/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
-      "description": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 178 # Comments: 104",
-      "source": "Hacker News",
-      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-      "description": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
+      "title": "Apple launches its new touchscreen MacBook Pro",
+      "description": "Apple's new touchscreen MacBook Pro starts at $2,899.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Classification of Finite Simple Groups Formalized in Lean",
-      "description": "Article URL: https://cfsg.axiommath.ai/ Comments URL: https://news.ycombinator.com/item?id=50261647 Points: 65 # Comments: 20",
+      "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
+      "description": "Article URL: https://nullpt.rs/fingerprinting-bioweapons Comments URL: https://news.ycombinator.com/item?id=50276998 Points: 68 # Comments: 7",
       "source": "Hacker News",
-      "url": "https://cfsg.axiommath.ai/",
+      "url": "https://nullpt.rs/fingerprinting-bioweapons",
       "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Two in court over alleged Iran-linked plot at RAF Fairford",
-      "description": "Mohmed Abdulkarim and Nouman Essghir, both 24, appear at Westminster Magistrates' Court on Tuesday.",
+      "title": "Will I get the £100 energy payment and when will I receive it?",
+      "description": "Here is what you need to know about the payment that millions will receive from January.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Key points at a glance",
+      "description": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Chris Mason: Budget felt cautious despite its range of small measures",
+      "description": "The chancellor has had to grapple with a mix of public finances and household finances being a mess.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm78pljvqvxeo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "The main announcements from the Budget - and how they will be funded",
+      "description": "The BBC's Joe Pike explains key things outlined by the Chancellor.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/ck0j06zl28wzo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "New book revisits the 2023 killing of an unhoused man in crisis on the NYC subway",
+      "description": "Jordan Neely was frightening fellow passengers. A former Marine named Daniel Penny put Neely into a chokehold, killing him. Journalist Anand Giridharadas investigates the incident in Man in the Mirror.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-6019370/jordan-neely-daniel-penny-anand-giridharadas-man-in-the-mirror",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Men abused woman after her husband drugged and advertised her online, court told",
-      "description": "Four men stand trial after the woman's ex-husband has pleaded guilty to drugging and raping her.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5m2d83kmkkyo?at_medium=RSS&at_campaign=rss",
+      "title": "Fed holds interest rates steady even as inflation remains stubborn",
+      "description": "The Federal Reserve opted to leave its benchmark interest rate unchanged — but investors widely expect the central bank to raise rates at its next meeting in December to combat stubborn inflation.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-6020425/federal-reserve-interest-rates-inflation",
       "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Fuel costs force US cruise ship to suspend multi-year voyage in Cambodia",
+      "description": "Hundreds of passengers are stranded after the ship’s three-and-a-half year voyage was cut short due to fuel costs.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/28/fuel-costs-force-us-cruise-ship-to-suspend-multi-year-voyage-in-cambodia?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Jerusalem Daily: What’s next after Israel’s elections?",
+      "description": "Prime Minister Benjamin Netanyahu and former military chief Gadi Eisenkot are both claiming victory in Israel’s election",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/jerusalem-daily-whats-next-after-israels-elections?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Balad leader blasts ‘racist’ exclusion of Arab parties in Israel",
+      "description": "Elections have yielded no clear winner but opposition bloc refuses to ally with Arab parties.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/28/balad-leader-blasts-racist-exclusion-of-arab-parties-in-israel?traffic_source=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
-      "description": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "A judge halted D.C. golf course renovations. Trump says they'll still start next month",
-      "description": "A federal judge has barred the government from clearing more trees or making other alterations to D.C.'s East Potomac Park without proper notice. Trump says his administration will appeal.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/27/nx-s1-6019192/east-potomac-golf-course-renovations-blocked-appeal",
-      "category": "🌎 TOP NEWS",
+      "title": "Sudan war and inflation leave families struggling to survive in Khartoum",
+      "description": "Soaring food prices and shrinking incomes force families in Sudan's capital to borrow money and skip meals.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Bolsonaro's party accepts Brazil election defeat, but he refuses to concede",
-      "description": "Brazil's opposition party accepts President Luiz Inácio Lula da Silva's election victory, but Flávio Bolsonaro won't concede, while President Trump calls the vote \"rigged\" without offering evidence.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump",
-      "category": "🌎 TOP NEWS",
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "description": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "How could Israel break election deadlock? Here are four scenarios",
+      "description": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "4h ago"
     },
     {
-      "title": "What does Israel's election mean for Gaza and the wider world?",
-      "description": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "8h ago"
-    },
-    {
-      "title": "Norway and Finland leaders hold rare call with Putin",
-      "description": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "‘If they’re honest’: Trump casts latest suspicion on US midterm elections",
-      "description": "Trump's comments come as his administration files legal challenges to Democrat-led US states over election integrity.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/27/if-theyre-honest-trump-casts-latest-suspicion-on-us-midterm-elections?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Jerusalem Daily: Israeli elections underway",
-      "description": "Voting has begun in Israel, with over seven million eligible voters expected at the polls.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/jerusalem-daily-israeli-elections-underway?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Arab parties in Israel accuse Netanyahu of inciting hatred to scare voters",
-      "description": "In one social media post, PM Netanyahu accused Arab voters of 'raiding the polling stations and stealing the elections'.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/27/arab-parties-in-israel-accuse-netanyahu-of-inciting-hatred-to-scare-voters?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Protesters storm Serbian pro-Vucic TV station after his loss at polls",
-      "description": "President Vucic called the incident an attack on free speech and the freedom of journalism.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/27/protesters-storm-serbian-pro-vucic-tv-station-after-his-loss-at-polls?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
-      "description": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
-      "description": "“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
-      "description": "Amazon has rapidly integrated AI across the e-commerce giant's sprawling business operations under CEO Andy Jassy.",
+      "title": "Oracle stock pops 13% as long-term revenue forecast and clarity on financing ease debt concerns",
+      "description": "Oracle issued a revenue forecast for fiscal year 2030 of $225 billion, and said it will limit additional fundraising over that stretch to $20 billion.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html",
+      "url": "https://www.cnbc.com/2026/10/28/oracle-forecast-growth-2030.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
-      "description": "Companies from Royal Caribbean to Coca-Cola and UPS say they are seeing steady consumer spending despite high inflation.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "The big reason Boeing’s stock is falling so hard after earnings",
-      "description": "Boeing will come up short on 737 Max deliveries, casting doubt on its turnaround plans.",
+      "title": "Elon Musk says he can build a wireless carrier in two to three years. Is that possible?",
+      "description": "Verizon says there is ‘no magic wand,’ but analysts note SpaceX may be targeting some shortcuts.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-big-reason-boeings-stock-is-falling-so-hard-after-earnings-d31b400d?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/elon-musk-says-he-can-build-a-wireless-carrier-in-two-to-three-years-is-that-possible-5ccf9685?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "‘CryptoDad’ on stablecoins, bitcoin’s role in a portfolio and why he does not directly own any crypto",
-      "description": "What former CFTC Chairman Chris Giancarlo tells his own children about buying their first crypto coin.",
+      "title": "The U.S. government will no longer penalize American companies for making six popular peptides",
+      "description": "It won’t take action against compounding pharmacies that make popular wellness products like BPC-157 and TB-500.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/cryptodad-on-stablecoins-bitcoins-role-in-a-portfolio-and-why-he-does-not-directly-own-any-crypto-72472bc1?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/trump-administration-clears-the-way-for-production-of-peptides-like-bpc-157-and-tb-500-28ac2d11?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Anthropic's IPO could be 'speculative fiction' or a 'generational moment' — investors are split",
-      "description": "Investors are digesting Anthropic's S-1 filing that the Securities and Exchange Commission released on Monday.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/27/-anthropic-ipo-investors-growth-losses-s-1.html",
+      "title": "Gen Z voters told us the midterms will boil down to affording life, not social issues",
+      "description": "MarketWatch talked to younger voters who said many life goals feel unattainable for their generation.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/gen-z-voters-told-us-the-midterms-will-boil-down-to-affording-life-not-social-issues-11bd1734?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Quenton Nelson trade grades: Seahawks add eight-time Pro Bowler, while Colts look to sell pieces",
-      "description": "Seattle shores up protection for Sam Darnold with an eight-time Pro Bowler, while Indianapolis opens the door to sell more",
+      "title": "I’m planning a trip to Europe. Is it dumb to take travel advice from influencers?",
+      "description": "“How can I tell if something is a real experience in my price range?”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-planning-a-trip-to-europe-is-it-dumb-to-take-travel-advice-from-influencers-f25ae756?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Here is what changed in the new Fed statement",
+      "description": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in September.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/fed-statement-redline-october-2026.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Fantasy basketball stock watch: Cooper Flagg, Ty Jerome lead early breakouts to buy",
+      "description": "Breaking down the early risers delivering league-winning value",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/quenton-nelson-trade-grades-seahawks-colts/",
+      "url": "https://www.cbssports.com/fantasy/basketball/news/fantasy-basketball-stock-watch-cooper-flagg-ty-jerome-lead-early-breakouts-to-buy/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Is Polymarket Legal in California? October 2026 Status",
-      "description": "Find out if Polymarket is legal in California, how it's regulated, and what you can trade there in 2026.",
+      "title": "Why is a WNBA Finals game starting at 12:30 p.m. on a Thursday? Everything to know as Dream blame the league",
+      "description": "It took a lot of moving parts for a potential championship-deciding game to be played on a weekday afternoon",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/prediction/news/polymarket-california/",
+      "url": "https://www.cbssports.com/wnba/news/wnba-finals-game-6-start-time-atlanta-dream-golden-state-valkyries/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Ex-North Carolina coach Hubert Davis joining TNT Sports as a college basketball studio and game analyst",
-      "description": "Hubert will join TNT Sports as a studio and game analyst for the 2026-27 college basketball season",
+      "title": "Brewers vs. Rays World Series Game 5 most-wagered player props: Bettors on Jacob Misiorowski to strike out 5",
+      "description": "Jacob Misiorowski leads all action on player props for World Series Game 5 on Wednesday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-basketball/news/north-carolina-unc-coach-hubert-davis-tnt-sports-studio-analyst/",
+      "url": "https://www.cbssports.com/mlb/news/brewers-vs-rays-world-series-game-5-most-wagered-player-props-bettors-on-jacob-misiorowski-to-strike-out-5/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "WWE Crown Jewel 2026 card: Complete list of matches and participants set for Saudi Arabia",
-      "description": "Crown Jewel takes place in Riyadh, Saudi Arabia, on Saturday, Nov. 7",
+      "title": "Fantasy football Start 'Em, Sit 'Em RB in Week 8: Quinshon Judkins stays hot, J.K. Dobbins fades",
+      "description": "Quinshon Judkins looks to build on his breakout, Rhamondre Stevenson draws a dream matchup, while J.K. could be losing touches",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/wwe/news/wwe-crown-jewel-card-matches-2026/",
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-2026-start-em-sit-em-rb-in-week-8/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
