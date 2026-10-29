@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-28T19:00:41.868263+00:00",
-  "edition": "#266",
+  "date": "2026-10-29T19:07:54.221968+00:00",
+  "edition": "#267",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Amazon turns its most capable smart speaker into a smart camera, too",
-      "description": "The Echo Studio with Home Camera can \"see and understand what's in front of the camera.\"",
+      "title": "Report: Trump did nothing with intel that China planted spy close to Nvidia CEO",
+      "description": "Spy accused of exploiting Trump ties to Huang, funneling secrets to China.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/",
+      "url": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Cadillac Escalade IQ review: Huge battery, huge range, huge SUV",
-      "description": "With more than 200 kWh, this luxury three-row can go 460 miles on a charge.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/10/cadillac-escalade-iq-review-4-tons-of-electric-american-luxury-on-wheels/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Google AI gets cagey when asked who won the 2020 elections",
-      "description": "But the AI responses get more forthright when asked outside the US.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Florida county won’t investigate sketchy Flock cameras removed by mystery owners",
-      "description": "Florida county claims it lacks resources to find owners of unpermitted Flock cameras.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/10/florida-county-wont-investigate-sketchy-flock-cameras-removed-by-mystery-owners/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Apple launches its new touchscreen MacBook Pro",
-      "description": "Apple's new touchscreen MacBook Pro starts at $2,899.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
-      "description": "Article URL: https://nullpt.rs/fingerprinting-bioweapons Comments URL: https://news.ycombinator.com/item?id=50276998 Points: 68 # Comments: 7",
+      "title": "Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards",
+      "description": "Article URL: https://github.com/phpclaw-php/phpclaw-monorepo Comments URL: https://news.ycombinator.com/item?id=50293361 Points: 6 # Comments: 3",
       "source": "Hacker News",
-      "url": "https://nullpt.rs/fingerprinting-bioweapons",
+      "url": "https://github.com/phpclaw-php/phpclaw-monorepo",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Will I get the £100 energy payment and when will I receive it?",
-      "description": "Here is what you need to know about the payment that millions will receive from January.",
+      "title": "Turning a solar power system into its own backup",
+      "description": "Plant design allows it to run on either stored solar heat or combustion.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "I'm building LYNX, an open-source DAW inspired by FL Studio, free,cross-platform",
+      "description": "Article URL: https://github.com/Ka1-S/LYNX-SHARE Comments URL: https://news.ycombinator.com/item?id=50293308 Points: 18 # Comments: 9",
+      "source": "Hacker News",
+      "url": "https://github.com/Ka1-S/LYNX-SHARE",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Granola crunches up a dictation feature to compete with Wispr",
+      "description": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+      "description": "Charges filed as Trump admin tries to save Kalshi from Utah's total ban on gambling.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Met refers itself to police watchdog over letter about Meghan's father",
+      "description": "The police force faces scrutiny over its handling of a letter containing allegations about Meghan's father.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/ck30e91r9z0jo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Key points at a glance",
-      "description": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
+      "title": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
+      "description": "Opponents have questioned the Budget's lack of detail on welfare reform, with the prime minister not outlining a timetable for any reductions.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "Chris Mason: Budget felt cautious despite its range of small measures",
-      "description": "The chancellor has had to grapple with a mix of public finances and household finances being a mess.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm78pljvqvxeo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "The main announcements from the Budget - and how they will be funded",
-      "description": "The BBC's Joe Pike explains key things outlined by the Chancellor.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/ck0j06zl28wzo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "New book revisits the 2023 killing of an unhoused man in crisis on the NYC subway",
-      "description": "Jordan Neely was frightening fellow passengers. A former Marine named Daniel Penny put Neely into a chokehold, killing him. Journalist Anand Giridharadas investigates the incident in Man in the Mirror.",
+      "title": "Even birds get jet lagged, study shows",
+      "description": "A species of seabirds appears to become disoriented on flights back to its nest due to shifting time zones.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/10/28/nx-s1-6019370/jordan-neely-daniel-penny-anand-giridharadas-man-in-the-mirror",
+      "url": "https://www.npr.org/2026/10/29/nx-s1-6019228/manx-shearwater-jet-lag-birds",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Fed holds interest rates steady even as inflation remains stubborn",
-      "description": "The Federal Reserve opted to leave its benchmark interest rate unchanged — but investors widely expect the central bank to raise rates at its next meeting in December to combat stubborn inflation.",
+      "title": "Fishing is a key issue in Alaska's tight U.S. Senate race",
+      "description": "Alaska's U.S. Senate race is embroiled in an emotional fight over fish. Many in the state rely upon salmon to feed their families but those fish and others are increasingly hard to find.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/10/28/nx-s1-6020425/federal-reserve-interest-rates-inflation",
+      "url": "https://www.npr.org/2026/10/29/nx-s1-6018248/fishing-is-a-key-issue-in-alaskas-tight-u-s-senate-race",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Fuel costs force US cruise ship to suspend multi-year voyage in Cambodia",
-      "description": "Hundreds of passengers are stranded after the ship’s three-and-a-half year voyage was cut short due to fuel costs.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/28/fuel-costs-force-us-cruise-ship-to-suspend-multi-year-voyage-in-cambodia?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Jerusalem Daily: What’s next after Israel’s elections?",
-      "description": "Prime Minister Benjamin Netanyahu and former military chief Gadi Eisenkot are both claiming victory in Israel’s election",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/jerusalem-daily-whats-next-after-israels-elections?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Balad leader blasts ‘racist’ exclusion of Arab parties in Israel",
-      "description": "Elections have yielded no clear winner but opposition bloc refuses to ally with Arab parties.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/28/balad-leader-blasts-racist-exclusion-of-arab-parties-in-israel?traffic_source=rss",
-      "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Sudan war and inflation leave families struggling to survive in Khartoum",
-      "description": "Soaring food prices and shrinking incomes force families in Sudan's capital to borrow money and skip meals.",
+      "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+      "description": "Budget forecasts show growth in living standards grinding almost to a halt.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "5h ago"
+    },
+    {
+      "title": "US and Japan agree to establish a Japanese facility for joint missile production",
+      "description": "The announcement Wednesday is the latest action by the allies, who have repeatedly expressed alarm over China's growing assertiveness in Asia.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "Texas Republican group seeks to block certification of state’s election",
+      "description": "Republicans in a Texas county have filed a lawsuit asking for ballots in the state's midterm races to be hand-counted.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/10/29/texas-republican-group-seeks-to-block-certification-of-states-election?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "description": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "title": "US Muslims concerned but resilient as ‘hate’ attacks target Abdul El-Sayed",
+      "description": "Muslim advocates say the best way to respond to hate is to elect the Democratic candidate in Michigan to US Senate.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/29/us-muslims-concerned-but-resilient-as-hate-attacks-target-abdul-el-sayed?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "2h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "How could Israel break election deadlock? Here are four scenarios",
-      "description": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
+      "title": "Finland launches criminal probe of suspected environmental damage by Google",
+      "description": "The US tech giant is investing $15bn in a huge new data centre project in northern Finland.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/29/finland-launches-criminal-probe-of-suspected-environmental-damage-by-google?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Al Jazeera marks 30th anniversary with network overhaul",
+      "description": "Marking three decades, Al Jazeera unveils a new structure: three channels, 33 programmes, and tech-driven innovation.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/29/al-jazeera-marks-30th-anniversary-with-network-overhaul?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+      "description": "The defeated presidential candidate says he will lead the opposition from the US.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "4h ago"
     },
     {
-      "title": "Oracle stock pops 13% as long-term revenue forecast and clarity on financing ease debt concerns",
-      "description": "Oracle issued a revenue forecast for fiscal year 2030 of $225 billion, and said it will limit additional fundraising over that stretch to $20 billion.",
+      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+      "description": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "Why Alphabet’s stock is on track for its worst day ever after the latest results",
+      "description": "A doubling of cloud revenue wasn’t enough to appease Wall Street as investors grew more concerned that AI is hurting the company’s ability to make money off search queries.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "It’s the strangest job market the U.S. has ever seen. The low-hire, low-fire economy turns 3 years old.",
+      "description": "America has always been a job-creating machine. It has broken down for three straight years, and the implications could be with us for a long time.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/its-the-strangest-job-market-the-u-s-has-ever-seen-the-low-hire-low-fire-economy-turns-3-years-old-ce8d0dfe?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
+      "description": "“Given the size and long-term nature of this gift, we want to make sure the funds are managed prudently.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
+      "description": "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Big Oil earnings are set to surge. Why investors may want to be cautious",
+      "description": "Big Oil earnings are coming. Why guidance could matter most and why the the charts suggest investors should be cautious.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/28/oracle-forecast-growth-2030.html",
+      "url": "https://www.cnbc.com/2026/10/29/big-oil-earnings-are-set-to-surge-why-investors-may-want-to-be-cautious.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Elon Musk says he can build a wireless carrier in two to three years. Is that possible?",
-      "description": "Verizon says there is ‘no magic wand,’ but analysts note SpaceX may be targeting some shortcuts.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/elon-musk-says-he-can-build-a-wireless-carrier-in-two-to-three-years-is-that-possible-5ccf9685?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "The U.S. government will no longer penalize American companies for making six popular peptides",
-      "description": "It won’t take action against compounding pharmacies that make popular wellness products like BPC-157 and TB-500.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/trump-administration-clears-the-way-for-production-of-peptides-like-bpc-157-and-tb-500-28ac2d11?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Gen Z voters told us the midterms will boil down to affording life, not social issues",
-      "description": "MarketWatch talked to younger voters who said many life goals feel unattainable for their generation.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/gen-z-voters-told-us-the-midterms-will-boil-down-to-affording-life-not-social-issues-11bd1734?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "I’m planning a trip to Europe. Is it dumb to take travel advice from influencers?",
-      "description": "“How can I tell if something is a real experience in my price range?”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-planning-a-trip-to-europe-is-it-dumb-to-take-travel-advice-from-influencers-f25ae756?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Here is what changed in the new Fed statement",
-      "description": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in September.",
+      "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
+      "description": "Wall Street hammered Alphabet for an earnings miss that included weaker-than-expected revenue out of the company's core business.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/28/fed-statement-redline-october-2026.html",
+      "url": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
       "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Fantasy basketball stock watch: Cooper Flagg, Ty Jerome lead early breakouts to buy",
-      "description": "Breaking down the early risers delivering league-winning value",
+      "title": "Packers vs. Panthers prediction: Green Bay, Carolina both look to get back into win column on 'TNF'",
+      "description": "How to watch as these two teams take center stage on \"Thursday Night Football\" after Week 7 losses",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/fantasy/basketball/news/fantasy-basketball-stock-watch-cooper-flagg-ty-jerome-lead-early-breakouts-to-buy/",
+      "url": "https://www.cbssports.com/nfl/news/packers-vs-panthers-how-to-watch-preview-prediction-odds/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Why is a WNBA Finals game starting at 12:30 p.m. on a Thursday? Everything to know as Dream blame the league",
-      "description": "It took a lot of moving parts for a potential championship-deciding game to be played on a weekday afternoon",
+      "title": "Panthers vs. Packers prediction, odds, time: 'Thursday Night Football' picks from proven model",
+      "description": "SportsLine's model has revealed its Carolina Panthers vs. Green Bay Packers picks for 'Thursday Night Football'",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/wnba/news/wnba-finals-game-6-start-time-atlanta-dream-golden-state-valkyries/",
+      "url": "https://www.cbssports.com/betting/news/panthers-packers-prediction-odds-line-spread-time-thursday-night-football-picks-best-bets/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Brewers vs. Rays World Series Game 5 most-wagered player props: Bettors on Jacob Misiorowski to strike out 5",
-      "description": "Jacob Misiorowski leads all action on player props for World Series Game 5 on Wednesday",
+      "title": "Week 8 NFL betting guide, props, spreads: Model, expert, parlay, DFS and season-long fantasy picks revealed",
+      "description": "SportsLine's team of Vegas experts and its proven model and experts to get you ready for Week 8 NFL betting",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/mlb/news/brewers-vs-rays-world-series-game-5-most-wagered-player-props-bettors-on-jacob-misiorowski-to-strike-out-5/",
+      "url": "https://www.cbssports.com/betting/news/week-8-nfl-betting-guide-props-spreads-parlay-dfs-fantasy-picks/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Fantasy football Start 'Em, Sit 'Em RB in Week 8: Quinshon Judkins stays hot, J.K. Dobbins fades",
-      "description": "Quinshon Judkins looks to build on his breakout, Rhamondre Stevenson draws a dream matchup, while J.K. could be losing touches",
+      "title": "NFL longshot parlay picks, bets, player props for Week 8, 2026: Get an epic return of +12,000,000",
+      "description": "SportsLine's computer simulation model has locked in a $10 NFL Week 8 parlay that pays out over $1.2 million",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-2026-start-em-sit-em-rb-in-week-8/",
+      "url": "https://www.cbssports.com/betting/news/nfl-longshot-parlay-picks-bets-player-props-week-8-2026/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
