@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-29T19:07:54.221968+00:00",
-  "edition": "#267",
+  "date": "2026-10-30T18:45:53.850507+00:00",
+  "edition": "#268",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,228 +8,228 @@
   },
   "stories": [
     {
-      "title": "Report: Trump did nothing with intel that China planted spy close to Nvidia CEO",
-      "description": "Spy accused of exploiting Trump ties to Huang, funneling secrets to China.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards",
-      "description": "Article URL: https://github.com/phpclaw-php/phpclaw-monorepo Comments URL: https://news.ycombinator.com/item?id=50293361 Points: 6 # Comments: 3",
-      "source": "Hacker News",
-      "url": "https://github.com/phpclaw-php/phpclaw-monorepo",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Turning a solar power system into its own backup",
-      "description": "Plant design allows it to run on either stored solar heat or combustion.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "I'm building LYNX, an open-source DAW inspired by FL Studio, free,cross-platform",
-      "description": "Article URL: https://github.com/Ka1-S/LYNX-SHARE Comments URL: https://news.ycombinator.com/item?id=50293308 Points: 18 # Comments: 9",
-      "source": "Hacker News",
-      "url": "https://github.com/Ka1-S/LYNX-SHARE",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Granola crunches up a dictation feature to compete with Wispr",
-      "description": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+      "title": "Satlyt takes another step toward turning satellites into space data centers",
+      "description": "Satlyt ran a successful test this month bringing it closer to turning spacecraft, starting with satellites, into virtual data centers.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+      "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
-      "description": "Charges filed as Trump admin tries to save Kalshi from Utah's total ban on gambling.",
+      "title": "GitHub Incident with Actions, Pages, and Webhooks",
+      "description": "Article URL: https://www.githubstatus.com/incidents/pwxsjgnvrk6b Comments URL: https://news.ycombinator.com/item?id=50307723 Points: 39 # Comments: 19",
+      "source": "Hacker News",
+      "url": "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "description": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "description": "Low costs and offline security mean magnetic tape still has a job.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Met refers itself to police watchdog over letter about Meghan's father",
-      "description": "The police force faces scrutiny over its handling of a letter containing allegations about Meghan's father.",
+      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+      "description": "Article URL: https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f Comments URL: https://news.ycombinator.com/item?id=50307219 Points: 49 # Comments: 13",
+      "source": "Hacker News",
+      "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "description": "Article URL: https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/ Comments URL: https://news.ycombinator.com/item?id=50307190 Points: 61 # Comments: 7",
+      "source": "Hacker News",
+      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck30e91r9z0jo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
-      "description": "Opponents have questioned the Budget's lack of detail on welfare reform, with the prime minister not outlining a timetable for any reductions.",
+      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+      "description": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Even birds get jet lagged, study shows",
-      "description": "A species of seabirds appears to become disoriented on flights back to its nest due to shifting time zones.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/29/nx-s1-6019228/manx-shearwater-jet-lag-birds",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Fishing is a key issue in Alaska's tight U.S. Senate race",
-      "description": "Alaska's U.S. Senate race is embroiled in an emotional fight over fish. Many in the state rely upon salmon to feed their families but those fish and others are increasingly hard to find.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/29/nx-s1-6018248/fishing-is-a-key-issue-in-alaskas-tight-u-s-senate-race",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
-      "description": "Budget forecasts show growth in living standards grinding almost to a halt.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "5h ago"
-    },
-    {
-      "title": "US and Japan agree to establish a Japanese facility for joint missile production",
-      "description": "The announcement Wednesday is the latest action by the allies, who have repeatedly expressed alarm over China's growing assertiveness in Asia.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Texas Republican group seeks to block certification of state’s election",
-      "description": "Republicans in a Texas county have filed a lawsuit asking for ballots in the state's midterm races to be hand-counted.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/29/texas-republican-group-seeks-to-block-certification-of-states-election?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "US Muslims concerned but resilient as ‘hate’ attacks target Abdul El-Sayed",
-      "description": "Muslim advocates say the best way to respond to hate is to elect the Democratic candidate in Michigan to US Senate.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/29/us-muslims-concerned-but-resilient-as-hate-attacks-target-abdul-el-sayed?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Finland launches criminal probe of suspected environmental damage by Google",
-      "description": "The US tech giant is investing $15bn in a huge new data centre project in northern Finland.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/29/finland-launches-criminal-probe-of-suspected-environmental-damage-by-google?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Al Jazeera marks 30th anniversary with network overhaul",
-      "description": "Marking three decades, Al Jazeera unveils a new structure: three channels, 33 programmes, and tech-driven innovation.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/29/al-jazeera-marks-30th-anniversary-with-network-overhaul?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
-      "description": "The defeated presidential candidate says he will lead the opposition from the US.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-      "description": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "Why Alphabet’s stock is on track for its worst day ever after the latest results",
-      "description": "A doubling of cloud revenue wasn’t enough to appease Wall Street as investors grew more concerned that AI is hurting the company’s ability to make money off search queries.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "It’s the strangest job market the U.S. has ever seen. The low-hire, low-fire economy turns 3 years old.",
-      "description": "America has always been a job-creating machine. It has broken down for three straight years, and the implications could be with us for a long time.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/its-the-strangest-job-market-the-u-s-has-ever-seen-the-low-hire-low-fire-economy-turns-3-years-old-ce8d0dfe?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
-      "description": "“Given the size and long-term nature of this gift, we want to make sure the funds are managed prudently.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
-      "description": "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Big Oil earnings are set to surge. Why investors may want to be cautious",
-      "description": "Big Oil earnings are coming. Why guidance could matter most and why the the charts suggest investors should be cautious.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/big-oil-earnings-are-set-to-surge-why-investors-may-want-to-be-cautious.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
-      "description": "Wall Street hammered Alphabet for an earnings miss that included weaker-than-expected revenue out of the company's core business.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
-      "category": "📈 MARKETS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Packers vs. Panthers prediction: Green Bay, Carolina both look to get back into win column on 'TNF'",
-      "description": "How to watch as these two teams take center stage on \"Thursday Night Football\" after Week 7 losses",
+      "title": "Driver guilty of hitting cyclist and dragging him to death under car",
+      "description": "Simon Richardson is convicted of murdering head teacher Michael Mullins and will be sentenced on Monday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6e3xg5we9eyo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "ICE activity is surging ahead of midterms. So is voter turnout.",
+      "description": "Across the country, there are reports of heightened ICE activity. Advocates worry about how close it is to midterms, but so far voter turnout is surging.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/30/nx-s1-6023331/ice-activity-surge-midterms",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "What we know about Binance's $6.3bn hack",
+      "description": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "6h ago"
+    },
+    {
+      "title": "NPR special: 5 takeaways from a year of listening to swing voters",
+      "description": "Every election, there is a crucial sliver of voters who help determine which candidates win. Here are five takeaways from a year of listening to voters who backed Biden in 2020 and then Trump in 2024.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/30/nx-s1-6008113/npr-special-swing-voter-focus-groups",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "Kim Jong Un calls for North Korea’s drone technology superiority",
+      "description": "North Korean leader Kim Jong Un calls for “absolute superiority” in drone capabilities.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_north-korea-seeks-absolute-superiority-in-drone-301026?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "How cuts under Colombia’s de la Espriella threaten a key human rights court",
+      "description": "Colombia's president plans to slash spending on a transitional justice court. But war crimes victims fear the cost.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/longform/2026/10/30/how-cuts-under-colombias-de-la-espriella-threaten-a-key-human-rights-court?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Report reveals campaign promoting racist, Islamophobic, anti-Qatar views",
+      "description": "Investigation finds that years-long operation sought to portray Qatar as driving force behind mass migration to Europe.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/30/report-reveals-campaign-promoting-racist-islamophobic-anti-qatar-views?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Barcelona’s Flick praises Yamal’s ‘mentality’ after missing out on Ballon d’Or",
+      "description": "Lamine Yamal was tipped for the Golden Ball which went to Harry Kane, but his Barca boss 'proud' of teenager's reaction.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/10/30/barcelonas-flick-praises-yamal-mentality-in-missing-out-on-ballon-dor?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+      "description": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Prominent Russian newspaper shuts down under pressure from authorities",
+      "description": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "7h ago"
+    },
+    {
+      "title": "Reid Hoffman gives millions to Dems in late spending spree as Epstein fight spills into election",
+      "description": "Reid Hoffman has given $8 million to Wisconsin Democrats backing David Crowley as Tom Tiffany attacks Hoffman's past ties to Jeffrey Epstein.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/30/reid-hoffman-democrats-epstein-midterms-2026.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Do I intervene?",
+      "description": "“I suspect the live-in caregiver is benefiting from my parent’s generosity.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Microsoft is winning the cloud wars and becoming Wall Street’s new golden child",
+      "description": "Various factors indicate that Microsoft is in a better financial position than its cloud rivals, analysts say.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/microsoft-is-winning-the-cloud-wars-and-becoming-wall-streets-new-golden-child-62eecbbd?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in stolen funds",
+      "description": "More than $6 billion in crypto was stolen from Binance, setting off a race to recover the funds before North Korea-linked hackers can launder them into cash.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/30/binance-hack-stolen-crypto-recovery.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
+      "description": "“In the end, he left them a few sentimental mementos, some collectibles and old photographs.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "American workers are finding their take-home pay isn’t keeping up with inflation, with their wallets ‘stretched thinner and thinner’",
+      "description": "Worker compensation grows slower than inflation for second straight quarter",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/american-workers-are-finding-their-take-home-pay-isnt-keeping-up-with-inflation-with-their-wallets-stretching-thinner-and-thinner-6a1af690?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Canelo Alvarez vs. Christian Mbilli odds, prediction: Boxing picks for Oct. 31 fight card by top expert",
+      "description": "SportsLine's Josh Nagel reveals his Canelo Alvarez vs. Christian Mbilli best bets for Saturday at Kingdom Arena in Riyadh, Saudi Arabia",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/packers-vs-panthers-how-to-watch-preview-prediction-odds/",
+      "url": "https://www.cbssports.com/boxing/news/canelo-alvarez-christian-mbilli-odds-prediction-boxing-picks-october-31-fight-card/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Panthers vs. Packers prediction, odds, time: 'Thursday Night Football' picks from proven model",
-      "description": "SportsLine's model has revealed its Carolina Panthers vs. Green Bay Packers picks for 'Thursday Night Football'",
+      "title": "Ravens coach Jesse Minter confirms Lamar Jackson will return from ankle injury, start vs. Bills",
+      "description": "The two-time MVP hasn't played since Week 4 after suffering a high ankle sprain",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/panthers-packers-prediction-odds-line-spread-time-thursday-night-football-picks-best-bets/",
+      "url": "https://www.cbssports.com/nfl/news/ravens-lamar-jackson-injury-update-bills/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Week 8 NFL betting guide, props, spreads: Model, expert, parlay, DFS and season-long fantasy picks revealed",
-      "description": "SportsLine's team of Vegas experts and its proven model and experts to get you ready for Week 8 NFL betting",
+      "title": "Dwyane Wade's statue gets a facelift: Heat legend's bronze likeness updated with new face",
+      "description": "'I hope when people see it now, they see a better likeness of me,' Wade said on Friday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/week-8-nfl-betting-guide-props-spreads-parlay-dfs-fantasy-picks/",
+      "url": "https://www.cbssports.com/nba/news/dwyane-wade-statue-facelift-heat-legends-bronze-likeness-updated/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "NFL longshot parlay picks, bets, player props for Week 8, 2026: Get an epic return of +12,000,000",
-      "description": "SportsLine's computer simulation model has locked in a $10 NFL Week 8 parlay that pays out over $1.2 million",
+      "title": "Miami vs. North Carolina prediction, odds, time: Week 9 college football picks from proven model",
+      "description": "SportsLine's model revealed its best bets for Saturday's ACC matchup featuring the No. 1 Miami Hurricanes vs. North Carolina Tar Heels",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/nfl-longshot-parlay-picks-bets-player-props-week-8-2026/",
+      "url": "https://www.cbssports.com/betting/news/miami-north-carolina-prediction-odds-time-week-9-college-football-picks/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     }
   ]
 }
