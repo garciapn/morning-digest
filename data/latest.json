@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-01T18:29:11.287809+00:00",
-  "edition": "#270",
+  "date": "2026-11-02T22:26:15.597384+00:00",
+  "edition": "#271",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Patrick Stewart taught us what good men do with power",
-      "description": "Article URL: https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism Comments URL: https://news.ycombinator.com/item?id=50327650 Points: 72 # Comments: 42",
-      "source": "Hacker News",
-      "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "TechCrunch Mobility: A new, bigger AV boom is here",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "description": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Frontier Airlines Likely Breached",
-      "description": "Article URL: https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/ Comments URL: https://news.ycombinator.com/item?id=50327266 Points: 71 # Comments: 12",
-      "source": "Hacker News",
-      "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
-      "description": "Article URL: https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml Comments URL: https://news.ycombinator.com/item?id=50327058 Points: 76 # Comments: 9",
-      "source": "Hacker News",
-      "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Binance resumes withdrawals following $6.3 billion breach",
-      "description": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-      "description": "Saw Karpathy's HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5). It's ~16.5k books that at least two different HN commenters brought up, from 2007 till now. Each book links back to th…",
-      "source": "Hacker News",
-      "url": "https://hackerbooks.org",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Nowak family tell of 'unbelievable pain' of seeing footage of dying son handcuffed",
-      "description": "His family describe the night police told them of his death, and watching him being handcuffed.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c68xz297kqleo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "University of Cambridge scientist among those who died in Spanish train crash",
-      "description": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
+      "title": "Third person dies of bird flu since virus started jumping to livestock",
+      "description": "The threat is still considered to be low, but the virus continues to spread.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/",
+      "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Five teenagers stabbed at Halloween party",
-      "description": "Hampshire Police believes an unknown group gained entry to the party at an address in Chandler's Ford.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
+      "title": "Googling \"Zelda\" today offers a glimpse of how search worked in 1998",
+      "description": "\"The flow of time is always cruel.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
+      "description": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Web host Squarespace lays off 19% of its employees",
+      "description": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+      "category": "🤖 TECH & AI",
       "timeAgo": "3h ago"
     },
     {
-      "title": "How to think about the midterms — and the political moment the country is in",
-      "description": "Polls show Democrats with an advantage in the midterm election but there are potential limitations and results may take a while to roll in.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/01/g-s1-151146/how-to-think-about-the-midterms-and-the-political-moment-the-country-is-in",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
-      "description": "A federal judge has dismissed a highly unusual lawsuit by the Trump administration that tried to block the certification of results from Alaska's U.S. Senate race if the Republican incumbent lost.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "The midterms will test the nation's political direction and confidence",
-      "description": "At least some portion of the nation is likely to have its political confidence — and perhaps even its sense of security — tested in the days and weeks ahead. That test could also continue for some time to come.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/01/nx-s1-6023380/midterms-test-confidence",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Armed police start patrols in Sydney after Bondi Beach attack",
-      "description": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Hebron siege continues for 10th day as Israel threatens wider offensive",
-      "description": "Hebron's economic losses surpass $3.8m as Israeli forces demolish West Bank homes and close hundreds of businesses.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/1/hebron-siege-continues-for-10th-day-as-israel-threatens-wider-offensive?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-      "description": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Al Jazeera marks 30 years of transforming news in Middle East and beyond",
-      "description": "The anniversary coincides with a significant restructuring of Al Jazeera Media Network’s Arabic-language news services.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/1/al-jazeera-celebrates-30-years-of-transforming-news-in-region-and-beyond?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Bangladesh workers clash with police in protests over low pay",
-      "description": "Dozens of garment workers in Bangladesh clashed with police in the capital Dhaka.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/bangladesh-workers-clash-with-police-in-protests-over-low-pay?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "India protesters march with 1km banner of deleted voters’ names",
-      "description": "Protesters in New Delhi carried a one-kilometre banner bearing the names of people removed from India’s voter rolls.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/india-protesters-march-with-1km-banner-of-deleted-voters-names?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Democratic Rep. Stevens endorses Rogers over El-Sayed in Michigan Senate election",
-      "description": "Haley Stevens had lost the Democratic nomination for Senate in Michigan to Abdul El-Sayed earlier this year.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
-      "description": "Sen. Chris Murphy's office announced Sunday that he suffered a stroke and was hospitalized the day prior, though they say he is 'awake and alert.'",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Do I intervene?",
-      "description": "“I suspect the live-in caregiver is benefiting from my parent’s generosity.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
-      "description": "“In the end, he left them a few sentimental mementos, some collectibles and old photographs.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
-      "description": "After waiting 13 years for this videogame, almost one-fifth of workers plan to take the day off to play ‘Grand Theft Auto VI’ when it drops on Nov. 19",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Apple’s new earnings era begins at a critical time for Big Tech",
-      "description": "A rare Monday earnings report for Apple will give investors a glimpse into how new CEO John Ternus is managing inflated memory prices and a tougher backdrop for consumer spending.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "description": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "category": "🤖 TECH & AI",
       "timeAgo": "3h ago"
     },
     {
-      "title": "NFL DFS, Eagles vs. Commanders: Daily Fantasy football picks, lineup advice for 'Sunday Night Football'",
-      "description": "DFS millionaire Mike McClure shares his top daily Fantasy picks and advice for Washington vs. Philadelphia on 'SNF'",
+      "title": "Mahmood scraps settlement plans for migrant care workers",
+      "description": "The home secretary laid out a revised proposal for changing when migrants can claim permanent residency.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "description": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Shop freezers in seven European countries hit by cyber-attack",
+      "description": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+      "description": "Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "AI chatbots are becoming political advisers. Their answers can mislead voters",
+      "description": "Millions of Americans are turning to AI for election information, but chatbots are getting voting facts wrong and recommending candidates, raising concerns they could influence voters' decisions.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Is America really that polarized? The answer might be a surprise",
+      "description": "The U.S. has become more politically polarized, but research shows people overestimate their differences and there is 'messy middle' majority of Americans who share overlapping political views.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-6003534/us-political-polarization-research-trump",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Student protests resume in France as pupils return to school",
+      "description": "Student protests resume in France as pupils return to school",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/student-protests-resume-in-france-as-pupils-return-to-school?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "‘Work to do’: Authorities give update on Florida private jet crash",
+      "description": "Officials have provided an update on the investigation into Sunday’s deadly Learjet crash in Florida.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/work-to-do-authorities-give-update-on-florida-private-jet-crash?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Mamdani’s progressive allies vie for seats in Congress",
+      "description": "Three New York City progressive Democrats are expected to win their midterm congressional races in Tuesday's election.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/2/mamdanis-progressive-allies-vie-for-seats-in-congress?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "What’s the future of the Western Sahara conflict?",
+      "description": "The UN is ending its peacekeeping mission in the disputed territory after the US and Russia blocked its extension.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/2/whats-the-future-of-the-western-sahara-conflict?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
+      "description": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground!\"",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+      "description": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "Palantir reports booming U.S. commercial revenue growth, topping government for first time",
+      "description": "Palantir's commercial revenue jumped 148% to $984 million, surpassing government revenue of $953 million.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Traders rushing into a leveraged ETF to make a bullish bet on the Nasdaq-100 just got burned",
+      "description": "Some investors appeared a little too eager to buy the dip in technology stocks last month.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/traders-rushing-into-a-leveraged-etf-to-make-a-bullish-bet-on-the-nasdaq-100-just-got-burned-d6775191?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Wall Street’s most hated stocks are faring far better than its favorites",
+      "description": "The thrashing that Wall Street’s artificial-intelligence darlings have taken over the past few months has led to an unusual situation in the U.S. stock market.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/wall-streets-most-hated-stocks-are-faring-far-better-than-its-favorites-4c1d6c68?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Want to help your adult kids and grandkids? Give them money while you’re still alive.",
+      "description": "How to manage “giving while living” without endangering your own retirement.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
+      "description": "“About two months after his funeral, my stepmother called and said she wanted the money back.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Trump focuses on Reflecting Pool in final public speech before midterms",
+      "description": "Trump seemed to acknowledge that Democrats had an advantage heading into Election Day. \"But we gave this a very strong shot,\" he said.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/02/trump-midterm-election-speech-reflecting-pool.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Eight MLB players tagged with $23.15M qualifying offer: Randy Arozarena, Seiya Suzuki, Jake Bauers, more",
+      "description": "The deadline for players to accept or decline the QO is Nov. 17",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/nfl-dfs-eagles-commanders-daily-fantasy-football-picks-lineup-advice-draftkings-fanduel-sunday-night-football/",
+      "url": "https://www.cbssports.com/mlb/news/mlb-qualifying-offer-2027-contract/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Coaches Poll top 25: Ohio State tumbles in Week 10 college football rankings after loss to USC",
-      "description": "The Buckeyes slid to No. 10 in this week's Coaches Poll",
+      "title": "Seahawks vs. Bears prediction: Caleb Williams faces toughest test yet in Seattle defense",
+      "description": "The Bears take their surging offense into Seattle for a matchup with one of the NFL's best defenses",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/coaches-poll-top-25-ohio-state-usc-week-10-rankings/",
+      "url": "https://www.cbssports.com/nfl/news/seahawks-vs-bears-how-to-watch-prediction-odds-caleb-williams/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Jauan Jennings declined trade to return to 49ers after Vikings had framework set, per report",
-      "description": "The veteran receiver chose to stay with the undefeated Vikings over a reunion with Kyle Shanahan and Brock Purdy, despite having caught just four passes this season",
+      "title": "What's next for the Dream and Angel Reese? Why Atlanta should be right back in contention",
+      "description": "The Dream fell short once again in the WNBA Finals, but they'll bring back key contributors in 2027",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/vikings-jauan-jennings-declined-trade-to-49ers/",
+      "url": "https://www.cbssports.com/wnba/news/whats-next-for-dream-angel-reese-atlanta-2027/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Jonathan Taylor trade rumors: Colts not actively shopping around star running back before deadline",
-      "description": "However, in a meeting with ownership, Taylor was not given any assurances that a deal would not happen, according to CBS Sports' Aditi Kinkhabwala",
+      "title": "Knicks vs. Nets odds, prediction, time: 2026 NBA picks for Monday, Nov. 2 by proven model",
+      "description": "SportsLine's model reveals its Brooklyn Nets vs. New York Knicks best bets on Monday night",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/jonathan-taylor-trade-rumors-colts-not-shopping-around/",
+      "url": "https://www.cbssports.com/betting/news/knicks-nets-odds-prediction-time-2026-nba-picks-best-bets-monday-november-2/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
