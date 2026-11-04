@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-03T20:13:46.997607+00:00",
-  "edition": "#272",
+  "date": "2026-11-04T20:29:56.262462+00:00",
+  "edition": "#273",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
-      "description": "Cybersecurity experts have long warned of the persistent and patient threat from North Korea's long-running hacks. The world's largest crypto exchange was still caught off-guard.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-      "description": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
-      "description": "Article URL: https://flipper.net/pages/flipper-one Comments URL: https://news.ycombinator.com/item?id=50356994 Points: 18 # Comments: 2",
+      "title": "Insects Don't Swarm at LED Lights",
+      "description": "Article URL: https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/ Comments URL: https://news.ycombinator.com/item?id=50370610 Points: 12 # Comments: 5",
       "source": "Hacker News",
-      "url": "https://flipper.net/pages/flipper-one",
+      "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Introduction to Programming in ATS",
-      "description": "Article URL: https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html Comments URL: https://news.ycombinator.com/item?id=50356913 Points: 13 # Comments: 1",
-      "source": "Hacker News",
-      "url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
-      "description": "The new ad placements could help Reddit squeeze more revenue from existing users as Google's AI search changes how people discover its content.",
+      "title": "Open source AI is booming. Hugging Face explains who profits.",
+      "description": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freel…",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/",
+      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Ten years later, ‘Pokémon Go to the polls’ still haunts the internet",
-      "description": "Hillary Clinton's 2016 political gaffe has become an irony-shrouded rallying cry for jaded young voters who still dare to hope for change.",
+      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+      "description": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+      "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Seven flights across Europe targeted by suspected bomb threats",
-      "description": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "description": "Article URL: https://www.ricursive.com/ripple Comments URL: https://news.ycombinator.com/item?id=50369925 Points: 45 # Comments: 21",
+      "source": "Hacker News",
+      "url": "https://www.ricursive.com/ripple",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Have I Befriended a Murderer?",
+      "description": "Article URL: https://longreads.com/2026/11/03/murder-friendship-doubt/ Comments URL: https://news.ycombinator.com/item?id=50369754 Points: 43 # Comments: 7",
+      "source": "Hacker News",
+      "url": "https://longreads.com/2026/11/03/murder-friendship-doubt/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Conductor Is Joining Meta",
+      "description": "Article URL: https://www.conductor.build/announcement Comments URL: https://news.ycombinator.com/item?id=50369503 Points: 15 # Comments: 10",
+      "source": "Hacker News",
+      "url": "https://www.conductor.build/announcement",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Bowen: Trump's loss limits powers at home, but it will likely be different abroad",
+      "description": "After bruising midterm results, President Trump will want to show he can still shake the world, the BBC's international editor writes.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/crkg7wj8g201o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Democrats won Congress in a blue wave. Now comes the hard part.",
+      "description": "Democrats can vote legislation through. But Trump still has veto power.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "King calls slave trade a 'shameful chapter' during Commonwealth address",
-      "description": "The speech comes after calls for the UK government to issue a formal apology for Britain's historic role in the trade.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Celebrity loses injunction bid but will stay anonymous pending appeal",
-      "description": "The unnamed man asked for an injunction to stop his identity being reported in connection with allegations against him.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqglwjdgg045o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "When caring for aging family members becomes cost prohibitive",
-      "description": "AARP reports family caregivers are spending 60% more than they were five years ago. Journalist Paula Span discusses the rising costs of caregiving and senior living, and the options available to us.",
+      "title": "Herbert Blomstedt, conductor of great orchestras for seven decades, dies at 99",
+      "description": "Modest in his demeanor but remarkably enduring, the American-born, Swedish conductor continually fell in love with music, leading orchestras with no-nonsense insight and integrity well into his 90s.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/11/03/nx-s1-6026479/when-caring-for-aging-family-members-becomes-cost-prohibitive",
+      "url": "https://www.npr.org/2026/11/04/nx-s1-5740271/herbert-blomstedt-conductor-dead",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life",
-      "description": "In Kherson city, usually seething with Russian drones, friends met at cafes, families were out together and shoppers stocked up. \"The city seems alive,\" said one resident, \"just like it used to be.\"",
+      "title": "Everything you need to know from the US midterm elections",
+      "description": "Democrats secured some big wins - and a few historic firsts - earning congratulations from President Trump.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "6h ago"
+    },
+    {
+      "title": "Chuck Schumer heralds Democrats' 'generational remake' of Senate",
+      "description": "In remarks the day after his party flipped control of Congress, the Senate Minority Leader said voters had spoken clearly about their priorities, and said it's up to the Democratic party to deliver.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson",
+      "url": "https://www.npr.org/2026/11/04/g-s1-151833/2026-midterms-chuck-schumer-senate-democrats",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "How the US midterm results could unfold - as millions of Americans head to the polls",
-      "description": "The BBC's North America correspondent considers three different scenarios, and what they would mean for the country.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss",
+      "title": "Mike Johnson will step aside as top House Republican next Congress",
+      "description": "After Tuesday's bruising defeat for Republicans, House Speaker Mike Johnson will not stay on as minority leader come January.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/04/g-s1-151854/2026-midterms-mike-johnson-speaker",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "9h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Michigan voters face crucial choice as Trump’s grip on Congress is tested",
-      "description": "Michigan’s closely contested Senate race and voter concerns over the economy are putting Trump’s control of Washington.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/michigan-voters-face-crucial-choice-as-trumps-grip-on-congress-is-tested?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Michigan US Senate race: Rogers, El-Sayed urge turnout for critical race",
-      "description": "Abdul El-Sayed hopes to become the first Muslim US senator as Michigan's Senate race reaches its critical final hours.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/3/michigan-us-senate-race-rogers-el-sayed-urge-turnout-for-critical-race?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Severe weather disrupts election day across several US states",
-      "description": "Flash floods, torrential rain and tornadoes have disrupted midterm election day in several US states.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/aje-onl-nf_severe-weather-disrupts-election-day-across-us-031126?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Yemen gov’t accuses IRGC, Hezbollah of sending 21 experts to back Houthis",
-      "description": "Yemeni interior minister says foreign involvement expanded beyond arms and training to directing military operations.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/3/yemen-govt-accuses-irgc-hezbollah-of-sending-21-experts-to-back-houthis?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-      "description": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "description": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "3h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-      "description": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+      "title": "Iranians celebrate Democrat victory in US midterms",
+      "description": "US President Donald Trump acknowledged the Republicans’ crushing defeat was partly due to the war on Iran.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/iranians-celebrate-democrat-victory-in-us-midterms?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Trump DOJ sends target letters to Democrats in Alaska Senate criminal probe: Reports",
-      "description": "\"There's no doubt that the threats are threats to our democracy,\" said John Cusick, assistant counsel at the Legal Defense Fund.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/03/trump-doj-election-lawsuits-monitors-2026-midterms.html",
-      "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "‘It’s good to be old’: I’ve been invited to a dozen free meals that turn into annuity sales pitches. Should I stop going?",
-      "description": "“Salespeople typically push annuities, Medicare plans and estate-planning services.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
+      "title": "Democratic progressive wing notches win in California Central Valley",
+      "description": "Campaign focused on cost of living issues and backlash over ICE raids pays dividends for progressive Randy Villegas.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/4/democratic-progressive-wing-notches-win-in-california-central-valley?traffic_source=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "An overlooked energy source could solve AI’s power crunch — and these 2 stocks are prime plays",
-      "description": "Geothermal technology is in the early stages of its own shale revolution, Morgan Stanley says.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/an-overlooked-energy-source-could-solve-ais-power-crunch-and-these-2-stocks-are-prime-plays-bc5d988a?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
+      "title": "Hakeem Jeffries promises ‘affordability’ focus after Democratic midterm win",
+      "description": "Democratic leader says party expects at least 255 House seats and promises to deliver on affordability.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/4/hakeem-jeffries-promises-affordability-focus-after-democratic-midterm-win?traffic_source=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue",
-      "description": "CrowdStrike launched an AI kill switch that the company says can stop internal agents, block relaunches and cut enterprise network access.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.",
-      "description": "Don’t sit on the sidelines during open enrollment.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "My wife and I have no kids and a 99% chance of outliving our life savings. Why not spend it all?",
-      "description": "“I’m 68, she’s 74, and we’re both in good health.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
+      "title": "WHO approves trials for two new Ebola vaccines",
+      "description": "Two new vaccines were designed for the Bundibugyo virus that has killed more than 5,300 in the DR Congo.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines?traffic_source=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "2026 midseason rookie grades: Ranking the early hits, misses and biggest surprises",
-      "description": "Grading every first-round pick after eight weeks, from breakout stars to disappointing starts. Plus, 10 Day 2 and Day 3 rookies making their mark.",
+      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+      "description": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Oil prices are in freefall now that the Democratic sweep is ‘rewriting the Iran playbook’",
+      "description": "Oil dropped Wednesday, putting prices on track for their largest one-week decline since 2020.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/oil-prices-are-in-freefall-now-that-the-democratic-sweep-is-rewriting-the-iran-playbook-aa437b85?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "What Republicans' huge loss means for Trump",
+      "description": "Trump's handling of tariffs, the Iran war and an array of Washington-area construction projects are sure to face sudden pushback from newly empowered Democrats.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "The midterm election results are redrawing the map for AI data centers",
+      "description": "U.S. data-center spending won’t drop a lot, but watch for delays, relocations and increased expenses for individual projects",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-midterm-election-results-are-redrawing-the-map-for-ai-data-centers-8625dc0c?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "As Vistra and other energy stocks slide, some analysts warn of an ‘excessive knee-jerk’ reaction",
+      "description": "Energy stocks have already been under pressure, and newly elected officials may not slow the data-center boom as much as feared.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/as-vistra-and-other-energy-stocks-slide-some-analysts-warn-of-an-excessive-knee-jerk-reaction-aece0737?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Microsoft and Amazon combine for a $400 billion market-cap boost — and these factors show why",
+      "description": "Microsoft and Amazon shares are rising sharply on Wednesday, with one portfolio manager noting that a cloud-supply crunch could help the companies raise prices.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/microsoft-and-amazon-combine-for-a-400-billion-market-cap-boost-and-these-factors-show-why-6655d1a9?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Democrats take Congress in a blue wave. Here's what it means for your money",
+      "description": "Blue wave gives Democrats control of Congress. Here's how their agenda could affect your money, from health care and taxes to student loans and Social Security.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/04/blue-wave-democrats-control-congress-your-money.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "NFL survivor pool picks, knockout strategy, advice for Week 9, 2026: Fade the New England Patriots",
+      "description": "SportsLine's advanced computer model just locked in its top Week 9 NFL survivor picks for those still left in their original pool or or survivor revival leagues",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-rookie-grades-midseason-surprises/",
+      "url": "https://www.cbssports.com/betting/news/nfl-survivor-pool-picks-knockout-strategy-revival-league-advice-for-week-9-2026/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Week 9 NFL odds, lines, totals, spreads for every game, including Jaguars-Ravens, Jets-Chiefs, Giants-Eagles",
-      "description": "Check the Week 9 NFL odds, spreads, moneylines, and totals for all 15 games, including Ravens-Jaguars on TNF.",
+      "title": "NBA DFS: Top DraftKings, FanDuel daily Fantasy basketball picks for Wednesday, Nov. 4 include OG Anunoby",
+      "description": "SportsLine's Mike McClure, a daily Fantasy pro with more than $2 million in winnings, gives optimal NBA DFS lineup advice for Wednesday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/week-9-nfl-betting-odds-lines-totals-spreads/",
+      "url": "https://www.cbssports.com/betting/news/nba-dfs-draftkings-fanduel-daily-fantasy-basketball-picks-wednesday-november-4/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Maryland football coaching search 2026: Candidates, hot board, names to watch from Terrapins experts",
-      "description": "The InsideMDSports team just revealed their top Maryland coaching candidates after Mike Locksley was fired on Wednesday, Oct. 21",
+      "title": "Week 9 NFL picks, best bets from proven model: This 5-leg parlay returns nearly 30-1",
+      "description": "After 10,000 simulations, SportsLine's model reveals its top Week 9 NFL parlay",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/maryland-football-coaching-search-2026-candidates-hot-board-names-to-watch-from-proven-terrapins-experts/",
+      "url": "https://www.cbssports.com/betting/news/nfl-parlay-picks-best-bets-predictions-for-week-9-2026/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Motor Sports Betting Guide 2026: Best F1 Racing Sites & Apps",
-      "description": "Your 2026 guide to motorsports betting, covering F1 and NASCAR, the best betting apps and expert tips on how to bet on every race.",
+      "title": "Malachi Toney injures ankle in practice: Miami star WR's status unknown for massive showdown vs. Notre Dame",
+      "description": "The Hurricanes biggest weapon has an ankle injury heading into Miami's biggest game of the year",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/motor-sports/",
+      "url": "https://www.cbssports.com/college-football/news/malachi-toney-injury-update-ankle-miami-notre-dame-status/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
