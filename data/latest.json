@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-05T20:46:04.086587+00:00",
-  "edition": "#274",
+  "date": "2026-11-06T20:01:32.775744+00:00",
+  "edition": "#275",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
-      "description": "Article URL: https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/ Comments URL: https://news.ycombinator.com/item?id=50383963 Points: 8 # Comments: 1",
+      "title": "As the Japanese Countryside Empties Out, Wildlife Is Disappearing",
+      "description": "Article URL: https://e360.yale.edu/digest/japan-depopulation-biodiversity Comments URL: https://news.ycombinator.com/item?id=50397264 Points: 10 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+      "url": "https://e360.yale.edu/digest/japan-depopulation-biodiversity",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "The Cost of Blogging",
-      "description": "Article URL: https://onlinegoddess.net/2026/11/the-cost-of-blogging/ Comments URL: https://news.ycombinator.com/item?id=50383877 Points: 4 # Comments: 0",
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "description": "Article URL: https://pwn.ai/blog/firecracker-escape Comments URL: https://news.ycombinator.com/item?id=50397219 Points: 20 # Comments: 2",
       "source": "Hacker News",
-      "url": "https://onlinegoddess.net/2026/11/the-cost-of-blogging/",
+      "url": "https://pwn.ai/blog/firecracker-escape",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Kagi Search for Everyone",
-      "description": "Article URL: https://kagi.com/changelog Comments URL: https://news.ycombinator.com/item?id=50383740 Points: 9 # Comments: 0",
+      "title": "My first and last telegram was from Rebecca West",
+      "description": "Article URL: https://thelampmagazine.com/blog/rebecca-wests-nightingale Comments URL: https://news.ycombinator.com/item?id=50397176 Points: 7 # Comments: 1",
       "source": "Hacker News",
-      "url": "https://kagi.com/changelog",
+      "url": "https://thelampmagazine.com/blog/rebecca-wests-nightingale",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Goodbye from Salon",
-      "description": "Article URL: https://www.salon.com/2026/11/05/goodbye-from-salon/ Comments URL: https://news.ycombinator.com/item?id=50383739 Points: 123 # Comments: 23",
+      "title": "Democrats launching congressional investigations into SpaceXAI, META and Apple",
+      "description": "Article URL: https://www.washingtonpost.com/technology/2026/11/06/after-courting-trump-corporate-america-faces-democratic-reckoning/ Comments URL: https://news.ycombinator.com/item?id=50397102 Points: 31 # Comments: 5",
       "source": "Hacker News",
-      "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+      "url": "https://www.washingtonpost.com/technology/2026/11/06/after-courting-trump-corporate-america-faces-democratic-reckoning/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
-      "description": "Software optimizes a physical model of the telescope to reduce noise.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Meta says US users can now video chat with their Muse AI avatar",
-      "description": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "description": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Henry Nowak’s killer has minimum term increased to 25 years by Court of Appeal",
-      "description": "Judges ruled Vickrum Digwa's original term was unduly lenient and refused his bid to have it cut.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy9z5423p2o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Russell Brand found guilty of rape and sexual assault",
-      "description": "Brand is told to expect a prison sentence \"of some length\" and faces more rape allegations, it can now be reported.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "description": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Hoax bomb threats target European airlines and airports for second time in a week",
-      "description": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
+      "title": "Trump replaces White House chief of staff days after Republicans suffer midterm defeats",
+      "description": "Miller, considered the architect of Trump's hard-line immigration policy, will move into the role on Monday.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
+      "description": "Ian Winter allegedly confronted a reporter outside court who had investigated the comedian.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Watch: Met Police release Brand interview footage",
-      "description": "Brand was found guilty of one count of rape and three sexual assaults at Southwark Crown Court.",
+      "title": "New wave of bomb threats hit European airlines",
+      "description": "No link has been established between the threats against the airlines and those against the media outlets.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c693ze38vywxo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "4h ago"
     },
     {
-      "title": "Paraguay's president is impeached minutes after resigning following a bank collapse",
-      "description": "Paraguayan lawmakers voted to impeach President Santiago Peña minutes after his resignation, as the collapse of a digital bank tied to his government froze millions of people's savings.",
+      "title": "No one knows how many ballots are outstanding in Mississippi's Senate race",
+      "description": "The razor-thin margin between GOP Sen. Cindy Hyde-Smith and Democrat Scott Colom is shining a light on an election process in Mississippi that is among the slowest and most decentralized in the U.S.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse",
+      "url": "https://www.npr.org/2026/11/06/nx-s1-6030645/mississippi-senate-results-provisional-ballots",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Head of Justice Department office on Civil Rights resigns",
-      "description": "The head of the Justice Department's Civil Rights Division, Harmeet Dhillon, is out after 18 tumultuous months in charge.",
+      "title": "Stephen Miller will replace Susie Wiles as Trump's chief of staff",
+      "description": "The change comes after sweeping Republican losses in the midterm elections.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/11/05/g-s1-152080/head-of-justice-department-office-on-civil-rights-resigns",
+      "url": "https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "California governor commutes death sentences for all 548 people on death row",
-      "description": "California has historically had the largest population of death row inmates in the US.",
+      "title": "Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery",
+      "description": "Pope Leo begins his first South American tour since lung cancer surgery. The 12-day journey takes him to Uruguay, Argentina and Peru, where he spent two decades.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/06/nx-s1-6026702/pope-leo-begins-12-day-3-country-tour-after-cancer-surgery",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Tanzanian opposition leader jailed in ‘politically motivated’ case",
+      "description": "Tanzanian opposition leader Tundu Lissu has been jailed in a case widely condemned as politically motivated.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/tanzanian-opposition-leader-jailed-in-politically-motivated-case?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "AI stocks climb after trillions wiped from market values",
+      "description": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Mass protests in France driven by nationwide strike action",
-      "description": "More than 250,000 people took to the streets across France on Thursday as five unions called a day of strike action.",
+      "title": "Why is Britain refusing to pay slavery reparations?",
+      "description": "Britain compensated slave owners, not the enslaved. Can an apology without reparations be enough?",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mass-protests-in-france-driven-by-nationwide-strike-action?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/why-is-britain-refusing-to-pay-slavery-reparations?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "The blame game: How the US midterm shock is shaping Israel’s race for PM",
-      "description": "The Republican midterm rout is helping shape who leads Israel next, as Netanyahu’s US ties turn toxic.",
+      "title": "Could Trump’s veto stop the Democratic majority?",
+      "description": "Democrats have won the House and Senate. AJLabs looks at the numbers and what their majority means for Trump.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/5/the-blame-game-how-the-us-midterm-shock-is-shaping-israels-race-for-pm?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/us-congress-flipped-061126?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Who could be behind hoax bomb threats to European air travel?",
-      "description": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.",
+      "title": "Israel closes Hebron’s Ibrahimi Mosque to Palestinians for Jewish holiday",
+      "description": "Contested West Bank holy site is reopened exclusively for Israelis, deepening tensions over control of the mosque.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/6/israel-closes-hebrons-ibrahimi-mosque-to-palestinians-for-jewish-holiday?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Four midterms takeaways for 2028 White House race",
+      "description": "The buzz about the presidential election is already under way - here's what we learned this week.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "just now"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "Top US civil rights official resigns",
-      "description": "New Democratic Congress expected to probe Trump Justice Department office's handling of Epstein files and ICE killings.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/5/top-us-civil-rights-official-resigns?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Melania Trump calls for peace at meeting with Russia, Ukraine officials",
-      "description": "US first lady hosts Russian, Ukrainian officials at the White House, urges two sides to build on recent local truce.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/5/melania-trump-calls-for-peace-at-meeting-with-russia-ukraine-officials?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.",
-      "description": "The tax brackets at the heart of Americans’ income-tax bills will be adjusting at a steeper level in 2027 compared to this year, underscoring inflation’s rekindled presence.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Bloom Energy’s stock is one of the S&P 500’s biggest losers amid fears of data-center delays",
-      "description": "Bloom Energy shares got swept in by tech stocks’ sharp selloff Thursday, as investors fretted that the data-center buildout was at risk of stalling in the aftermath of the U.S. midterm elections.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/bloom-energys-stock-is-one-of-the-s-p-500s-biggest-losers-amid-fears-of-data-center-delays-a44c96bb?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
-      "description": "Democratic winners and progressive lawmakers are calling for tougher limits on AI and data centers after the 2026 midterm elections.",
+      "title": "OpenAI bugging suspect Alfozan pleads not guilty",
+      "description": "Saudi national Abdulrahman Alfozan is charged with planting a recording device in a conference room at artificial intelligence giant OpenAI.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
+      "url": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "AI meltdown: Chip stocks and neoclouds plunge, pushing Nasdaq to worst day since April 2025",
-      "description": "Companies tied to the AI buildout are all selling off as concerns mount about a slowdown following the midterm elections.",
+      "title": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
+      "description": "Trump revealed the shake-up three days after Democrats' landslide victory in the midterm elections, winning majority control of the House and Senate.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
+      "url": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "After tech-stock rout, October jobs report could bring relief — or more pain",
-      "description": "After a tech-led meltdown in the stock market, the October jobs report on Friday morning could bring investors some encouraging news — or add to their misery.",
+      "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
+      "description": "Analysts warn of further volatility ahead, although there are two new factors that work in the AI trade’s favor.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/after-tech-stock-rout-october-jobs-report-could-bring-relief-or-more-pain-db93357e?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "A disturbing employment trend is hiding beneath the latest strong job numbers",
+      "description": "The average jobless worker's bout of unemployment surpassed 27 weeks in October, the highest outside of the pandemic period in a decade.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Data center double-down: Hassett says blue wave won't stop AI build-out",
+      "description": "Data centers are a crucial part of President Donald Trump's push to win the global artificial intelligence race, which he continues despite the midterm results.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/06/data-centers-ai-elections-hassett.html",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "This pancreatic cancer treatment is on track for ‘one of the best drug launches of all time’",
-      "description": "Revolution Medicines’ brand-new treatment brought in far higher sales than expected in its first few weeks on the market.",
+      "title": "Cybertruck’s run comes to an end as Musk kills off pricey pet project",
+      "description": "The Cybertruck failed to catch on with car buyers due to high prices and some notable recalls.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-pancreatic-cancer-treatment-is-on-track-for-one-of-the-best-drug-launches-of-all-time-37bf86ce?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "10 college football players who have increased their NIL value so far in 2026",
-      "description": "These breakout players have earned a big payday increase at the end of the season",
+      "title": "How to watch Serie A: Inter face Como at San Siro after disappointing defeat against AC Milan",
+      "description": "Cristian Chivu's squad must slow down a soaring visitor, while Massimiliano Allegri fights for his Napoli job against Lazio ahead of the international break",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/10-college-football-players-increased-nil-value-2026/",
+      "url": "https://www.cbssports.com/soccer/news/how-to-watch-serie-a-inter-face-como-at-san-siro-after-disappointing-defeat-against-ac-milan/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Texas RB Hollywood Smothers out for season with torn MCL as injuries mount for Longhorns",
-      "description": "Smothers was a splashy transfer portal addition for Texas, but he's battled injury all season",
+      "title": "He's been benched, replaced and pushed out. Now North Texas' Tayven Jackson is of the nation's top QBs",
+      "description": "After generating zero starting interest in the portal last winter, the four-school journeyman has powered the Mean Green to a 6-2 start while ranking third nationally in passing yards and tossing 22 touchdowns",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/texas-hollywood-smothers-injury-out-for-season-torn-mcl/",
+      "url": "https://www.cbssports.com/college-football/news/tayven-jackson-north-texas-football-quarterback-transfer-portal-breakout/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "NFL DFS, Jaguars vs. Ravens: Top daily Fantasy picks, lineups, advice for 'Thursday Night Football'",
-      "description": "DFS millionaire Mike McClure shares his top daily Fantasy picks and advice for Jacksonville vs. Baltimore on 'Thursday Night Football'",
+      "title": "Is Polymarket Legal in California? November 2026 Status",
+      "description": "Find out if Polymarket is legal in California, how it's regulated, and what you can trade there in 2026.",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/nfl-dfs-jaguars-ravens-daily-fantasy-picks-draftkings-fanduel-lineup-advice-strategy-stacks-thursday-night-football/",
+      "url": "https://www.cbssports.com/prediction/news/polymarket-california/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Ranking the NWSL quarterfinalists: Gotham FC shield winners, but are they the most powerful postseason team?",
-      "description": "Here's how the final eight rank ahead of the playoffs starting on Friday",
+      "title": "Wings teammates Paige Bueckers, Azzi Fudd announce breakup, reveal split happened 'over a year' ago",
+      "description": "Bueckers and Fudd began a relationship as college teammates before going No. 1 overall to the Wings in consecutive WNBA drafts",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/ranking-the-nwsl-quarterfinalists-gotham-fc/",
+      "url": "https://www.cbssports.com/wnba/news/paige-bueckers-azzi-fudd-breakup-relationship-dallas-wings/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
