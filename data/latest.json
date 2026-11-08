@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-07T18:12:28.622514+00:00",
-  "edition": "#276",
+  "date": "2026-11-08T18:25:51.509623+00:00",
+  "edition": "#277",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,178 +8,178 @@
   },
   "stories": [
     {
-      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
-      "description": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
+      "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
+      "description": "SNL seems to have its knives out for tech executives.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+      "url": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
-      "description": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
+      "title": "Ads in Popular Apps Give Police a Powerful Tool to Spy on Users",
+      "description": "Article URL: https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/ Comments URL: https://news.ycombinator.com/item?id=50415281 Points: 12 # Comments: 0",
+      "source": "Hacker News",
+      "url": "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
-      "description": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+      "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+      "description": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
       "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Show HN: FuckCaptcha – a field guide to 39 CAPTCHA types and how they break",
+      "description": "Article URL: https://github.com/vsmutok/FuckCaptcha Comments URL: https://news.ycombinator.com/item?id=50415078 Points: 7 # Comments: 1",
+      "source": "Hacker News",
+      "url": "https://github.com/vsmutok/FuckCaptcha",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "TechCrunch Mobility: The Cybertruck experiment is over",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Top Astrophysicist Leaves U.S.",
+      "description": "Article URL: https://www.nytimes.com/2026/11/07/science/space/holley-bockelmann-astrophysicist-space-trump.html Comments URL: https://news.ycombinator.com/item?id=50414524 Points: 47 # Comments: 22",
+      "source": "Hacker News",
+      "url": "https://www.nytimes.com/2026/11/07/science/space/holley-bockelmann-astrophysicist-space-trump.html",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "King leads solemn Remembrance Sunday service at Cenotaph",
+      "description": "Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Two, pay tribute in central London.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "description": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Footage shows derailed carriages after fatal train crash in Egypt",
+      "description": "It is yet unclear what caused the accident but Egyptian President Abdel Fattah al-Sisi said an investigation is underway and will \"hold accountable anyone who proves their negligence\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash",
+      "description": "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
       "timeAgo": "5h ago"
     },
     {
-      "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
-      "description": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "7h ago"
+      "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
+      "description": "Prime Minister Christopher Luxon, who will lead a caretaker government while negotiations take place, said: \"I think everyone's over politics so let's all have a bit of a break for the next three weeks\".",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
     },
     {
-      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-      "description": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this…",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
+      "title": "After a successful trip to Uruguay, Pope Leo heads to Argentina",
+      "description": "On Sunday, tens of thousands packed the main square in Florida, Uruguay, to watch Pope Leo speak.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
-      "description": "Twenty-five years ago, Kevin Lewandowski founded Discogs, arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records, obviously, but…",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
-      "category": "🤖 TECH & AI",
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "description": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
+      "description": "Protesters seek stricter trade restrictions on Israel and a halt to all arms sales.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
+      "description": "Israel's president picks Gadi Eisenkot to form the next government, passing over Benjamin Netanyahu.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Photos: Diwali celebrations light up India and its global diaspora",
+      "description": "Celebrations feature fireworks, prayers, reunions, rangoli designs, feasting, and the sharing of sweets and gifts.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/11/8/photos-diwali-celebrations-light-up-india-and-its-global-diaspora?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "LIVE: Atletico Madrid vs Barcelona – La Liga",
+      "description": "Previews, team news and live text updates from Atletico Madrid vs Barcelona in football's La Liga.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/11/8/atletico-madrid-vs-barcelona-la-liga-live?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Homes and temples glow across India to mark Diwali",
+      "description": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "3h ago"
     },
     {
-      "title": "What we know about Krakow mass shooting so far",
-      "description": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
-      "description": "Laura Kuenssberg talks to government insiders about the prime minister opening the conversation about the UK rejoining the EU.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Tens of thousands of tents flooded after heavy rains in Gaza",
-      "description": "Heavy rain has flooded temporary shelters used by Palestinians displaced during Israel's war with Hamas.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx240e5py64jo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-      "description": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Ousted Paraguayan president appears before prosecutors",
-      "description": "Paraguayan President Santiago Peña was removed from office and placed under house arrest Friday. The Senate voted on his impeachment after the collapse of a state-affiliated bank.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "A promising new medicine against heart disease fails unexpectedly",
-      "description": "Doctors expected an experimental drug that lowers a common risk factor for heart attacks would save patients' lives. The medicine made no difference.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Pope Leo hold first mass in Uruguay, urges crowd to be ‘bridge builders’",
-      "description": "Vatican says some 40,000 people gathered to listen to the head of the Roman Catholic Church in western city of Paysandu.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/7/pope-leo-hold-first-mass-in-uruguay-urges-crowd-to-be-bridge-builders?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Houthis report 25 killed in Yemen strikes",
-      "description": "Yemen’s Houthis say at least 25 people have been killed and 30 injured in air strikes.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Lebanese footballer refuses to give up after injuries from Israeli strike",
-      "description": "After surviving an Israeli airstrike that left her in a coma, Celine Haidar is back on the pitch, coaching footballers.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/lebanese-footballer-refuses-to-give-up-after-injuries-from-israeli-strike?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Jerusalem Daily: Heavy rains flood Gaza",
-      "description": "Jerusalem Daily: Heavy rains flood Gaza",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/jerusalem-daily-heavy-rains-flood-gaza?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Houthis say at least 25 killed in Saudi air strike",
-      "description": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "No clear winner after tight New Zealand general election",
-      "description": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
-      "description": "Dave Wehner, Meta’s chief strategy officer, is leaving the company to become CFO of Fireworks, the AI infrastructure startup valued at $17.5 billion in July.",
+      "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
+      "description": "Lawmakers want to question Nvidia CEO Jensen Huang following reports about his relationship with an alleged Chinese intelligence asset.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
+      "url": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Democrats’ big election win revives a difficult Social Security question: Who pays?",
-      "description": "There are many ideas for saving Social Security. All of them will hurt.",
+      "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+      "description": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
-      "description": "Math may be cold and unemotional — but finances are not.",
+      "title": "Two months after my father’s funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?",
+      "description": "“About two months after his funeral, my stepmother called and said she wanted the money back.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer.",
-      "description": "The wealthiest 10% have a median net worth that is $800,000 greater than it was three years ago.",
+      "title": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
+      "description": "“It’s not my funeral — it’s yours — so make it what you want,” one funeral-home operator says.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
@@ -189,45 +189,45 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
-      "description": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
+      "title": "How Democrats will try to end Trump's tariffs",
+      "description": "Rep. Hakeem Jeffries, D-N.Y., who is likely the next House speaker, has made clear that ending President Trump's tariffs is one of Democrats' top priorities.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+      "url": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
       "category": "📈 MARKETS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Zuffa Boxing 12 start time, fight card, predictions and where to watch Chris Billam Smith vs. Cheavon Clarke",
-      "description": "The pair of top cruiserweights collide in London on Saturday night",
+      "title": "Jets vs. Chiefs odds, picks, prediction, spread: Start time, betting preview, best bets for NFL Week 9",
+      "description": "Here's everything bettors need to know for Jets vs. Chiefs in NFL Week 9",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/boxing/news/zuffa-boxing-12-start-time-chris-billam-smith-cheavon-clarke-fight-card-date-predictions/",
+      "url": "https://www.cbssports.com/betting/news/jets-vs-chiefs-odds-picks-prediction-spread-start-time-betting-preview-best-bets-for-nfl-week-9/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "WWE Crown Jewel 2026 predictions: Expert picks for each match set for Riyadh, Saudi Arabia",
-      "description": "Raw and SmackDown's world champions collide for the Crown Jewel championships",
+      "title": "Giants vs. Eagles odds, picks, prediction, spread, line: Start time, NFL Week 9 betting preview, best bets",
+      "description": "Here's everything bettors need to know for Giants vs. Eagles in NFL Week 9",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/wwe/news/wwe-crown-jewel-2026-predictions-expert-picks-card-matches/",
+      "url": "https://www.cbssports.com/betting/news/giants-vs-eagles-odds-picks-prediction-spread-line-start-time-nfl-week-9-betting-preview-best-bets/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Rams' Quentin Lake apologizes to Justin Herbert for 'deli meat' remarks, Chargers not moving QB via trade",
-      "description": "Herbert leads the NFL in interceptions and holds the league's worst QBR through seven games",
+      "title": "MLB rumors: Why the Dodgers could be Tarik Skubal or bust; Red Sox looking for pitching depth",
+      "description": "Here are the hot stove rumors on Sunday, Nov. 8",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/rams-quentin-lake-apologizes-justin-herbert-deli-meat-remarks-chargers/",
+      "url": "https://www.cbssports.com/mlb/news/mlb-rumors-dodgers-tarik-skubal-contract-red-sox-pitching-depth/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Missouri's CJ Gunn ruled ineligible by SEC, Tigers starting C Jaylen Carey indefinitely suspended",
-      "description": "Missouri loses a player and suspends another in advance of one of the week's most interesting nonconference matchup",
+      "title": "NC State finalizing deal to hire Philip Rivers as next coach: Wolfpack betting big on program legend",
+      "description": "Rivers, who starred in the NFL and for four years as NC State's quarterback, is expected to return to his alma mater",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-basketball/news/missouri-cj-gunn-ruled-ineligble-by-sec-jaylen-carey-indefinitely-suspended/",
+      "url": "https://www.cbssports.com/college-football/news/nc-state-hire-philip-rivers-coach/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
