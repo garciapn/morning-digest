@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-10T20:33:09.263984+00:00",
-  "edition": "#279",
+  "date": "2026-11-12T21:00:31.763067+00:00",
+  "edition": "#280",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-      "description": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control o…",
+      "title": "Jensen Huang was having a third affair, Reuters reports",
+      "description": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Google Fi adds support for a second 5G network, won't say which one",
-      "description": "Fi has always supported T-Mobile, but the new one? Google won't say.",
+      "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
+      "description": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "What objective is reasoning solving?",
-      "description": "Article URL: https://alexwang.ai/posts/reasoning-as-pathfinding/ Comments URL: https://news.ycombinator.com/item?id=50445013 Points: 17 # Comments: 3",
-      "source": "Hacker News",
-      "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
+      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-      "description": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+      "title": "The Elder Scrolls' most obscure adventure gets a 4K PC makeover",
+      "description": "N-Gage exclusive Shadowkey gets an AI-coded glow-up with plenty of new features.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "description": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Saltline: First-person shooter built by Fable 5.2",
-      "description": "Article URL: https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp Comments URL: https://news.ycombinator.com/item?id=50444850 Points: 10 # Comments: 9",
-      "source": "Hacker News",
-      "url": "https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp",
+      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+      "description": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "A comprehensive study of how fingerprintable users are",
-      "description": "Article URL: https://fingerprinting.study/ Comments URL: https://news.ycombinator.com/item?id=50444684 Points: 15 # Comments: 0",
-      "source": "Hacker News",
-      "url": "https://fingerprinting.study/",
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "description": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "David Walliams accused of sexual misconduct after losing injunction bid",
-      "description": "ITN and the Guardian allege the comedian preyed on teenage girls and young women. He has denied all allegations.",
+      "title": "Microsoft users report outages amid tech giant 'connectivity issues'",
+      "description": "Users worldwide report issues after tech giant says its infrastructure has been hit by \"elevated load\"",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckn8w8p9370zo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "US Army soldier suspected of spying for Russia arrested in UK",
-      "description": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "description": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Watch: What we know about the allegations against Walliams",
-      "description": "The author and comedian recently lost a court battle trying to block publication of the allegations.",
+      "title": "Can Burnham avoid another Labour welfare rebellion?",
+      "description": "Any revolt among MPs is likely to be smaller than the one that badly damaged Keir Starmer's government.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cmn9r90wyq2lo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c95y100nrm41o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
-      "description": "The BBC gains rare access to a specialist drone unit defending the eastern city of Slovyansk from heavy Russian fire.",
+      "title": "Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions",
+      "description": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
+      "timeAgo": "4h ago"
     },
     {
-      "title": "Testing the new generation of AI-enabled fire-extinguishing drones",
-      "description": "Drone makers are testing new, big drones that can deliver water or fire retardant with AI assistance. Aspen, Colorado is the first place trying them out. Cool and expensive? Yes. Effective? TBD.",
+      "title": "'Punch in the gut': Homes sales fall to their lowest in 16 years",
+      "description": "Existing homes sales in October declined 8.8% from a year earlier, according to the National Association of Realtors.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/11/10/nx-s1-6030962/testing-the-new-generation-of-ai-enabled-fire-extinguishing-drones",
+      "url": "https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "U.S. boycotts U.N. human rights review for second year running",
-      "description": "The U.S. has skipped a key U.N. human rights review for the second year running. Rights groups warn the absence risks undermining global accountability.",
+      "title": "Casualties continue to rise after Brooklyn building collapses",
+      "description": "First responders continue to search for survivors after a building in Brooklyn collapsed, leaving at least eight dead and dozens injured.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/11/10/nx-s1-6034998/un-human-rights-us-geneva",
+      "url": "https://www.npr.org/sections/the-picture-show/2026/11/12/g-s1-153229/brooklyn-building-collapse-photos",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "F1 champion Lewis Hamilton visits Gaza border",
-      "description": "North Sinai Governor Khaled Megawer briefs the British driver on Egypt-coordinated aid efforts through Rafah crossing.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/f1-champion-lewis-hamilton-visits-gaza-border?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Most Americans want Democrats focused on ending Iran war, lower costs: Poll",
-      "description": "Poll shows majority of Americans want Congress to prioritise addressing rising cost of living and economic challenges.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/most-americans-want-democrats-focused-on-ending-iran-war-lowering-costs?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Trump administration seeks to cut food aid for more than six million people",
-      "description": "Trump’s proposal builds on earlier cuts to federal food aid programme used by more than 36 million low-income Americans.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/10/trump-administration-seeks-to-cut-food-aid-for-more-than-six-million-people?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Who was Al Jazeera cartoonist Shujaat Ali?",
-      "description": "Who was Al Jazeera cartoonist Shujaat Ali?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/who-was-al-jazeera-cartoonist-shujaat-ali?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
-      "description": "Supporters of Sheikh Hasina want her to return from exile in India.",
+      "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+      "description": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
-      "description": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
+      "title": "What’s at stake in the renewed tensions over the Falkland Islands?",
+      "description": "Argentina and the UK are in a legal battle over an offshore oil-drilling project.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/12/whats-at-stake-in-the-renewed-tensions-over-the-falkland-islands?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Qatar Under-17 World Cup is on despite US pull out",
+      "description": "The Under-17 World Cup in Qatar will kick off as scheduled next week despite the United States’ decision to withdraw",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/qatar-under-17-world-cup-is-on-despite-us-pull-out?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Regional security dominates European talks in Dublin amid hybrid attacks",
+      "description": "European nations discuss security collaboration and an envoy for Ukraine peace talks during the summit in Ireland.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Democrats gather in Denver to debate party’s future after US midterm wins",
+      "description": "Majority Democrats’ What’s Next conference brings lawmakers and potential 2028 contenders to Denver.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/12/democrats-gather-in-denver-to-debate-partys-future-after-us-midterm-wins?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "description": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Aggressive Fed rate hikes are quickly becoming the biggest risk to stocks in 2027, says economist",
-      "description": "The Fed remains too optimistic on its ability to tame inflation, and markets may be too complacent, economist Neil Dutta warns.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/an-overzealous-fed-is-quickly-becoming-the-biggest-risk-to-stocks-in-2027-ba28e51d?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Schumer accuses Trump of defending Nvidia CEO Jensen Huang at cost of national security",
-      "description": "Rep. John Moolenaar, R-Mich., the Republican chairman of the Select Committee on China and told CNBC he expects answers about Jensen Huang's relationship.",
+      "title": "Microsoft outage hits Outlook. AWS and Google users also report issues",
+      "description": "Amazon Web Services and Google users also reported outages on Thursday",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
+      "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Nvidia hires law firm Wachtell Lipton to lead Jensen Huang affair probe",
-      "description": "On Sunday, Huang admitted to having an affair with a woman who has been connected to Chinese intelligence by reports in The New York Times and Financial Times.",
+      "title": "The bond market now has an even bigger fear than AI fallout",
+      "description": "Carnage in tech stocks made Treasurys look more attractive in recent weeks, but fears of more Fed rate hikes are now driving yields higher",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Alice Huang tied to Nvidia’s biggest Chinese competitor",
+      "description": "The woman with whom Jensen Huang reportedly had a relationship also owned stakes in companies that provided computing power to Huawei, a key Nvidia competitor.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/10/nvidia-wachtell-lipton-huang-affair.html",
+      "url": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Anthropic officially sets the stage for an IPO valuing the company north of $1 trillion",
-      "description": "Anthropic could raise up to $63 billion in an IPO expected to take place next week.",
+      "title": "I’m 17 and will be a first-generation college student. Is law school worth being $200,000 in debt?",
+      "description": "“I‘’m considering a pre-law track … I’m just a bit hesitant because of how expensive law school is.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/im-17-and-will-be-a-first-generation-college-student-is-law-school-worth-being-200-000-in-debt-df9b23c3?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-      "description": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
+      "title": "Jensen Huang is out and Nvidia stock is down—what market pros say about buying dips",
+      "description": "Nvidia stock fell 5% on Thursday following the departure of CEO Jensen Huang. Some see it as a signal to sell, others an opportunity to buy.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/make-it/2026/11/12/nvidia-what-market-pros-say-about-buying-dips.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "The S&P 500 is shrugging off Nvidia’s selloff. Here’s what’s keeping the rest of the market afloat.",
+      "description": "Investors have been forced to look up from the poster child of the artificial-intelligence trade and remember the other stocks on the board.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Corporate America is making a trillion-dollar mistake about retirement",
-      "description": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "MLB rumors: Mets to meet with Tarik Skubal, Braves' Ronald Acuña Jr. plan, plus Blue Jays, Cubs, Red Sox, more",
-      "description": "Here are your hot stove rumors as the GM meetings open on Tuesday, Nov. 10",
+      "title": "UFC 334: Fight card, date, odds and complete guide as Ciryl Gane takes on Josh Hokit in New York City",
+      "description": "A pair of title fights are set to headline at Madison Square Garden in New York City",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/mlb/news/mlb-rumors-tarik-skubal-padres-mets-cubs-braves-ronald-acuna-jr-adrian-morejon-red-sox-trevor-story/",
+      "url": "https://www.cbssports.com/ufc/news/ufc-334-fight-card-date-odds-location-ciryl-gane-josh-hokit/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Greg Schiano is staying, but Rutgers' bigger problem is the cost of keeping up in the Big Ten",
-      "description": "Saddled with mounting debt, poor on-field results and diminishing television value, the Scarlet Knights are turning into an expensive liability for their conference",
+      "title": "USMNT players grapple with Mauricio Pochettino's looming exit to Manchester United",
+      "description": "With a Nations League semifinal spot at stake against Haiti, Folarin Balogun and Sebastian Berhalter reflected on how the Argentine manager transformed the squad's culture",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/greg-schiano-is-staying-but-rutgers-bigger-problem-is-the-cost-of-keeping-up-in-the-big-ten/",
+      "url": "https://www.cbssports.com/soccer/news/usmnt-reax-mauricio-pochettinos-exit-manchester-united/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "2026 NFL trade deadline tracker: Latest deals, grades as Vikings reunite with Kirk Cousins",
-      "description": "Track every completed deal before the Nov. 10 deadline, including Jacksonville's blockbuster Monday",
+      "title": "Week 10 Fantasy football injuries: Garrett Wilson, Xavier Worthy trending up, George Pickens remains uncertain",
+      "description": "Week 10 Fantasy football injuries: Garrett Wilson, Xavier Worthy trending up, George Pickens remains uncertain",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-tracker-latest-deals-grades/",
+      "url": "https://www.cbssports.com/fantasy/football/news/week-10-2026-fantasy-football-injuries/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Amani Hooker trade: Bills gets secondary help from Titans for second-round pick, per report",
-      "description": "Buffalo had a clear need in the secondary, and they addressed it with one of the NFL's best safeties",
+      "title": "Serie A Power Rankings: Inter make statement with win over Como; Christian Pulisic's Milan one to watch",
+      "description": "Lazio hold the actual league lead entering the international break, while Gian Piero Gasperini has Roma in hot pursuit and Napoli continue to search for answers",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/amani-hooker-trade-grades-bills-titans/",
+      "url": "https://www.cbssports.com/soccer/news/serie-a-power-rankings-inter-make-statement-with-win-over-como/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
