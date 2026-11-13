@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-12T21:00:31.763067+00:00",
-  "edition": "#280",
+  "date": "2026-11-13T20:36:23.897606+00:00",
+  "edition": "#281",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Jensen Huang was having a third affair, Reuters reports",
-      "description": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
+      "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
+      "description": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+      "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
-      "description": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
+      "title": "In elephants, the resilience of communities has its limits",
+      "description": "In Sri Lanka, ecological change is shrinking a park's elephant population.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+      "url": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "The Elder Scrolls' most obscure adventure gets a 4K PC makeover",
-      "description": "N-Gage exclusive Shadowkey gets an AI-coded glow-up with plenty of new features.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-      "description": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
-      "description": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-      "description": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Microsoft users report outages amid tech giant 'connectivity issues'",
-      "description": "Users worldwide report issues after tech giant says its infrastructure has been hit by \"elevated load\"",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-      "description": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
+      "title": "No AI Slop: A Manifesto",
+      "description": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 20 # Comments: 3",
+      "source": "Hacker News",
+      "url": "https://www.slopmanifesto.com/",
+      "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Can Burnham avoid another Labour welfare rebellion?",
-      "description": "Any revolt among MPs is likely to be smaller than the one that badly damaged Keir Starmer's government.",
+      "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
+      "description": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Someone's Impersonating This Blog",
+      "description": "Article URL: https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/ Comments URL: https://news.ycombinator.com/item?id=50488664 Points: 24 # Comments: 0",
+      "source": "Hacker News",
+      "url": "https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "description": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
+      "description": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c95y100nrm41o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions",
-      "description": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.",
+      "title": "Police investigating David Walliams over reports alleging serious sexual offences",
+      "description": "The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier this week.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+      "description": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "Former Hamas bodyguard guilty of UK knife attack",
+      "description": "Mohammed Alfatih was granted asylum in the UK in 2015 and British citizenship in 2020.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "4h ago"
     },
     {
-      "title": "'Punch in the gut': Homes sales fall to their lowest in 16 years",
-      "description": "Existing homes sales in October declined 8.8% from a year earlier, according to the National Association of Realtors.",
+      "title": "What's Trump's strategy now with Iran? To keep things as they are",
+      "description": "Trump says \"status quo\" is what Gulf Arab allies want as Iran war hits stalemate and midterms force pivot from threats of attacks to economic pressure",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years",
+      "url": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Casualties continue to rise after Brooklyn building collapses",
-      "description": "First responders continue to search for survivors after a building in Brooklyn collapsed, leaving at least eight dead and dozens injured.",
+      "title": "The Trump administration's voter roll crusade could continue",
+      "description": "Election officials are preparing for the Trump administration's pressure tactics over potential noncitizens on state voter rolls to continue, though recent court rulings pose new obstacles.",
       "source": "NPR",
-      "url": "https://www.npr.org/sections/the-picture-show/2026/11/12/g-s1-153229/brooklyn-building-collapse-photos",
+      "url": "https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
-      "description": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+      "description": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "What’s at stake in the renewed tensions over the Falkland Islands?",
-      "description": "Argentina and the UK are in a legal battle over an offshore oil-drilling project.",
+      "title": "Migrants risk deadly route to Spain’s Canary Islands",
+      "description": "More than 7,400 migrants arrived in Spain’s Canary Islands during the first 10 days of November.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/11/12/whats-at-stake-in-the-renewed-tensions-over-the-falkland-islands?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Qatar Under-17 World Cup is on despite US pull out",
-      "description": "The Under-17 World Cup in Qatar will kick off as scheduled next week despite the United States’ decision to withdraw",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/qatar-under-17-world-cup-is-on-despite-us-pull-out?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Regional security dominates European talks in Dublin amid hybrid attacks",
-      "description": "European nations discuss security collaboration and an envoy for Ukraine peace talks during the summit in Ireland.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Democrats gather in Denver to debate party’s future after US midterm wins",
-      "description": "Majority Democrats’ What’s Next conference brings lawmakers and potential 2028 contenders to Denver.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/12/democrats-gather-in-denver-to-debate-partys-future-after-us-midterm-wins?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-      "description": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/migrants-risk-deadly-route-to-spains-canary-islands?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Microsoft outage hits Outlook. AWS and Google users also report issues",
-      "description": "Amazon Web Services and Google users also reported outages on Thursday",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "The bond market now has an even bigger fear than AI fallout",
-      "description": "Carnage in tech stocks made Treasurys look more attractive in recent weeks, but fears of more Fed rate hikes are now driving yields higher",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Alice Huang tied to Nvidia’s biggest Chinese competitor",
-      "description": "The woman with whom Jensen Huang reportedly had a relationship also owned stakes in companies that provided computing power to Huawei, a key Nvidia competitor.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "I’m 17 and will be a first-generation college student. Is law school worth being $200,000 in debt?",
-      "description": "“I‘’m considering a pre-law track … I’m just a bit hesitant because of how expensive law school is.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-17-and-will-be-a-first-generation-college-student-is-law-school-worth-being-200-000-in-debt-df9b23c3?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Jensen Huang is out and Nvidia stock is down—what market pros say about buying dips",
-      "description": "Nvidia stock fell 5% on Thursday following the departure of CEO Jensen Huang. Some see it as a signal to sell, others an opportunity to buy.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/make-it/2026/11/12/nvidia-what-market-pros-say-about-buying-dips.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "The S&P 500 is shrugging off Nvidia’s selloff. Here’s what’s keeping the rest of the market afloat.",
-      "description": "Investors have been forced to look up from the poster child of the artificial-intelligence trade and remember the other stocks on the board.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
+      "title": "IRGC says tanker caught fire after hitting mines in Strait of Hormuz",
+      "description": "A liquefied gas carrier caught fire in the Strait of Hormuz after hitting naval mines, according to the IRGC.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "UFC 334: Fight card, date, odds and complete guide as Ciryl Gane takes on Josh Hokit in New York City",
-      "description": "A pair of title fights are set to headline at Madison Square Garden in New York City",
+      "title": "How will the US deal with Nvidia scandal?",
+      "description": "Tech giant CEO resigned and will testify before Congress.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/13/how-will-the-us-deal-with-nvidia-scandal?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "At least 10 killed in Guinea clashes over gold mining ban",
+      "description": "Guinea banned artisanal gold mining in Siguiri on November 2 due to environmental degradation, causing mass exodus.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/13/at-least-10-killed-in-guinea-in-crackdown-on-gold-mining?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "description": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Hassett denies report he's leaving White House: 'Not true'",
+      "description": "National Economic Council Director Kevin Hassett poured cold water on a report that he's expected to leave the White House in the coming weeks.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/13/kevin-hassett-white-house-nec.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Nvidia hasn’t selected search firm for permanent Huang replacement, board tells CNBC",
+      "description": "Speculation has swirled around who Nvidia's board will select to permanently succeed CEO Jensen Huang.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Jensen Huang was a ‘China salesman’ for Nvidia. His exit is weighing on Chinese tech stocks.",
+      "description": "The former Nvidia CEO was an ‘influential voice’ for selling chips to Chinese companies, but now investors are preparing for more restrictions, experts say.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/jensen-huang-was-a-china-salesman-for-nvidia-his-exit-is-weighing-on-chinese-tech-stocks-e46351e4?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Retirees should be big beneficiaries of the midterms: ‘Democrats will hold every gavel that matters for aging and public policy’",
+      "description": "Here’s what might be coming for Social Security, Medicare and long-term care.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/retirees-should-be-big-beneficiaries-of-the-midterms-democrats-will-hold-every-gavel-that-matters-for-aging-and-public-policy-71e966f0?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "My husband inherited $500,000, but he refuses to spend it on our home. Should I be worried?",
+      "description": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Budget airlines are going upscale with first-class seats and faster wifi",
+      "description": "Forget no-frills: Frontier and JetBlue are chasing luxury flyers, and Wall Street is buying in.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Revisiting the 2026 NFL Draft: Did the Titans take the right receiver at No. 4 overall?",
+      "description": "Carnell Tate has given quarterback Cam Ward a reliable target against zone coverage, but ball security issues and questions about his ultimate ceiling complicate the pick",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/ufc/news/ufc-334-fight-card-date-odds-location-ciryl-gane-josh-hokit/",
+      "url": "https://www.cbssports.com/nfl/news/revisiting-2026-nfl-draft-did-titans-take-right-receiver-4-overall/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "USMNT players grapple with Mauricio Pochettino's looming exit to Manchester United",
-      "description": "With a Nations League semifinal spot at stake against Haiti, Folarin Balogun and Sebastian Berhalter reflected on how the Argentine manager transformed the squad's culture",
+      "title": "Week 10 NFL score predictions, best picks today: Expert reveals exact scores for every NFL game",
+      "description": "SportsLine expert Eric Cohen reveals his score predictions for every game on the Week 10 NFL schedule",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/usmnt-reax-mauricio-pochettinos-exit-manchester-united/",
+      "url": "https://www.cbssports.com/betting/news/nfl-score-predictions-best-bets-picks-today-week-10-2026/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Week 10 Fantasy football injuries: Garrett Wilson, Xavier Worthy trending up, George Pickens remains uncertain",
-      "description": "Week 10 Fantasy football injuries: Garrett Wilson, Xavier Worthy trending up, George Pickens remains uncertain",
+      "title": "Eagles release wide receiver Hollywood Brown upon his request, according to report",
+      "description": "Brown wasn't used much in the Eagles offense this year",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/fantasy/football/news/week-10-2026-fantasy-football-injuries/",
+      "url": "https://www.cbssports.com/nfl/news/eagles-release-wide-receiver-hollywood-brown-upon-his-request-according-to-report/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Serie A Power Rankings: Inter make statement with win over Como; Christian Pulisic's Milan one to watch",
-      "description": "Lazio hold the actual league lead entering the international break, while Gian Piero Gasperini has Roma in hot pursuit and Napoli continue to search for answers",
+      "title": "Pelicans' Dejounte Murray reportedly wants trade after venting about franchise in deleted social media posts",
+      "description": "'You have no f---ing clue what we dealing with,' Murray posted this week after a blowout loss",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/serie-a-power-rankings-inter-make-statement-with-win-over-como/",
+      "url": "https://www.cbssports.com/nba/news/pelicans-dejounte-murraysocial-media-now-deleted-posts-trade/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
