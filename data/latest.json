@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-14T18:47:57.359169+00:00",
-  "edition": "#282",
+  "date": "2026-11-15T19:26:25.095869+00:00",
+  "edition": "#283",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,228 +8,228 @@
   },
   "stories": [
     {
-      "title": "Got an iPhone Duo? These 9 settings make it easier to use",
-      "description": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
+      "title": "Eclipse Mosquitto – An open source MQTT broker",
+      "description": "Article URL: https://github.com/eclipse-mosquitto/mosquitto Comments URL: https://news.ycombinator.com/item?id=50509416 Points: 6 # Comments: 1",
+      "source": "Hacker News",
+      "url": "https://github.com/eclipse-mosquitto/mosquitto",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "description": "Article URL: https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html Comments URL: https://news.ycombinator.com/item?id=50509411 Points: 18 # Comments: 2",
+      "source": "Hacker News",
+      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+      "description": "A new Kickstarter campaign aims to usher in the “return of the human internet.”",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+      "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "The VHDL standard's float package gets sqrt(2) wrong",
-      "description": "Article URL: https://github.com/lmtlssss/speedrunpapi/tree/main/hardware/audit/ieee-float-pkg Comments URL: https://news.ycombinator.com/item?id=50499188 Points: 9 # Comments: 2",
+      "title": "A short explainer on how El Niño works [video]",
+      "description": "Article URL: https://www.youtube.com/watch?v=7_JF3etiAv8 Comments URL: https://news.ycombinator.com/item?id=50509308 Points: 33 # Comments: 2",
       "source": "Hacker News",
-      "url": "https://github.com/lmtlssss/speedrunpapi/tree/main/hardware/audit/ieee-float-pkg",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
-      "description": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-…",
-      "source": "Hacker News",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "A Family Tree of Software Job Titles",
-      "description": "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 19 # Comments: 9",
-      "source": "Hacker News",
-      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
-      "description": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
+      "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+      "description": "Article URL: https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html Comments URL: https://news.ycombinator.com/item?id=50509023 Points: 27 # Comments: 17",
+      "source": "Hacker News",
+      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+      "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Lovable apps expose passport details and more than 200K private messages",
-      "description": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 110 # Comments: 28",
-      "source": "Hacker News",
-      "url": "https://www.crissyfield.de/research/lovable-en/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "description": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "description": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Noel Fielding 'appalled' by jokes he made with Russell Brand",
-      "description": "The Great British Bake Off presenter says he has not been in contact with the convicted rapist \"for many years\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw808ll7x093o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
-      "description": "The author of a major review on youth unemployment, due next week, acknowledges the change would mean some young people losing out on benefits.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
-      "description": "Milburn is not the first to try and fix the Neets problem - so what’s different this time round, asks Laura Kuenssberg.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "6h ago"
-    },
-    {
-      "title": "FAA blames Friday's ground stop on 'equipment issue' during telecoms network upgrade",
-      "description": "Transportation Secretary Sean Duffy said initial investigations pointed to an issue with contractor L3Harris updating old tech at a remote location.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel",
+      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Fuel crisis and protests pressure Chile's far-right president",
-      "description": "Chile's far-right President José Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
+      "title": "Staggered age of consent to be discussed after Brand case, minister says",
+      "description": "A woman who alleges she was raped by the jailed comedian when she was 16 is campaigning to see relationships between 16-and 17-year-olds and adults made illegal.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Italy fines Meta €805m over accessing users' photos",
-      "description": "The social media giant is accused of not informing 20 million users it had access to their photos.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
+      "title": "New Orleans port sues owners of tanker involved in Mississippi crash",
+      "description": "Officials are seeking at least $1 million in damages from the owners of the tanker that hit a cruise ship last week. The incident was dubbed \"the miracle on the Mississippi\" after no one was killed.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/15/nx-s1-6041677/new-orleans-port-sues-miracle-mississippi-cruise-ship",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Philippines wins first Eurovision Song Contest Asia",
-      "description": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
+      "title": "Man and woman die and four arrested after police pursuit crash in Leeds",
+      "description": "Four people have been arrested on suspicion of causing death by dangerous driving, police say.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
+      "url": "https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "6h ago"
     },
     {
-      "title": "US blames system upgrade for longest nationwide FAA ground stop since 9/11",
-      "description": "Sean Duffy, the country's transportation secretary, said his agency is 'going to hold people accountable'.",
+      "title": "Laws limiting coal miners' exposure to toxic dust are in danger of being rolled back",
+      "description": "Coal miners who are exposed to silica dust are at a higher risk of black lung disease. Despite decades of advocacy, new efforts to regulate the toxic dust are under threat.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/15/nx-s1-6039311/laws-limiting-coal-miners-exposure-to-toxic-dust-are-in-danger-of-being-rolled-back",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "6h ago"
+    },
+    {
+      "title": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
+      "description": "Warren Arter faced claims of sexually exploiting crime victims - his wife was found in a blood-stained room.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "13h ago"
+    },
+    {
+      "title": "Prince Harry in Ukraine meeting Invictus 2027 hopefuls",
+      "description": "British royal says he's 'taken a risk' in his fourth surprise visit to Ukraine since 2022 to meet wounded veterans.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/14/us-blames-system-upgrade-for-longest-nationwide-faa-ground-stop-since-9?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/11/15/prince-harry-in-ukraine-meeting-invictus-2027-hopefuls?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Rising costs and arrests fuel protests in Central African Republic",
-      "description": "Hundreds take to the streets of Bangui to protest rising fuel prices and arrests in the Central African Republic.",
+      "title": "Christian priest says US denied him a visa for being Palestinian",
+      "description": "A Christian priest from Bethlehem, the birthplace of Jesus, says the US denied him a visa because he is Palestinian.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/rising-costs-and-arrests-fuel-protests-in-central-african-republic?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-      "description": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/christian-priest-says-us-denied-him-a-visa-for-being-palestinian?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
-      "description": "Zelenskyy rejected the possibility of Ukraine committing to neutrality and said he refused to cede territory to Russia.",
+      "title": "Estonia to close border crossings with Russia after attack on drone maker",
+      "description": "Eight arrests made in connection with an attempted arson, which Tallinn says was ordered by Russian intelligence.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
-      "description": "The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said Saturday.",
+      "title": "Nearly 1,500 migrants reach Spain’s Canary Islands in one day",
+      "description": "Nearly 1,500 migrants reach Spain’s Canary Islands in one day",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/nearly-1500-migrants-reach-spains-canary-islands-in-one-day?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Iran targets US military base in Bahrain with drone attack",
+      "description": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "5h ago"
+    },
+    {
+      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+      "description": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "5h ago"
+    },
+    {
+      "title": "'We slept here': Flight delays linger but schedule is back on track for Monday",
+      "description": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-      "description": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
-      "description": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
-      "description": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "The trillion-dollar mistake corporate America is making about retirement",
-      "description": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
-      "description": "Two Nvidia investors with about $2.13 billion of stock disclosed as of June 30 are calling for a deliberate leadership search after Huang’s resignation.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
+      "url": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Bob Stoops slams SEC: Legendary Oklahoma coach calls out league after FAA issues push Ole Miss game to Sunday",
-      "description": "The Oklahoma coaching legend is not happy with the SEC after the league made the call to shift the conference showdown to Sunday",
+      "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
+      "description": "Bessent has criticized Howard Lutnick’s department over suspected chip diversion to China while defending President Donald Trump’s handling of the matter.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Trump breaks silence about FAA nationwide ground stop, blames Biden administration",
+      "description": "Trump blamed the Biden administration for the FAA’s aging system after a nationwide ground stop disrupted air travel and urged Congress to approve more funding.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+      "description": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "China’s hottest stocks these days have one thing in common: names that sound like sheep",
+      "description": "Shares of fish processors, lighting manufacturers and appliance makers have soared ahead of the Year of the Sheep. Investor appetite has had little to do with the status of their businesses.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+      "description": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "'Sunday Night Football' prediction, odds, time: Bengals vs. Steelers picks by expert who's on a 34-18 roll",
+      "description": "R.J. White reveals his picks for Cincinnati Bengals vs. Pittsburgh Steelers in the 2026 Week 10 'Sunday Night Football' matchup",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/bob-stoops-slams-sec-oklahoma-ole-miss-sunday-game-faa-ground-stop/",
+      "url": "https://www.cbssports.com/betting/news/sunday-night-football-prediction-odds-time-bengals-steelers-picks/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Notre Dame vs. Boston College prediction, odds, time: Week 11 college football picks from proven model",
-      "description": "SportsLine's model revealed its best bets for Saturday's non-conference college football matchup of the Boston College Eagles vs. No. 11 Notre Dame Fighting Irish",
+      "title": "Drake Maye, Aidan Hutchinson injured on same play: Injury updates for Patriots QB, Lions DE",
+      "description": "Maye and Hutchinson both went down on the final play of the first drive",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/notre-dame-boston-college-prediction-odds-time-2026-week-11-college-football-picks-best-bets/",
+      "url": "https://www.cbssports.com/nfl/news/drake-maye-aidan-hutchinson-injured-patriots-lions-stars-questionable/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "NFL Week 10 last-minute picks, best bets: Chiefs, Steelers take advantage of schedule quirk",
-      "description": "Need some last-minute advice on how to bet the Week 10 slate? Allow us to be of assistance",
+      "title": "Bryce James sits in  Arizona's win vs. Auburn: What Tommy Lloyd said about son of LeBron James not playing",
+      "description": "The son of NBA star LeBron James logged a DNP-CD after starting Arizona's first three games",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-10-picks-best-bets-chiefs-steelers/",
+      "url": "https://www.cbssports.com/college-basketball/news/bryce-james-son-of-lebron-tommy-lloyd-arizona-auburn/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Where to watch UFC 334: Fight card, start time and more key info for tonight on Paramount+",
-      "description": "Complete schedule and viewing information so you can watch UFC 334 live in New York City on Saturday across Paramount+",
+      "title": "Lions running back Jahmyr Gibbs makes NFL history during Germany game vs. Patriots",
+      "description": "Gibbs is making NFL history in Germany",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/ufc/news/where-watch-ufc-334-start-time-live-stream/",
+      "url": "https://www.cbssports.com/nfl/news/lions-jahmyr-gibbs-ties-nfl-record-germany-patriots/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     }
   ]
 }
