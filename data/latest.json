@@ -1,217 +1,233 @@
 {
-  "date": "2026-11-16T22:58:54.249695+00:00",
-  "edition": "#284",
-  "totalStories": 26,
+  "date": "2026-11-17T21:51:38.378444+00:00",
+  "edition": "#285",
+  "totalStories": 28,
   "podcast": {
     "show": "The Daily",
     "description": "The New York Times' daily news podcast — today's top story in 20 minutes."
   },
   "stories": [
     {
-      "title": "United Airlines has a widespread system outage",
-      "description": "Article URL: https://apnews.com/article/united-airlines-outage-5a5e5f75bb07f11ffb8750901f0076ff Comments URL: https://news.ycombinator.com/item?id=50524260 Points: 32 # Comments: 5",
-      "source": "Hacker News",
-      "url": "https://apnews.com/article/united-airlines-outage-5a5e5f75bb07f11ffb8750901f0076ff",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "How to Break into Security, Ptacek Edition",
-      "description": "Article URL: https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/ Comments URL: https://news.ycombinator.com/item?id=50524225 Points: 37 # Comments: 6",
-      "source": "Hacker News",
-      "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "United Airlines Widespread System Outage",
-      "description": "Article URL: https://www.cnn.com/2026/11/16/us/united-airlines-outage Comments URL: https://news.ycombinator.com/item?id=50524165 Points: 68 # Comments: 7",
-      "source": "Hacker News",
-      "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
-      "description": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
+      "title": "SEC reportedly investigating Nvidia amid Huang exit",
+      "description": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
+      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-      "description": "Nvidia interim CEO and long-time CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third quarter results. Given the turmoil Nvidia is in, there are a number…",
+      "title": "Google joins the tech outage trend by announcing it’s not having one",
+      "description": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+      "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Three small failures combined to take down Microsoft 365",
-      "description": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
+      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "description": "Article URL: https://calif.io/java4shell/ Comments URL: https://news.ycombinator.com/item?id=50538240 Points: 47 # Comments: 5",
+      "source": "Hacker News",
+      "url": "https://calif.io/java4shell/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+      "description": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
-      "description": "Alan Milburn's review will call for sweeping reforms to the education, work and welfare systems.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
+      "title": "Web Browser Engineering (2021)",
+      "description": "Article URL: https://browser.engineering/ Comments URL: https://news.ycombinator.com/item?id=50537290 Points: 73 # Comments: 8",
+      "source": "Hacker News",
+      "url": "https://browser.engineering/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Cass report author says she does not support draft conversion practices bill",
-      "description": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
+      "title": "jQuery 4.1.0",
+      "description": "Article URL: https://github.com/jquery/jquery/releases/tag/4.1.0 Comments URL: https://news.ycombinator.com/item?id=50537156 Points: 154 # Comments: 65",
+      "source": "Hacker News",
+      "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Robert Pattinson to replace Daniel Craig as James Bond",
-      "description": "The 40-year old is best known for his role in films including Twilight, The Batman and The Odyssey.",
+      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+      "description": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Government backs welfare shake-up to prevent 'lost generation'",
+      "description": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Russell Brand prison message 'appalling' and being investigated, No 10 says",
-      "description": "Brand's wife read out comments from the comedian on their podcast in which the convicted rapist said he was \"not guilty of the offences I have been jailed for\".",
+      "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+      "description": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "'Can I really do this?': Neets speak to BBC about struggling to get a job",
+      "description": "A government-backed review has proposed wide-ranging measures to help get young people into work - but what do young people think?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cm0l3z8gn67eo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "4h ago"
     },
     {
-      "title": "California sues OpenAI over hacking risks",
-      "description": "The state's attorney general started investigating OpenAI after the Hugging Face attack and now says this attack was \"entirely foreseeable\" due to OpenAI's poor security practices.",
+      "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
+      "description": "Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, and the U.S. retaliated by firing at Iranian targets along an important shipping route.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
-      "description": "The new rule closes a loophole that existed that allowed Chinese companies to still access advanced AI chips remotely, despite U.S. restrictions on their physical sale to China.",
+      "title": "Huang says he'd be \"honored\" to return to Nvidia as he agrees to testify to Congress",
+      "description": "The former Nvidia CEO's comments come as some in Silicon Valley have tried to argue that Huang was pushed out of the company too quickly amid a swirl of national security scandals.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
       "category": "🌎 TOP NEWS",
       "timeAgo": "4h ago"
     },
     {
-      "title": "US Pentagon rejects allegations linking deputy to a Goldman Sachs banker",
-      "description": "Pentagon defends Steve Feinberg, amid claims in Bloomberg he encouraged defence contractors to use a specific banker.",
+      "title": "UK hands NATO-assigned US soldier accused of Russia spying to US military",
+      "description": "UK authorities have passed the investigation to the US 'in line with existing international protocols'.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/16/us-pentagon-rejects-allegations-linking-deputy-to-a-goldman-sachs-banker?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-      "description": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+      "title": "UK sanctions Israeli settlement firms to protect two-state solution",
+      "description": "The UK has imposed new sanctions on eight Israeli companies supporting illegal settlements in the occupied West Bank.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "‘Zero transparency’: Inside Trump’s plans for Venezuela’s oil money",
+      "description": "Democrats say they plan to investigate Trump's dealings with Venezuela after winning control of Congress.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/17/zero-transparency-inside-trumps-plans-for-venezuelas-oil-money?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Moment Russian military plane crashes in Siberia, killing 19",
+      "description": "Footage captures the moment a Russian military transport aircraft crashes in the Kemerovo region",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/moment-russian-military-plane-crashes-in-siberia-killing-19?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "description": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Germany thrash Netherlands to book quarterfinal spot",
-      "description": "Jurgen Klopp's side outclasses the Dutch 5-0 in Berlin to secure top spot in UEFA Nations League Group A2.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/11/16/germany-thrash-netherlands-to-book-quarterfinal-spot?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
-      "description": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+      "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+      "description": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
+      "timeAgo": "4h ago"
     },
     {
-      "title": "California files lawsuit against OpenAI alleging lack of proper safeguards",
-      "description": "Attorney General Rob Bonta says Hugging Face attack was 'entirely predictable' result of emphasis on rapid growth.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Mamdani to disband NYPD unit deployed at Columbia protests",
-      "description": "New York City Mayor Zohran Mamdani says he is disbanding the NYPD’s Strategic Response Group or SRG.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/mamdani-to-disband-nypd-unit-deployed-at-columbia-protests?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
-      "description": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America.",
+      "title": "Jensen Huang scandal fuels bipartisan push to block AI chip sales to China",
+      "description": "Congress members are pushing for a series of chip-related export control bills to be included in the annual National Defense Authorization Act.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
+      "url": "https://www.cnbc.com/2026/11/17/congress-ai-china-jensen-huang-chips.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "United Airlines reports system outage affecting departing flights",
-      "description": "United Airlines said Monday that a widespread system outage was affecting departing flights.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
+      "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything instead. Do I tell her?",
+      "description": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
-      "description": "Trump’s accounts sold up to $1 million in Nvidia stock five days after he was briefed on Jensen Huang’s relationship with a suspected Chinese spy.",
+      "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
+      "description": "Major outages showcase the risks of interconnected tech in the age of AI.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
+      "url": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
-      "description": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
+      "title": "Why Salesforce’s stock led the S&P 500’s decliners amid tech jitters",
+      "description": "A series of technology outages has investors concerned that software companies could prove “particularly vulnerable” to AI misuse, an analyst says.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-salesforces-stock-is-leading-s-p-500-decliners-amid-tech-jitters-17510caf?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "College basketball picks, schedule: Predictions for Duke vs. Illinois and more Top 25 games on Tuesday",
-      "description": "Our experts have picks for all of college basketball's best games on Tuesday",
+      "title": "‘Can I pick your brain?’ and other terrible things to say in a networking email",
+      "description": "Hiring for white-collar jobs usually dips in November and December, so try sending “cold emails” to your network instead.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nows-the-perfect-time-for-networking-heres-how-to-send-a-cringe-free-email-73ad34ea?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+      "description": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Yankees' David Bednar, Twins' Ryan Jeffers accept qualifying offer, six others reject $23.15 million QO",
+      "description": "Jake Bauers has already agreed to a four-year deal with the Red Sox; now the other five will look for better offers than the QO",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-basketball/news/college-basketball-picks-schedule-predictions-duke-illinois-top-25-tuesday/",
+      "url": "https://www.cbssports.com/mlb/news/mlb-qualifying-offer-deadline-morejon-arozarena-bednar-bauers-suzuki-lowe-jeffers-rogers/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "'Monday Night Football' prediction, odds, time: Ravens vs. Chargers picks from expert on 32-14 run",
-      "description": "Mike Tierney reveals his picks for Los Angeles Chargers vs. Baltimore Ravens in the 2026 Week 10 'Monday Night Football' matchup",
+      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Pistons-Spurs, Duke-Illinois, NBA on Tuesday",
+      "description": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for NBA, college basketball, NFL betting on Tuesday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/monday-night-football-prediction-odds-time-ravens-chargers-expert-picks-best-bets/",
+      "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-pistons-spurs-duke-illinois-nba-tuesday/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Lane Kiffin relives 'nightmare' finish vs. Texas: 'He's going to walk into the f---ing end zone'",
-      "description": "The LSU coach regretted not calling a timeout before Arch Manning's game-winning touchdown",
+      "title": "LSU guard MiLaysia Fulwiley not with team in first game since arrest, Kim Mulkey stays quiet about status",
+      "description": "Fulwiley, who has been released on bond, is facing five charges, including flight from an officer, aggravated assault and aggravated battery",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/lane-kiffin-lsu-relives-nightmare-texas/",
+      "url": "https://www.cbssports.com/womens-college-basketball/news/lsu-guard-milaysia-fulwiley-arrested-charges-baton-rouge/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "NFL DFS, Ravens vs. Chargers: Top daily Fantasy picks, lineup advice for 'Monday Night Football'",
-      "description": "DFS millionaire Mike McClure shares his top daily Fantasy picks and advice for Los Angeles vs. Baltimore on 'Monday Night Football'",
+      "title": "Use FanDuel promo code to get $200 in bonus bets for college football, Spurs-Pistons, Duke-Illinois on Tuesday",
+      "description": "Sign up to wager on Tuesday with the latest FanDuel promo code to get your bonus bets",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/nfl-dfs-ravens-chargers-best-daily-fantasy-lineups-fanduel-draftkings-picks-monday-night-football/",
+      "url": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-200-bonus-bets-college-football-spurs-pistons-duke-illinois-tuesday/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
