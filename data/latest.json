@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-17T21:51:38.378444+00:00",
-  "edition": "#285",
+  "date": "2026-11-18T21:31:05.218388+00:00",
+  "edition": "#286",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "SEC reportedly investigating Nvidia amid Huang exit",
-      "description": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Google joins the tech outage trend by announcing it’s not having one",
-      "description": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
-      "description": "Article URL: https://calif.io/java4shell/ Comments URL: https://news.ycombinator.com/item?id=50538240 Points: 47 # Comments: 5",
+      "title": "Just Because You Can, Doesn't Mean You Should: Re-Evaluating Galera Node Weights",
+      "description": "Article URL: https://www.percona.com/blog/just-because-you-can-doesnt-mean-you-should-re-evaluating-galera-node-weights/ Comments URL: https://news.ycombinator.com/item?id=50552169 Points: 3 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://calif.io/java4shell/",
+      "url": "https://www.percona.com/blog/just-because-you-can-doesnt-mean-you-should-re-evaluating-galera-node-weights/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
-      "description": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
+      "title": "Windows Server 2028 trades compatibility for out-of-the-box security",
+      "description": "Hardened defaults align with DoD standards, but there may be growing pains.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
+      "url": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Web Browser Engineering (2021)",
-      "description": "Article URL: https://browser.engineering/ Comments URL: https://news.ycombinator.com/item?id=50537290 Points: 73 # Comments: 8",
+      "title": "Google Gemini's \"Tasks\" Personal Assistant Is Now Free",
+      "description": "Article URL: https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/ Comments URL: https://news.ycombinator.com/item?id=50551601 Points: 19 # Comments: 6",
       "source": "Hacker News",
-      "url": "https://browser.engineering/",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "jQuery 4.1.0",
-      "description": "Article URL: https://github.com/jquery/jquery/releases/tag/4.1.0 Comments URL: https://news.ycombinator.com/item?id=50537156 Points: 154 # Comments: 65",
+      "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
+      "description": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Search Browser – Minimalist WebKit browser with Chrome extension support",
+      "description": "Article URL: https://searchbrowser.app/ Comments URL: https://news.ycombinator.com/item?id=50551398 Points: 24 # Comments: 16",
       "source": "Hacker News",
-      "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+      "url": "https://searchbrowser.app/",
       "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-      "description": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Government backs welfare shake-up to prevent 'lost generation'",
-      "description": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
+      "title": "Sexp Matrix",
+      "description": "Article URL: https://lisper.cc/ideas/entangle.html Comments URL: https://news.ycombinator.com/item?id=50551359 Points: 17 # Comments: 2",
+      "source": "Hacker News",
+      "url": "https://lisper.cc/ideas/entangle.html",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-      "description": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+      "title": "UK government asks for Russell Brand's YouTube account to be removed",
+      "description": "This comes after Brand's wife shared a message from him in which he claimed his innocence.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "'Can I really do this?': Neets speak to BBC about struggling to get a job",
-      "description": "A government-backed review has proposed wide-ranging measures to help get young people into work - but what do young people think?",
+      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "description": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cm0l3z8gn67eo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "4h ago"
     },
     {
-      "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
-      "description": "Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, and the U.S. retaliated by firing at Iranian targets along an important shipping route.",
+      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+      "description": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "As overdose deaths fall, White House makes misleading claims about who deserves credit",
+      "description": "In a statement celebrating the historic drop in drug deaths, the White House pointed to successes since President Trump took office. In fact, the biggest progress happened under the Biden administration.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl",
       "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Huang says he'd be \"honored\" to return to Nvidia as he agrees to testify to Congress",
-      "description": "The former Nvidia CEO's comments come as some in Silicon Valley have tried to argue that Huang was pushed out of the company too quickly amid a swirl of national security scandals.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
+      "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
+      "description": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
+      "timeAgo": "8h ago"
     },
     {
-      "title": "UK hands NATO-assigned US soldier accused of Russia spying to US military",
-      "description": "UK authorities have passed the investigation to the US 'in line with existing international protocols'.",
+      "title": "Karl Kani dressed hip-hop royalty for decades. Now he's telling his own story",
+      "description": "On NPR's Morning Edition , fashion designer Karl Kani talks about his new memoir, dressing some of hip-hop's biggest stars and why skinny jeans aren't for everyone.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "Floodwaters submerge cars and parking lots in Florida town",
+      "description": "Floodwaters turned streets and parking lots into rivers in Davie, Florida, leaving drivers facing dangerous conditions.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_floodwaters-submerge-cars-in-florida-181126?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "UK sanctions Israeli settlement firms to protect two-state solution",
-      "description": "The UK has imposed new sanctions on eight Israeli companies supporting illegal settlements in the occupied West Bank.",
+      "title": "US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
+      "description": "Pete Hegseth says the agreement will include joint training and intelligence sharing with the Venezuelan military.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "‘Zero transparency’: Inside Trump’s plans for Venezuela’s oil money",
-      "description": "Democrats say they plan to investigate Trump's dealings with Venezuela after winning control of Congress.",
+      "title": "What does Israel’s new ground offensive mean for Palestinians in Gaza?",
+      "description": "Israeli tanks advance beyond the 'Yellow Line', forcing Palestinians to flee again in Gaza.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/17/zero-transparency-inside-trumps-plans-for-venezuelas-oil-money?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Moment Russian military plane crashes in Siberia, killing 19",
-      "description": "Footage captures the moment a Russian military transport aircraft crashes in the Kemerovo region",
+      "title": "Pew Research: Islam on track to become world’s largest religion by 2035",
+      "description": "The report projects steady increases for both Christianity and Islam from 2020 to 2070.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/moment-russian-military-plane-crashes-in-siberia-killing-19?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/11/18/pew-research-islam-on-track-to-become-worlds-largest-religion-by-2035?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "just now"
     },
     {
-      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "description": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+      "description": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-      "description": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
+      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+      "description": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "4h ago"
+      "timeAgo": "5h ago"
     },
     {
-      "title": "Jensen Huang scandal fuels bipartisan push to block AI chip sales to China",
-      "description": "Congress members are pushing for a series of chip-related export control bills to be included in the annual National Defense Authorization Act.",
+      "title": "Anthropic prices IPO at $83 per share, above expected range, source tells CNBC",
+      "description": "Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/17/congress-ai-china-jensen-huang-chips.html",
+      "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything instead. Do I tell her?",
-      "description": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
+      "title": "What’s next for the AI trade after Nvidia’s blowout results are met with a shrug",
+      "description": "Nvidia delivered a strong performance, but questions remain amid growing scrutiny of the company and macroeconomic factors",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/whats-next-for-the-ai-trade-after-nvidias-blowout-results-are-met-with-a-shrug-853c7abe?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
-      "description": "Major outages showcase the risks of interconnected tech in the age of AI.",
+      "title": "Google turns to a volcano and rock-melting technology in a wild new bid to power AI",
+      "description": "Google’s agreement with Quaise is “a bet on a first-of-a-kind technology,” according to a Bernstein analyst.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/google-turns-to-a-volcano-and-rock-melting-technology-in-a-wild-new-bid-to-power-ai-fbbe57ef?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
+      "description": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Fed minutes show growing unease about the outlook for inflation",
+      "description": "The minutes of the Federal Reserve’s October policy meeting showed growing unease among officials about the outlook for inflation, even as they decided to hold interest rates steady.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/fed-minutes-show-growing-unease-about-the-outlook-for-inflation-59e3c13d?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+      "description": "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html",
+      "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
       "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Why Salesforce’s stock led the S&P 500’s decliners amid tech jitters",
-      "description": "A series of technology outages has investors concerned that software companies could prove “particularly vulnerable” to AI misuse, an analyst says.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-salesforces-stock-is-leading-s-p-500-decliners-amid-tech-jitters-17510caf?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "‘Can I pick your brain?’ and other terrible things to say in a networking email",
-      "description": "Hiring for white-collar jobs usually dips in November and December, so try sending “cold emails” to your network instead.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nows-the-perfect-time-for-networking-heres-how-to-send-a-cringe-free-email-73ad34ea?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
-      "description": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Yankees' David Bednar, Twins' Ryan Jeffers accept qualifying offer, six others reject $23.15 million QO",
-      "description": "Jake Bauers has already agreed to a four-year deal with the Red Sox; now the other five will look for better offers than the QO",
+      "title": "Texans vs. Colts prediction, odds, time: NFL Week 11 'Thursday Night Football' picks by proven model",
+      "description": "SportsLine's model has revealed its Indianapolis Colts vs. Houston Texans picks for 'Thursday Night Football' matchup",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/mlb/news/mlb-qualifying-offer-deadline-morejon-arozarena-bednar-bauers-suzuki-lowe-jeffers-rogers/",
+      "url": "https://www.cbssports.com/betting/news/texans-colts-prediction-odds-time-nfl-week-11-thursday-night-football-picks-best-bets/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Pistons-Spurs, Duke-Illinois, NBA on Tuesday",
-      "description": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for NBA, college basketball, NFL betting on Tuesday",
+      "title": "USWNT roster for Concacaf W Championship: Ashley Sanchez back, Sam Coffey returns, and Naomi Girma misses out",
+      "description": "Emma Hayes names 23-player roster for Concacaf W Championship where the USWNT aim to qualify for 2027 FIFA Women's World Cup",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-pistons-spurs-duke-illinois-nba-tuesday/",
+      "url": "https://www.cbssports.com/soccer/news/uswnt-roster-ashley-sanchez-sam-coffey-naomi-girma-concacaf-w-championship/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "LSU guard MiLaysia Fulwiley not with team in first game since arrest, Kim Mulkey stays quiet about status",
-      "description": "Fulwiley, who has been released on bond, is facing five charges, including flight from an officer, aggravated assault and aggravated battery",
+      "title": "Week 11 NFL odds, picks, predictions: Computer model backs Cowboys and Saints",
+      "description": "SportsLine's advanced model has simulated every game in the Week 11 NFL schedule 10,000 times and locked in its NFL best bets today",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/womens-college-basketball/news/lsu-guard-milaysia-fulwiley-arrested-charges-baton-rouge/",
+      "url": "https://www.cbssports.com/betting/news/nfl-odds-picks-predictions-best-bets-week-11-2026/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Use FanDuel promo code to get $200 in bonus bets for college football, Spurs-Pistons, Duke-Illinois on Tuesday",
-      "description": "Sign up to wager on Tuesday with the latest FanDuel promo code to get your bonus bets",
+      "title": "Arkansas Sports Betting 2026: Best Legal AR Sportsbooks & Betting Apps",
+      "description": "Find the best Arkansas sports betting apps in November 2026, and all you need to know about Arkansas sports betting.",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-200-bonus-bets-college-football-spurs-pistons-duke-illinois-tuesday/",
+      "url": "https://www.cbssports.com/betting/news/arkansas/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
