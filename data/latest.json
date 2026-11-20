@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-19T21:43:26.496619+00:00",
-  "edition": "#287",
+  "date": "2026-11-20T21:26:26.383719+00:00",
+  "edition": "#288",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "These tech outages are giving Y2K, AI agent style",
-      "description": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
-      "description": "Uber is testing the new program in three U.S. cities.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
-      "description": "Expert called MAHA's spending \"pretty unusual\" for a PAC.",
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "description": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Rebuilding my local voice assistant pipeline",
-      "description": "Article URL: https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline Comments URL: https://news.ycombinator.com/item?id=50566261 Points: 7 # Comments: 0",
+      "title": "Experts warn: nearly everyone in AI is susceptible to a honey trap scheme right now",
+      "description": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Watching as a giant star swallowed its neighbor and exploded",
+      "description": "A recent brightening turned out to be from a star orbiting inside another.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
+      "description": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Nvidia accounting under SEC investigation, sources say",
+      "description": "Article URL: https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html Comments URL: https://news.ycombinator.com/item?id=50581438…",
       "source": "Hacker News",
-      "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
-      "description": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
-      "description": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+      "title": "Show HN: OpenComputer – an open source alternative to Devin",
+      "description": "Hi HN! Utpal here, I'm one of the founders of OpenComputer. OpenComputer is an open source cloud coding agent for teams that can run in your own cloud account (AWS, GCP, Azure). We run the agent harness and the sandbox…",
+      "source": "Hacker News",
+      "url": "https://github.com/diggerhq/opencomputer",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Bowen: Myanmar genocide verdict is historic and could have far-reaching implications",
-      "description": "Lawyers will study the way in which Gambia proved the crucial point that Myanmar intended to commit genocide, writes the BBC's international editor.",
+      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+      "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly58ndgd0no?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Men guilty of abusing woman drugged and advertised for sex by husband",
-      "description": "Philip Young, 50, drugged and raped his wife, Joanne Young, over a 13-year period.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "'You can be believed and understood': Joanne Young speaks after verdict",
-      "description": "Joanne Young, who has waived her right to anonymity, urged other victims of similar crimes to come forward.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cv0l31g7g8j0o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "Judges have put Trump's arch and golf course on hold, but only for a matter of days",
-      "description": "A federal judge has twice delayed construction of Trump's arch. Another is keeping East Potomac Park open. The proposed golf course redesign got mixed feedback from a federal arts panel on Thursday.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "The 'Magic Six': How to strengthen your marriage in midlife",
-      "description": "How do we maintain healthy romantic relationships as we age? Allison Aubrey and Scott Detrow talk about about the science of healthy, later-in-life relationships.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/19/nx-s1-5996688/magic-6-marriage-tips-nina-totenberg-relationships",
+      "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Covid inquiry report: key findings on testing, tracing and 'the pingdemic'",
-      "description": "Early efforts to contain coronavirus \"were doomed to fail\", the public inquiry has found. Here's what you need to know.",
+      "title": "Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk",
+      "description": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crx20q8ql4gwo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "8h ago"
+      "timeAgo": "4h ago"
     },
     {
-      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-      "description": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+      "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+      "description": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
+      "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
     },
     {
-      "title": "US appeals court lets Trump end TPS deportation protections for Venezuelans",
-      "description": "The appeals court's ruling prevents a lower-court decision from taking effect, which would block Trump from lifting TPS.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/19/us-appeals-court-lets-trump-end-tps-deportation-protections-for-venezuelans?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Ten killed in Pakistan as bus crashes into gas tanker",
-      "description": "Ten people were killed and at least 27 more injured after a passenger bus collided with an LPG tanker in Pakistan.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/ten-killed-in-pakistan-as-bus-crashes-into-gas-tanker?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Three arrested during Anthropic IPO protest outside Nasdaq",
-      "description": "As the AI giant Anthropic made its record-breaking stock market debut in New York, police arrested demonstrators",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/three-arrested-during-anthropic-ipo-protest-outside-nasdaq?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Jerusalem Daily: Israel launches ground offensive in Gaza",
-      "description": "Israel launches its first major ground offensive in central Gaza, pushing beyond the ‘Yellow Line’ it controls",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/jerusalem-daily-israel-launches-ground-offensive-in-gaza-2?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-      "description": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+      "title": "What we know about the latest Russian missile strikes on Ukraine",
+      "description": "What we know about the latest Russian missile strikes on Ukraine.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "6h ago"
+    },
+    {
+      "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
+      "description": "A federal judge in Virginia said she will issue a preliminary injunction against Trump's arch, going a step further than the D.C. federal judge who temporarily blocked construction earlier this week.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
+      "description": "Less than half of Republicans nationwide considered the midterm elections \"free and fair,\" according to new polling.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "Trump defends Putin relationship, warns AI data centres must stay in US",
+      "description": "The US president also spoke about the war in Iran and praised trip to China during a wide-ranging news conference.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Two Salvadoran soldiers killed in Haiti while handling explosives",
+      "description": "Two others were injured in the explosion, marking the first deaths among troops deployed to Haiti since late October.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Can the UK and EU turn the page on Brexit?",
+      "description": "A decade after the Brexit vote, the UK and EU have struck deals. But divisions persist.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/can-the-uk-and-eu-turn-the-page-on-brexit?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Gaza’s displaced children celebrate World Children’s Day",
+      "description": "Displaced children gathered in al-Nuseirat refugee camp to mark World Children’s Day.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/gazas-displaced-children-celebrate-world-childrens-day?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Gérard Depardieu and French author investigated over sexual allegations",
+      "description": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Intuit to sell Mailchimp to Bending Spoons for $3.68 billion",
-      "description": "Intuit is offloading a segment that has slowed down revenue growth, for less than a third of what it paid to acquire Mailchimp in 2021.",
+      "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+      "description": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "8h ago"
+    },
+    {
+      "title": "Zscaler stock jumps 20% on report that CrowdStrike in talks to buy security vendor",
+      "description": "Cybersecurity companies have been hunting for acquisitions in the AI era.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/19/intuit-mailchimp-sale-bending-spoons.html",
+      "url": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
-      "description": "Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China.",
+      "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
+      "description": "Once the most valuable company in the world, Nvidia now ranks third behind Apple and Microsoft.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+      "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Why Micron, Broadcom and other AI stocks gave up their gains Thursday",
-      "description": "The Anthropic enthusiasm has faded while China concerns have intensified.",
+      "title": "Here’s what’s been proven to help GLP-1 users from losing too much muscle from the drug",
+      "description": "People taking Zepbound who engage in consistent resistance training can still get stronger even if they lose some of their muscle, according to a new study.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/heres-whats-been-proven-to-help-glp-1-users-who-have-lost-muscle-from-the-drug-2c71cdbf?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "UnitedHealth’s stock tumbles after government signals crackdown on Medicare Advantage fraud",
-      "description": "UnitedHealth Group’s stock fell again on Thursday amid a tough week in which the government pledged to crack down on Medicare Advantage fraud and lawmakers renewed calls for Medicare for All.",
+      "title": "The tech wreck is one stock trade Trump can’t ‘TACO’ away",
+      "description": "The president threatened to penalize companies that build data centers outside U.S. — but the stock market kept falling.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/the-tech-wreck-is-one-stock-trade-trump-cant-taco-away-516b3883?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "AMD dives on short-seller report of alleged China exposure",
-      "description": "AMD closed down over 7% after a short-seller alleged that its firmware showed up at a blacklisted Chinese company. The company said it complies with U.S. law.",
+      "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
+      "description": "Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+      "url": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Why Walmart is making a bigger bet on fast-food delivery",
-      "description": "The retail giant says around 90% of spending at fast-food chains occurs within a few miles from a Walmart.",
+      "title": "‘GTA 6’ has taken over. Is it too late to buy the developer’s stock?",
+      "description": "Also in Weekend Reads: Full coverage of the Anthropic IPO, the “death cross” for small-cap stocks and advice from The Moneyist.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-walmart-is-making-a-bigger-bet-on-fast-food-delivery-27263735?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/gta-6-has-taken-over-is-it-too-late-to-buy-the-developers-stock-69a5cbc5?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Kalshi promo code CBSSPORTS55: Grab $55 bonus for Texans vs. Colts, NFL Thursday Night Football predictions",
-      "description": "New Kalshi users can get a $55 bonus after making $25+ in trades on Thursday's games",
+      "title": "Best Kalshi promo code CBSSPORTS55: Grab $55 bonus for Clemson-Duke, Michigan State-Oregon, NBA on Friday",
+      "description": "New Kalshi users can get a $55 bonus after making $25+ in trades on Friday's games",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/prediction/news/kalshi-promo-code-cbssports55-grab-55-bonus-texans-vs-colts-nfl-thursday-night-football-predictions/",
+      "url": "https://www.cbssports.com/prediction/news/best-kalshi-promo-code-cbssports55-grab-55-bonus-clemson-duke-michigan-state-oregon-nba-friday/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Best horse racing betting sites: Where to bet on horse racing",
-      "description": "Discover the best horse racing betting sites, plus how to bet on horse racing online, bet types, and expert tips.",
+      "title": "NFL Week 11 expert picks, odds, best bets, teasers, predictions, survivor picks and more",
+      "description": "NFL Week 11 odds, how to watch, streaming: Expert selections, best bets, teasers, survivor picks and more CBSSports.com and SportsLine break down every single NFL game in Week 17",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/horse-racing/",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-11-expert-picks-odds-best-bets-teasers-predictions-survivor-picks/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Fantasy football Week 11 PPR cheat sheet: Caleb Douglas primed to build on budding rapport with Kyle McCord",
-      "description": "Dave Richard breaks down every viable starting option across every game using a 1-10 confidence scale to help managers navigate injuries, byes and tricky lineup decisions",
+      "title": "Fantasy Football Week 11 injury updates see T.J. Hockenson return as Brock Bowers, Baker Mayfield near returns",
+      "description": "T.J. Hockenson returns to boost Fantasy lineups, while Brock Bowers and Baker Mayfield trend toward playing in Week 11",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-11-ppr-cheat-sheet-caleb-douglas-primed-to-build-on-budding-rapport-with-kyle-mccord/",
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-11-2026-injury-updates/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Clemson AD calls out 'disappointed' atmosphere during Georgia Tech loss: 'It's hard to be a part of that'",
-      "description": "Dabo Swinney may face more pressure to change as fan discontent reaches the ears of the AD",
+      "title": "Jerry Jones calls Cowboys 'a bad team'; says team has chance to play better after Christian Parker's demotion",
+      "description": "Jones feels Dallas is a bad team right now, but he defended the puzzling decision to demote Parker and keep him on staff",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/clemson-ad-graham-neff-atmosphere-georgia-tech-loss/",
+      "url": "https://www.cbssports.com/nfl/news/jerry-jones-calls-cowboys-bad-team-chance-play-better-christian-parkers-demotion/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
