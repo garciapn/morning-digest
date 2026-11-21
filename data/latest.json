@@ -1,235 +1,251 @@
 {
-  "date": "2026-11-20T21:26:26.383719+00:00",
-  "edition": "#288",
-  "totalStories": 28,
+  "date": "2026-11-21T20:12:24.462672+00:00",
+  "edition": "#289",
+  "totalStories": 30,
   "podcast": {
     "show": "The Daily",
     "description": "The New York Times' daily news podcast — today's top story in 20 minutes."
   },
   "stories": [
     {
-      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-      "description": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Experts warn: nearly everyone in AI is susceptible to a honey trap scheme right now",
-      "description": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
+      "title": "Trump says reported FBI database hack is ‘not good’",
+      "description": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Watching as a giant star swallowed its neighbor and exploded",
-      "description": "A recent brightening turned out to be from a star orbiting inside another.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
-      "description": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Nvidia accounting under SEC investigation, sources say",
-      "description": "Article URL: https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html Comments URL: https://news.ycombinator.com/item?id=50581438…",
-      "source": "Hacker News",
-      "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
+      "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Show HN: OpenComputer – an open source alternative to Devin",
-      "description": "Hi HN! Utpal here, I'm one of the founders of OpenComputer. OpenComputer is an open source cloud coding agent for teams that can run in your own cloud account (AWS, GCP, Azure). We run the agent harness and the sandbox…",
+      "title": "Upload2Shell · CVE-2026-125396",
+      "description": "Article URL: https://pwn.ai/upload2shell Comments URL: https://news.ycombinator.com/item?id=50592097 Points: 9 # Comments: 2",
       "source": "Hacker News",
-      "url": "https://github.com/diggerhq/opencomputer",
+      "url": "https://pwn.ai/upload2shell",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-      "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "description": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 152 # Comments: 20",
+      "source": "Hacker News",
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Jensen Huang's fall is bad news for Silicon Valley's accelerationists",
+      "description": "Article URL: https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists Comments URL: https://news.ycombinator.com/item?id=50591835 Points: 120 # Comments: 202",
+      "source": "Hacker News",
+      "url": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "PostgreSQL Extensions in Go",
+      "description": "Article URL: https://jespino.github.io/gopgext/ Comments URL: https://news.ycombinator.com/item?id=50591260 Points: 66 # Comments: 5",
+      "source": "Hacker News",
+      "url": "https://jespino.github.io/gopgext/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv",
+      "description": "The BBC's Sarah Rainsford reports from Kyiv after Ukrainian President Zelensky met the UK defence secretary.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/videos/cqevrddp91z8o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk",
-      "description": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+      "title": "Storms expected on both coasts threatens Thanksgiving travel",
+      "description": "The mayor of San Francisco is asking people in the city not to travel unless \"absolutely essential.\" Meanwhile, a storm moving up the Eastern seaboard could also cause travel delays ahead of Thanksgiving.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
-      "description": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets Wes Streeting",
+      "description": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "What we know about the latest Russian missile strikes on Ukraine",
-      "description": "What we know about the latest Russian missile strikes on Ukraine.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "6h ago"
     },
     {
-      "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
-      "description": "A federal judge in Virginia said she will issue a preliminary injunction against Trump's arch, going a step further than the D.C. federal judge who temporarily blocked construction earlier this week.",
+      "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
+      "description": "Fausto Isidro Meza Flores, better known as \"El Chapo Isidro,\" was one of the FBI's most wanted fugitives. His arrest in northwest Mexico on Saturday has sparked violence in the region.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
-      "description": "Less than half of Republicans nationwide considered the midterm elections \"free and fair,\" according to new polling.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "4h ago"
-    },
-    {
-      "title": "Trump defends Putin relationship, warns AI data centres must stay in US",
-      "description": "The US president also spoke about the war in Iran and praised trip to China during a wide-ranging news conference.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Two Salvadoran soldiers killed in Haiti while handling explosives",
-      "description": "Two others were injured in the explosion, marking the first deaths among troops deployed to Haiti since late October.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Can the UK and EU turn the page on Brexit?",
-      "description": "A decade after the Brexit vote, the UK and EU have struck deals. But divisions persist.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/can-the-uk-and-eu-turn-the-page-on-brexit?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Gaza’s displaced children celebrate World Children’s Day",
-      "description": "Displaced children gathered in al-Nuseirat refugee camp to mark World Children’s Day.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/gazas-displaced-children-celebrate-world-childrens-day?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Gérard Depardieu and French author investigated over sexual allegations",
-      "description": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
+      "title": "'We're not meant to carry life's challenges alone', Catherine says in first clip",
+      "description": "Catherine has spoken about how \"cancer does change you\" in a documentary that will be screened on BBC One on 29 November.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/videos/cwe85gyedjp5o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "7h ago"
+    },
+    {
+      "title": "Catherine talks openly about how cancer changed her in documentary on BBC",
+      "description": "\"There is a much, much deeper part to what a cancer diagnosis shifts in you,\" says Catherine in the documentary.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "8h ago"
+    },
+    {
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "description": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "description": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+      "description": "Russia launched more than 400 drones and 110 missiles across Ukraine overnight, killing at least seven in Kyiv.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
       "category": "🌍 WORLD",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-      "description": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+      "title": "FBI national crime database suffers suspected breach: Reports",
+      "description": "The reported hacking is the latest in ​a string of breaches and outages affecting the US government.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "8h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Zscaler stock jumps 20% on report that CrowdStrike in talks to buy security vendor",
-      "description": "Cybersecurity companies have been hunting for acquisitions in the AI era.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "title": "Could Brexit be reversed?",
+      "description": "UK Prime Minister Andy Burnham hopes his country will rejoin the EU in his lifetime. But what are the chances?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/21/could-brexit-be-reversed?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
-      "description": "Once the most valuable company in the world, Nvidia now ranks third behind Apple and Microsoft.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "title": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
+      "description": "US President Donald Trump says he wants a permanent agreement to prevent Iran from developing nuclear weapons.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Here’s what’s been proven to help GLP-1 users from losing too much muscle from the drug",
-      "description": "People taking Zepbound who engage in consistent resistance training can still get stronger even if they lose some of their muscle, according to a new study.",
+      "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+      "description": "“Our financial and healthcare situation has become increasingly concerning.”",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-whats-been-proven-to-help-glp-1-users-who-have-lost-muscle-from-the-drug-2c71cdbf?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "The tech wreck is one stock trade Trump can’t ‘TACO’ away",
-      "description": "The president threatened to penalize companies that build data centers outside U.S. — but the stock market kept falling.",
+      "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
+      "description": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-tech-wreck-is-one-stock-trade-trump-cant-taco-away-516b3883?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
-      "description": "Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China.",
+      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+      "description": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "America is definitely rich enough to fix Social Security and Medicare. Here’s how.",
+      "description": "This one, simple, low-pain tax solves all the problems.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/america-is-definitely-rich-enough-to-fix-social-security-and-medicare-heres-how-30678aa5?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Trump says there could be a 'positive spin' from the latest FBI database hack",
+      "description": "This would make the second recent intrusion into the FBI system.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
+      "url": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
       "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "‘GTA 6’ has taken over. Is it too late to buy the developer’s stock?",
-      "description": "Also in Weekend Reads: Full coverage of the Anthropic IPO, the “death cross” for small-cap stocks and advice from The Moneyist.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/gta-6-has-taken-over-is-it-too-late-to-buy-the-developers-stock-69a5cbc5?mod=mw_rss_topstories",
+      "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+      "description": "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
       "category": "📈 MARKETS",
-      "timeAgo": "just now"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "Best Kalshi promo code CBSSPORTS55: Grab $55 bonus for Clemson-Duke, Michigan State-Oregon, NBA on Friday",
-      "description": "New Kalshi users can get a $55 bonus after making $25+ in trades on Friday's games",
+      "title": "Texas vs. Arkansas odds, college football picks: Use Polymarket promo code CBSSPORTS for $25 bonus on Saturday",
+      "description": "Use the best Polymarket promo code CBSSPORTS for a $25 bonus, which you can use on Arkansas vs. Texas on Saturday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/prediction/news/best-kalshi-promo-code-cbssports55-grab-55-bonus-clemson-duke-michigan-state-oregon-nba-friday/",
+      "url": "https://www.cbssports.com/prediction/news/texas-vs-arkansas-odds-college-football-picks-use-polymarket-promo-code-cbssports-25-bonus-saturday/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "NFL Week 11 expert picks, odds, best bets, teasers, predictions, survivor picks and more",
-      "description": "NFL Week 11 odds, how to watch, streaming: Expert selections, best bets, teasers, survivor picks and more CBSSports.com and SportsLine break down every single NFL game in Week 17",
+      "title": "UCLA vs. Michigan prediction, odds, time: Week 12 college football picks from proven model",
+      "description": "SportsLine's model revealed its best bets for Saturday's Big Ten contest between the UCLA Bruins and Michigan Wolverines on CBS and Paramount+",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-11-expert-picks-odds-best-bets-teasers-predictions-survivor-picks/",
+      "url": "https://www.cbssports.com/betting/news/ucla-michigan-prediction-odds-time-2026-week-12-college-football-picks-best-bets/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Fantasy Football Week 11 injury updates see T.J. Hockenson return as Brock Bowers, Baker Mayfield near returns",
-      "description": "T.J. Hockenson returns to boost Fantasy lineups, while Brock Bowers and Baker Mayfield trend toward playing in Week 11",
+      "title": "A.J. Ewing, Mets agree to eight-year, $95 million extension after standout rookie season, per reports",
+      "description": "Ewing cracked the top 10 in the National League Rookie of the Year voting last season",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-11-2026-injury-updates/",
+      "url": "https://www.cbssports.com/mlb/news/a-j-ewing-new-york-mets-contract-extension/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Jerry Jones calls Cowboys 'a bad team'; says team has chance to play better after Christian Parker's demotion",
-      "description": "Jones feels Dallas is a bad team right now, but he defended the puzzling decision to demote Parker and keep him on staff",
+      "title": "Tennessee vs. LSU prediction, odds, time: Week 12 college football picks from proven model",
+      "description": "SportsLine's model revealed its best bets for LSU Tigers vs. Tennessee Volunteers as Lane Kiffin returns to Knoxville for the second time on Saturday",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/jerry-jones-calls-cowboys-bad-team-chance-play-better-christian-parkers-demotion/",
+      "url": "https://www.cbssports.com/betting/news/tennessee-lsu-prediction-odds-time-week-12-college-football-picks-best-bets/",
       "category": "🏀 SPORTS",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Titans DL Harrell hospitalized after car accident in Tampa",
+      "description": "Titans defensive lineman Jaylen Harrell was involved in a serious car accident Friday and remains hospitalized, according to the team.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50551434/titans-dl-jaylen-harrell-hospitalized-car-accident-tampa",
+      "category": "🏀 SPORTS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Sources: Michigan expected to start QB Underwood; Marsh not playing after charge",
+      "description": "Michigan is returning to QB Bryce Underwood vs. No. 4 UCLA after Tommy Carr had started the past four games, sources told ESPN.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/college-football/story/_/id/50549879/sources-michigan-expected-start-bryce-underwood-vs-ucla",
+      "category": "🏀 SPORTS",
+      "timeAgo": "1h ago"
     }
   ]
 }
