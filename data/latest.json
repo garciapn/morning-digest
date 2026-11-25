@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-24T23:12:37.548928+00:00",
-  "edition": "#292",
+  "date": "2026-11-25T22:40:18.828343+00:00",
+  "edition": "#293",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,226 +8,226 @@
   },
   "stories": [
     {
-      "title": "Jensen Huang Spy Story Is a Hoax",
-      "description": "Article URL: https://www.kenklippenstein.com/p/jensen-huang-spy-story-is-a-hoax Comments URL: https://news.ycombinator.com/item?id=50635941 Points: 18 # Comments: 8",
-      "source": "Hacker News",
-      "url": "https://www.kenklippenstein.com/p/jensen-huang-spy-story-is-a-hoax",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
-      "description": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply.",
+      "title": "Europe's Hera mission returns to the chaotic scene of a cosmic smashup",
+      "description": "\"DART made a really, really large mess. However, we didn’t really know what kind of mess.\"",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
       "category": "🤖 TECH & AI",
       "timeAgo": "just now"
     },
     {
-      "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
-      "description": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "description": "Article URL: https://github.com/lsernau/grh-lean Comments URL: https://news.ycombinator.com/item?id=50648050 Points: 76 # Comments: 21",
+      "source": "Hacker News",
+      "url": "https://github.com/lsernau/grh-lean",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Defang Security Incident",
+      "description": "Article URL: https://defang.io/blog/post/security-incident-november-2026/ Comments URL: https://news.ycombinator.com/item?id=50648035 Points: 26 # Comments: 8",
+      "source": "Hacker News",
+      "url": "https://defang.io/blog/post/security-incident-november-2026/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "The New York Times tells photographers not to use the latest Photoshop",
+      "description": "Article URL: https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/ Comments URL: https://news.ycombinator.com/item?id=50647673 Points: 34 # Comments: 18",
+      "source": "Hacker News",
+      "url": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Google search alternative Kagi launches Gmail rival",
+      "description": "The pitch is an unusual combination of privacy promises and AI features.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Heart attack and stroke risk detectable decades in advance",
-      "description": "Article URL: https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance Comments URL: https://news.ycombinator.com/item?id=50635271 Points: 68 # Comments: 23",
-      "source": "Hacker News",
-      "url": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
+      "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "An unclassified CIA system was breached in a cyberattack",
-      "description": "Article URL: https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77 Comments URL: https://news.ycombinator.com/item?id=50634933 Points: 59 # Comments: 20",
-      "source": "Hacker News",
-      "url": "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77",
+      "title": "FCC approves SpaceX plan to put AI data centers in space",
+      "description": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "description": "Article URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/ Comments URL: https://news.ycombinator.com/item?id=50634658 Points: 86 # Comments: 14",
-      "source": "Hacker News",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
-      "description": "The prime minister says a Hillsborough-style independent panel will examine the health legacy of Britain's Cold War-era atomic programme.",
+      "title": "Poundland collapses putting 11,000 jobs at risk",
+      "description": "The discount chain has fallen into administration after its owners failed to find a buyer.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Substance released at Manchester concert could be linked to robberies, police say",
-      "description": "Police are investigating a possible link between the Co-op Live evacuation and reported robberies.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqrmgvnzwrm3o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Disability benefit review calls for closer link with claimant costs",
-      "description": "A government-commissioned report calls for a \"rebalancing\" of the amount paid to different claimants.",
+      "title": "Why has Poundland collapsed and what happens next?",
+      "description": "The retail chain has collapsed just one year after being bought for £1 by an American firm.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gn6gn9057o?at_medium=RSS&at_campaign=rss",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home",
-      "description": "The break-in took place at the family's country retreat in Norfolk, on the Sandringham Estate.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr9d7qdg24vno?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "6h ago"
     },
     {
-      "title": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
-      "description": "Washington's $9 billion industry grows more than 70% of the nation's fresh apples. Farmers are being pressed by high costs, tariffs and a strong dollar that diminishes foreign purchasing power.",
-      "source": "NPR",
-      "url": "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers",
+      "title": "US announces new tariff proposals on EU, China, and other trade partners",
+      "description": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
+      "timeAgo": "6h ago"
+    },
+    {
+      "title": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
+      "description": "The bakers behind these pop-up pastry drops aren't raking in the profits, but they are building a space for people to come together in polarized times.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Wife drugged and raped by husband asked police if she was to blame, mass sexual offence trial hears",
+      "description": "The woman told a court suggestions she was 'pretending to be asleep' were 'absolute rubbish'.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c38x0vd2yyx5o?at_medium=RSS&at_campaign=rss",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "6h ago"
+    },
+    {
+      "title": "Group of Senate Democrats push to add freshman to leadership",
+      "description": "Several Democratic senators have been signaling this move, saying the party needs to acknowledge the diverse class of incoming freshman that catapulted the party to victory in November.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen",
+      "category": "🌎 TOP NEWS",
+      "timeAgo": "5h ago"
+    },
+    {
+      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+      "description": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Man United denied at Sporting as referee overshadows Fernandes double",
+      "description": "Bruno Fernandes nets twice in Lisbon, but referee's decisions in spotlight as Mauricio Pochettino denied first win.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/11/25/man-united-denied-at-sporting-as-referee-overshadows-fernandes-double?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
+      "description": "About 200,000 tents need replacing, Gaza’s municipalities say, as the EU urges Israel to reopen all crossings.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "US Education Department probes Virginia schools after sexual abuse scandal",
+      "description": "Virginia schools face scrutiny after revelations of abuse and widespread failures in mandatory staff background checks.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/25/us-education-department-probes-virginia-schools-after-sexual-abuse-scandal?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Baby Aliyah steals the show during Australian Senate debate",
+      "description": "Australian Senator Fatima Payman addressed the Senate with her six-month-old daughter, Aliyah, in her arms",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/baby-aliyah-steals-the-show-during-australian-senate-debate?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+      "description": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+      "category": "🌍 WORLD",
       "timeAgo": "2h ago"
     },
     {
-      "title": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
-      "description": "The attacks, if officials who spoke to NPR are correct, may be the latest example of Iranian cyberattacks against global critical infrastructure during the war with the U.S.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran",
-      "category": "🌎 TOP NEWS",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain",
-      "description": "Arsenal dominate the chances as Borussia Dortmund fight back for a 1-1 draw in football's Champions League.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/11/24/arsenal-and-dortmund-draw-1-1-as-gyokeres-goes-from-hero-to-villain?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Bellingham stunner, Mbappe brace help Real Madrid rout PSV",
-      "description": "Real Madrid come from behind to power past PSV Eindhoven with a 5-1 win in football's Champions League.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/11/24/bellingham-stunner-mbappe-brace-help-real-madrid-rout-psv?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-      "description": "The verdict follows a months-long trial in New York.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Todd Blanche declines to confirm if Nvidia’s Jensen Huang was investigated",
-      "description": "The US attorney general refused to discuss claims by Donald Trump that his administration conducted a 'thorough' probe.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/24/todd-blanche-declines-to-confirm-if-nvidias-jensen-huang-was-investigated?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Colombian president blames ex-FARC rebels for car bomb blast",
-      "description": "Colombian President De la Espriella blames the FARC for plotting a bombing that injured tens and pledges to retaliate.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/24/colombian-president-blames-ex-farc-rebels-for-car-bomb-blast?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "US attorney general dodges questions about Nvidia investigation",
-      "description": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows",
-      "description": "Steeply higher security expenses of $764,748 for Mehrotra were part of a $39.7 million total compensation package in the latest fiscal year.",
+      "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
+      "description": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "just now"
     },
     {
-      "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
-      "description": "The company's overall sales more than doubled on an annual basis during the third quarter, driven by AI server demand.",
+      "title": "Macy's postpones Thanksgiving Day Parade due to severe weather",
+      "description": "Macy's announced Wednesday that its annual Thanksgiving Day Parade is being postponed to Saturday due to severe weather.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
+      "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
-      "description": "Luxury Advent calendars in particular — which can run hundreds of dollars — have seen a spike in sales. Here’s why.",
+      "title": "Oracle, CoreWeave and other tech stocks bounce back after selloff",
+      "description": "Oracle, CoreWeave and other technology stocks bounced back from early losses on Wednesday, after what appeared to be a major selloff eased ahead of the market’s close.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Anthropic’s stock just broke below its IPO price for the first time",
-      "description": "Shares are trading below their IPO price of $83, less than a week after their debut on the Nasdaq.",
+      "title": "Nvidia’s stock has given back a big chunk of Monday’s rally as dip buyers cash in",
+      "description": "Based on where retail investors bought Nvidia shares on the dip last week, their gains are now nearly all gone, according to Vanda Research.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "HPE just posted its strongest growth ever — but its stock is sinking",
-      "description": "HPE boosted its financial forecast on Monday in the face of strong AI demand.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
-      "description": "Republicans worry Nvidia CEO Jensen Huang's affairs with a suspected Chinese spy jeopardized U.S. national security.",
+      "title": "Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
+      "description": "Alan Greenspan famously held the line on interest rates because he believed in the productivity promise of the internet boom. Why can't Kevin Warsh do the same?",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
+      "url": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
       "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Brandon Aiyuk to meet with Commanders, per report: Free agent WR seeks reunion with Jayden Daniels",
-      "description": "Aiyuk may already have a destination lined up shortly after his release from the 49ers and waiver clearance.",
+      "title": "Elon Musk and SpaceX to donate roughly $17.8 billion to ‘Trump accounts’",
+      "description": "SpaceX to provide one newly issued Class A share to every active ‘Trump account,’ and CEO Musk will match that gift.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/elon-musk-and-spacex-to-donate-roughly-17-8-billion-to-trump-accounts-071c12e1?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "College football bets: Iowa, Oklahoma included in expert's Rivalry Week parlays for favorites, underdogs",
+      "description": "SportsLine football expert Mike Tierney locks in his best parlay bets for college football's Rivalry Week",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/brandon-aiyuk-meeting-commanders-report-free-agent-wr-reunion-jayden-daniels/",
+      "url": "https://www.cbssports.com/betting/news/college-football-bets-iowa-oklahoma-included-in-experts-rivalry-week-parlays-for-favorites-underdogs/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Celtics vs. Wizards prediction, odds, time: 2026 NBA Cup picks for Tuesday, Nov. 24 from proven model",
-      "description": "SportsLine's model reveals its Boston Celtics vs. Washington Wizards NBA Cup Group C best bets on Tuesday night",
+      "title": "Timberwolves vs. Thunder prediction, odds, time: 2026 NBA Cup picks for Wednesday, Nov. 25 from proven model",
+      "description": "SportsLine's model reveals its Minnesota Timberwolves vs. Oklahoma City Thunder NBA Cup Western Conference Group B best bets on Wednesday night",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/celtics-wizards-prediction-odds-time-2026-nba-cup-picks-best-bets-tuesday-november-24/",
+      "url": "https://www.cbssports.com/betting/news/timberwolves-thunder-prediction-odds-time-2026-nba-cup-picks-best-bets-wednesday-november-25/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Louisville vs. Texas Tech prediction, odds, time: 2026 Players Era 16 picks by proven model",
-      "description": "SportsLine model reveals its college basketball picks for Louisville vs. Texas Tech in the Players Era 16 tournament quarterfinals",
+      "title": "Mike McCarthy responds to Aaron Rodgers, confirms QB gave him 'ultimatum:' 'I know how to win'",
+      "description": "McCarthy responded to Rodgers' tirade against him",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/louisville-texas-tech-prediction-odds-time-2026-players-era-16-picks-best-bets/",
+      "url": "https://www.cbssports.com/nfl/news/steelers-mike-mccarthy-responds-to-aaron-rodgers-after-pat-mcafee-interview/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Way-too-early 2027 NWSL Power Rankings: Where do the clubs fall with 2026 season over and eyes on 2027?",
-      "description": "Gotham FC won the NWSL Shield, Kansas City hoisted the NWL Champinship, and an earlier-than-ever 2027 kickoff is already looming",
+      "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for NFL Thanksgiving Eve, Packers-Rams on Wednesday",
+      "description": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for Rams vs. Packers betting on Thanksgiving Eve",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/soccer/news/way-too-early-2027-nwsl-power-rankings-2026-2027/",
+      "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-nfl-thanksgiving-eve-packers-rams-wednesday/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     }
