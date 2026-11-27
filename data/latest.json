@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-26T22:30:14.565813+00:00",
-  "edition": "#294",
+  "date": "2026-11-27T22:15:01.459639+00:00",
+  "edition": "#295",
   "totalStories": 28,
   "podcast": {
     "show": "The Daily",
@@ -8,228 +8,228 @@
   },
   "stories": [
     {
-      "title": "AI made self-hosting fun again",
-      "description": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 23 # Comments: 13",
+      "title": "I am scared: Careless People – Sarah Wynn-Williams on living under a gag order",
+      "description": "Article URL: https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours Comments URL: https://news.ycombinator.com/item?id=50671301 Points: 71…",
       "source": "Hacker News",
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "Denver man traps Waymo robotaxis with cones, eggs them at least 30 times",
-      "description": "Article URL: https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/ Comments URL: https://news.ycombinator.com/item?id=50659918 Points: 19 # Comments: 4",
-      "source": "Hacker News",
-      "url": "https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/",
+      "url": "https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-      "description": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 89 # Comments: 13",
+      "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+      "description": "Article URL: https://github.com/skeeto/prospero Comments URL: https://news.ycombinator.com/item?id=50671275 Points: 4 # Comments: 0",
       "source": "Hacker News",
-      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "url": "https://github.com/skeeto/prospero",
       "category": "🤖 TECH & AI",
       "timeAgo": "1h ago"
     },
     {
-      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
-      "description": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Is Alice Huang a spy or not?",
-      "description": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
-      "category": "🤖 TECH & AI",
-      "timeAgo": "2h ago"
-    },
-    {
-      "title": "Top-cited AI scientists at four US companies compared",
-      "description": "Article URL: https://topcitedscientists.com/figures/ai-at-four-us-companies/ Comments URL: https://news.ycombinator.com/item?id=50658910 Points: 7 # Comments: 4",
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "description": "Article URL: https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-expl…",
       "source": "Hacker News",
-      "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
+      "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
       "category": "🤖 TECH & AI",
       "timeAgo": "2h ago"
     },
     {
-      "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
-      "description": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.",
+      "title": "The AT&T Unix PC (3B1) VM",
+      "description": "Article URL: https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/ Comments URL: https://news.ycombinator.com/item?id=50670841 Points: 33 # Comments: 6",
+      "source": "Hacker News",
+      "url": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "The best Black Friday deals Ars could find",
+      "description": "Perhaps some commerce, to help all the Turkey Day leftovers go down easier?",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "5h ago"
+    },
+    {
+      "title": "Allstate has been suffering an outage since Monday",
+      "description": "On Monday, November 23rd, Allstate began dealing with an outage that has impacted its website, mobile apps, and roadside assistance service. It's just the latest company, including Microsoft and JPMorgan Chase, to suffe…",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1044612/allstate-has-been-suffering-an-outage-since-monday",
+      "category": "🤖 TECH & AI",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "Catherine's emotional cancer documentary strips away the stiff upper lip",
+      "description": "The Princess of Wales has made a documentary, Heal, describing her cancer experience in her own words.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxvy9j0wpjo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
       "timeAgo": "just now"
     },
     {
-      "title": "Huntingdon train attacker found guilty of all 14 counts of attempted murder",
-      "description": "Anthony Williams, 33, is convicted of 10 attacks on a train and four in Peterborough and London.",
+      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "description": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck053j37yr9lo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "3h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Knifeman told doctor his psychosis drugs weren't working days before Huntingdon attack",
-      "description": "Now his trial has concluded over the LNER train attack, we can report Anthony Williams' long history of criminality.",
+      "title": "Millions lose access to benefits and pensions services after 'cyber incident'",
+      "description": "The Department for Work and Pensions says some of its services were taken offline as a precaution.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck62p4pzg4qyo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "6h ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "UK net migration at lowest level since 1997 as asylum claims also fall",
-      "description": "Net migration figures of 77,000 in the year to the end of June mark the lowest this century outside of the Covid pandemic.",
+      "title": "Watch: What has happened to DWP online services?",
+      "description": "The work and pensions secretary has said an investigation is looking into a \"serious cyber incident\" affecting his government department.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/videos/cqm251rv0vyyo?at_medium=RSS&at_campaign=rss",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "7h ago"
+      "timeAgo": "4h ago"
     },
     {
-      "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
-      "description": "As the fast-moving outbreak continues to spread in eastern Congo, fighting between rebels and the army is disrupting efforts to contain the spread of the disease.",
+      "title": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
+      "description": "A powerful storm knocked out power for nearly 1 million customers and flooded streets. And, experts predict inflation will not dampen American spending for the holidays",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
+      "url": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "8h ago"
+      "timeAgo": "10h ago"
     },
     {
-      "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
-      "description": "Leader Kim Jong Un reportedly visited facilities that produce nuclear ingredients and called for building more nuclear weapons to cope with threats from the U.S. and South Korea.",
+      "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
+      "description": "The case has become one of the most prominent in France's reckoning with sexual violence, as the #MeToo movement has faced resistance in the country, particularly in the arts.",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
+      "url": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france",
       "category": "🌎 TOP NEWS",
-      "timeAgo": "8h ago"
+      "timeAgo": "10h ago"
     },
     {
-      "title": "Report: CIA tortured more people with waterboarding than US agency admitted",
-      "description": "A New York Times report lends credence to long-held belief that torture method was more widely used than acknowledged.",
+      "title": "Why are families going hungry in northern Yemen even where food is on sale?",
+      "description": "Flour and oil still reach markets in Hodeidah and Sanaa. But high costs and lack of work and aid put it out of reach.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss",
+      "url": "https://www.aljazeera.com/economy/2026/11/27/why-are-families-going-hungry-in-northern-yemen-even-where-food-is-on-sale?traffic_source=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "just now"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
-      "description": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
+      "title": "Venezuela to repeal law that bans opposition figures from office",
+      "description": "It comes a month after opposition leader Maria Corina Machado returned to Venezuela.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "OpenAI countersues Apple over trade secrets as AI race heats up",
+      "description": "Tensions between the two tech companies have escalated as intensifying race to develop AI products fuels competition.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Putin unveils new Russian nuclear-powered submarine with hypersonic weapons",
+      "description": "The Kremlin plans to expand its naval fleet with five new nuclear submarines by 2030.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons?traffic_source=rss",
+      "category": "🌍 WORLD",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+      "description": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
-      "timeAgo": "just now"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
-      "description": "Prosecutors order drug tests for the 21-year-old suspect, who says he was overtaking when the crash happened.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Bangladesh garment workers clash with police over low wages",
-      "description": "Bangladeshi garment workers clashed with police after a 36% minimum wage increase fell short of their demands.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/bangladesh-garment-workers-clash-with-police-over-low-wages?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations",
-      "description": "The attack killed a Nepali national, injured several people and sparked a fire, Saudi Energy Ministry says.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss",
-      "category": "🌍 WORLD",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
-      "description": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
+      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+      "description": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
       "category": "🌍 WORLD",
       "timeAgo": "3h ago"
     },
     {
-      "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-      "description": "“Our financial and healthcare situation has become increasingly concerning.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-      "description": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "just now"
-    },
-    {
-      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-      "description": "Doing nothing and maintaining an even temperament is often the work of gods.",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-      "category": "📈 MARKETS",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
-      "description": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
+      "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+      "description": "Even as consumers face macroeconomic headwinds, retailers are expecting robust holiday spending through Black Friday and beyond.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+      "url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "just now"
+    },
+    {
+      "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
+      "description": "Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "1h ago"
     },
     {
-      "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
-      "description": "“Retirement is a financial status, not an age.”",
+      "title": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
+      "description": "Medicare Advantage is starting to lose its all-in-one benefit.",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
+      "category": "📈 MARKETS",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "The warnings behind this week’s stock-market rally",
+      "description": "Also in Weekend Reads: Important tips for Medicare enrollment, how to spot online shopping scams and marital advice from The Moneyist.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-warnings-behind-this-weeks-stock-market-rally-86e5319c?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "3h ago"
     },
     {
-      "title": "Semiconductor chips are the new oil. Here's why",
-      "description": "Semiconductor exports overtook oil and gas for the first time in 2026, as the AI boom fueled chip demand.",
+      "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
+      "description": "Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations.",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+      "url": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
+      "category": "📈 MARKETS",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
+      "description": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
       "category": "📈 MARKETS",
       "timeAgo": "4h ago"
     },
     {
-      "title": "It wouldn't shock me if ... for NFL Week 12: Steelers fall out of playoff picture minus Aaron Rodgers",
-      "description": "Our five bold calls for Week 12 include a career day for Quinshon Judkins and mounting pressure on the Seahawks to play Drew Lock",
+      "title": "Knicks vs. Heat prediction, odds, time: 2026 NBA Cup picks for Friday, Nov. 27 from proven model",
+      "description": "SportsLine's model reveals its Miami Heat vs. New York Knicks Thunder NBA Cup best bets on Friday night",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-12-predictions-colston-loveland-thanksgiving/",
+      "url": "https://www.cbssports.com/betting/news/knicks-heat-prediction-odds-time-2026-nba-cup-picks-for-friday-november-27/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Bills vs. Chiefs prediction: Which team wins latest chapter of Josh Allen-Patrick Mahomes saga?",
-      "description": "Legendary quarterbacks close out the holiday slate in one of the biggest games of the season",
+      "title": "Texas vs. Texas A&M prediction, odds, time: 2026 Rivalry Week Friday picks from proven model",
+      "description": "SportsLine's model revealed best bets for Texas A&M vs. Texas on Friday in the 2026 Lone Star Showdown as part of college football's Rivalry Week",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nfl/news/bills-vs-chiefs-prediction-odds-how-to-watch-thanksgiving/",
+      "url": "https://www.cbssports.com/betting/news/texas-texas-a-m-prediction-odds-time-2026-rivalry-week-friday-picks-best-bets/",
       "category": "🏀 SPORTS",
       "timeAgo": "just now"
     },
     {
-      "title": "Michigan State vs. Arkansas prediction, pick, odds: SEC, Big Ten foes meet in CBS Sports Thanksgiving Classic",
-      "description": "John Calipari's Razorbacks face Tom Izzo's Spartans in a marquee nonconference matchup in Detroit in the CBS Sports Thanksgiving Classic",
+      "title": "Rick Pitino takes thinly veiled jab at Aaron Rodgers over scathing Mike McCarthy comments",
+      "description": "Rodgers' bombshell comments left an impression on the entire sports world",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-basketball/news/michigan-state-arkansas-prediction-pick-odds-spread/",
+      "url": "https://www.cbssports.com/nfl/news/rick-pitino-takes-jab-at-aaron-rodgers-steelers-mike-mccarthy-comments/",
       "category": "🏀 SPORTS",
-      "timeAgo": "1h ago"
+      "timeAgo": "just now"
     },
     {
-      "title": "Eagles vs. Cowboys odds, picks, prediction, start time: Betting preview, best bets for NFL Thanksgiving Day",
-      "description": "Here's everything bettors need to know for Eagles vs. Cowboys on Thanksgiving in NFL Week 12",
+      "title": "Use DraftKings promo code to get $200 bonus bets, free NBA League Pass for Texas vs. Texas A&M on Black Friday",
+      "description": "DraftKings offers $200 in bonus bets and three free months of NBA League Pass after your first $5 wager for Black Friday college football betting",
       "source": "CBS Sports",
-      "url": "https://www.cbssports.com/betting/news/eagles-vs-cowboys-odds-picks-prediction-start-time-betting-preview-best-bets-for-nfl-thanksgiving-day/",
+      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-bets-free-nba-league-pass-for-texas-texas-am-black-friday/",
       "category": "🏀 SPORTS",
-      "timeAgo": "2h ago"
+      "timeAgo": "just now"
     }
   ]
 }
